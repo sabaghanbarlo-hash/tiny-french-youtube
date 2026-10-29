@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       story:
-        description: "Story script file name in stories/ (e.g. 202610231030-a-rainy-day-in-tokyo.txt). Leave empty to render all (no YouTube upload)."
+        description: "Story script file name in stories/ (e.g. 01-a-rainy-day-in-paris.txt). Leave empty to render all (no YouTube upload)."
         required: false
         default: ""
 
