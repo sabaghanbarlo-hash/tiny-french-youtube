@@ -1,0 +1,39 @@
+1
+00:00:11,976 --> 00:00:15,068
+Quel jour sommes-nous aujourd'hui ?
+What day is it today?
+
+2
+00:00:15,168 --> 00:00:17,948
+Nous sommes jeudi.
+It's Thursday.
+
+3
+00:00:18,048 --> 00:00:20,420
+Et demain ?
+And tomorrow?
+
+4
+00:00:20,520 --> 00:00:26,876
+Demain, c'est vendredi. Hier, c'était mercredi.
+Tomorrow is Friday. Yesterday was Wednesday.
+
+5
+00:00:26,976 --> 00:00:29,828
+Tu travailles le samedi ?
+Do you work on Saturdays?
+
+6
+00:00:29,928 --> 00:00:34,148
+Non, le samedi, je ne travaille pas.
+No, on Saturdays I don't work.
+
+7
+00:00:34,248 --> 00:00:36,860
+Et le dimanche ?
+And on Sundays?
+
+8
+00:00:36,960 --> 00:00:40,316
+Le dimanche, je dors !
+On Sundays I sleep!

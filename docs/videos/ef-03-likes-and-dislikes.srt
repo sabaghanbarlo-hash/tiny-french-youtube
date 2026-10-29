@@ -1,0 +1,44 @@
+1
+00:00:12,240 --> 00:00:15,860
+Tu aimes le café, Marinette ?
+Do you like coffee, Marinette?
+
+2
+00:00:15,960 --> 00:00:20,996
+Oui, j'adore le café ! Et toi ?
+Yes, I love coffee! And you?
+
+3
+00:00:21,096 --> 00:00:24,500
+Moi, je préfère le thé.
+Me, I prefer tea.
+
+4
+00:00:24,600 --> 00:00:27,356
+Tu aimes la musique ?
+Do you like music?
+
+5
+00:00:27,456 --> 00:00:33,380
+Oui, j'aime beaucoup la musique. Surtout le jazz.
+Yes, I like music a lot. Especially jazz.
+
+6
+00:00:33,480 --> 00:00:39,476
+Moi, je n'aime pas le jazz. Je préfère le rock.
+Me, I don't like jazz. I prefer rock.
+
+7
+00:00:39,576 --> 00:00:43,796
+Et le football ? Tu aimes ça ?
+And football? Do you like it?
+
+8
+00:00:43,896 --> 00:00:47,684
+Non, je déteste le football !
+No, I hate football!
+
+9
+00:00:47,784 --> 00:00:51,476
+Moi aussi, je déteste ça !
+Me too, I hate it!

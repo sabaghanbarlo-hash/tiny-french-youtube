@@ -1,0 +1,39 @@
+1
+00:00:11,976 --> 00:00:15,524
+Excuse-moi, tu as l'heure ?
+Excuse me, do you have the time?
+
+2
+00:00:15,624 --> 00:00:19,076
+Oui, il est trois heures et demie.
+Yes, it's half past three.
+
+3
+00:00:19,176 --> 00:00:24,956
+Oh non ! Le film commence à quatre heures moins le quart !
+Oh no! The film starts at quarter to four!
+
+4
+00:00:25,056 --> 00:00:29,108
+Pas de panique, on a encore un quart d'heure.
+Don't panic, we still have a quarter of an hour.
+
+5
+00:00:29,208 --> 00:00:32,300
+À quelle heure finit le film ?
+What time does the film end?
+
+6
+00:00:32,400 --> 00:00:35,300
+À cinq heures et quart.
+At quarter past five.
+
+7
+00:00:35,400 --> 00:00:39,980
+Parfait. On mange à sept heures ?
+Perfect. Shall we eat at seven?
+
+8
+00:00:40,080 --> 00:00:43,076
+Oui, à sept heures !
+Yes, at seven!

@@ -1,0 +1,44 @@
+1
+00:00:12,144 --> 00:00:15,308
+Quel temps fait-il aujourd'hui ?
+What's the weather like today?
+
+2
+00:00:15,408 --> 00:00:19,004
+Il fait beau, mais il fait froid.
+It's nice, but it's cold.
+
+3
+00:00:19,104 --> 00:00:23,396
+En hiver, il fait toujours froid à Paris.
+In winter, it's always cold in Paris.
+
+4
+00:00:23,496 --> 00:00:25,916
+Et au printemps ?
+And in spring?
+
+5
+00:00:26,016 --> 00:00:32,252
+Au printemps, il pleut un peu. En été, il fait chaud.
+In spring it rains a little. In summer it's hot.
+
+6
+00:00:32,352 --> 00:00:34,820
+Et en automne ?
+And in autumn?
+
+7
+00:00:34,920 --> 00:00:38,420
+En automne, il y a du vent.
+In autumn it's windy.
+
+8
+00:00:38,520 --> 00:00:43,172
+Moi, j'aime l'été. Et toi ?
+Me, I like summer. And you?
+
+9
+00:00:43,272 --> 00:00:46,844
+Moi, je préfère le printemps.
+Me, I prefer spring.

@@ -1,0 +1,44 @@
+1
+00:00:12,120 --> 00:00:15,044
+Tu es libre samedi ?
+Are you free on Saturday?
+
+2
+00:00:15,144 --> 00:00:17,900
+Oui, pourquoi ?
+Yes, why?
+
+3
+00:00:18,000 --> 00:00:20,756
+On va au cinéma ?
+Shall we go to the cinema?
+
+4
+00:00:20,856 --> 00:00:25,004
+Bonne idée ! À quelle heure ?
+Good idea! At what time?
+
+5
+00:00:25,104 --> 00:00:27,596
+À sept heures.
+At seven.
+
+6
+00:00:27,696 --> 00:00:32,084
+D'accord. On se retrouve où ?
+OK. Where shall we meet?
+
+7
+00:00:32,184 --> 00:00:34,916
+Devant le cinéma.
+In front of the cinema.
+
+8
+00:00:35,016 --> 00:00:39,452
+Parfait. Je vais acheter les billets.
+Perfect. I'll buy the tickets.
+
+9
+00:00:39,552 --> 00:00:43,796
+Super ! À samedi !
+Great! See you Saturday!
