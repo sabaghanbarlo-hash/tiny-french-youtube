@@ -1,0 +1,39 @@
+title: A Rainy Day in Paris
+episode: 1
+scene: street
+
+[story]
+> Marinette enters left
+Marinette: Oh non ! Il pleut ! | Oh no! It's raining!
+> Adrien enters right
+Adrien: Bonjour, Marinette ! | Hello, Marinette!
+Marinette: Bonjour, Adrien ! J'ai froid. | Hello, Adrien! I'm cold.
+Adrien: Moi, j'ai un parapluie. Viens ! | I have an umbrella. Come!
+> Adrien opens the umbrella
+> Marinette walks to next to Adrien
+Marinette: Merci, tu es gentil ! | Thank you, you are kind!
+Adrien: Allons au café ! | Let's go to the café!
+@scene cafe
+> both enter left
+Marinette: Je voudrais un chocolat chaud, s'il vous plaît. | I would like a hot chocolate, please.
+> Marinette looks happy
+Adrien: Et moi, un café. | And for me, a coffee.
+Marinette: À bientôt, la pluie ! | See you soon, rain!
+
+[vocab]
+vocab: il pleut | it's raining | eel PLUH
+example: Il pleut aujourd'hui. | It's raining today.
+vocab: un parapluie | an umbrella | uhn pa-ra-PLWEE
+example: J'ai un parapluie. | I have an umbrella.
+
+[grammar]
+grammar: J'ai + noun | Use this to say what you have
+example: J'ai un parapluie. | I have an umbrella.
+example: J'ai un frère. | I have a brother.
+
+[quiz]
+quiz: What does "il pleut" mean? | It's raining | It's snowing | It's sunny | A | "Pleuvoir" is the verb "to rain".
+quiz: How do you say "umbrella" in French? | Un chapeau | Un parapluie | Un café | B | "Un parapluie" is an umbrella.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
