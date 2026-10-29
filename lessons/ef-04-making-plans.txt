@@ -1,0 +1,53 @@
+title: Making Plans
+episode: EF4
+scene: street
+
+[story]
+Marinette: Tu es libre samedi ? | Are you free on Saturday?
+Adrien: Oui, pourquoi ? | Yes, why?
+Marinette: On va au cinéma ? | Shall we go to the cinema?
+Adrien: Bonne idée ! À quelle heure ? | Good idea! At what time?
+Marinette: À sept heures. | At seven.
+Adrien: D'accord. On se retrouve où ? | OK. Where shall we meet?
+Marinette: Devant le cinéma. | In front of the cinema.
+Adrien: Parfait. Je vais acheter les billets. | Perfect. I'll buy the tickets.
+Marinette: Super ! À samedi ! | Great! See you Saturday!
+
+[vocab]
+vocab: tu es libre ? | are you free? | tew eh LEE-bruh
+example: Tu es libre samedi ? | Are you free on Saturday?
+vocab: on va… | shall we go…? / we're going… | ohn VAH
+example: On va au cinéma ? | Shall we go to the cinema?
+vocab: au cinéma | to the cinema | oh see-nay-MAH
+example: Je vais au cinéma. | I'm going to the cinema.
+vocab: bonne idée | good idea | bun ee-DAY
+example: On mange ensemble ? Bonne idée ! | Shall we eat together? Good idea!
+vocab: d'accord | OK / agreed | dah-KOR
+example: D'accord, à sept heures. | OK, at seven.
+vocab: devant | in front of | duh-VAHN
+example: Devant le cinéma. | In front of the cinema.
+vocab: je vais | I'm going / I'm going to | zhuh VEH
+example: Je vais acheter les billets. | I'm going to buy the tickets.
+vocab: à samedi | see you Saturday | ah sahm-DEE
+example: Super, à samedi ! | Great, see you Saturday!
+
+[grammar]
+grammar: The verb aller (to go) | Aller is irregular, so learn it by heart: je vais, tu vas, il / elle / on va, nous allons, vous allez, ils / elles vont. On is the everyday word for "we" and uses the same form as il.
+example: Je vais au cinéma. | I'm going to the cinema.
+example: Tu vas à Paris. | You're going to Paris.
+example: On va au café. | We're going to the café.
+grammar: à + le = au | Use à to mean "to" or "at". With le it becomes au: au cinéma, au café. With la it stays à la: à la plage. With les it becomes aux.
+example: au cinéma | to the cinema
+example: à la plage | to the beach
+grammar: Aller + infinitive = near future | Je vais + another verb means "I'm going to…". It is the easiest way to talk about the future: je vais acheter, on va manger.
+example: Je vais acheter les billets. | I'm going to buy the tickets.
+example: On va manger à sept heures. | We're going to eat at seven.
+
+[quiz]
+quiz: What does “On va au cinéma ?” mean? | Shall we go to the cinema? | Are you at the cinema? | I love the cinema. | A | On va… ? suggests going somewhere together.
+quiz: Which word means “OK”? | Devant | D'accord | Surtout | B | D'accord = OK / agreed.
+quiz: What does “devant” mean? | Next to | Behind | In front of | C | Devant le cinéma = in front of the cinema.
+quiz: à + le becomes… | au | al | à le | A | Au cinéma, au café.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

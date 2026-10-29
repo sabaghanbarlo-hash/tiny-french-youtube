@@ -1,0 +1,53 @@
+title: Buying a Train Ticket
+episode: FC7
+scene: station
+
+[story]
+Adrien: Bonjour, madame. Je voudrais un billet pour Lyon, s'il vous plaît. | Hello, madam. I would like a ticket to Lyon, please.
+Marinette: Un aller simple ou un aller-retour ? | A one-way or a return?
+Adrien: Un aller-retour, s'il vous plaît. | A return, please.
+Marinette: Pour quel jour ? | For which day?
+Adrien: Pour demain, le matin. | For tomorrow, in the morning.
+Marinette: Il y a un train à neuf heures. Ça vous va ? | There's a train at nine o'clock. Does that suit you?
+Adrien: Oui, parfait. C'est combien ? | Yes, perfect. How much is it?
+Marinette: Vingt euros. | Twenty euros.
+Adrien: Voilà. De quel quai part le train ? | Here you go. Which platform does the train leave from?
+Marinette: Quai numéro trois. Bon voyage ! | Platform number three. Have a good trip!
+
+[vocab]
+vocab: un billet | a ticket | uhn bee-YEH
+example: Un billet pour Lyon. | A ticket to Lyon.
+vocab: un aller simple | a one-way ticket | uhn ah-LAY SAN-pluh
+example: Un aller simple pour Paris. | A one-way ticket to Paris.
+vocab: un aller-retour | a return ticket | uhn ah-LAY ruh-TOOR
+example: Un aller-retour, s'il vous plaît. | A return ticket, please.
+vocab: pour quel jour ? | for which day? | poor kehl ZHOOR
+example: Pour quel jour, monsieur ? | For which day, sir?
+vocab: un train | a train | uhn TRAN
+example: Le train part à neuf heures. | The train leaves at nine.
+vocab: un quai | a platform | uhn KEH
+example: Le train est au quai trois. | The train is at platform three.
+vocab: ça vous va ? | does that suit you? | sah voo VAH
+example: Neuf heures, ça vous va ? | Nine o'clock, does that suit you?
+vocab: bon voyage | have a good trip | bohn vwah-YAHZH
+example: Merci, bon voyage ! | Thanks, have a good trip!
+
+[grammar]
+grammar: Un billet pour + place | Use un billet pour and the name of the place to ask for a ticket. The word pour means "for" or "to" here.
+example: Un billet pour Lyon. | A ticket to Lyon.
+example: Deux billets pour Paris. | Two tickets to Paris.
+grammar: Aller simple or aller-retour? | An aller simple is one way. An aller-retour is a return ticket, literally "go and back". Staff nearly always ask this question first.
+example: Un aller simple, s'il vous plaît. | A one-way ticket, please.
+example: Un aller-retour pour Nice. | A return ticket to Nice.
+grammar: Quel + noun | Quel means "which" or "what". It agrees with the noun: quel jour, quel quai, but quelle heure and quelle gare. It always comes before the noun.
+example: Quel quai ? | Which platform?
+example: Quelle heure ? | What time?
+
+[quiz]
+quiz: What does “aller-retour” mean? | A return ticket | A one-way ticket | A platform | A | Aller-retour = go and back.
+quiz: What does “Bon voyage !” mean? | Good evening! | Have a good trip! | See you soon! | B | Bon voyage is said to someone who is travelling.
+quiz: How do you ask for a one-way ticket? | Un aller-retour, s'il vous plaît. | Un quai, s'il vous plaît. | Un aller simple, s'il vous plaît. | C | Aller simple = one-way.
+quiz: What is a “quai”? | A platform | A ticket | A train | A | Quai = platform.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

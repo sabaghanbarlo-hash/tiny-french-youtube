@@ -1,0 +1,51 @@
+title: The French U and R
+episode: FS4
+scene: classroom
+
+[story]
+Marinette: Écoute : tu. | Listen: tu.
+Adrien: Tou ? | Too?
+Marinette: Non, pas « tou ». Dis « i » avec les lèvres rondes : tu. | No, not “too”. Say “ee” with rounded lips: tu.
+Adrien: Tu. Tu. C'est mieux ? | Tu. Tu. Is that better?
+Marinette: Oui ! Maintenant, la rue. | Yes! Now, la rue.
+Adrien: La rue… Le r, c'est difficile ! | La rue… The r is difficult!
+Marinette: Le r est dans la gorge. Répète : rouge, merci, très bien. | The r is in the throat. Repeat: rouge, merci, très bien.
+Adrien: Rouge. Merci. Très bien ! | Rouge. Merci. Très bien!
+
+[vocab]
+vocab: tu | you (to a friend) | TEW
+example: Tu parles français. | You speak French.
+vocab: tout | all / everything | TOO
+example: Tout est bon. | Everything is good.
+vocab: une rue | a street | ewn REW
+example: La rue est petite. | The street is small.
+vocab: une roue | a wheel | ewn ROO
+example: La roue est rouge. | The wheel is red.
+vocab: rouge | red | ROOZH
+example: Une rue rouge. | A red street.
+vocab: salut | hi / bye (informal) | sah-LEW
+example: Salut, Marinette ! | Hi, Marinette!
+vocab: la gorge | the throat | lah GORZH
+example: Le r est dans la gorge. | The r is in the throat.
+vocab: difficile | difficult | dee-fee-SEEL
+example: Le r est difficile. | The r is difficult.
+
+[grammar]
+grammar: u is not ou | French has two different sounds. U is made by saying "ee" and rounding your lips as if for "oo": tu, rue, salut. Ou is the plain English "oo": tout, rouge, bonjour. The difference changes the meaning: rue and roue.
+example: tu / tout | TEW / TOO
+example: rue / roue | REW / ROO
+grammar: The French r | The French r is made at the back of your throat, like a soft gargle. Start by saying "k" or "g" and then relax the movement so air still passes. Do not roll it with your tongue.
+example: rouge | red
+example: merci | thank you
+grammar: Short commands for learners | To tell a friend to do something, use the tu command: écoute, dis, répète. They are very useful when practising.
+example: Écoute ! | Listen!
+example: Répète : tu. | Repeat: tu.
+
+[quiz]
+quiz: Which spelling makes the “ew” sound (lips rounded, tongue forward)? | ou | u | o | B | U is the rounded “ee” sound.
+quiz: What does “une roue” mean? | A street | A red car | A wheel | C | Rue is a street, roue is a wheel.
+quiz: Where is the French r made? | At the back of the throat | With the tip of the tongue | With the lips | A | It is a throat sound.
+quiz: Which command means “repeat”? | Écoute | Répète | Dis | B | Répète = repeat.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

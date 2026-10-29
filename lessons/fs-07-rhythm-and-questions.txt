@@ -1,0 +1,54 @@
+title: French Rhythm and Questions
+episode: FS7
+scene: park
+
+[story]
+Marinette: En français, chaque syllabe est presque égale. | In French, every syllable is almost equal.
+Adrien: Pas comme en anglais ? | Not like in English?
+Marinette: Non. Écoute : bon-jour. Pas de syllabe très forte au milieu. | No. Listen: bon-jour. No very strong syllable in the middle.
+Adrien: Bon-jour. Cho-co-lat. Ma-ri-nette. | Bon-jour. Cho-co-lat. Ma-ri-nette.
+Marinette: Très bien ! Pour une question, la voix monte à la fin. | Very good! For a question, the voice goes up at the end.
+Adrien: Tu aimes le chocolat ? | Do you like chocolate?
+Marinette: Oui, j'aime le chocolat. | Yes, I like chocolate.
+Adrien: Et avec est-ce que ? | And with est-ce que?
+Marinette: Est-ce que tu aimes le thé ? C'est pareil, mais plus long. | Est-ce que tu aimes le thé? It's the same, but longer.
+Adrien: Maintenant, je parle comme un Français ! | Now I speak like a Frenchman!
+Marinette: Presque ! | Almost!
+
+[vocab]
+vocab: une syllabe | a syllable | ewn see-LAHB
+example: Chaque syllabe est égale. | Every syllable is equal.
+vocab: la voix | the voice | lah VWAH
+example: La voix monte à la fin. | The voice goes up at the end.
+vocab: monter | to go up | mohn-TAY
+example: La voix monte. | The voice goes up.
+vocab: une question | a question | ewn kehs-TYOHN
+example: J'ai une question. | I have a question.
+vocab: est-ce que | (question marker) | ehs kuh
+example: Est-ce que tu aimes le thé ? | Do you like tea?
+vocab: pareil | the same | pah-REY
+example: C'est pareil. | It's the same.
+vocab: presque | almost | PREHSK
+example: Presque ! | Almost!
+vocab: chaque | each / every | SHAHK
+example: Chaque jour, je parle français. | Every day I speak French.
+
+[grammar]
+grammar: Even rhythm | French syllables are almost equal in length, and the only longer syllable is the last one of a group of words. Say cho-co-LAT and ma-ri-NETTE, with no strong stress in the middle.
+example: bon-jour | hello
+example: cho-co-lat | chocolate
+grammar: Questions by intonation | The easiest way to ask a yes / no question is to say a normal sentence and let your voice rise at the end. In writing, add a question mark.
+example: Tu aimes le chocolat ? | Do you like chocolate?
+example: Tu parles français ? | Do you speak French?
+grammar: Est-ce que | Put est-ce que in front of a normal sentence to make it a question. The rest of the sentence keeps its normal order. Que becomes qu' before a vowel.
+example: Est-ce que tu aimes le thé ? | Do you like tea?
+example: Est-ce qu'il parle anglais ? | Does he speak English?
+
+[quiz]
+quiz: Where is the longer syllable in French? | On the first syllable | On the middle syllable | On the last syllable of a group of words | C | Say cho-co-LAT.
+quiz: How do you turn “Tu aimes le thé.” into a question? | Raise your voice at the end | Lower your voice | Add the word pas | A | Rising intonation makes a yes / no question.
+quiz: What does “presque” mean? | Never | Almost | Always | B | Presque = almost.
+quiz: What does “C'est pareil” mean? | It's different | It's long | It's the same | C | Pareil = the same.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

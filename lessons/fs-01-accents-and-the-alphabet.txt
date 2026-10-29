@@ -1,0 +1,50 @@
+title: Accents and the Alphabet
+episode: FS1
+scene: classroom
+
+[story]
+Marinette: Comment ça s'écrit, Adrien ? | How do you spell that, Adrien?
+Adrien: A, D, R, I, E, N. | A, D, R, I, E, N.
+Marinette: Et ton nom de famille ? | And your surname?
+Adrien: Martin. M, A, R, T, I, N. | Martin. M, A, R, T, I, N.
+Adrien: Et toi ? Comment ça s'écrit, Marinette ? | And you? How do you spell Marinette?
+Marinette: M, A, R, I, N, E, T, T, E. Il y a deux T. | M, A, R, I, N, E, T, T, E. There are two Ts.
+Adrien: Il y a un accent ? | Is there an accent?
+Marinette: Non. Mais « café » s'écrit avec un é : un accent aigu. | No. But “café” is written with an é: an acute accent.
+
+[vocab]
+vocab: comment ça s'écrit ? | how do you spell that? | koh-mahn sah say-KREE
+example: Comment ça s'écrit, Adrien ? | How do you spell that, Adrien?
+vocab: une lettre | a letter | ewn LEH-truh
+example: Il y a six lettres. | There are six letters.
+vocab: l'alphabet | the alphabet | lahl-fah-BEH
+example: L'alphabet a vingt-six lettres. | The alphabet has twenty-six letters.
+vocab: un accent aigu (é) | an acute accent | uhn ahk-SAHN eh-GEW
+example: Café s'écrit avec un accent aigu. | Café is written with an acute accent.
+vocab: un accent grave (è, à) | a grave accent | uhn ahk-SAHN GRAHV
+example: Très a un accent grave. | Très has a grave accent.
+vocab: un accent circonflexe (ê) | a circumflex accent | uhn ahk-SAHN seer-kohn-FLEX
+example: Fête a un accent circonflexe. | Fête has a circumflex accent.
+vocab: une cédille (ç) | a cedilla | ewn say-DEEY
+example: Garçon s'écrit avec une cédille. | Garçon is written with a cedilla.
+vocab: un nom de famille | a surname | uhn nohm duh fah-MEEY
+example: Mon nom de famille est Martin. | My surname is Martin.
+
+[grammar]
+grammar: The French letter names | Every letter has a French name that is different from English. Listen, and repeat after me. The best practice is to spell your own name out loud.
+example: A, B, C, D, E, F, G | The first seven letters
+example: A, D, R, I, E, N | Spelling Adrien
+grammar: What accents do | Accents change how a letter sounds. É sounds like "ay". È and ê sound like "eh". Ç sounds like "s" before a, o or u. The accent on à only separates words: a and à sound the same, as do ou and où.
+example: un café | a coffee — say “kah-FAY”
+example: un garçon | a boy — say “gar-SOHN”
+grammar: Double letters | When spelling, say deux before a double letter: deux T. The doubled consonant is still pronounced just once in normal speech.
+example: Il y a deux T. | There are two Ts.
+
+[quiz]
+quiz: Which symbol is a “cédille”? | ç | é | ë | ê | A | The cedilla is the small hook under the c.
+quiz: How is “é” pronounced? | Like “ee” in “see” | Like “uh” in “cut” | Like “ay” in “day” | C | É is a closed “ay” sound.
+quiz: The letter ç sounds like… | k | ch | s | z | C | Garçon is “gar-SOHN”.
+quiz: What does “Il y a deux T” mean? | It has two accents | There are two Ts | It has two letters | B | Deux T = two Ts.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

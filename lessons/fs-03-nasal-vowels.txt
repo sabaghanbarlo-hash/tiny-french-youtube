@@ -1,0 +1,51 @@
+title: Nasal Vowels
+episode: FS3
+scene: bakery
+
+[story]
+Marinette: Bonjour ! Un pain, s'il vous plaît. | Hello! A loaf of bread, please.
+Adrien: Bonjour ! Un grand pain ou un petit ? | Hello! A big loaf or a small one?
+Marinette: Un pain blanc, s'il vous plaît. | A white loaf, please.
+Adrien: Et avec ça ? | And with that?
+Marinette: Un croissant et un flan. | A croissant and a flan.
+Marinette: Mmm, c'est bon ! | Mmm, it's good!
+Adrien: Voilà. Ça fait cinq euros vingt. | Here you go. That's five euros twenty.
+
+[vocab]
+vocab: un pain | a loaf of bread | uhn PAN
+example: Un pain, s'il vous plaît. | A loaf of bread, please.
+vocab: blanc | white | BLAHN
+example: Un pain blanc. | A white loaf.
+vocab: bon | good | BOHN
+example: C'est bon ! | It's good!
+vocab: un croissant | a croissant | uhn krwah-SAHN
+example: Un croissant, s'il vous plaît. | A croissant, please.
+vocab: un flan | a custard tart | uhn FLAHN
+example: Un flan, s'il vous plaît. | A custard tart, please.
+vocab: vingt | twenty | VAN
+example: Ça fait vingt euros. | That's twenty euros.
+vocab: cinq | five | SANK
+example: Cinq euros vingt. | Five euros twenty.
+vocab: maintenant | now | man-tuh-NAHN
+example: Maintenant, un café ! | Now, a coffee!
+
+[grammar]
+grammar: What is a nasal vowel? | In a nasal vowel the air goes through your nose and your mouth at the same time. The letter n or m after the vowel is not pronounced as a separate n. Say "bon" and the n disappears: you only hear a nasal "oh".
+example: bon | nasal “oh” — BOHN
+example: pain | nasal “a” — PAN
+grammar: Three main sounds | An and en sound like a nasal "ah". On sounds like a nasal "oh". In, ain and ein sound like a nasal "a" as in "can". Un is close to in.
+example: un enfant | a child
+example: demain | tomorrow
+example: un garçon | a boy
+grammar: When the n is NOT nasal | If the n is doubled or followed by a vowel, the vowel is not nasal and the n is pronounced: bon but bonne; un but une. That difference often marks masculine and feminine.
+example: bon / bonne | BOHN / BUN
+example: un / une | uhn / ewn
+
+[quiz]
+quiz: In “pain”, what happens to the n? | It nasalises the vowel and is not pronounced | It is pronounced strongly | It is pronounced like m | A | The n only makes the vowel nasal.
+quiz: Which word has a nasal vowel? | bonne | bon | une | banane | B | Bonne has a doubled n, so the vowel is not nasal.
+quiz: Roughly how is “vingt” pronounced? | vingt, with a hard t | veent | van | C | Vingt is a nasal “van”, with no t.
+quiz: Which spelling gives the nasal “ah” sound? | an / en | on | in | A | Croissant and enfant both have it.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

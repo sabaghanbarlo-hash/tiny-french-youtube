@@ -1,0 +1,50 @@
+title: Telling the Time
+episode: EF2
+scene: station
+
+[story]
+Marinette: Excuse-moi, tu as l'heure ? | Excuse me, do you have the time?
+Adrien: Oui, il est trois heures et demie. | Yes, it's half past three.
+Marinette: Oh non ! Le film commence à quatre heures moins le quart ! | Oh no! The film starts at quarter to four!
+Adrien: Pas de panique, on a encore un quart d'heure. | Don't panic, we still have a quarter of an hour.
+Marinette: À quelle heure finit le film ? | What time does the film end?
+Adrien: À cinq heures et quart. | At quarter past five.
+Marinette: Parfait. On mange à sept heures ? | Perfect. Shall we eat at seven?
+Adrien: Oui, à sept heures ! | Yes, at seven!
+
+[vocab]
+vocab: quelle heure est-il ? | what time is it? | kehl UHR eh-TEEL
+example: Quelle heure est-il ? | What time is it?
+vocab: il est… heures | it is … o'clock | eel eh … UHR
+example: Il est trois heures. | It's three o'clock.
+vocab: et demie | and a half (half past) | ay duh-MEE
+example: Il est trois heures et demie. | It's half past three.
+vocab: et quart | and a quarter (quarter past) | ay KAR
+example: Il est cinq heures et quart. | It's quarter past five.
+vocab: moins le quart | minus a quarter (quarter to) | mwan luh KAR
+example: Quatre heures moins le quart. | Quarter to four.
+vocab: midi | noon | mee-DEE
+example: On mange à midi. | We eat at noon.
+vocab: minuit | midnight | mee-NWEE
+example: Il est minuit. | It's midnight.
+vocab: à quelle heure ? | at what time? | ah kehl UHR
+example: À quelle heure est le film ? | What time is the film?
+
+[grammar]
+grammar: Il est + number + heure(s) | The time always starts with il est. Use heure for one o'clock and heures for the rest. The h is silent, so there is liaison: trois heures sounds like "trwah-ZUHR".
+example: Il est une heure. | It's one o'clock.
+example: Il est sept heures. | It's seven o'clock.
+grammar: Half, quarter and “to” | Add et demie for half past and et quart for quarter past. For quarter to, subtract: moins le quart. For minutes to the hour use moins cinq, moins dix. Midi and minuit take et demi without the final -e.
+example: Il est deux heures et demie. | It's half past two.
+example: Il est trois heures moins le quart. | It's quarter to three.
+grammar: À + time for “at” | To say when something happens, use à + the time: à sept heures, à midi, à quatre heures moins le quart.
+example: Le film est à huit heures. | The film is at eight o'clock.
+
+[quiz]
+quiz: What time is “Il est trois heures et demie”? | 3:15 | 3:30 | 2:30 | 3:45 | B | Et demie = half past.
+quiz: What does “À quelle heure ?” ask? | What day is it? | How much is it? | At what time? | C | Heure = hour / time.
+quiz: “Midi” means… | Noon | Midnight | Morning | A | Midi = 12 noon, minuit = midnight.
+quiz: What time is “quatre heures moins le quart”? | 3:45 | 4:15 | 4:45 | 3:15 | A | Quatre heures moins le quart = quarter to four.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

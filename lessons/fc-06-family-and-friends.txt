@@ -1,0 +1,51 @@
+title: Family and Friends
+episode: FC6
+scene: home
+
+[story]
+Adrien: Regarde cette photo ! C'est ma famille. | Look at this photo! It's my family.
+Marinette: Oh, c'est qui, là ? | Oh, who's that, there?
+Adrien: C'est mon père, et là, c'est ma mère. | That's my father, and there, that's my mother.
+Marinette: Tu as des frères et sœurs ? | Do you have brothers and sisters?
+Adrien: J'ai un frère et une sœur. Mon frère s'appelle Paul. | I have a brother and a sister. My brother is called Paul.
+Adrien: Et toi ? Tu as une grande famille ? | And you? Do you have a big family?
+Marinette: Non, je suis fille unique. Mais j'ai beaucoup d'amis. | No, I'm an only child. But I have lots of friends.
+
+[vocab]
+vocab: ma famille | my family | mah fah-MEEY
+example: C'est ma famille. | This is my family.
+vocab: mon père | my father | mohn PEHR
+example: Mon père s'appelle Marc. | My father is called Marc.
+vocab: ma mère | my mother | mah MEHR
+example: Ma mère habite à Lyon. | My mother lives in Lyon.
+vocab: un frère | a brother | uhn FREHR
+example: J'ai un frère. | I have a brother.
+vocab: une sœur | a sister | ewn SUHR
+example: J'ai une sœur. | I have a sister.
+vocab: les parents | the parents | lay pah-RAHN
+example: Mes parents habitent à Paris. | My parents live in Paris.
+vocab: un ami / une amie | a friend (male / female) | uhn ah-MEE / ewn ah-MEE
+example: Marinette est mon amie. | Marinette is my friend.
+vocab: fille unique | only child (girl) | feey ew-NEEK
+example: Je suis fille unique. | I'm an only child.
+
+[grammar]
+grammar: Mon, ma, mes = my | My changes with the noun. Use mon before a masculine noun, ma before a feminine noun and mes before a plural. Before a vowel sound, use mon even for a feminine noun: mon amie.
+example: mon père, mon frère | my father, my brother
+example: ma mère, ma sœur | my mother, my sister
+example: mes parents | my parents
+grammar: Avoir: to have | Avoir is irregular: j'ai, tu as, il / elle / on a, nous avons, vous avez, ils / elles ont. Use it to say what family you have.
+example: J'ai un frère. | I have a brother.
+example: Tu as des amis ? | Do you have friends?
+grammar: Un, une, des | Un is masculine, une is feminine and des is plural. After a negative, un, une and des become de: je n'ai pas de frère.
+example: J'ai une sœur. | I have a sister.
+example: Je n'ai pas de frère. | I don't have a brother.
+
+[quiz]
+quiz: What does “Ma mère” mean? | My sister | My aunt | My mother | C | Ma = my (feminine), mère = mother.
+quiz: Which is correct? | mon père | ma père | mes père | A | Père is masculine, so use mon.
+quiz: What does “fille unique” mean? | Only sister | Only child (girl) | Youngest daughter | B | Fille unique = an only daughter.
+quiz: Why do we say “mon amie” and not “ma amie”? | Amie is masculine | It is a plural | Amie starts with a vowel sound | C | Before a vowel sound, mon is used even for feminine nouns.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

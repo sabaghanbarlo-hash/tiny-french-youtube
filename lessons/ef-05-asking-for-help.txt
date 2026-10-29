@@ -1,0 +1,48 @@
+title: Asking for Help
+episode: EF5
+scene: station
+
+[story]
+Adrien: Excusez-moi, madame. Vous parlez anglais ? | Excuse me, madam. Do you speak English?
+Marinette: Un peu. Je peux vous aider ? | A little. Can I help you?
+Adrien: Oui, s'il vous plaît. Je cherche le train pour Lyon. | Yes, please. I'm looking for the train to Lyon.
+Marinette: Le train part à quatorze heures, quai trois. | The train leaves at two p.m., platform three.
+Adrien: Pardon, je ne comprends pas. Pouvez-vous répéter, plus lentement ? | Sorry, I don't understand. Can you repeat, more slowly?
+Marinette: Bien sûr. Quai trois, à quatorze heures. | Of course. Platform three, at 2 p.m.
+Adrien: Ah, quai trois ! Merci beaucoup pour votre aide. | Ah, platform three! Thank you very much for your help.
+
+[vocab]
+vocab: je ne comprends pas | I don't understand | zhuh nuh kohm-PRAHN pah
+example: Pardon, je ne comprends pas. | Sorry, I don't understand.
+vocab: pouvez-vous répéter ? | can you repeat? (polite) | poo-vay-VOO ray-pay-TAY
+example: Pouvez-vous répéter, s'il vous plaît ? | Can you repeat, please?
+vocab: plus lentement | more slowly | plew lahnt-MAHN
+example: Plus lentement, s'il vous plaît. | More slowly, please.
+vocab: vous parlez anglais ? | do you speak English? (polite) | voo par-lay ahn-GLEH
+example: Excusez-moi, vous parlez anglais ? | Excuse me, do you speak English?
+vocab: je cherche… | I'm looking for… | zhuh SHEHRSH
+example: Je cherche la gare. | I'm looking for the station.
+vocab: je peux vous aider ? | can I help you? | zhuh puh voo zeh-DAY
+example: Bonjour, je peux vous aider ? | Hello, can I help you?
+vocab: bien sûr | of course | byan SEWR
+example: Bien sûr, madame. | Of course, madam.
+vocab: pardon | sorry / excuse me | par-DOHN
+example: Pardon, madame. | Sorry, madam.
+
+[grammar]
+grammar: Je ne comprends pas | This is your most useful sentence. Ne … pas goes around the verb: je ne comprends pas. Add pardon or excusez-moi first to sound polite.
+example: Pardon, je ne comprends pas. | Sorry, I don't understand.
+grammar: Pouvez-vous + infinitive | Pouvez-vous is the polite way to ask "can you…?". Add the verb in its basic form: répéter, parler, m'aider.
+example: Pouvez-vous répéter ? | Can you repeat?
+example: Pouvez-vous parler plus lentement ? | Can you speak more slowly?
+grammar: Je cherche + thing | Je cherche means "I'm looking for". It needs no extra word for "for": je cherche le train, je cherche la gare.
+example: Je cherche le train pour Lyon. | I'm looking for the train to Lyon.
+
+[quiz]
+quiz: What does “Je ne comprends pas” mean? | I don't know you | I don't understand | I don't speak English | B | Comprendre = to understand.
+quiz: How do you ask someone politely to repeat? | Je cherche le train. | Bien sûr. | Pouvez-vous répéter ? | C | Pouvez-vous + infinitive = can you…?
+quiz: What does “plus lentement” mean? | More slowly | More loudly | Later | A | Lentement = slowly.
+quiz: What does “Bien sûr” mean? | I'm sorry | Of course | No problem, thanks | B | Bien sûr = of course.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

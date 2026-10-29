@@ -1,0 +1,54 @@
+title: Letter Teams: oi, au, eu and ai
+episode: FS6
+scene: classroom
+
+[story]
+Marinette: Aujourd'hui, on lit des mots avec des groupes de lettres. | Today we read words with groups of letters.
+Adrien: Des groupes de lettres ? | Groups of letters?
+Marinette: Oui. O-I fait « oua ». Regarde : moi, toi, trois. | Yes. O-I makes “wah”. Look: moi, toi, trois.
+Adrien: Moi, toi, trois ! Et A-U ? | Moi, toi, trois! And A-U?
+Marinette: A-U fait « o » : jaune, au revoir. E-A-U aussi : beau, bateau. | A-U makes “oh”: jaune, au revoir. E-A-U too: beau, bateau.
+Adrien: Et E-U ? | And E-U?
+Marinette: E-U, c'est comme « euh » : deux, bleu. | E-U is like “uh”: deux, bleu.
+Adrien: Et A-I ? | And A-I?
+Marinette: A-I fait « è » : lait, j'aime. | A-I makes “eh”: lait, j'aime.
+Adrien: C'est logique ! | That's logical!
+
+[vocab]
+vocab: moi | me | MWAH
+example: Moi, c'est Adrien. | Me, I'm Adrien.
+vocab: trois | three | TRWAH
+example: Il y a trois amis. | There are three friends.
+vocab: jaune | yellow | ZHOHN
+example: Le taxi est jaune. | The taxi is yellow.
+vocab: beau | beautiful / nice | BOH
+example: Il fait beau. | The weather is nice.
+vocab: un bateau | a boat | uhn bah-TOH
+example: Le bateau est blanc. | The boat is white.
+vocab: deux | two | DUH
+example: J'ai deux frères. | I have two brothers.
+vocab: bleu | blue | BLUH
+example: Le ciel est bleu. | The sky is blue.
+vocab: le lait | milk | luh LEH
+example: Un café au lait, s'il vous plaît. | A coffee with milk, please.
+
+[grammar]
+grammar: oi sounds like “wah” | The letters o and i together make a "wah" sound: moi, toi, trois, voiture. Do not say "oy" as in English.
+example: moi, toi, trois | me, you, three
+grammar: au and eau sound like “oh” | Au and eau both make a closed "oh" sound. Eau appears in many everyday words: beau, bateau, eau, gâteau.
+example: jaune, au revoir | yellow, goodbye
+example: beau, bateau, eau | nice, boat, water
+grammar: eu, ai and ou | Eu is like "uh" with rounded lips: deux, bleu. Ai and ei sound like "eh": lait, j'aime. Ou is "oo": rouge, bonjour. Learning these four teams solves many spelling puzzles.
+example: deux, bleu | two, blue
+example: lait, j'aime | milk, I like
+example: rouge, tout | red, all
+
+[quiz]
+quiz: How is “oi” pronounced in “moi”? | wah | oy | ee | A | Oi = wah: MWAH.
+quiz: Which spelling gives the “oh” sound? | ai | au or eau | oi | B | Beau and jaune both have an “oh” sound.
+quiz: How do you say “lait”? | lite | lay-it | leh | C | Ai = eh, and the t is silent.
+quiz: Which word rhymes with “deux”? | bleu | beau | moi | A | Both have the eu sound.
+quiz: How is “ou” pronounced in “rouge”? | oh | oo | uh | B | Ou = oo.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

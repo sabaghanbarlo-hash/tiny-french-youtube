@@ -1,0 +1,51 @@
+title: Weather and Seasons
+episode: EF6
+scene: park
+
+[story]
+Marinette: Quel temps fait-il aujourd'hui ? | What's the weather like today?
+Adrien: Il fait beau, mais il fait froid. | It's nice, but it's cold.
+Marinette: En hiver, il fait toujours froid à Paris. | In winter, it's always cold in Paris.
+Adrien: Et au printemps ? | And in spring?
+Marinette: Au printemps, il pleut un peu. En été, il fait chaud. | In spring it rains a little. In summer it's hot.
+Adrien: Et en automne ? | And in autumn?
+Marinette: En automne, il y a du vent. | In autumn it's windy.
+Adrien: Moi, j'aime l'été. Et toi ? | Me, I like summer. And you?
+Marinette: Moi, je préfère le printemps. | Me, I prefer spring.
+
+[vocab]
+vocab: quel temps fait-il ? | what's the weather like? | kehl tahn feh-TEEL
+example: Quel temps fait-il à Paris ? | What's the weather like in Paris?
+vocab: il fait beau | the weather is nice | eel feh BOH
+example: Aujourd'hui, il fait beau. | Today the weather is nice.
+vocab: il fait chaud | it's hot | eel feh SHOH
+example: En été, il fait chaud. | In summer it's hot.
+vocab: il fait froid | it's cold | eel feh FRWAH
+example: En hiver, il fait froid. | In winter it's cold.
+vocab: il pleut | it's raining | eel PLUH
+example: Au printemps, il pleut. | In spring it rains.
+vocab: il y a du vent | it's windy | eel ee ah dew VAHN
+example: En automne, il y a du vent. | In autumn it's windy.
+vocab: le printemps | spring | luh pran-TAHN
+example: J'aime le printemps. | I like spring.
+vocab: l'été | summer | lay-TAY
+example: L'été, je vais à la plage. | In summer I go to the beach.
+
+[grammar]
+grammar: Il fait + adjective | French describes the weather with il fait plus an adjective: il fait beau, il fait chaud, il fait froid, il fait mauvais. A few weather verbs stand alone: il pleut, il neige.
+example: Il fait chaud. | It's hot.
+example: Il neige. | It's snowing.
+grammar: The seasons | The four seasons are le printemps, l'été, l'automne and l'hiver. Use au with printemps and en with the others: au printemps, en été, en automne, en hiver.
+example: Au printemps, il pleut. | In spring it rains.
+example: En été, il fait chaud. | In summer it's hot.
+grammar: Quel temps fait-il ? | Ask Quel temps fait-il ? for the weather. Answer with il fait + adjective or il pleut. The same pattern works for other days: demain, il fait beau.
+example: Quel temps fait-il demain ? | What's the weather like tomorrow?
+
+[quiz]
+quiz: What does “Il fait chaud” mean? | It's cold | It's raining | It's hot | C | Chaud = hot.
+quiz: What does “au printemps” mean? | In spring | In summer | In winter | A | Printemps = spring.
+quiz: How do you ask about the weather? | Quelle heure est-il ? | Quel temps fait-il ? | Tu es libre ? | B | Temps means weather here.
+quiz: Which phrase means “in summer”? | Au été | Dans été | En été | C | Use en with été.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

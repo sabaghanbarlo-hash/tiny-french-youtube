@@ -1,0 +1,48 @@
+title: Silent Letters and Liaison
+episode: FS2
+scene: restaurant
+
+[story]
+Marinette: Bonjour ! Vous êtes combien ? | Hello! How many are you?
+Adrien: Nous sommes trois amis. | There are three of us friends.
+Marinette: Entrez, les amis ! Il y a une table ici. | Come in, friends! There's a table here.
+Adrien: Merci. Nous avons très faim ! | Thanks. We're very hungry!
+Marinette: Vous avez de la chance. La cuisine est ouverte. | You're lucky. The kitchen is open.
+
+[vocab]
+vocab: les amis | the friends | lay zah-MEE
+example: Entrez, les amis ! | Come in, friends!
+vocab: trois amis | three friends | trwah zah-MEE
+example: Nous sommes trois amis. | There are three of us friends.
+vocab: vous avez | you have | voo zah-VAY
+example: Vous avez de la chance. | You're lucky.
+vocab: nous avons | we have | noo zah-VOHN
+example: Nous avons très faim. | We're very hungry.
+vocab: petit | small | puh-TEE
+example: Un petit café, s'il vous plaît. | A small coffee, please.
+vocab: beaucoup | a lot / very much | boh-KOO
+example: Merci beaucoup ! | Thank you very much!
+vocab: très | very | TREH
+example: C'est très bon ! | It's very good!
+vocab: un hôtel | a hotel | uhn oh-TEL
+example: Il y a un hôtel ici. | There is a hotel here.
+
+[grammar]
+grammar: Final consonants are usually silent | In French the last consonant of a word is often not pronounced: petit, grand, beaucoup, très, vous, trop. Read the word without that last letter and you are usually right.
+example: petit | say “puh-TEE”, not “puh-TEET”
+example: très | say “TREH”
+grammar: The exceptions: c, r, f, l | The letters in the word CaReFuL are often pronounced at the end of a word: sac, bonjour, neuf, hôtel. This is a handy rule of thumb, not a law, so keep listening to real French.
+example: bonjour | the r is pronounced
+example: un hôtel | the l is pronounced
+grammar: Liaison | A silent final consonant can come back when the next word starts with a vowel sound. That link is called liaison. S and x sound like z, n stays n and t stays t.
+example: les amis | lay zah-MEE
+example: vous avez | voo zah-VAY
+
+[quiz]
+quiz: Is the final t in “petit” pronounced? | Yes, always | Only before a vowel | No, it is silent | C | Petit is “puh-TEE”.
+quiz: Which word ends with a pronounced consonant? | petit | bonjour | très | beaucoup | B | R is one of the CaReFuL letters.
+quiz: Which letters are easy to remember with the word CaReFuL? | a, e, i, o | c, r, f, l | b, d, p, t | B | Final c, r, f and l are often pronounced.
+quiz: Liaison happens before… | any word | a word that starts with c | a word that starts with a vowel sound | C | The silent consonant comes back before a vowel sound.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

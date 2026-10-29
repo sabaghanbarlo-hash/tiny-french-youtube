@@ -1,0 +1,51 @@
+title: Asking for Directions
+episode: FC5
+scene: street
+
+[story]
+Adrien: Excusez-moi, madame. Où est la gare, s'il vous plaît ? | Excuse me, madam. Where is the station, please?
+Marinette: La gare ? Allez tout droit. | The station? Go straight ahead.
+Marinette: Puis tournez à gauche après la boulangerie. | Then turn left after the bakery.
+Adrien: C'est loin ? | Is it far?
+Marinette: Non, c'est à cinq minutes à pied. | No, it's five minutes on foot.
+Adrien: Et la poste ? | And the post office?
+Marinette: La poste est à côté de la gare, à droite. | The post office is next to the station, on the right.
+Adrien: Merci beaucoup, madame ! | Thank you very much, madam!
+Marinette: De rien, bonne journée ! | You're welcome, have a nice day!
+
+[vocab]
+vocab: excusez-moi | excuse me | ek-skew-zay MWAH
+example: Excusez-moi, madame. | Excuse me, madam.
+vocab: où est… ? | where is…? | oo EH
+example: Où est la gare ? | Where is the station?
+vocab: tout droit | straight ahead | too DRWAH
+example: Allez tout droit. | Go straight ahead.
+vocab: à gauche | on / to the left | ah GOHSH
+example: Tournez à gauche. | Turn left.
+vocab: à droite | on / to the right | ah DRWAHT
+example: La poste est à droite. | The post office is on the right.
+vocab: c'est loin ? | is it far? | seh LWAN
+example: La gare, c'est loin ? | Is the station far?
+vocab: à côté de | next to | ah koh-TAY duh
+example: La poste est à côté de la gare. | The post office is next to the station.
+vocab: à pied | on foot | ah PYAY
+example: C'est à cinq minutes à pied. | It's five minutes on foot.
+
+[grammar]
+grammar: Où est… ? and Où sont… ? | Ask where one thing is with Où est + the place. For several things, use Où sont. Start with Excusez-moi or Pardon to be polite.
+example: Où est la gare ? | Where is the station?
+example: Où sont les toilettes ? | Where are the toilets?
+grammar: Directions are commands | Directions use the vous command form: allez, tournez, continuez. Put the place after: tournez à gauche, continuez tout droit.
+example: Allez tout droit. | Go straight ahead.
+example: Tournez à droite. | Turn right.
+grammar: à côté de, devant, après | Small place words tell you where something is. They are followed by de or by the place directly: à côté de la gare, après la boulangerie.
+example: La poste est à côté de la gare. | The post office is next to the station.
+
+[quiz]
+quiz: What does “Où est la gare ?” mean? | What time is the train? | Where is the station? | Is the station far? | B | Où est… ? asks where something is.
+quiz: What does “à droite” mean? | On the left | Straight ahead | On the right | C | Droite is right, gauche is left.
+quiz: What do you say to get a stranger's attention politely? | Excusez-moi | Salut | Bonne nuit | A | Excusez-moi = excuse me.
+quiz: What does “C'est à cinq minutes à pied” mean? | It's five kilometres away | It's a five-minute walk | It's five stops by train | B | À pied means on foot.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

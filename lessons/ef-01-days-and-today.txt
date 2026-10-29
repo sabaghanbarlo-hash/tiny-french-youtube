@@ -1,0 +1,54 @@
+title: Days of the Week
+episode: EF1
+scene: home
+
+[story]
+Adrien: Quel jour sommes-nous aujourd'hui ? | What day is it today?
+Marinette: Nous sommes jeudi. | It's Thursday.
+Adrien: Et demain ? | And tomorrow?
+Marinette: Demain, c'est vendredi. Hier, c'était mercredi. | Tomorrow is Friday. Yesterday was Wednesday.
+Adrien: Tu travailles le samedi ? | Do you work on Saturdays?
+Marinette: Non, le samedi, je ne travaille pas. | No, on Saturdays I don't work.
+Adrien: Et le dimanche ? | And on Sundays?
+Marinette: Le dimanche, je dors ! | On Sundays I sleep!
+
+[vocab]
+vocab: lundi | Monday | luhn-DEE
+example: Lundi, je travaille. | On Monday I work.
+vocab: mardi | Tuesday | mar-DEE
+example: Mardi, j'ai un cours. | On Tuesday I have a class.
+vocab: mercredi | Wednesday | mehr-kruh-DEE
+example: Hier, c'était mercredi. | Yesterday was Wednesday.
+vocab: jeudi | Thursday | zhuh-DEE
+example: Nous sommes jeudi. | It's Thursday.
+vocab: vendredi | Friday | vahn-druh-DEE
+example: Demain, c'est vendredi. | Tomorrow is Friday.
+vocab: samedi | Saturday | sahm-DEE
+example: Samedi, on va au cinéma. | On Saturday we're going to the cinema.
+vocab: dimanche | Sunday | dee-MAHNSH
+example: Le dimanche, je dors. | On Sundays I sleep.
+vocab: aujourd'hui | today | oh-zhoor-DWEE
+example: Aujourd'hui, c'est jeudi. | Today is Thursday.
+vocab: demain | tomorrow | duh-MAN
+example: À demain ! | See you tomorrow!
+vocab: hier | yesterday | YEHR
+example: Hier, j'étais à Paris. | Yesterday I was in Paris.
+
+[grammar]
+grammar: No capital letters | Days of the week are masculine and are written with a small letter in French: lundi, mardi, jeudi. The week starts on Monday on French calendars.
+example: lundi, mardi, mercredi | Monday, Tuesday, Wednesday
+grammar: Samedi or le samedi? | A day on its own means this coming day: samedi, on va au cinéma. With le it means every week: le samedi, je dors.
+example: Samedi, je travaille. | This Saturday I'm working.
+example: Le samedi, je ne travaille pas. | On Saturdays I don't work.
+grammar: Quel jour sommes-nous ? | Ask Quel jour sommes-nous ? or Quel jour est-ce ? and answer Nous sommes + day, or simply C'est + day. Hier c'était means "yesterday it was".
+example: Nous sommes jeudi. | It's Thursday.
+example: Hier, c'était mercredi. | Yesterday was Wednesday.
+
+[quiz]
+quiz: Which day is “jeudi”? | Tuesday | Thursday | Friday | Sunday | B | Jeudi = Thursday.
+quiz: What does “demain” mean? | Today | Tomorrow | Yesterday | B | Demain = tomorrow.
+quiz: What does “Le samedi, je dors” mean? | This Saturday I'm sleeping | I slept on Saturday | On Saturdays I sleep | C | Le + day means every week.
+quiz: How are days of the week written in French? | With a small letter | With a capital letter | Always in capitals | A | Lundi, mardi… are not capitalised.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

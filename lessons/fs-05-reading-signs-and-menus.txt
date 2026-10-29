@@ -1,0 +1,51 @@
+title: Reading Signs and Menus
+episode: FS5
+scene: street
+
+[story]
+Adrien: Regarde : « Boulangerie ». On entre ? | Look: “Boulangerie”. Shall we go in?
+Marinette: Non, c'est fermé. Regarde le panneau : « Ouvert à huit heures ». | No, it's closed. Look at the sign: “Open at eight o'clock”.
+Adrien: Alors, le café en face. La porte : « Poussez » ou « Tirez » ? | Then the café opposite. The door: “Push” or “Pull”?
+Marinette: Poussez ! | Push!
+Adrien: Au menu : « soupe du jour », « fromage », « tarte aux pommes ». | On the menu: “soup of the day”, “cheese”, “apple tart”.
+Marinette: Je prends la soupe du jour. Et toi ? | I'll have the soup of the day. And you?
+Adrien: Moi, la tarte aux pommes. Où sont les toilettes ? | Me, the apple tart. Where are the toilets?
+Marinette: Au fond, à gauche. Regarde : « Toilettes ». | At the back, on the left. Look: “Toilettes”.
+
+[vocab]
+vocab: ouvert | open | oo-VEHR
+example: Le café est ouvert. | The café is open.
+vocab: fermé | closed | fehr-MAY
+example: La boulangerie est fermée. | The bakery is closed.
+vocab: poussez | push | poo-SAY
+example: Poussez la porte. | Push the door.
+vocab: tirez | pull | tee-RAY
+example: Tirez, s'il vous plaît. | Pull, please.
+vocab: la sortie | the exit | lah sor-TEE
+example: La sortie est à gauche. | The exit is on the left.
+vocab: l'entrée | the entrance / the starter | lahn-TRAY
+example: L'entrée est à droite. | The entrance is on the right.
+vocab: les toilettes | the toilets | lay twah-LET
+example: Où sont les toilettes ? | Where are the toilets?
+vocab: la soupe du jour | the soup of the day | lah SOOP dew ZHOOR
+example: Je prends la soupe du jour. | I'll have the soup of the day.
+
+[grammar]
+grammar: Read by the rules | Put the rules together. In poussez, ou is "oo" and the final z is silent, so you say poo-SAY. In fermé, the é is "ay" and the m is pronounced: fehr-MAY. In sortie, the final e is silent: sor-TEE. Silent endings, accents and nasal vowels do most of the work.
+example: poussez | poo-SAY
+example: fermé | fehr-MAY
+grammar: Words that look like English | Many French words look like English: restaurant, hôtel, musée, information, menu. Their meaning is easy to guess, but say them the French way: hôtel is oh-TEL, musée is mew-ZAY.
+example: un restaurant | a restaurant
+example: un musée | a museum
+grammar: Signs speak to you with vous | Signs and notices often use the vous command form: poussez, tirez, entrez, attendez. Recognise the -ez ending and you will understand many instructions.
+example: Entrez ! | Come in!
+example: Poussez. | Push.
+
+[quiz]
+quiz: What does “fermé” mean? | Open | Exit | Closed | C | Fermé = closed, ouvert = open.
+quiz: How do you read “poussez”? | poo-SAY | poo-SEZ | pows-ZEZ | A | Ou is “oo” and the final z is silent.
+quiz: A sign over a door says “Sortie”. What is it? | The entrance | The exit | The toilets | B | Sortie = exit.
+quiz: Which word means “pull”? | Poussez | Entrez | Tirez | C | Tirez = pull, poussez = push.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

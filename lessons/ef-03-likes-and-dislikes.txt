@@ -1,0 +1,52 @@
+title: Likes and Dislikes
+episode: EF3
+scene: terrace
+
+[story]
+Adrien: Tu aimes le café, Marinette ? | Do you like coffee, Marinette?
+Marinette: Oui, j'adore le café ! Et toi ? | Yes, I love coffee! And you?
+Adrien: Moi, je préfère le thé. | Me, I prefer tea.
+Marinette: Tu aimes la musique ? | Do you like music?
+Adrien: Oui, j'aime beaucoup la musique. Surtout le jazz. | Yes, I like music a lot. Especially jazz.
+Marinette: Moi, je n'aime pas le jazz. Je préfère le rock. | Me, I don't like jazz. I prefer rock.
+Adrien: Et le football ? Tu aimes ça ? | And football? Do you like it?
+Marinette: Non, je déteste le football ! | No, I hate football!
+Adrien: Moi aussi, je déteste ça ! | Me too, I hate it!
+
+[vocab]
+vocab: j'aime | I like / I love | zhem
+example: J'aime le chocolat. | I like chocolate.
+vocab: j'adore | I love | zhah-DOR
+example: J'adore le café ! | I love coffee!
+vocab: je n'aime pas | I don't like | zhuh nem PAH
+example: Je n'aime pas le jazz. | I don't like jazz.
+vocab: je déteste | I hate | zhuh day-TEST
+example: Je déteste le football. | I hate football.
+vocab: je préfère | I prefer | zhuh pray-FEHR
+example: Je préfère le thé. | I prefer tea.
+vocab: beaucoup | a lot | boh-KOO
+example: J'aime beaucoup la musique. | I like music a lot.
+vocab: surtout | especially | sewr-TOO
+example: J'aime le sport, surtout le tennis. | I like sport, especially tennis.
+vocab: moi aussi | me too | mwah oh-SEE
+example: Moi aussi, j'aime le thé. | Me too, I like tea.
+
+[grammar]
+grammar: Aimer + le, la, les | In French, add the word for "the" when you talk about things you like in general: j'aime le café, j'aime la musique, j'aime les films. Le is for masculine words, la for feminine words and les for plurals.
+example: J'aime le café. | I like coffee.
+example: J'aime la musique. | I like music.
+grammar: Saying no: ne … pas | Wrap ne and pas around the verb: je n'aime pas le jazz. Ne becomes n' before a vowel. In everyday speech people often skip the ne, but write it in full while you learn.
+example: Je n'aime pas le jazz. | I don't like jazz.
+example: Je ne mange pas de viande. | I don't eat meat.
+grammar: Moi aussi / moi non plus | To agree with a positive sentence say moi aussi. To agree with a negative sentence say moi non plus.
+example: J'aime le thé. — Moi aussi ! | I like tea. — Me too!
+example: Je n'aime pas le jazz. — Moi non plus. | I don't like jazz. — Me neither.
+
+[quiz]
+quiz: What does “J'aime le café” mean? | I make coffee | I want a coffee | I like coffee | C | J'aime = I like.
+quiz: Which phrase expresses the strongest dislike? | Je déteste | Je préfère | J'aime beaucoup | A | Je déteste = I hate.
+quiz: Why does French say “J'aime le café”, not “J'aime café”? | Café is plural | French uses the article for things you like in general | It's a polite form | B | Le, la and les are used in general statements.
+quiz: What does “Moi aussi” mean? | Me neither | Not me | Me too | C | Moi aussi = me too.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

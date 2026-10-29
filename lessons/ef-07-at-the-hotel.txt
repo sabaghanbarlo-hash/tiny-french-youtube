@@ -1,0 +1,52 @@
+title: At the Hotel
+episode: EF7
+scene: home
+
+[story]
+Adrien: Bonsoir, madame. J'ai une réservation au nom de Martin. | Good evening, madam. I have a reservation under the name Martin.
+Marinette: Bonsoir, monsieur Martin. Une chambre pour deux nuits ? | Good evening, Mr Martin. A room for two nights?
+Adrien: Oui, c'est ça. Une chambre pour une personne. | Yes, that's right. A room for one person.
+Marinette: Voici votre clé. C'est la chambre douze, au premier étage. | Here is your key. It's room twelve, on the first floor.
+Adrien: Le petit déjeuner est à quelle heure ? | What time is breakfast?
+Marinette: De sept heures à dix heures. | From seven to ten.
+Adrien: Il y a le wifi dans la chambre ? | Is there wifi in the room?
+Marinette: Oui, le code est dans la chambre. | Yes, the code is in the room.
+Adrien: Merci beaucoup. Bonne soirée ! | Thank you very much. Have a nice evening!
+
+[vocab]
+vocab: une réservation | a reservation | ewn ray-zehr-vah-SYOHN
+example: J'ai une réservation. | I have a reservation.
+vocab: une chambre | a room (bedroom) | ewn SHAHN-bruh
+example: Une chambre pour deux nuits. | A room for two nights.
+vocab: une nuit | a night | ewn NWEE
+example: Pour deux nuits, s'il vous plaît. | For two nights, please.
+vocab: une clé | a key | ewn KLAY
+example: Voici votre clé. | Here is your key.
+vocab: le petit déjeuner | breakfast | luh puh-TEE day-zhuh-NAY
+example: Le petit déjeuner est à sept heures. | Breakfast is at seven.
+vocab: le premier étage | the first floor | luh pruh-MYAY ay-TAHZH
+example: La chambre est au premier étage. | The room is on the first floor.
+vocab: il y a… ? | is there…? / there is… | eel ee AH
+example: Il y a le wifi ? | Is there wifi?
+vocab: bonne soirée | have a nice evening | bun swah-RAY
+example: Merci, bonne soirée ! | Thanks, have a nice evening!
+
+[grammar]
+grammar: Une chambre pour + nights or people | Use pour to say how long or for how many people: une chambre pour deux nuits, une chambre pour une personne. Chambre is feminine, so it takes une.
+example: Une chambre pour deux nuits. | A room for two nights.
+example: Une chambre pour une personne. | A room for one person.
+grammar: Il y a = there is / there are | Il y a means both "there is" and "there are". Turn it into a question with a rising voice, or make it negative with il n'y a pas de.
+example: Il y a le wifi ? | Is there wifi?
+example: Il n'y a pas de parking. | There is no car park.
+grammar: De … à … = from … to … | Use de and à with times or places to give a range: de sept heures à dix heures, de Paris à Lyon.
+example: De sept heures à dix heures. | From seven to ten.
+example: De Paris à Lyon. | From Paris to Lyon.
+
+[quiz]
+quiz: What does “Une chambre pour deux nuits” mean? | A room for two nights | Two rooms for one night | A room for two people | A | Nuit = night.
+quiz: What is “le petit déjeuner”? | Lunch | Breakfast | Dinner | B | Petit déjeuner = breakfast.
+quiz: What does “Il y a le wifi ?” ask? | Where is the wifi? | Do you have wifi? | Is there wifi? | C | Il y a… ? = Is there…?
+quiz: What is “une clé”? | A key | A room | A floor | A | Clé = key.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
