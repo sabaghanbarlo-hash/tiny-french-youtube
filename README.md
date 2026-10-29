@@ -44,6 +44,7 @@ quiz: Question? | option A | option B | option C | B | optional explanation
 - Speakers: `Marinette` (left) and `Adrien` (right). `Marinette and Adrien: ...` = both at once.
 - In quizzes and explanations, French words are read by a character and English by the narrator. The engine decides from the words in your script; put a French phrase in «guillemets» (or in quotes) to force it.
 - Scenes: bakery, cafe, station, restaurant, store, bookstore, classroom, home, airport, street, park, beach, hospital, sakura (spring), and more. French words such as *boulangerie*, *gare* or *plage* pick the place automatically.
+- French places (all three video types): `terrace` (Paris café terrace, aliases *bistro*, *terrasse*), `eiffel` (the Eiffel Tower view, aliases *paris*, *tour eiffel*; it twinkles at night in Story videos) and `market` (a marché with cheese, vegetable and fruit stalls). Their code is in `french_places.py`; the Story spots are listed in `story/DIRECTING.md`.
 - Everything except `[story]` is optional.
 
 ### Shorts
@@ -74,4 +75,4 @@ Keep the Google consent screen **In production**, otherwise the refresh token ex
 - On Actions the render stops rather than using the low-quality fallback voice (`STRICT_VOICE=1`); just re-run.
 - Marinette says each vocabulary word and example slowly; English is read by a narrator voice.
 - Thumbnails: stories and lessons use `story/make_cover.py` (the place, weather and the two characters with the title on a banner); `thumb.py` is the fallback; Shorts use `short_thumb.py`.
-- The extra Japan-only places from the original engine (ramen shop, shrine, festival, onsen, karaoke, ...) are switched off for automatic scene picking. French places (a Paris café terrace, the Eiffel Tower view, a marché) are the natural next additions in `scenery.py`.
+- The extra Japan-only places from the original engine (ramen shop, shrine, festival, onsen, karaoke, ...) are switched off for automatic scene picking. More French places (a boulangerie interior, the Seine, the Paris metro) would be the next additions in `french_places.py`.

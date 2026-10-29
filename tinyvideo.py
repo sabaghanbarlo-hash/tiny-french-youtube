@@ -7,6 +7,7 @@ ffmpeg (encode). Runs on GitHub Actions, nothing to install locally.
 import time, argparse, asyncio, functools, glob, inspect, math, os, random, re, subprocess, sys, tempfile, wave
 import numpy as np
 import characters as CH
+import french_places as FP          # Paris café terrace, Eiffel Tower view, marché
 import lang_fr as FR
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -172,6 +173,9 @@ def kw_count(text, kw):
 SCENE_ALIASES = {a: b for a, b in SCENE_ALIASES.items() if b not in JAPAN_ONLY}
 SCENE_ALIASES.update({"boulangerie": "bakery", "paris": "street", "gare": "station", "spring": "sakura", "bread": "bakery"})
 SCENE_ORDER = [s for s in SCENE_ORDER if s not in JAPAN_ONLY]
+
+
+SCENE_ORDER += ["terrace", "eiffel", "market"]
 
 
 def pick_scene(meta, lines):
@@ -780,6 +784,8 @@ def make_scene(scene, meta, header=True):
         d.ellipse((-300, 560, 600, 1000), fill=(150, 210, 120)); d.ellipse((400, 600, 1400, 1050), fill=(130, 196, 104))
         for y, s, step in ((640, 18, 90), (720, 24, 110), (810, 32, 140)):
             for x in range(40 + (y % 50), W, step): sunflower(d, x, y, s)
+    elif scene in FP.SHORT_DRAW:
+        FP.SHORT_DRAW[scene](d, rng)
     else:
         d.rounded_rectangle((290, 280, 790, 730), radius=36, fill=(255, 255, 255))
         d.rounded_rectangle((310, 300, 770, 710), radius=26, fill=(205, 232, 244))
@@ -893,6 +899,7 @@ WEATHER_BY_SCENE = {"sakura": "petals", "fuji": "petals", "castle": "petals", "s
                     "flowers": "wind", "airport": "wind", "aquarium": "bubbles", "matsuri": "sparks"}
 WEATHER_OUTDOOR = {"sakura", "station", "street", "park", "beach", "fuji", "shrine", "snow", "rainy", "matsuri", "sunset", "rooftop",
                    "bamboo", "autumn", "castle", "flowers", "airport"}
+FP.register_short(sys.modules[__name__])
 
 
 def pick_weather(meta, lines, scene):

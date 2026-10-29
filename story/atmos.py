@@ -20,7 +20,7 @@ def bind(mod):
 
 
 OUTDOOR = {"street", "park", "sakura", "beach", "amusement", "shrine", "zoo", "airport", "town", "mountain",
-           "river", "schoolyard", "busstop", "festival"}
+           "river", "schoolyard", "busstop", "festival", "terrace", "eiffel", "market"}
 NIGHT_SCENES = {"street", "festival"}          # drawn as night scenes already
 
 

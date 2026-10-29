@@ -8,6 +8,7 @@ does not look identical.
 import math, random
 import numpy as np
 from PIL import Image, ImageDraw
+import french_places as FP          # Paris café terrace, Eiffel Tower view, marché
 
 L = None
 
@@ -15,6 +16,7 @@ L = None
 def bind(mod):
     global L
     L = mod
+    FP.bind(mod)
 
 
 # ------------------------------------------------------------------ palettes, names, spots
@@ -40,7 +42,7 @@ KEYWORDS = {
     "festival": ["festival", "fireworks", "yukata", "takoyaki", "goldfish"],
     "busstop": ["bus stop", "bus"],
 }
-_FR_KW = {"town": ["centre-ville", "rue commerçante", "boulangerie", "marché", "fleuriste"], "mountain": ["montagne", "lac", "randonnée"],
+_FR_KW = {"town": ["centre-ville", "rue commerçante", "boulangerie", "fleuriste"], "mountain": ["montagne", "lac", "randonnée"],
           "river": ["rivière", "fleuve", "seine", "pont"], "train": ["métro", "rer"], "bedroom": ["chambre", "lit", "dormir", "réveille"],
           "kitchen": ["cuisine", "cuisiner", "frigo", "recette"], "schoolyard": ["cour de l'école", "récréation"], "busstop": ["arrêt de bus", "bus"]}
 for _k, _v in _FR_KW.items():
@@ -418,7 +420,9 @@ def _busstop(d, rng):
 
 DRAW = {"town": _town, "mountain": _mountain, "river": _river, "train": _train, "bedroom": _bedroom, "kitchen": _kitchen,
         "schoolyard": _schoolyard, "festival": _festival, "busstop": _busstop}
-BIRD_SCENES = {"park", "sakura", "beach", "town", "mountain", "river", "schoolyard", "shrine"}
+
+SCENES.update(FP.SCENES); KEYWORDS.update(FP.KEYWORDS); ALIASES.update(FP.ALIASES); LANDMARKS.update(FP.LANDMARKS); DRAW.update(FP.DRAW)
+BIRD_SCENES = {"terrace", "eiffel", "market", "park", "sakura", "beach", "town", "mountain", "river", "schoolyard", "shrine"}
 
 
 def _birds(fr, tt):
@@ -437,6 +441,8 @@ def dynamic(fr, scene, tt, seg):
         _train_dyn(fr, tt)
     elif scene == "festival":
         _fireworks(fr, tt)
+    elif scene == "eiffel" and seg.get("tod") == "night":
+        FP.sparkle(fr, tt)
     elif scene == "kitchen":
         _steam(fr, tt)
     if scene in BIRD_SCENES and seg.get("tod") != "night":

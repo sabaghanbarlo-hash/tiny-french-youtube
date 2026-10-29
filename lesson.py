@@ -184,6 +184,10 @@ def shelves(d, rng, x0, x1, ys, base=(150, 104, 72), books=True):
             d.rectangle((x, y + 150 - hh, x + w, y + 150), fill=rng.choice(pal)); x += w + 4
 
 
+import french_places as FP          # Paris café terrace, Eiffel Tower view, marché
+FP.register(sys.modules[__name__])
+
+
 def make_scene(scene):
     """Return (background RGB, foreground table strip RGBA) for a scene, 1920x1080."""
     sc = SCENES[scene]; rng = random.Random(7)
@@ -257,6 +261,8 @@ def make_scene(scene):
         d.rectangle((900, 330, 1020, 370), fill=(236, 86, 96)); d.rectangle((940, 290, 980, 410), fill=(236, 86, 96))
         for x in (420, 1300):
             d.rounded_rectangle((x, 520, x + 200, 760), radius=12, fill=(250, 250, 252), outline=(160, 200, 206), width=7)
+    if scene in FP.DRAW:
+        FP.DRAW[scene](d, rng)
     d.rectangle((0, FLOOR_Y, W, H), fill=sc["floor"])
     for y in range(FLOOR_Y + 70, H, 74):
         d.line([(0, y), (W, y)], fill=tuple(int(v * 0.93) for v in sc["floor"]), width=3)
