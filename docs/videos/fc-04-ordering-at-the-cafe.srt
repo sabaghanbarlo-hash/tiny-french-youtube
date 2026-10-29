@@ -1,0 +1,44 @@
+1
+00:00:12,336 --> 00:00:16,724
+Bonjour ! Vous désirez ?
+Hello! What would you like?
+
+2
+00:00:16,824 --> 00:00:23,468
+Bonjour. Je voudrais un café et un thé au citron, s'il vous plaît.
+Hello. I'd like a coffee and a lemon tea, please.
+
+3
+00:00:23,568 --> 00:00:27,716
+Très bien. Et avec ça ?
+Very good. Anything else?
+
+4
+00:00:27,816 --> 00:00:31,268
+Un croissant, s'il vous plaît.
+A croissant, please.
+
+5
+00:00:31,368 --> 00:00:36,884
+Voilà ! Un café, un thé et un croissant.
+Here you are! A coffee, a tea and a croissant.
+
+6
+00:00:36,984 --> 00:00:41,996
+Merci ! L'addition, s'il vous plaît ?
+Thank you! The bill, please?
+
+7
+00:00:42,096 --> 00:00:47,372
+Tout de suite. Ça fait sept euros cinquante.
+Right away. That's seven euros fifty.
+
+8
+00:00:47,472 --> 00:00:51,716
+Voilà. Gardez la monnaie !
+Here you go. Keep the change!
+
+9
+00:00:51,816 --> 00:00:55,124
+Merci, bonne journée !
+Thank you, have a nice day!

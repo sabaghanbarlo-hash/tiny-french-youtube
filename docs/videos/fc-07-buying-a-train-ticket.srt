@@ -1,0 +1,49 @@
+1
+00:00:12,288 --> 00:00:19,028
+Bonjour, madame. Je voudrais un billet pour Lyon, s'il vous plaît.
+Hello, madam. I would like a ticket to Lyon, please.
+
+2
+00:00:19,128 --> 00:00:22,724
+Un aller simple ou un aller-retour ?
+A one-way or a return?
+
+3
+00:00:22,824 --> 00:00:26,516
+Un aller-retour, s'il vous plaît.
+A return, please.
+
+4
+00:00:26,616 --> 00:00:29,156
+Pour quel jour ?
+For which day?
+
+5
+00:00:29,256 --> 00:00:32,372
+Pour demain, le matin.
+For tomorrow, in the morning.
+
+6
+00:00:32,472 --> 00:00:37,508
+Il y a un train à neuf heures. Ça vous va ?
+There's a train at nine o'clock. Does that suit you?
+
+7
+00:00:37,608 --> 00:00:42,092
+Oui, parfait. C'est combien ?
+Yes, perfect. How much is it?
+
+8
+00:00:42,192 --> 00:00:44,636
+Vingt euros.
+Twenty euros.
+
+9
+00:00:44,736 --> 00:00:49,292
+Voilà. De quel quai part le train ?
+Here you go. Which platform does the train leave from?
+
+10
+00:00:49,392 --> 00:00:54,164
+Quai numéro trois. Bon voyage !
+Platform number three. Have a good trip!
