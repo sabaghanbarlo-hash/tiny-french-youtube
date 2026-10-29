@@ -461,7 +461,9 @@ def sunflower(d, x, y, s):
 def make_scene(scene, meta, header=True):
     sc = SCENES.get(scene, SCENES["cafe"]); rng = random.Random(7)
     bg = vgrad(W, H, sc["top"], sc["bot"]); d = ImageDraw.Draw(bg)
-    if scene == "restaurant":
+    if scene in FP.SHORT_SCENES:
+        FP.draw_short(scene, bg, rng)
+    elif scene == "restaurant":
         for x in (150, 540, 930):
             d.line([(x, 0), (x, 250)], fill=(120, 90, 80), width=5)
             d.ellipse((x - 60, 230, x + 60, 300), fill=(255, 214, 120)); d.ellipse((x - 150, 200, x + 150, 420), fill=(255, 226, 150, 40))

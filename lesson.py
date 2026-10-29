@@ -192,7 +192,9 @@ def make_scene(scene):
     """Return (background RGB, foreground table strip RGBA) for a scene, 1920x1080."""
     sc = SCENES[scene]; rng = random.Random(7)
     bg = vgrad(W, H, sc["top"], sc["bot"]); d = ImageDraw.Draw(bg)
-    if scene == "classroom":
+    if scene in FP.DRAW:
+        FP.DRAW[scene](d, rng)
+    elif scene == "classroom":
         d.rounded_rectangle((470, 170, 1450, 650), radius=22, fill=(150, 112, 78)); d.rounded_rectangle((492, 192, 1428, 628), radius=12, fill=(52, 98, 80))
         d.text((960, 330), "Français", font=font(130), fill=(244, 244, 236), anchor="mm"); d.text((960, 520), "a  b  c  d  e", font=font(90), fill=(244, 230, 140), anchor="mm")
         d.ellipse((1500, 200, 1620, 320), fill=(250, 250, 250), outline=(60, 60, 70), width=8); d.line([(1560, 260), (1560, 220)], fill=(60, 60, 70), width=7); d.line([(1560, 260), (1592, 276)], fill=(60, 60, 70), width=7)
@@ -261,9 +263,9 @@ def make_scene(scene):
         d.rectangle((900, 330, 1020, 370), fill=(236, 86, 96)); d.rectangle((940, 290, 980, 410), fill=(236, 86, 96))
         for x in (420, 1300):
             d.rounded_rectangle((x, 520, x + 200, 760), radius=12, fill=(250, 250, 252), outline=(160, 200, 206), width=7)
-    if scene in FP.DRAW:
-        FP.DRAW[scene](d, rng)
     d.rectangle((0, FLOOR_Y, W, H), fill=sc["floor"])
+    if scene in FP.FLOOR:
+        FP.FLOOR[scene](d, rng)
     for y in range(FLOOR_Y + 70, H, 74):
         d.line([(0, y), (W, y)], fill=tuple(int(v * 0.93) for v in sc["floor"]), width=3)
     fg = Image.new("RGBA", (W, 130), (0, 0, 0, 0)); g = ImageDraw.Draw(fg)

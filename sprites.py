@@ -65,6 +65,23 @@ def _smooth(layer, S, r=5, thr=120):
 
 
 @functools.lru_cache(None)
+def _arms(d, S, sleeve, edge):
+    """Two sleeves coming down from the shoulders, hands clasped in front (above the table line in every video type)."""
+    P = lambda *v: [int(x * S) for x in v]
+    for pts in (((206, 508), (150, 584), (228, 612)), ((354, 508), (410, 584), (332, 612))):
+        for col, wd in ((edge, 66), (sleeve, 58)):
+            d.line([(x * S, y * S) for x, y in pts], fill=col, width=int(wd * S), joint="curve")
+            for x, y in pts:
+                r = wd / 2
+                d.ellipse(P(x - r, y - r, x + r, y + r), fill=col)
+    for box in ((212, 592, 284, 640), (276, 592, 348, 640)):
+        d.ellipse(P(*box), fill=SKIN, outline=SKIN_SH, width=int(3 * S))
+    for x0 in (230, 252, 300, 322):                                    # fingers
+        d.line(P(x0, 610, x0 + 6, 632), fill=SKIN_SH, width=int(3 * S))
+    d.ellipse(P(252, 582, 282, 606), fill=SKIN, outline=SKIN_SH, width=int(3 * S))        # thumbs
+    d.ellipse(P(278, 582, 308, 606), fill=SKIN, outline=SKIN_SH, width=int(3 * S))
+
+
 def sprite(name, mouth, blink):
     S = 2 * CHAR_SCALE
     w, h = int(560 * S), int(760 * S)
@@ -109,6 +126,7 @@ def sprite(name, mouth, blink):
         poly([(240, 462), (262, 470), (252, 500)], SKIN_SH)
         poly([(214, 472), (246, 462), (238, 548), (198, 520)], (232, 224, 226)); poly([(346, 472), (314, 462), (322, 548), (362, 520)], (232, 224, 226))   # collar
         line([(176, 540), (196, 640)], (226, 216, 218), 4); line([(384, 540), (364, 640)], (226, 216, 218), 4)
+        _arms(d, S, (252, 250, 250), (168, 158, 164))
         ell((130, 316, 180, 396), SKIN)                                                    # left ear
         ell((136, 154, 424, 462), SKIN)                                                    # face
         # fringe: big swoop from his right to his left
@@ -161,6 +179,7 @@ def sprite(name, mouth, blink):
             poly(lock_pts((160, 440), (150, 470), (136, 520), 54), navy, dd); poly(lock_pts((400, 440), (410, 470), (424, 520), 54), navy, dd)
         put(layer(tails, navy, 6))
         ell((146, 456, 170, 486), (206, 54, 64)); ell((390, 456, 414, 486), (206, 54, 64))
+        _arms(d, S, (104, 94, 102), (44, 36, 42))
         for root, ctrl, tip in (((170, 140), (130, 220), (168, 320)), ((260, 130), (222, 180), (232, 250)), ((406, 150), (432, 220), (404, 290))):
             line(_bez(root, ctrl, tip, 10), navy_l, 6)
         line(_bez((110, 520), (100, 570), (130, 620), 10), navy_l, 5); line(_bez((450, 520), (460, 570), (430, 620), 10), navy_l, 5)

@@ -30,6 +30,7 @@ def register_short(mod):
         mod.SCENE_KEYWORDS.setdefault(k, []).extend(v)
     mod.SCENE_ALIASES.update(ALIASES)
     mod.WEATHER_OUTDOOR.update(OUTDOOR)
+    mod.SCENE_KEYWORDS.pop("sakura", None)
 
 
 SCENES = {
@@ -801,6 +802,8 @@ ALIASES.update({"bakery": "bakery", "boulangerie": "bakery", "bread": "bakery", 
                 "apartment": "home", "appartement": "home", "épicerie": "store", "epicerie": "store"})
 LANDMARKS.update({"classroom": {"door": 0.1, "blackboard": 0.5, "desk": 0.35}, "cafe": {"counter": 0.8, "window": 0.45, "door": 0.1},
                   "station": {"platform": 0.5, "ticket gate": 0.2, "ticket machine": 0.12}, "store": {"register": 0.8, "shelf": 0.5, "door": 0.1}})
+KEYWORDS["sakura"] = []
+ALIASES.update({"spring": "park", "printemps": "park", "sakura": "park"})
 OUTDOOR.update({"street", "town", "bakery", "park", "bookstore"})
 BIRD_SCENES.update({"street", "town", "bakery", "park", "bookstore"})
 
