@@ -1,0 +1,45 @@
+title: At the Bakery
+episode: 1
+scene: bakery
+
+[story]
+Marinette: Bonjour, Adrien ! | Hello, Adrien!
+Adrien: Bonjour, Marinette ! Ça va ? | Hello, Marinette! How are you?
+Marinette: Ça va bien, merci. Et toi ? | I'm fine, thank you. And you?
+Adrien: Très bien ! J'ai faim. | Very well! I'm hungry.
+Marinette: Moi aussi. Allons à la boulangerie ! | Me too. Let's go to the bakery!
+Adrien: Bonne idée ! | Good idea!
+Marinette: Bonjour, madame. Je voudrais un croissant, s'il vous plaît. | Hello, madam. I would like a croissant, please.
+Adrien: Et pour moi, une baguette, s'il vous plaît. | And for me, a baguette, please.
+Marinette: Ça coûte combien ? | How much is it?
+Adrien: Trois euros cinquante. | Three euros fifty.
+Marinette: Voilà ! | Here you go!
+Adrien: Merci, madame. Au revoir ! | Thank you, madam. Goodbye!
+Marinette: Mmm, il est délicieux ! | Mmm, it's delicious!
+Adrien: À demain, Marinette ! | See you tomorrow, Marinette!
+
+[vocab]
+vocab: un croissant | a croissant | un kwa-SSAN
+example: Je voudrais un croissant. | I would like a croissant.
+vocab: s'il vous plaît | please | seel voo PLEH
+example: Un café, s'il vous plaît. | A coffee, please.
+vocab: combien | how much | kom-BYAN
+example: Ça coûte combien ? | How much is it?
+vocab: à demain | see you tomorrow
+example: Au revoir, à demain ! | Goodbye, see you tomorrow!
+
+[grammar]
+grammar: Je voudrais + noun | Use this to politely ask for something
+example: Je voudrais une baguette. | I would like a baguette.
+example: Je voudrais un thé. | I would like a tea.
+grammar: J'ai faim | Use this to say that you are hungry
+example: J'ai faim ! | I'm hungry!
+example: Tu as faim ? | Are you hungry?
+
+[quiz]
+quiz: How do you say "please" when you order? | Merci | S'il vous plaît | Au revoir | B | "S'il vous plaît" is the polite way to ask.
+quiz: What does "J'ai faim" mean? | I'm hungry | I'm tired | I'm happy | A | "Faim" means hunger.
+quiz: Which sentence asks for a croissant politely? | Je voudrais un croissant. | Un croissant maintenant. | Tu es un croissant. | A | "Je voudrais" means "I would like".
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
