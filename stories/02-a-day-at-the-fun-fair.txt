@@ -1,0 +1,61 @@
+title: A Day at the Fun Fair
+episode: 2
+scene: amusement park
+
+[story]
+@scene amusement park
+> Marinette enters left
+& Adrien enters left
+> Adrien looks surprised
+Adrien: Waouh, une fête foraine ! | Wow, a fun fair!
+> Marinette cheers
+Marinette: Regarde ! Il y a de la barbe à papa ! | Look! There is cotton candy!
+> both walk to the cotton candy stall
+Adrien: Bonjour, deux barbes à papa, s'il vous plaît. | Hello, two cotton candies, please.
+> Adrien buys cotton candy
+& Marinette buys cotton candy
+Marinette: Merci beaucoup ! | Thank you very much!
+> both eat
+Adrien: C'est délicieux ! | It's delicious!
+Marinette: Oui, c'est très sucré ! | Yes, it's very sweet!
+> both drop
+> both walk to the ticket booth
+Marinette: Achetons des billets pour les manèges ! | Let's buy tickets for the rides!
+> Marinette buys ticket
+& Adrien buys ticket
+Adrien: Maintenant, on peut monter ! | Now we can ride!
+> both ride the carousel
+Marinette: C'était amusant ! | That was fun!
+> Adrien looks happy
+Adrien: Maintenant, la grande roue ! | Now, the Ferris wheel!
+> both ride the ferris wheel
+> both drop
+> Marinette waves
+Marinette: C'est très haut ! Génial ! | It's very high! Great!
+> both walk to home
+Adrien: Quelle belle journée ! | What a great day!
+> Marinette nods
+Marinette: Revenons bientôt ! | Let's come back soon!
+
+[vocab]
+vocab: la barbe à papa | cotton candy | la barb a pa-PA
+example: J'adore la barbe à papa. | I love cotton candy.
+vocab: un manège | a ride / carousel | uhn ma-NEZH
+example: Le manège est amusant. | The carousel is fun.
+vocab: haut | high / tall | OH
+example: La grande roue est très haute. | The Ferris wheel is very high.
+vocab: amusant | fun | a-mu-ZAN
+example: Aujourd'hui, c'était amusant. | Today was fun.
+
+[grammar]
+grammar: Deux + noun, s'il vous plaît | Use this to ask politely for a number of things
+example: Deux glaces, s'il vous plaît. | Two ice creams, please.
+example: Un billet, s'il vous plaît. | One ticket, please.
+grammar: C'est + adjective | Use this to say how something is
+example: C'est délicieux ! | It's delicious!
+example: C'est très haut ! | It's very high!
+
+[quiz]
+quiz: How do you ask for two cotton candies politely? | Deux barbes à papa, s'il vous plaît | Deux barbes à papa, merci | Je suis deux barbes à papa | A | "S'il vous plaît" makes a request polite.
+quiz: What does "un manège" mean? | a ride / carousel | a ticket | a candy | A | A manège is a carousel or a ride.
+quiz: Which one means "fun"? | haut | amusant | sucré | B | "Amusant" means fun.

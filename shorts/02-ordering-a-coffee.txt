@@ -1,0 +1,18 @@
+title: Ordering a Coffee
+episode: 2
+scene: cafe
+
+[story]
+Marinette: Bonjour ! Un café, s'il vous plaît. | Hello! A coffee, please.
+Adrien: Bien sûr. Et pour vous ? | Of course. And for you?
+Marinette: Je voudrais un thé, s'il vous plaît. | I would like a tea, please.
+Marinette: Merci ! Bonne journée ! | Thank you! Have a nice day!
+
+[vocab]
+vocab: un café | a coffee | uhn ka-FAY
+example: Je voudrais un café. | I would like a coffee.
+vocab: bonne journée | have a nice day | bon zhoor-NAY
+example: Au revoir, bonne journée ! | Goodbye, have a nice day!
+
+[quiz]
+quiz: How do you say "have a nice day"? | Bonne nuit | Bonne journée | Bon appétit | B | "Journée" means day.

@@ -92,4 +92,4 @@ def split_runs(text, default=False):
 
 def options_default(question):
     """Quiz options are French unless the question asks what a French word means."""
-    return not re.search(r"\b(what does|mean|means|meaning|in english)\b", question or "", re.I)
+    return not re.search(r"\b(what does|what do|in english|translate)\b", question or "", re.I)
