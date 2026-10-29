@@ -1,0 +1,69 @@
+1
+00:00:11,832 --> 00:00:14,972
+Bonjour, Adrien !
+Hello, Adrien!
+
+2
+00:00:15,072 --> 00:00:19,916
+Bonjour, Marinette ! Ça va ?
+Hello, Marinette! How are you?
+
+3
+00:00:20,016 --> 00:00:25,004
+Ça va bien, merci. Et toi ?
+I'm fine, thank you. And you?
+
+4
+00:00:25,104 --> 00:00:28,940
+Très bien ! J'ai faim.
+Very well! I'm hungry.
+
+5
+00:00:29,040 --> 00:00:34,004
+Moi aussi. Allons à la boulangerie !
+Me too. Let's go to the bakery!
+
+6
+00:00:34,104 --> 00:00:36,476
+Bonne idée !
+Good idea!
+
+7
+00:00:36,576 --> 00:00:43,244
+Bonjour, madame. Je voudrais un croissant, s'il vous plaît.
+Hello, madam. I would like a croissant, please.
+
+8
+00:00:43,344 --> 00:00:47,660
+Et pour moi, une baguette, s'il vous plaît.
+And for me, a baguette, please.
+
+9
+00:00:47,760 --> 00:00:50,516
+Ça coûte combien ?
+How much is it?
+
+10
+00:00:50,616 --> 00:00:53,588
+Trois euros cinquante.
+Three euros fifty.
+
+11
+00:00:53,688 --> 00:00:56,060
+Voilà !
+Here you go!
+
+12
+00:00:56,160 --> 00:01:01,100
+Merci, madame. Au revoir !
+Thank you, madam. Goodbye!
+
+13
+00:01:01,200 --> 00:01:04,604
+Mmm, il est délicieux !
+Mmm, it's delicious!
+
+14
+00:01:04,704 --> 00:01:07,964
+À demain, Marinette !
+See you tomorrow, Marinette!
