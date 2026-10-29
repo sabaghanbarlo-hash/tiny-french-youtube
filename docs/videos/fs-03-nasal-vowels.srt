@@ -1,0 +1,34 @@
+1
+00:00:12,000 --> 00:00:17,012
+Bonjour ! Un pain, s'il vous plaît.
+Hello! A loaf of bread, please.
+
+2
+00:00:17,112 --> 00:00:21,860
+Bonjour ! Un grand pain ou un petit ?
+Hello! A big loaf or a small one?
+
+3
+00:00:21,960 --> 00:00:25,340
+Un pain blanc, s'il vous plaît.
+A white loaf, please.
+
+4
+00:00:25,440 --> 00:00:27,812
+Et avec ça ?
+And with that?
+
+5
+00:00:27,912 --> 00:00:30,956
+Un croissant et un flan.
+A croissant and a flan.
+
+6
+00:00:31,056 --> 00:00:34,172
+Mmm, c'est bon !
+Mmm, it's good!
+
+7
+00:00:34,272 --> 00:00:38,804
+Voilà. Ça fait cinq euros vingt.
+Here you go. That's five euros twenty.
