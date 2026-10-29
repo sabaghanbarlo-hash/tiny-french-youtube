@@ -302,103 +302,568 @@ def sparkle(fr, tt):
             d.ellipse((cx + half - r, y - r, cx + half + r, y + r), fill=(255, 236, 160))
 
 
-# ------------------------------------------------------------------ vertical versions for Shorts (1080 wide, ground at y = 885, art from y = 270)
-SW, SG = 1080, 885
+
+# ======================================================================= more French places (override the Japan-flavoured originals)
+# Every scene is drawn once at 1920x800 (ground at y = 800). Shorts reuse it: drawn off-screen, scaled and cropped to the vertical frame.
+GROUND = 800
+STONE = [(238, 228, 208), (232, 222, 200), (240, 232, 214), (228, 218, 198)]
+ZINC = [(98, 112, 132), (86, 100, 120), (108, 120, 138)]
+WALLACE = (40, 92, 76)
+BORDEAUX = (126, 38, 50)
+NAVY = (34, 56, 100)
+MUSTARD = (226, 172, 62)
+CREAM = (250, 244, 232)
+WOOD = (110, 70, 50)
+BRASS = (210, 170, 80)
+FRAME = (214, 172, 84)
 
 
-def _terrace_s(d, rng):
-    _cloud(d, 240, 320, 0.8); _cloud(d, 860, 300, 0.7)
-    _row_of_buildings(d, rng, SG, -40, SW, 330, 430, [(238, 228, 208), (232, 222, 200)], [(98, 112, 132), (86, 100, 120)])
-    d.rectangle((50, 560, 1030, SG), fill=(38, 86, 74)); d.rectangle((50, 560, 1030, 572), fill=(28, 64, 56))
-    _sign(d, 470, 468, 560, 78, "Café de Paris", (30, 70, 60), fg=(246, 214, 120), size=50)
-    for wx in (90, 400):
-        d.rounded_rectangle((wx, 612, wx + 270, 836), radius=10, fill=(176, 214, 230), outline=(246, 214, 120), width=5)
-        d.line([(wx + 135, 612), (wx + 135, 836)], fill=(246, 214, 120), width=4)
-    d.rounded_rectangle((740, 612, 870, SG), radius=10, fill=(150, 96, 70), outline=(246, 214, 120), width=5)
-    d.rounded_rectangle((760, 632, 850, 770), radius=8, fill=(176, 214, 230))
-    _awning(d, 40, 720, 556, 626, (196, 52, 60), (250, 244, 232), stripes=10)
-    for bx in (110, 420):
-        d.rectangle((bx, 520, bx + 90, 540), fill=(96, 70, 56))
-        for k in range(6):
-            d.ellipse((bx + 4 + k * 14, 502 + (k % 2) * 6, bx + 24 + k * 14, 524 + (k % 2) * 6), fill=(226, 70, 84) if k % 3 else (244, 150, 168))
-    for tx in (250, 560):
-        d.ellipse((tx - 62, 780, tx + 62, 804), fill=(250, 248, 244), outline=(150, 150, 156), width=3)
-        d.rectangle((tx - 5, 804, tx + 5, 862), fill=(70, 70, 78)); d.ellipse((tx - 34, 856, tx + 34, 868), fill=(70, 70, 78))
-        d.ellipse((tx - 18, 766, tx + 18, 782), fill=(236, 120, 130))
-    lx = 1010
-    d.rectangle((lx - 7, 400, lx + 7, SG), fill=(34, 74, 62)); d.ellipse((lx - 22, 855, lx + 22, SG), fill=(34, 74, 62))
-    d.ellipse((lx - 20, 352, lx + 20, 404), fill=(255, 238, 180), outline=(34, 74, 62), width=5)
-    d.arc((lx - 50, 380, lx + 50, 450), 180, 360, fill=(34, 74, 62), width=6)
+def _lamp(d, x, base=GROUND, h=380, col=WALLACE):
+    d.rectangle((x - 6, base - h, x + 6, base), fill=col)
+    d.ellipse((x - 22, base - 26, x + 22, base), fill=col)
+    d.rectangle((x - 12, base - h * 0.35, x + 12, base - h * 0.35 + 10), fill=col)
+    d.arc((x - 46, base - h - 40, x + 46, base - h + 40), 180, 360, fill=col, width=6)
+    for ox in (-40, 40):
+        d.ellipse((x + ox - 16, base - h - 4, x + ox + 16, base - h + 40), fill=(255, 238, 180), outline=col, width=4)
+    d.ellipse((x - 16, base - h - 56, x + 16, base - h - 10), fill=(255, 238, 180), outline=col, width=4)
 
 
-def _eiffel_s(d, rng):
-    _cloud(d, 200, 340, 0.9); _cloud(d, 900, 300, 0.7)
-    x = -20
-    while x < SW:
-        w = rng.randint(110, 180); h = rng.randint(60, 120)
-        d.rectangle((x, SG - 20 - h, x + w, SG - 20), fill=rng.choice([(226, 214, 196), (216, 206, 192), (232, 222, 204)]))
-        d.polygon([(x - 4, SG - 20 - h), (x + w + 4, SG - 20 - h), (x + w - 14, SG - 44 - h), (x + 14, SG - 44 - h)], fill=(110, 122, 140))
-        x += w + rng.randint(0, 8)
-    cx, base, top = 600, SG, 290
-    Ht = base - top
-    iron, lattice, dark = (112, 92, 80), (160, 136, 116), (84, 68, 60)
-    hw = lambda y: 8 + 196 * (1 - (base - y) / Ht) ** 2.35
-    arch = 104
-    a = hw(base) * 0.66
-    inner = lambda y: a * math.sqrt(max(0.0, 1 - ((base - y) / arch) ** 2))
-    ys = list(range(base, base - arch - 1, -4))
-    for sgn in (-1, 1):
-        d.polygon([(cx + sgn * hw(y), y) for y in ys] + [(cx + sgn * inner(y), y) for y in reversed(ys)], fill=iron)
-    up = list(range(base - arch, top - 1, -4))
-    d.polygon([(cx - hw(y), y) for y in up] + [(cx + hw(y), y) for y in reversed(up)], fill=iron)
-    d.rectangle((cx - hw(base - arch) + 2, base - arch - 7, cx + hw(base - arch) - 2, base - arch + 5), fill=dark)
-    bands = [base - arch, base - 200, base - 290, base - 380, base - 450, top + 8]
-    for y1, y2 in zip(bands[:-1], bands[1:]):
-        w1, w2 = hw(y1) - 5, hw(y2) - 3
-        d.line([(cx - w1, y1), (cx + w2, y2)], fill=lattice, width=3); d.line([(cx + w1, y1), (cx - w2, y2)], fill=lattice, width=3)
-        d.line([(cx - w1, y1), (cx + w1, y1)], fill=dark, width=4)
-    for yp, ext in ((base - 200, 15), (base - 380, 10)):
-        d.rounded_rectangle((cx - hw(yp) - ext, yp - 7, cx + hw(yp) + ext, yp + 9), radius=4, fill=dark)
-    d.polygon([(cx - 10, top + 3), (cx + 10, top + 3), (cx + 3, top - 38), (cx - 3, top - 38)], fill=dark)
-    d.line([(cx, top - 38), (cx, top - 70)], fill=dark, width=5)
-    for tx, h in ((70, 300), (1010, 280)):
-        _tree(d, tx, SG, h, leaf=(86, 160, 96))
-    bx = 210
-    d.rounded_rectangle((bx - 80, 808, bx + 80, 826), radius=6, fill=(110, 86, 64)); d.rounded_rectangle((bx - 80, 760, bx + 80, 776), radius=6, fill=(126, 98, 72))
-    for lx in (bx - 62, bx + 62):
-        d.rectangle((lx - 5, 776, lx + 5, SG - 4), fill=(58, 62, 70))
-    d.rectangle((0, SG - 28, SW, SG), fill=(110, 170, 96))
-    for hx in range(0, SW, 36):
-        d.ellipse((hx, SG - 36, hx + 44, SG), fill=(96, 160, 88))
+def _morris(d, x, base=GROUND):
+    """Colonne Morris, the green advertising column."""
+    d.rectangle((x - 54, base - 250, x + 54, base - 14), fill=WALLACE)
+    d.ellipse((x - 62, base - 28, x + 62, base), fill=(28, 70, 58))
+    d.polygon([(x - 58, base - 250), (x + 58, base - 250), (x + 40, base - 296), (x - 40, base - 296)], fill=(30, 76, 62))
+    d.ellipse((x - 40, base - 312, x + 40, base - 280), fill=(30, 76, 62))
+    d.rectangle((x - 6, base - 344, x + 6, base - 312), fill=(30, 76, 62))
+    for j, c in enumerate(((236, 220, 160), (232, 140, 120), (150, 190, 214))):
+        yy = base - 232 + j * 70
+        d.rectangle((x - 44, yy, x + 44, yy + 56), fill=c)
+        d.rectangle((x - 30, yy + 10, x + 30, yy + 18), fill=(80, 70, 70)); d.rectangle((x - 30, yy + 28, x + 12, yy + 34), fill=(110, 100, 100))
 
 
-def _market_s(d, rng):
-    _cloud(d, 220, 330, 0.8); _cloud(d, 880, 310, 0.7)
-    _row_of_buildings(d, rng, SG, -40, SW, 300, 400, [(236, 226, 206), (230, 220, 200), (240, 234, 218)], [(98, 112, 132), (86, 100, 120)])
-    for tx in (60, 1020):
-        _tree(d, tx, SG, 340, leaf=(112, 172, 100))
-    pts = [(x, 320 + 20 * math.sin(x / 120)) for x in range(0, SW + 40, 40)]
-    d.line(pts, fill=(110, 90, 80), width=3)
-    cols = [(40, 80, 190), (250, 250, 250), (210, 50, 60)]
-    for j, (x, y) in enumerate(pts[:-1]):
-        d.polygon([(x, y), (x + 40, y + 2), (x + 20, y + 46)], fill=cols[j % 3])
-    for cx, label, c1, c2, kind in ((190, "Fromages", (236, 184, 60), (252, 246, 226), "cheese"),
-                                    (540, "Légumes", (84, 160, 88), (250, 250, 240), "veg"),
-                                    (890, "Fruits", (214, 70, 70), (252, 244, 238), "fruit")):
-        for px in (cx - 150, cx + 150):
-            d.rectangle((px - 5, 520, px + 5, SG), fill=(120, 92, 70))
-        _awning(d, cx - 160, cx + 160, 512, 580, c1, c2, stripes=8)
-        _sign(d, cx, 444, 240, 62, label, c1, fg=(255, 255, 255) if kind != "cheese" else (96, 64, 20), size=40)
-        d.rectangle((cx - 150, 720, cx + 150, 790), fill=(190, 142, 98)); d.rectangle((cx - 150, 790, cx + 150, SG), fill=(156, 112, 76))
+def _shopfront(d, x, w, y_top, y0, col, label, awn=None, fgc=(250, 244, 232), door=False, size=28):
+    d.rectangle((x + 6, y_top, x + w - 6, y0), fill=col)
+    d.rectangle((x + 6, y_top, x + w - 6, y_top + 6), fill=tuple(int(v * 0.7) for v in col))
+    d.rectangle((x + 14, y_top + 10, x + w - 14, y_top + 52), fill=tuple(int(v * 0.82) for v in col))
+    d.text((x + w // 2, y_top + 31), label, font=L.font(size), fill=fgc, anchor="mm")
+    wx0 = x + 24
+    if door:
+        d.rounded_rectangle((x + w - 92, y_top + 64, x + w - 24, y0), radius=6, fill=tuple(int(v * 0.8) for v in col), outline=fgc, width=3)
+        d.rectangle((x + w - 82, y_top + 76, x + w - 34, y_top + 140), fill=(176, 208, 224))
+        wx1 = x + w - 110
+    else:
+        wx1 = x + w - 24
+    d.rectangle((wx0, y_top + 66, wx1, y0 - 14), fill=(178, 210, 226), outline=fgc, width=3)
+    d.line([((wx0 + wx1) // 2, y_top + 66), ((wx0 + wx1) // 2, y0 - 14)], fill=fgc, width=3)
+    if awn:
+        _awning(d, x + 2, x + w - 2, y_top + 54, y_top + 100, awn[0], awn[1], stripes=max(4, w // 36))
+
+
+def _bentwood(d, cx, base, s=1.0, col=(70, 44, 34)):
+    """A bistro chair seen from the front."""
+    d.arc((cx - 28 * s, base - 150 * s, cx + 28 * s, base - 70 * s), 180, 360, fill=col, width=max(3, int(7 * s)))
+    d.line([(cx - 26 * s, base - 110 * s), (cx - 24 * s, base - 62 * s)], fill=col, width=max(3, int(6 * s)))
+    d.line([(cx + 26 * s, base - 110 * s), (cx + 24 * s, base - 62 * s)], fill=col, width=max(3, int(6 * s)))
+    d.ellipse((cx - 32 * s, base - 72 * s, cx + 32 * s, base - 56 * s), fill=(150, 104, 74), outline=col, width=2)
+    for lx in (-24, 22):
+        d.line([(cx + lx * s, base - 60 * s), (cx + (lx + (3 if lx > 0 else -3)) * s, base)], fill=col, width=max(3, int(6 * s)))
+
+
+def _round_table(d, cx, base, r=70, top=(250, 248, 244), cloth=None):
+    ty = base - 100
+    if cloth:
+        d.polygon([(cx - r, ty), (cx + r, ty), (cx + r + 14, ty + 56), (cx - r - 14, ty + 56)], fill=cloth[0])
+        for k in range(-3, 4):
+            d.line([(cx + k * r / 3.5, ty), (cx + k * (r + 14) / 3.5, ty + 56)], fill=cloth[1], width=5)
+        d.ellipse((cx - r, ty - 14, cx + r, ty + 14), fill=cloth[1], outline=cloth[0], width=3)
+    else:
+        d.ellipse((cx - r, ty - 14, cx + r, ty + 14), fill=top, outline=(150, 150, 156), width=3)
+        d.rectangle((cx - 5, ty + 12, cx + 5, base - 8), fill=(60, 60, 68))
+        d.ellipse((cx - 38, base - 16, cx + 38, base), fill=(60, 60, 68))
+
+
+def _books(d, x0, y0, x1, rng, rows=1, h=44):
+    for r in range(rows):
+        x = x0
+        while x < x1 - 12:
+            w = rng.randint(12, 24); hh = rng.randint(h - 12, h)
+            d.rectangle((x, y0 + r * (h + 4) + (h - hh), x + w, y0 + r * (h + 4) + h),
+                        fill=rng.choice([(150, 60, 60), (60, 90, 140), (190, 150, 70), (80, 120, 90), (120, 80, 130), (200, 190, 170)]))
+            x += w + 2
+
+
+def _window_street(d, x0, y0, x1, y1, rng, arch=True):
+    """A tall French window looking out on cream roofs."""
+    d.rounded_rectangle((x0 - 10, y0 - 10, x1 + 10, y1 + 10), radius=30 if arch else 6, fill=(236, 230, 218), outline=(176, 166, 150), width=3)
+    d.rounded_rectangle((x0, y0, x1, y1), radius=24 if arch else 4, fill=(176, 212, 238))
+    for k in range(4):
+        d.ellipse((x0 + 30 + k * 70, y0 + 40 + (k % 2) * 24, x0 + 120 + k * 70, y0 + 74 + (k % 2) * 24), fill=(255, 255, 255))
+    by = y1 - 120
+    x = x0
+    while x < x1:
+        w = rng.randint(60, 100)
+        d.rectangle((x, by + rng.randint(0, 30), min(x + w, x1), y1), fill=rng.choice(STONE))
+        d.polygon([(x - 2, by + 10), (min(x + w, x1) + 2, by + 10), (min(x + w, x1) - 10, by - 12), (x + 10, by - 12)], fill=rng.choice(ZINC))
+        x += w
+    d.line([((x0 + x1) // 2, y0), ((x0 + x1) // 2, y1)], fill=(236, 230, 218), width=6)
+    d.line([(x0, y0 + (y1 - y0) // 3), (x1, y0 + (y1 - y0) // 3)], fill=(236, 230, 218), width=5)
+
+
+SHOPS = [("Boulangerie", (222, 168, 66), (196, 52, 60), (250, 244, 232)), ("Fromagerie", (110, 40, 52), (250, 244, 232), (230, 176, 60)),
+         ("Fleurs", (60, 120, 92), (232, 120, 140), (250, 244, 232)), ("Pharmacie", (44, 110, 84), (250, 250, 250), (250, 250, 250)),
+         ("Librairie", (34, 56, 100), (214, 172, 84), (250, 244, 232)), ("Tabac", (126, 38, 50), (250, 244, 232), (230, 176, 60)),
+         ("Café", (38, 78, 70), (196, 52, 60), (246, 214, 120)), ("Marché", (186, 120, 60), (60, 120, 92), (250, 244, 232))]
+
+
+def _street(d, rng, variant="street"):
+    W = L.W
+    for cx, cy, s in ((260, 130, 1.0), (1000, 90, 0.8), (1640, 150, 0.9)):
+        _cloud(d, cx, cy, s)
+    x = -30
+    while x < W:
+        w = rng.randint(230, 300)
+        _building(d, x, w, GROUND - rng.randint(470, 560), GROUND - 160, tuple(min(255, v + 8) for v in rng.choice(STONE)), rng.choice(ZINC), shutter=(150, 164, 180))
+        x += w
+    x, k = -20, rng.randint(0, 7)
+    while x < W:
+        w = rng.randint(290, 360)
+        lab, col, a1, fg = SHOPS[k % len(SHOPS)]
+        k += 1
+        _building(d, x, w, GROUND - rng.randint(430, 500), GROUND - 190, rng.choice(STONE), rng.choice(ZINC))
+        _shopfront(d, x, w, GROUND - 190, GROUND, col, lab, awn=(a1, CREAM) if variant == "town" else None, fgc=fg, door=(k % 2 == 0))
+        x += w
+    _morris(d, int(0.62 * W))
+    _lamp(d, int(0.3 * W), h=360)
+    _lamp(d, int(0.88 * W), h=360)
+    for tx in (int(0.1 * W), int(0.47 * W), int(0.76 * W)):
+        _tree(d, tx, GROUND, 360, leaf=(108, 166, 98))
+        d.rectangle((tx - 30, GROUND - 6, tx + 30, GROUND), fill=(58, 60, 66))
+
+
+def _bakery(d, rng):
+    W = L.W
+    for cx, cy, s in ((300, 120, 1.0), (1500, 100, 0.8)):
+        _cloud(d, cx, cy, s)
+    _row_of_buildings(d, rng, GROUND, -40, W, 400, 520, STONE, ZINC)
+    fx0, fx1 = 170, 1560
+    d.rectangle((fx0, 330, fx1, GROUND), fill=(36, 70, 108))
+    d.rectangle((fx0, 330, fx1, 346), fill=(24, 48, 78))
+    d.rounded_rectangle((fx0 + 180, 352, fx1 - 180, 436), radius=14, fill=(24, 48, 78), outline=FRAME, width=5)
+    d.text(((fx0 + fx1) // 2, 394), "BOULANGERIE", font=L.font(66), fill=(246, 214, 120), anchor="mm")
+    d.text(((fx0 + fx1) // 2, 450), "Pâtisserie", font=L.font(30), fill=(246, 214, 120), anchor="mm")
+    for wx0, wx1 in ((210, 760), (800, 1350)):
+        d.rounded_rectangle((wx0, 500, wx1, 740), radius=10, fill=(244, 226, 190), outline=FRAME, width=5)
+        for sy in (590, 676):
+            d.rectangle((wx0 + 12, sy, wx1 - 12, sy + 10), fill=(150, 104, 74))
         for j in range(6):
-            xj = cx - 125 + j * 50
-            if kind == "cheese":
-                d.ellipse((xj - 22, 676, xj + 22, 724), fill=(250, 214, 110), outline=(214, 170, 70), width=3)
-            elif kind == "veg":
-                d.ellipse((xj - 20, 684, xj + 20, 722), fill=[(236, 130, 50), (110, 180, 90), (180, 60, 90)][j % 3])
-                d.polygon([(xj - 8, 684), (xj + 8, 684), (xj, 664)], fill=(70, 150, 80))
-            else:
-                d.ellipse((xj - 21, 684, xj + 21, 726), fill=[(226, 60, 60), (250, 190, 60), (130, 200, 90), (240, 130, 60)][j % 4])
+            bx = wx0 + 50 + j * 36
+            d.rounded_rectangle((bx, 520, bx + 24, 590), radius=12, fill=(214, 160, 90), outline=(170, 118, 60), width=2)
+            d.line([(bx + 4, 534), (bx + 20, 542)], fill=(170, 118, 60), width=3); d.line([(bx + 4, 556), (bx + 20, 564)], fill=(170, 118, 60), width=3)
+        for j in range(5):
+            cx = wx0 + 280 + j * 52
+            d.pieslice((cx - 24, 536, cx + 24, 586), 190, 350, fill=(222, 156, 70), outline=(176, 112, 46))
+            d.arc((cx - 14, 548, cx + 14, 584), 200, 340, fill=(176, 112, 46), width=3)
+        for j in range(5):
+            tx = wx0 + 40 + j * 100
+            d.rounded_rectangle((tx, 640, tx + 66, 676), radius=8, fill=[(226, 80, 90), (250, 190, 70), (150, 100, 70), (240, 150, 170), (110, 180, 100)][j])
+            d.ellipse((tx + 22, 626, tx + 44, 648), fill=(255, 255, 255))
+        for j in range(4):
+            tx = wx0 + 300 + j * 60
+            d.rounded_rectangle((tx, 704, tx + 40, 740), radius=6, fill=[(240, 214, 150), (200, 120, 90), (240, 214, 150), (130, 90, 70)][j])
+    d.rounded_rectangle((1400, 500, 1530, GROUND), radius=10, fill=(26, 52, 84), outline=FRAME, width=5)
+    d.rounded_rectangle((1420, 520, 1510, 700), radius=8, fill=(176, 212, 230))
+    d.ellipse((1500, 690, 1516, 706), fill=FRAME)
+    _awning(d, fx0 - 10, fx1 + 10, 466, 530, (250, 244, 232), BORDEAUX, stripes=18)
+    bx = 1710
+    d.line([(bx - 66, GROUND - 6), (bx - 20, 590)], fill=(100, 76, 56), width=7); d.line([(bx + 66, GROUND - 6), (bx + 20, 590)], fill=(100, 76, 56), width=7)
+    d.rounded_rectangle((bx - 80, 600, bx + 80, 760), radius=8, fill=(44, 50, 54), outline=(150, 112, 78), width=8)
+    d.text((bx, 636), "Pain frais", font=L.font(34), fill=CREAM, anchor="mm")
+    for y in (680, 712):
+        d.line([(bx - 56, y), (bx + 44, y)], fill=CREAM, width=4)
+    _tree(d, 70, GROUND, 330, leaf=(108, 166, 98))
 
 
-SHORT_DRAW = {"terrace": _terrace_s, "eiffel": _eiffel_s, "market": _market_s}
+def _cafe(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, GROUND), fill=(238, 224, 196))
+    d.rectangle((0, 0, W, 70), fill=(214, 196, 164))
+    d.line([(0, 70), (W, 70)], fill=FRAME, width=6)
+    d.rectangle((0, 520, W, GROUND), fill=(88, 54, 42))
+    d.rectangle((0, 512, W, 526), fill=BRASS)
+    for x in range(30, W, 120):
+        d.rounded_rectangle((x, 548, x + 90, 780), radius=6, outline=(120, 78, 58), width=4)
+    d.rounded_rectangle((100, 300, 290, GROUND), radius=14, fill=(68, 40, 32), outline=FRAME, width=6)
+    d.rounded_rectangle((122, 330, 268, 600), radius=10, fill=(176, 208, 224))
+    d.ellipse((262, 560, 278, 576), fill=FRAME)
+    d.rounded_rectangle((340, 150, 640, 470), radius=14, fill=FRAME)
+    d.rounded_rectangle((358, 168, 622, 452), radius=8, fill=(204, 222, 230))
+    d.polygon([(380, 452), (470, 168), (520, 168), (430, 452)], fill=(228, 238, 242))
+    d.text((490, 130), "Café", font=L.font(40), fill=(150, 110, 40), anchor="mm")
+    _window_street(d, 720, 150, 1030, 500, rng)
+    d.text((875, 118), "BRASSERIE", font=L.font(36), fill=(150, 110, 40), anchor="mm")
+    d.rounded_rectangle((1110, 170, 1400, 430), radius=8, fill=(44, 50, 54), outline=(150, 112, 78), width=10)
+    d.text((1255, 208), "Menu du jour", font=L.font(34), fill=CREAM, anchor="mm")
+    for k, wlen in enumerate((200, 170, 220, 150)):
+        d.line([(1140, 252 + k * 38), (1140 + wlen, 252 + k * 38)], fill=CREAM, width=4)
+    for px in (500, 875, 1255):
+        d.line([(px, 70), (px, 100)], fill=(60, 50, 44), width=4)
+        d.ellipse((px - 26, 100, px + 26, 154), fill=(255, 240, 190), outline=BRASS, width=4)
+    d.rounded_rectangle((330, 590, 700, 700), radius=24, fill=BORDEAUX)
+    for bx in range(360, 690, 44):
+        d.ellipse((bx - 5, 630, bx + 5, 640), fill=(90, 24, 34))
+    for tx in (470, 760):
+        _round_table(d, tx, GROUND - 6, r=62)
+    for cx in (330, 620, 910):
+        _bentwood(d, cx, GROUND - 6, 0.9)
+    d.rectangle((1330, 360, 1900, 520), fill=(96, 62, 46))
+    for sx in range(1350, 1890, 70):
+        for sy in (380, 450):
+            for j in range(3):
+                d.rounded_rectangle((sx + j * 20, sy, sx + j * 20 + 12, sy + 54), radius=4, fill=rng.choice([(70, 120, 90), (150, 60, 60), (200, 170, 90), (90, 70, 130)]))
+    d.rectangle((1330, 520, 1900, 534), fill=FRAME)
+    d.rectangle((1360, 560, 1900, GROUND), fill=(96, 62, 46))
+    d.rectangle((1340, 540, 1920, 574), fill=(184, 192, 200))
+    d.rounded_rectangle((1700, 476, 1790, 540), radius=8, fill=(150, 150, 156))
+    d.ellipse((1720, 496, 1740, 516), fill=(210, 210, 214)); d.ellipse((1750, 496, 1770, 516), fill=(210, 210, 214))
+    for sx in (1440, 1560, 1680):
+        d.ellipse((sx - 26, 690, sx + 26, 712), fill=BORDEAUX); d.rectangle((sx - 4, 712, sx + 4, GROUND - 6), fill=(60, 60, 68))
+
+
+def _station(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, 560), fill=(238, 238, 232))
+    for y in range(0, 560, 40):
+        d.line([(0, y), (W, y)], fill=(214, 216, 214), width=2)
+        for x in range((y // 40 % 2) * 40, W, 80):
+            d.line([(x, y), (x, y + 40)], fill=(214, 216, 214), width=2)
+    for k in range(9):
+        x = k * 240
+        d.polygon([(x, 0), (x + 30, 0), (x + 150, 70), (x + 120, 70)], fill=(226, 228, 224))
+    d.rectangle((0, 0, W, 64), fill=(60, 120, 100))
+    d.rectangle((0, 64, W, 76), fill=(34, 80, 66))
+    for cx, name in ((560, "Châtelet"), (1160, "Bastille"), (1760, "Opéra")):
+        d.rounded_rectangle((cx - 150, 140, cx + 150, 214), radius=8, fill=(30, 64, 130), outline=(240, 240, 240), width=4)
+        d.text((cx, 177), name, font=L.font(46), fill=(250, 250, 250), anchor="mm")
+        d.ellipse((cx - 190, 150, cx - 150, 190), fill=(250, 200, 60)); d.text((cx - 170, 170), "1", font=L.font(26), fill=(30, 30, 30), anchor="mm")
+    d.rounded_rectangle((1280, 280, 1680, 440), radius=6, fill=(250, 244, 232), outline=(170, 160, 150), width=4)
+    d.rectangle((1300, 300, 1660, 360), fill=(226, 120, 100)); d.text((1480, 330), "Exposition", font=L.font(36), fill=CREAM, anchor="mm")
+    d.rectangle((1300, 380, 1560, 392), fill=(110, 100, 100)); d.rectangle((1300, 404, 1480, 414), fill=(150, 140, 140))
+    d.rounded_rectangle((240, 270, 600, 440), radius=6, fill=(250, 250, 250), outline=(170, 170, 170), width=4)
+    for pts, col in (([(270, 400), (360, 330), (450, 340), (570, 300)], (240, 200, 40)), ([(270, 300), (380, 360), (470, 420), (570, 400)], (60, 130, 200)),
+                     ([(300, 420), (340, 300), (430, 290)], (100, 170, 90))):
+        d.line(pts, fill=col, width=8)
+    d.rectangle((0, 560, W, 700), fill=(52, 118, 96))
+    d.rectangle((0, 560, W, 574), fill=(34, 80, 66)); d.rectangle((0, 690, W, 706), fill=(30, 70, 58))
+    for x in range(40, W, 330):
+        d.rounded_rectangle((x, 590, x + 150, 676), radius=10, fill=(184, 214, 226), outline=(34, 80, 66), width=4)
+        d.rounded_rectangle((x + 170, 584, x + 250, 700), radius=6, fill=(176, 206, 220), outline=(34, 80, 66), width=4)
+        d.line([(x + 210, 584), (x + 210, 700)], fill=(34, 80, 66), width=4)
+    d.rectangle((0, 706, W, GROUND), fill=(176, 176, 172))
+    d.rectangle((0, 722, W, 736), fill=(244, 206, 70))
+    mx = 90
+    d.rectangle((mx - 5, 130, mx + 5, 440), fill=WALLACE)
+    d.arc((mx - 30, 110, mx + 140, 220), 180, 270, fill=WALLACE, width=7)
+    d.rounded_rectangle((mx + 10, 82, mx + 170, 140), radius=12, fill=WALLACE)
+    d.text((mx + 90, 111), "MÉTRO", font=L.font(36), fill=(250, 214, 110), anchor="mm")
+    tx = int(0.12 * W)
+    d.rounded_rectangle((tx - 52, 520, tx + 52, GROUND - 4), radius=8, fill=(70, 78, 90))
+    d.rectangle((tx - 38, 540, tx + 38, 610), fill=(150, 206, 230))
+    for j in range(3):
+        d.rectangle((tx - 30 + j * 22, 640, tx - 12 + j * 22, 660), fill=(210, 210, 214))
+    for gx in (int(0.2 * W) - 70, int(0.2 * W) + 40):
+        d.rounded_rectangle((gx, 640, gx + 36, GROUND - 4), radius=6, fill=(150, 158, 168))
+        d.rectangle((gx + 6, 650, gx + 30, 668), fill=(60, 200, 120))
+    d.rounded_rectangle((1500, 700, 1800, 728), radius=6, fill=(120, 80, 56))
+    for lx in (1520, 1770):
+        d.rectangle((lx, 728, lx + 10, GROUND - 4), fill=(60, 60, 68))
+
+
+def _park(d, rng):
+    W = L.W
+    for cx, cy, s in ((300, 120, 1.0), (1100, 90, 0.8), (1700, 140, 0.9)):
+        _cloud(d, cx, cy, s)
+    d.rectangle((300, 380, 1620, 640), fill=(234, 224, 204))
+    d.polygon([(290, 380), (1630, 380), (1590, 330), (330, 330)], fill=(98, 112, 132))
+    d.rectangle((880, 300, 1040, 380), fill=(234, 224, 204)); d.pieslice((880, 230, 1040, 370), 180, 360, fill=(98, 112, 132))
+    d.line([(960, 232), (960, 196)], fill=(98, 112, 132), width=5)
+    for wx in range(330, 1600, 70):
+        for wy in (400, 480, 560):
+            d.rectangle((wx, wy, wx + 30, wy + 52), fill=(172, 202, 226), outline=(130, 140, 154), width=2)
+    d.rectangle((0, 610, W, 700), fill=(104, 160, 92))
+    for hx in range(0, W, 200):
+        d.rounded_rectangle((hx + 6, 640, hx + 184, 700), radius=18, fill=(80, 140, 78))
+    for tx in (130, 420, 700, 1250, 1530, 1800):
+        d.rectangle((tx - 10, 560, tx + 10, 720), fill=(110, 90, 76))
+        d.rounded_rectangle((tx - 120, 420, tx + 120, 580), radius=60, fill=(88, 150, 84))
+        d.rounded_rectangle((tx - 90, 400, tx + 90, 470), radius=40, fill=(104, 168, 98))
+    d.ellipse((620, 690, 1300, 790), fill=(120, 176, 206), outline=(214, 208, 192), width=8)
+    d.ellipse((760, 706, 1160, 770), fill=(148, 198, 224))
+    d.rectangle((954, 640, 966, 730), fill=(190, 214, 226)); d.ellipse((930, 620, 990, 660), fill=(220, 236, 244))
+    for cx in (260, 1560):
+        for ox in (-70, 70):
+            x = cx + ox
+            d.arc((x - 36, 650, x + 36, 740), 180, 360, fill=(60, 110, 84), width=10)
+            d.rounded_rectangle((x - 40, 736, x + 40, 750), radius=6, fill=(70, 124, 94))
+            d.line([(x - 34, 750), (x - 40, 794)], fill=(60, 110, 84), width=7); d.line([(x + 34, 750), (x + 40, 794)], fill=(60, 110, 84), width=7)
+
+
+def _restaurant(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, GROUND), fill=(244, 232, 206))
+    d.rectangle((0, 0, W, 60), fill=(86, 52, 40)); d.line([(0, 60), (W, 60)], fill=FRAME, width=5)
+    d.rectangle((0, 470, W, GROUND), fill=(40, 78, 66))
+    d.rectangle((0, 462, W, 476), fill=BRASS)
+    for x in range(40, W, 160):
+        d.rounded_rectangle((x, 504, x + 120, 780), radius=6, outline=(64, 110, 92), width=4)
+    d.rounded_rectangle((140, 110, 640, 420), radius=14, fill=FRAME)
+    d.rounded_rectangle((160, 130, 620, 400), radius=8, fill=(206, 224, 232))
+    d.polygon([(190, 400), (320, 130), (370, 130), (240, 400)], fill=(230, 240, 244))
+    d.text((390, 94), "Bistro", font=L.font(40), fill=(150, 110, 40), anchor="mm")
+    d.rounded_rectangle((760, 130, 1160, 410), radius=8, fill=(44, 50, 54), outline=(150, 112, 78), width=10)
+    d.text((960, 176), "Plat du jour", font=L.font(42), fill=CREAM, anchor="mm")
+    for k, wlen in enumerate((240, 200, 280, 180)):
+        d.line([(800, 232 + k * 42), (800 + wlen, 232 + k * 42)], fill=CREAM, width=4)
+    d.rectangle((1280, 140, 1860, 156), fill=(120, 80, 56))
+    for x in range(1300, 1850, 46):
+        d.rounded_rectangle((x, 102, x + 22, 140), radius=8, fill=rng.choice([(60, 100, 70), (110, 50, 60), (70, 90, 60)]))
+        d.rectangle((x + 7, 88, x + 15, 104), fill=(60, 60, 60))
+    d.rectangle((1280, 300, 1860, 316), fill=(120, 80, 56))
+    for x in range(1300, 1850, 46):
+        d.rounded_rectangle((x, 262, x + 22, 300), radius=8, fill=rng.choice([(60, 100, 70), (110, 50, 60), (70, 90, 60)]))
+    for px in (460, 960, 1560):
+        d.line([(px, 60), (px, 120)], fill=(60, 50, 44), width=4)
+        d.polygon([(px - 46, 170), (px + 46, 170), (px + 24, 120), (px - 24, 120)], fill=(34, 80, 66))
+        d.ellipse((px - 20, 156, px + 20, 184), fill=(255, 238, 180))
+    for tx in (330, 760, 1190, 1620):
+        _round_table(d, tx, GROUND - 6, r=74, cloth=((200, 54, 62), (250, 244, 240)))
+        _bentwood(d, tx - 118, GROUND - 6, 0.95); _bentwood(d, tx + 118, GROUND - 6, 0.95)
+        d.rounded_rectangle((tx - 12, 640, tx + 12, 690), radius=6, fill=(70, 110, 80))
+        d.ellipse((tx + 24, 668, tx + 52, 684), fill=(250, 250, 250))
+
+
+def _store(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, GROUND), fill=(240, 228, 204))
+    d.rectangle((0, 0, W, 56), fill=(96, 64, 46)); d.line([(0, 56), (W, 56)], fill=FRAME, width=5)
+    for k in range(4):
+        y = 180 + k * 118
+        d.rectangle((420, y + 88, 1500, y + 100), fill=(132, 90, 62))
+        x = 440
+        while x < 1480:
+            w = rng.randint(34, 56); h = rng.randint(56, 84)
+            col = rng.choice([(196, 60, 60), (230, 170, 60), (110, 160, 90), (230, 220, 200), (150, 100, 70), (80, 110, 160), (240, 130, 60)])
+            d.rounded_rectangle((x, y + 88 - h, x + w, y + 88), radius=8, fill=col, outline=tuple(int(v * 0.75) for v in col), width=2)
+            d.rectangle((x + 6, y + 88 - h * 0.6, x + w - 6, y + 88 - h * 0.35), fill=(250, 246, 236))
+            x += w + rng.randint(6, 14)
+    d.rounded_rectangle((120, 150, 380, 640), radius=8, fill=(116, 78, 56))
+    d.rounded_rectangle((140, 176, 360, 470), radius=6, fill=(176, 208, 224))
+    d.rounded_rectangle((200, 500, 300, 548), radius=8, fill=(250, 244, 232)); d.text((250, 524), "OUVERT", font=L.font(26), fill=BORDEAUX, anchor="mm")
+    _awning(d, 1560, 1900, 150, 220, BORDEAUX, CREAM, stripes=8)
+    d.rectangle((1520, 240, 1900, GROUND - 40), fill=(122, 82, 60))
+    d.rectangle((1500, 520, 1920, 560), fill=(186, 140, 96))
+    d.rounded_rectangle((1560, 440, 1680, 520), radius=8, fill=(86, 90, 100)); d.rectangle((1576, 452, 1664, 482), fill=(150, 206, 230))
+    d.ellipse((1760, 470, 1850, 520), fill=(190, 196, 204))
+    for cx, col in ((560, (226, 70, 70)), (780, (246, 190, 60)), (1000, (120, 190, 90)), (1220, (236, 130, 60))):
+        d.rectangle((cx - 90, 690, cx + 90, 790), fill=(176, 130, 86), outline=(120, 84, 56), width=3)
+        for j in range(6):
+            d.ellipse((cx - 80 + j * 28, 662 + (j % 2) * 10, cx - 48 + j * 28, 700 + (j % 2) * 10), fill=col)
+
+
+def _bookstore(d, rng):
+    W = L.W
+    for cx, cy, s in ((260, 130, 1.0), (1100, 100, 0.8), (1640, 160, 0.9)):
+        _cloud(d, cx, cy, s)
+    x = -20
+    while x < W:
+        w = rng.randint(200, 280)
+        _building(d, x, w, 340 + rng.randint(0, 70), 560, rng.choice(STONE), rng.choice(ZINC), shutter=(150, 164, 180))
+        x += w
+    d.rectangle((0, 560, W, 660), fill=(122, 170, 200))
+    for y in range(572, 650, 22):
+        for x in range(rng.randint(0, 60), W, 150):
+            d.line([(x, y), (x + 60, y)], fill=(176, 210, 230), width=3)
+    d.polygon([(1180, 560), (1920, 560), (1920, 620), (1180, 620)], fill=(214, 204, 184))
+    for ax in (1260, 1480, 1700):
+        d.pieslice((ax - 90, 540, ax + 90, 700), 180, 360, fill=(122, 170, 200), outline=(190, 178, 156), width=6)
+    d.rectangle((0, 650, W, 720), fill=(200, 190, 170))
+    d.rectangle((0, 640, W, 660), fill=(176, 166, 146))
+    for bx in (140, 640, 1140, 1640):
+        d.rectangle((bx, 596, bx + 380, 720), fill=(40, 84, 70))
+        d.polygon([(bx - 10, 596), (bx + 390, 596), (bx + 370, 566), (bx + 10, 566)], fill=(52, 104, 86))
+        _books(d, bx + 14, 610, bx + 366, rng, rows=2, h=40)
+        d.rectangle((bx, 700, bx + 380, 720), fill=(30, 70, 58))
+    _tree(d, 70, 720, 420, leaf=(104, 164, 96)); _tree(d, 1880, 720, 400, leaf=(104, 164, 96))
+    _lamp(d, 560, base=720, h=300)
+
+
+def _classroom(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, GROUND), fill=(240, 232, 210))
+    d.rectangle((0, 470, W, GROUND), fill=(150, 184, 164))
+    d.rectangle((0, 462, W, 476), fill=(110, 140, 124))
+    d.rounded_rectangle((560, 130, 1380, 430), radius=8, fill=(130, 90, 60))
+    d.rounded_rectangle((580, 150, 1360, 410), radius=4, fill=(46, 92, 78))
+    d.text((970, 214), "Bonjour !", font=L.font(76), fill=(244, 244, 236), anchor="mm")
+    d.text((970, 296), "a  b  c  d  e  f  g", font=L.font(46), fill=(232, 236, 228), anchor="mm")
+    d.line([(660, 350), (1000, 350)], fill=(232, 236, 228), width=4)
+    d.text((1200, 352), "1 + 2 = 3", font=L.font(40), fill=(232, 236, 228), anchor="mm")
+    d.rectangle((580, 410, 1360, 424), fill=(110, 76, 52))
+    for k in range(4):
+        d.rounded_rectangle((640 + k * 40, 396, 664 + k * 40, 410), radius=3, fill=rng.choice([(240, 240, 232), (240, 220, 120), (240, 160, 170)]))
+    d.polygon([(240, 190), (330, 150), (410, 170), (430, 250), (400, 330), (320, 380), (240, 350), (210, 270)], fill=(236, 214, 156), outline=(150, 120, 80))
+    d.text((320, 270), "France", font=L.font(30), fill=(120, 80, 50), anchor="mm")
+    d.ellipse((312, 214, 330, 232), fill=BORDEAUX)
+    for wx in (1480, 1700):
+        _window_street(d, wx, 150, wx + 160, 560, rng)
+    d.ellipse((130, 60, 210, 140), fill=(250, 250, 244), outline=(60, 60, 66), width=5)
+    d.line([(170, 100), (170, 76)], fill=(60, 60, 66), width=4); d.line([(170, 100), (190, 104)], fill=(60, 60, 66), width=4)
+    d.rounded_rectangle((60, 300, 200, 700), radius=10, fill=(120, 80, 56))
+    d.rectangle((80, 330, 180, 520), fill=(176, 208, 224))
+    for dx in (672, 1180, 1620):
+        d.rounded_rectangle((dx - 150, 640, dx + 150, 668), radius=6, fill=(176, 128, 84), outline=(120, 84, 56), width=3)
+        d.rectangle((dx - 140, 668, dx - 128, 790), fill=(100, 70, 50)); d.rectangle((dx + 128, 668, dx + 140, 790), fill=(100, 70, 50))
+        d.rectangle((dx - 150, 700, dx + 150, 712), fill=(140, 100, 66))
+        d.ellipse((dx - 100, 622, dx - 78, 640), fill=(60, 70, 130))
+        d.rectangle((dx - 10, 630, dx + 60, 640), fill=(230, 80, 80))
+
+
+def _home(d, rng):
+    W = L.W
+    d.rectangle((0, 0, W, GROUND), fill=(244, 236, 220))
+    d.rectangle((0, 0, W, 54), fill=(232, 222, 202)); d.line([(0, 54), (W, 54)], fill=(206, 194, 170), width=6)
+    for x in range(40, W, 380):
+        d.rectangle((x, 100, x + 300, 520), outline=(216, 204, 180), width=5)
+        d.rectangle((x + 14, 114, x + 286, 506), outline=(224, 214, 192), width=3)
+    d.rectangle((0, 560, W, GROUND), fill=(232, 220, 198)); d.line([(0, 560), (W, 560)], fill=(206, 194, 170), width=5)
+    wx0, wx1 = 700, 1180
+    d.rounded_rectangle((wx0 - 20, 90, wx1 + 20, GROUND), radius=34, fill=(250, 246, 236), outline=(206, 194, 170), width=4)
+    d.rounded_rectangle((wx0, 110, wx1, 790), radius=28, fill=(176, 212, 238))
+    for k in range(3):
+        d.ellipse((wx0 + 40 + k * 130, 150 + (k % 2) * 30, wx0 + 170 + k * 130, 198 + (k % 2) * 30), fill=(255, 255, 255))
+    x = wx0
+    while x < wx1:
+        w = min(rng.randint(70, 120), wx1 - x)
+        d.polygon([(x, 560), (x + w, 560), (x + w - 14, 500), (x + 14, 500)], fill=rng.choice(ZINC))
+        d.rectangle((x + w // 3, 470, x + w // 3 + 18, 500), fill=(176, 120, 104))
+        x += w
+    d.rectangle((wx0, 560, wx1, 790), fill=(232, 226, 214))
+    d.line([((wx0 + wx1) // 2, 110), ((wx0 + wx1) // 2, 790)], fill=(250, 246, 236), width=8)
+    d.rectangle((wx0, 600, wx1, 616), fill=(56, 58, 68))
+    for bx in range(wx0 + 6, wx1, 22):
+        d.line([(bx, 616), (bx, 700)], fill=(56, 58, 68), width=4)
+    d.rectangle((wx0, 700, wx1, 712), fill=(56, 58, 68))
+    for cx in (wx0 - 50, wx1 + 50):
+        d.polygon([(cx - 56, 90), (cx + 56, 90), (cx + 70, 790), (cx - 70, 790)], fill=(196, 150, 150))
+        for k in range(-2, 3):
+            d.line([(cx + k * 20, 90), (cx + k * 24, 790)], fill=(176, 126, 126), width=3)
+    d.rounded_rectangle((1300, 520, 1840, 720), radius=36, fill=(104, 134, 170))
+    d.rounded_rectangle((1280, 600, 1380, 740), radius=24, fill=(92, 120, 156)); d.rounded_rectangle((1760, 600, 1860, 740), radius=24, fill=(92, 120, 156))
+    d.rectangle((1330, 720, 1830, 740), fill=(80, 106, 142))
+    d.rounded_rectangle((1400, 560, 1490, 650), radius=14, fill=(226, 170, 90)); d.rounded_rectangle((1640, 560, 1730, 650), radius=14, fill=(196, 90, 100))
+    d.rounded_rectangle((200, 170, 520, 440), radius=6, fill=FRAME)
+    d.rectangle((218, 188, 502, 422), fill=(176, 206, 226)); d.polygon([(218, 422), (340, 300), (430, 380), (502, 330), (502, 422)], fill=(120, 164, 120))
+    d.ellipse((420, 210, 480, 270), fill=(250, 214, 110))
+    d.rounded_rectangle((300, 560, 440, 720), radius=10, fill=(176, 128, 84))
+    d.polygon([(350, 560), (390, 560), (400, 500), (340, 500)], fill=(120, 164, 200))
+    for k, c in enumerate(((226, 90, 110), (250, 200, 90), (240, 150, 170))):
+        d.ellipse((330 + k * 22, 450 + (k % 2) * 16, 366 + k * 22, 486 + (k % 2) * 16), fill=c)
+    d.rectangle((318, 720, 330, 790), fill=(120, 84, 56)); d.rectangle((410, 720, 422, 790), fill=(120, 84, 56))
+
+
+NEW_DRAW = {"street": lambda d, rng: _street(d, rng, "street"), "town": lambda d, rng: _street(d, rng, "town"), "bakery": _bakery, "cafe": _cafe,
+            "station": _station, "park": _park, "restaurant": _restaurant, "store": _store, "bookstore": _bookstore, "classroom": _classroom, "home": _home}
+DRAW.update(NEW_DRAW)
+
+SCENES.update({
+    "street": dict(top=(176, 208, 240), bot=(250, 238, 222), floor=(188, 180, 168), table=(168, 160, 150), edge=(120, 112, 104)),
+    "town": dict(top=(176, 208, 240), bot=(250, 238, 222), floor=(188, 180, 168), table=(168, 160, 150), edge=(120, 112, 104)),
+    "bakery": dict(top=(182, 212, 240), bot=(250, 240, 226), floor=(196, 186, 172), table=(176, 128, 84), edge=(120, 84, 56)),
+    "cafe": dict(top=(238, 224, 196), bot=(238, 224, 196), floor=(30, 30, 34), table=(184, 192, 200), edge=(120, 128, 136)),
+    "station": dict(top=(238, 238, 232), bot=(238, 238, 232), floor=(176, 176, 172), table=(120, 80, 56), edge=(84, 54, 38)),
+    "park": dict(top=(170, 206, 240), bot=(244, 240, 226), floor=(222, 206, 170), table=(70, 124, 94), edge=(44, 84, 64)),
+    "restaurant": dict(top=(244, 232, 206), bot=(244, 232, 206), floor=(30, 30, 34), table=(200, 54, 62), edge=(140, 36, 44)),
+    "store": dict(top=(240, 228, 204), bot=(240, 228, 204), floor=(190, 130, 96), table=(186, 140, 96), edge=(122, 82, 60)),
+    "bookstore": dict(top=(176, 208, 240), bot=(250, 238, 222), floor=(196, 186, 166), table=(40, 84, 70), edge=(28, 62, 52)),
+    "classroom": dict(top=(240, 232, 210), bot=(240, 232, 210), floor=(184, 140, 100), table=(176, 128, 84), edge=(120, 84, 56)),
+    "home": dict(top=(244, 236, 220), bot=(244, 236, 220), floor=(190, 140, 100), table=(176, 128, 84), edge=(120, 84, 56)),
+})
+KEYWORDS.update({
+    "bakery": ["boulangerie", "baguette", "pain", "pâtisserie", "patisserie", "bakery", "bread", "pastry", "croissant"],
+    "cafe": ["café", "cafe", "thé", "chocolat chaud", "coffee", "tea", "hot chocolate", "brasserie"],
+    "street": ["rue", "boulevard", "avenue", "nuit", "soir", "bonsoir", "ville", "night", "evening", "street", "directions"],
+    "station": ["métro", "metro", "gare", "train", "billet", "quai", "bus", "station", "ticket", "platform"],
+    "park": ["parc", "promenade", "jardin", "luxembourg", "météo", "soleil", "park", "walk", "garden", "weather", "sunny"],
+    "bookstore": ["librairie", "livre", "bouquiniste", "seine", "bibliothèque", "bibliotheque", "book", "library", "river"],
+})
+ALIASES.update({"bakery": "bakery", "boulangerie": "bakery", "bread": "bakery", "patisserie": "bakery", "pâtisserie": "bakery",
+                "metro": "station", "métro": "station", "subway": "station", "garden": "park", "luxembourg": "park", "jardin": "park",
+                "seine": "bookstore", "bouquiniste": "bookstore", "brasserie": "cafe", "école": "classroom", "ecole": "classroom",
+                "apartment": "home", "appartement": "home", "épicerie": "store", "epicerie": "store"})
+LANDMARKS.update({"classroom": {"door": 0.1, "blackboard": 0.5, "desk": 0.35}, "cafe": {"counter": 0.8, "window": 0.45, "door": 0.1},
+                  "station": {"platform": 0.5, "ticket gate": 0.2, "ticket machine": 0.12}, "store": {"register": 0.8, "shelf": 0.5, "door": 0.1}})
+OUTDOOR.update({"street", "town", "bakery", "park", "bookstore"})
+BIRD_SCENES.update({"street", "town", "bakery", "park", "bookstore"})
+
+
+def _floor_pave(d, rng, W=1920, y0=GROUND, y1=1080, base=(196, 188, 176)):
+    for r, y in enumerate(range(y0, y1, 34)):
+        off = 0 if r % 2 == 0 else 34
+        for x in range(-off, W, 68):
+            tone = rng.randint(-14, 10)
+            d.rounded_rectangle((x + 3, y + 3, x + 65, y + 31), radius=8, fill=tuple(max(0, min(255, v + tone)) for v in base))
+
+
+def _floor_checker(d, W=1920, y0=GROUND, y1=1080):
+    for r, y in enumerate(range(y0, y1, 56)):
+        for c, x in enumerate(range(0, W, 112)):
+            d.rectangle((x, y, x + 112, y + 56), fill=(244, 242, 236) if (r + c) % 2 == 0 else (34, 34, 40))
+
+
+def _floor_parquet(d, rng, W=1920, y0=GROUND, y1=1080, base=(190, 140, 100)):
+    for r, y in enumerate(range(y0, y1, 46)):
+        for x in range(-(r % 2) * 90, W, 180):
+            tone = rng.randint(-14, 12)
+            d.rectangle((x + 2, y + 2, x + 178, y + 44), fill=tuple(max(0, min(255, v + tone)) for v in base), outline=tuple(int(v * 0.8) for v in base))
+            d.line([(x + 90, y + 2), (x + 90, y + 44)], fill=tuple(int(v * 0.85) for v in base), width=2)
+
+
+def _floor_gravel(d, rng, W=1920, y0=GROUND, y1=1080):
+    for _ in range(2600):
+        x, y = rng.randint(0, W), rng.randint(y0, y1)
+        r = rng.randint(2, 5); t = rng.randint(-26, 20)
+        d.ellipse((x, y, x + r * 2, y + r), fill=(210 + t, 194 + t, 156 + t))
+
+
+def _floor_tile(d, W=1920, y0=GROUND, y1=1080):
+    for y in range(y0, y1, 70):
+        d.line([(0, y), (W, y)], fill=(150, 150, 146), width=3)
+    for x in range(0, W, 140):
+        d.line([(x, y0), (x, y1)], fill=(150, 150, 146), width=3)
+
+
+FLOOR = {"street": lambda d, rng: _floor_pave(d, rng), "town": lambda d, rng: _floor_pave(d, rng), "bakery": lambda d, rng: _floor_pave(d, rng),
+         "terrace": lambda d, rng: _floor_pave(d, rng), "market": lambda d, rng: _floor_pave(d, rng, base=(196, 182, 156)),
+         "bookstore": lambda d, rng: _floor_pave(d, rng, base=(204, 194, 174)), "cafe": lambda d, rng: _floor_checker(d), "restaurant": lambda d, rng: _floor_checker(d),
+         "classroom": lambda d, rng: _floor_parquet(d, rng), "home": lambda d, rng: _floor_parquet(d, rng, base=(196, 150, 112)),
+         "store": lambda d, rng: _floor_parquet(d, rng, base=(190, 130, 96)), "park": lambda d, rng: _floor_gravel(d, rng), "station": lambda d, rng: _floor_tile(d)}
+
+
+def draw_short(scene, bg, rng, top=275, ground=885):
+    """Shorts: draw the landscape scene off-screen, scale it and crop it to the vertical frame."""
+    from PIL import Image, ImageDraw
+    lay = Image.new("RGBA", (1920, GROUND), (0, 0, 0, 0))
+    save = L.W
+    L.W = 1920
+    try:
+        DRAW[scene](ImageDraw.Draw(lay), rng)
+    finally:
+        L.W = save
+    s = (ground - top) / GROUND
+    lay = lay.resize((int(1920 * s), ground - top), Image.LANCZOS)
+    x0 = (lay.width - 1080) // 2
+    lay = lay.crop((x0, 0, x0 + 1080, lay.height))
+    bg.paste(lay, (0, top), lay)
+
+
+SHORT_SCENES = set(DRAW)
+SHORT_DRAW = {}            # kept empty: Shorts use draw_short()
