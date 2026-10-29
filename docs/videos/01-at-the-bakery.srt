@@ -49,21 +49,21 @@ Trois euros cinquante.
 Three euros fifty.
 
 11
-00:00:53,688 --> 00:00:56,060
+00:00:53,688 --> 00:00:55,892
 Voilà !
 Here you go!
 
 12
-00:00:56,160 --> 00:01:01,100
+00:00:55,992 --> 00:01:00,932
 Merci, madame. Au revoir !
 Thank you, madam. Goodbye!
 
 13
-00:01:01,200 --> 00:01:04,604
+00:01:01,032 --> 00:01:04,436
 Mmm, il est délicieux !
 Mmm, it's delicious!
 
 14
-00:01:04,704 --> 00:01:07,964
+00:01:04,536 --> 00:01:07,796
 À demain, Marinette !
 See you tomorrow, Marinette!
