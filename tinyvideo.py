@@ -148,9 +148,6 @@ for _k, _v in _FR_KW.items():
 JAPAN_ONLY = {"ramen", "shrine", "fuji", "matsuri", "onsen", "karaoke", "izakaya", "sushi", "bamboo", "castle"}
 for _k in JAPAN_ONLY:
     SCENE_KEYWORDS.pop(_k, None)
-SCENE_ALIASES = {a: b for a, b in SCENE_ALIASES.items() if b not in JAPAN_ONLY}
-SCENE_ALIASES.update({"boulangerie": "bakery", "paris": "street", "gare": "station", "spring": "sakura", "bread": "bakery"})
-SCENE_ORDER = [s for s in SCENE_ORDER if s not in JAPAN_ONLY]
 SCENE_ALIASES = {"supermarket": "store", "market": "store", "shop": "store", "shopping": "store", "convenience": "store",
                  "school": "classroom", "library": "bookstore", "house": "home", "kitchen": "home", "room": "home",
                  "night": "street", "city": "street", "festival": "matsuri", "fireworks": "matsuri", "sea": "beach", "ocean": "beach",
@@ -170,6 +167,11 @@ def kw_count(text, kw):
     """Count a keyword; ASCII words must start at a word boundary (so 'rain' does not match 'train')."""
     kw = kw.lower()
     return len(re.findall(r"\b" + re.escape(kw), text)) if kw.isascii() and kw[:1].isalnum() else text.count(kw)
+
+
+SCENE_ALIASES = {a: b for a, b in SCENE_ALIASES.items() if b not in JAPAN_ONLY}
+SCENE_ALIASES.update({"boulangerie": "bakery", "paris": "street", "gare": "station", "spring": "sakura", "bread": "bakery"})
+SCENE_ORDER = [s for s in SCENE_ORDER if s not in JAPAN_ONLY]
 
 
 def pick_scene(meta, lines):

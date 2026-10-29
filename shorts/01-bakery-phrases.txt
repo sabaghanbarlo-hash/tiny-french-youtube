@@ -1,0 +1,13 @@
+title: 3 French Phrases for the Bakery
+scene: bakery
+
+[hook]
+Marinette: Tu veux parler français ? | Do you want to speak French?
+[story]
+Adrien: Oui ! Comment commander à la boulangerie ? | Yes! How do I order at the bakery?
+Marinette: Dis : Je voudrais un croissant, s'il vous plaît. | Say: I would like a croissant, please.
+Adrien: Je voudrais un croissant, s'il vous plaît. | I would like a croissant, please.
+Marinette: Parfait ! Et pour payer : Ça coûte combien ? | Perfect! And to pay: How much is it?
+Adrien: Ça coûte combien ? | How much is it?
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
