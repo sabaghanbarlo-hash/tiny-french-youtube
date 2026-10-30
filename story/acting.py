@@ -625,6 +625,22 @@ def rig(name, mouth, blink, expr, walk, arm, out, item=None, bite=0, umb=False):
             ell((x0 - 10, 876 - lf, x0 + 84, 926 - lf), shoe)
         d.rounded_rectangle(P(190, 628, 370, 700), radius=int(26 * S), fill=c.get("trouser", (96, 112, 150)))
     d.rounded_rectangle(P(185, 450, 375, 690), radius=int(60 * S), fill=top)
+    if c.get("fr"):                           # keep each character's outfit: Adrien's striped tee, Marinette's floral top
+        panel = P(236, 470, 324, 470, 330, 676, 230, 676)
+        if name == "Adrien":
+            d.polygon(panel, fill=(42, 36, 42))
+            for k, col in enumerate(((110, 176, 120), (150, 108, 190), (244, 202, 100))):
+                d.rectangle(P(233, 596 + k * 24, 327, 610 + k * 24), fill=col)
+            edge = (206, 198, 200)
+        else:
+            d.polygon(panel, fill=(244, 238, 238))
+            for fx, fy in ((262, 596), (298, 628), (268, 660), (294, 560)):
+                for ang in range(5):
+                    ax, ay = fx + 10 * math.cos(ang * 1.2566), fy + 10 * math.sin(ang * 1.2566)
+                    ell((ax - 6, ay - 6, ax + 6, ay + 6), (238, 150, 170))
+                ell((fx - 4, fy - 4, fx + 4, fy + 4), (252, 220, 120))
+            edge = (62, 54, 60)
+        d.line(P(236, 470, 230, 676), fill=edge, width=int(5 * S)); d.line(P(324, 470, 330, 676), fill=edge, width=int(5 * S))
     d.polygon(P(245, 452, 280, 505, 315, 452), fill=skin)
     ell((140 + swing, 500, 210 + swing, 650), top)
     ell((148 + swing, 625, 205 + swing, 675), skin)
