@@ -870,3 +870,31 @@ def draw_short(scene, bg, rng, top=275, ground=885):
 
 SHORT_SCENES = set(DRAW)
 SHORT_DRAW = {}            # kept empty: Shorts use draw_short()
+
+
+def slide_backdrop(W=1920, H=1080, ground=1000):
+    """Soft Paris backdrop for the vocabulary / grammar / quiz slides: sky, cream Haussmann buildings with zinc roofs,
+    a street lamp, a plane tree and a strip of pavement at y = ground (where the presenter stands)."""
+    import random
+    from PIL import Image, ImageDraw
+    rng = random.Random(21)
+    top, bot = (186, 220, 247), (252, 242, 230)
+    bg = Image.new("RGB", (W, H), bot); d = ImageDraw.Draw(bg)
+    for y in range(ground):
+        t = y / ground
+        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip(top, bot)))
+    for cx, cy, s in ((300, 250, 1.0), (1000, 210, 0.8), (1650, 300, 0.9)):
+        _cloud(d, cx, cy, s)
+    lay = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ld = ImageDraw.Draw(lay)
+    _row_of_buildings(ld, rng, ground, -40, W, 430, 520, STONE, ZINC)
+    _lamp(ld, 1290, base=ground, h=380)
+    _tree(ld, 1870, ground, 340, leaf=(108, 166, 98))
+    veil = Image.new("RGBA", (W, H), (255, 250, 242, 0))
+    veil.putalpha(lay.getchannel("A").point(lambda v: 105 if v > 0 else 0))     # soften it so the cards stay readable
+    lay = Image.alpha_composite(lay, veil)
+    bg.paste(lay, (0, 0), lay)
+    d = ImageDraw.Draw(bg)
+    d.rectangle((0, ground, W, H), fill=(206, 198, 186))
+    _floor_pave(d, rng, W=W, y0=ground, y1=H)
+    d.rectangle((0, ground - 8, W, ground + 4), fill=(150, 142, 134))
+    return bg
