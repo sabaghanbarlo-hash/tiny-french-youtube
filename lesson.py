@@ -18,6 +18,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 W, H, FPS, SR = 1920, 1080, 24, 24000
 CHAR_SCALE, CHAR_Y = 0.9, 190
 FLOOR_Y = 800
+SOLE_Y = FLOOR_Y + 6   # the characters' soles rest here, on the ground line (behind the front strip)
 STAGE_OUT = 0.69   # full-body characters in the story scenes
 BRAND = (222, 110, 134)
 INK, SOFT, ROMA = (52, 40, 44), (90, 78, 80), (176, 110, 128)
@@ -284,15 +285,12 @@ def header(img, meta):
         size -= 2
     w = int(max(font(size).getlength(ep + meta["title"]), 330)) + 90
     d.rounded_rectangle((44, 34, 44 + w, 156), radius=52, fill=(255, 255, 255, 238))
-    d.text((84, 52), "TINY JAPANESE", font=font(30), fill=BRAND)
+    d.text((84, 52), "TINY FRENCH", font=font(30), fill=BRAND)
     d.text((84, 92), ep + meta["title"], font=font(size), fill=(60, 45, 48))
 
 
 def slide_bg(meta):
-    bg = vgrad(W, H, (255, 244, 234), (252, 228, 228)).convert("RGB"); d = ImageDraw.Draw(bg)
-    rng = random.Random(3)
-    blossoms(d, rng, (0, 0, W, 170), 14); blossoms(d, rng, (1250, 0, W, 400), 26)
-    d.rectangle((0, 1000, W, H), fill=(240, 214, 200))
+    bg = FP.slide_backdrop(W, H, 1000)     # Paris street backdrop (vocabulary / grammar / quiz slides)
     header(bg, meta)
     return bg
 
@@ -301,18 +299,36 @@ def slide_bg(meta):
 @functools.lru_cache(None)
 def sprite(name, mouth, blink, out=1.0, full=False):
     """Adrien / Marinette from the shared artwork. full=True adds trousers and shoes below the jacket (the default stops at the table)."""
+    if full:
+        return _rig(name, mouth, blink, out)
     base = CH.portrait(name, mouth, blink)
-    if not full:
-        return base.resize((int(SPRITE_W * out), int(SPRITE_H * out)), Image.LANCZOS)
-    c, S = CHARS[name], CHAR_SCALE
-    im = Image.new("RGBA", (SPRITE_W, int(SPRITE_H * 960 / 760)), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-    P = lambda *v: [int(x * S) for x in v]
-    for x0 in (198, 292):
-        d.rounded_rectangle(P(x0, 640, x0 + 72, 890), radius=int(26 * S), fill=c["trouser"])
-        d.ellipse(P(x0 - 10, 876, x0 + 84,926), fill=c["shoe"], outline=(214, 208, 206))
-    d.rounded_rectangle(P(190, 628, 370, 700), radius=int(26 * S), fill=c["trouser"])
-    im.alpha_composite(base)
-    return im.resize((int(SPRITE_W * out), int(SPRITE_H * out * 960 / 760)), Image.LANCZOS)
+    return base.resize((int(SPRITE_W * out), int(SPRITE_H * out)), Image.LANCZOS)
+
+
+_ACT = None
+
+
+def _rig(name, mouth, blink, out):
+    """Full-body Adrien / Marinette with the same body and arms as the Story videos (the Tiny Japanese proportions)."""
+    global _ACT
+    if _ACT is None:
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "story"))
+        import acting
+        acting.L = sys.modules[__name__]
+        _ACT = acting
+    return _ACT.rig(name, int(mouth), bool(blink), "neutral", 0, 0, out)
+
+
+@functools.lru_cache(None)
+def _head_gap(nm, out):
+    """Row where the top of the head starts (the name tag sits just above it)."""
+    return sprite(nm, 0, False, out, True).getchannel("A").getbbox()[1]
+
+
+@functools.lru_cache(None)
+def _sole_gap(nm, out):
+    """Row (inside the full-body sprite) where the soles end, so both characters can stand on the same line."""
+    return sprite(nm, 0, False, out, True).getchannel("A").getbbox()[3]
 
 
 @functools.lru_cache(None)
@@ -742,10 +758,10 @@ class Renderer:
         for nm, c in CHARS.items():
             cx = c["x"] + SPRITE_W // 2
             fs = sprite(nm, 0, False, STAGE_OUT, True)
-            x, y = cx - fs.width // 2, FLOOR_Y - 50 - fs.height
+            x, y = cx - fs.width // 2, SOLE_Y - _sole_gap(nm, STAGE_OUT)
             self.character(fr, nm, i, tt, who == nm, mouth, x, y, full=True, out=STAGE_OUT)
             p = self.pills[(nm, int(who == nm))]
-            fr.paste(p, (cx - p.width // 2, y + 36), p)
+            fr.paste(p, (cx - p.width // 2, y + _head_gap(nm, STAGE_OUT) - p.height - 2), p)
         fr.paste(fg, (0, FLOOR_Y - 40), fg)
         if seg["kind"] == "story":
             ln = seg["line"]
@@ -802,7 +818,7 @@ class Renderer:
         cd = self.cached(key, lambda: self.slide_card(seg))
         self.fade(fr, cd, 50, 190 + max(0, (640 - cd.height) // 2), min(1, (tt - seg["start"]) / 0.2))
         ms = sprite("Marinette", 0, False, 0.74, True)
-        self.character(fr, "Marinette", i, tt, who == "Marinette", mouth, W - 90 - SPRITE_W // 2 - int(SPRITE_W * 0.74) // 2, 1000 - ms.height + 12, full=True, out=0.74)
+        self.character(fr, "Marinette", i, tt, who == "Marinette", mouth, W - 90 - SPRITE_W // 2 - int(SPRITE_W * 0.74) // 2, 1024 - _sole_gap("Marinette", 0.74), full=True, out=0.74)
         if seg["kind"] == "quiz" and seg["phase"] == "think":
             left = max(0.0, 5 - (tt - seg["t0"]))
             d = ImageDraw.Draw(fr); cx, cy, r = W - 90 - SPRITE_W // 2, 240, 95
@@ -848,7 +864,7 @@ def thumbnail(R, path):
     for nm, c in CHARS.items():
         s = sprite(nm, 2 if nm == "Marinette" else 1, False); fr.paste(s, (c["x"], CHAR_Y + 70), s)
     fr.paste(fg, (0, FLOOR_Y - 40), fg)
-    d = ImageDraw.Draw(fr, "RGBA"); ep = f"Ep.{R.meta['episode']}" if R.meta.get("episode") else "TINY JAPANESE"
+    d = ImageDraw.Draw(fr, "RGBA"); ep = f"Ep.{R.meta['episode']}" if R.meta.get("episode") else "TINY FRENCH"
     size = 150
     while size > 70 and font(size).getlength(R.meta["title"]) > 1500:
         size -= 6
