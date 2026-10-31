@@ -1,0 +1,18 @@
+title: Tu or Vous? The Easy Rule for Saying “You” in French
+episode: 19
+scene: street
+
+[story]
+Marinette: Avec un ami, on dit tu : tu veux un café ? | With a friend, we say tu: do you want a coffee?
+Adrien: Et avec la serveuse ? | And with the waitress?
+Marinette: Avec une personne inconnue, on dit vous : vous voulez un café ? | With someone you don't know, we say vous: would you like a coffee?
+Adrien: D'accord ! Tu pour les amis, vous pour les inconnus ! | OK! Tu for friends, vous for strangers!
+
+[vocab]
+vocab: tu | you (friends, family) | TEW
+example: Tu parles français ? | Do you speak French?
+vocab: vous | you (polite, or plural) | VOO
+example: Vous parlez français, madame ? | Do you speak French, madam?
+
+[quiz]
+quiz: Which one do you use with a stranger? | Tu | Vous | Toi | B | Vous is the polite form.
