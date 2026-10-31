@@ -1,0 +1,19 @@
+title: How to Ask “Where Is the Toilet?” in French (You'll Need It!)
+episode: 14
+scene: restaurant
+
+[story]
+Adrien: Excusez-moi, où sont les toilettes, s'il vous plaît ? | Excuse me, where is the toilet, please?
+Marinette: Les toilettes ? Au fond, à droite. | The toilet? At the back, on the right.
+Adrien: À droite ? | On the right?
+Marinette: Oui, c'est juste là ! | Yes, it's right there!
+Adrien: Merci beaucoup ! | Thank you very much!
+
+[vocab]
+vocab: où sont les toilettes ? | where is the toilet? | oo sohn lay twah-LET
+example: Où sont les toilettes, s'il vous plaît ? | Where is the toilet, please?
+vocab: à droite / à gauche | on the right / on the left | ah DRWAHT / ah GOHSH
+example: C'est à droite. | It's on the right.
+
+[quiz]
+quiz: What does “à droite” mean? | on the left | on the right | straight ahead | B | Gauche is left, droite is right.
