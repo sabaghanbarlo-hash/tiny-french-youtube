@@ -1,0 +1,19 @@
+title: Count to 10 in French in 20 Seconds
+episode: 10
+scene: classroom
+
+[story]
+Marinette: Tu veux compter en français ? | Do you want to count in French?
+Adrien: Oui ! Un, deux, trois ! | Yes! One, two, three!
+Marinette: Quatre, cinq, six ! | Four, five, six!
+Adrien: Sept, huit, neuf, dix ! | Seven, eight, nine, ten!
+Marinette: Bravo ! Répète après moi ! | Bravo! Repeat after me!
+
+[vocab]
+vocab: trois | three | TRWAH
+example: Trois croissants, s'il vous plaît. | Three croissants, please.
+vocab: huit | eight | WEET
+example: Il est huit heures. | It's eight o'clock.
+
+[quiz]
+quiz: Which number is “quatre”? | 3 | 4 | 5 | B | Quatre is four.
