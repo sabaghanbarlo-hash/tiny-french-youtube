@@ -1,0 +1,20 @@
+title: Don't Just Say “Au Revoir”! 3 Better Goodbyes in French
+episode: 17
+scene: street
+
+[story]
+Adrien: Je pars. Au revoir, Marinette ! | I'm leaving. Goodbye, Marinette!
+Marinette: Au revoir, c'est correct, mais tu peux dire : à demain ! | Goodbye is fine, but you can say: see you tomorrow!
+Adrien: À demain, Marinette ! | See you tomorrow, Marinette!
+Marinette: À bientôt, Adrien ! Bonne soirée ! | See you soon, Adrien! Have a nice evening!
+
+[vocab]
+vocab: à demain | see you tomorrow | ah duh-MAN
+example: Merci, à demain ! | Thanks, see you tomorrow!
+vocab: à bientôt | see you soon | ah byan-TOH
+example: Au revoir, à bientôt ! | Goodbye, see you soon!
+vocab: bonne soirée | have a nice evening | bun swah-RAY
+example: Merci, bonne soirée ! | Thanks, have a nice evening!
+
+[quiz]
+quiz: What does “à demain” mean? | See you soon | See you tomorrow | Good night | B | Demain means tomorrow.
