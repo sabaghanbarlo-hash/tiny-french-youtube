@@ -1,0 +1,18 @@
+title: Bonsoir or Bonne Nuit? Don't Say Good Night Too Early in French
+episode: 18
+scene: street
+
+[story]
+Adrien: Il est huit heures. Bonne nuit, Marinette ! | It's eight o'clock. Good night, Marinette!
+Marinette: Déjà ? Il est tôt ! Dis plutôt : bonsoir. | Already? It's early! Say bonsoir instead.
+Adrien: Bonsoir, Marinette ! | Good evening, Marinette!
+Marinette: Bonsoir, Adrien ! Et plus tard, bonne nuit. | Good evening, Adrien! And later, good night.
+
+[vocab]
+vocab: bonsoir | good evening (hello or goodbye) | bohn-SWAHR
+example: Bonsoir, madame ! | Good evening, madam!
+vocab: bonne nuit | good night (before sleeping) | bun NWEE
+example: Bonne nuit, Marinette ! | Good night, Marinette!
+
+[quiz]
+quiz: You arrive at a restaurant at 8 pm. What do you say? | Bonsoir ! | Bonne nuit ! | Bonne journée ! | A | Bonne nuit is only for going to bed.
