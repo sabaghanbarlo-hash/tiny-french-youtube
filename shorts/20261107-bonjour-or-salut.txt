@@ -1,0 +1,18 @@
+title: Bonjour or Salut? Don't Say the Wrong Hello in French
+episode: 7
+scene: street
+
+[story]
+Marinette: Adrien, ne dis pas salut à la boulangère ! | Adrien, don't say salut to the baker!
+Adrien: Pourquoi ? Salut, c'est bonjour, non ? | Why? Salut means hello, doesn't it?
+Marinette: Salut, c'est pour les amis. Avec les inconnus, dis bonjour. | Salut is for friends. With strangers, say bonjour.
+Adrien: D'accord ! Bonjour, madame ! | OK! Hello, madam!
+
+[vocab]
+vocab: bonjour | hello (polite, all day) | bohn-ZHOOR
+example: Bonjour, madame ! | Hello, madam!
+vocab: salut | hi / bye (friends only) | sah-LEW
+example: Salut, Marinette ! | Hi, Marinette!
+
+[quiz]
+quiz: You meet a shopkeeper. What do you say? | Bonjour ! | Salut ! | Coucou ! | A | Use bonjour with people you do not know.
