@@ -1,0 +1,51 @@
+title: Greetings Through the Day
+episode: FC1
+scene: street
+
+[story]
+Marinette: Bonjour, Adrien ! | Hello, Adrien!
+Adrien: Bonjour, Marinette ! Ça va ? | Hello, Marinette! How are you?
+Marinette: Ça va bien, merci. Et toi ? | I'm fine, thanks. And you?
+Adrien: Ça va très bien ! | I'm doing very well!
+Adrien: Bonsoir, Marinette ! | Good evening, Marinette!
+Marinette: Bonsoir ! À demain ? | Good evening! See you tomorrow?
+Adrien: Oui, à demain. Bonne nuit ! | Yes, see you tomorrow. Good night!
+Marinette: Bonne nuit, Adrien. Salut ! | Good night, Adrien. Bye!
+
+[vocab]
+vocab: bonsoir | good evening | bohn-SWAHR
+example: Bonsoir, madame ! | Good evening, madam!
+vocab: salut | hi / bye (informal) | sah-LEW
+example: Salut, Adrien ! | Hi, Adrien!
+vocab: ça va ? | how are you? / how's it going? | sah VAH
+example: Salut ! Ça va ? | Hi! How are you?
+vocab: ça va bien | I'm fine | sah vah BYAN
+example: Ça va bien, merci. | I'm fine, thanks.
+vocab: et toi ? | and you? (to a friend) | ay TWAH
+example: Ça va bien. Et toi ? | I'm fine. And you?
+vocab: au revoir | goodbye | oh ruh-VWAHR
+example: Au revoir, madame ! | Goodbye, madam!
+vocab: à demain | see you tomorrow | ah duh-MAN
+example: Merci, à demain ! | Thanks, see you tomorrow!
+vocab: bonne nuit | good night | bun NWEE
+example: Bonne nuit, Marinette ! | Good night, Marinette!
+
+[grammar]
+grammar: Bonjour, bonsoir or salut? | Use bonjour from morning until evening, and bonsoir once it is evening. Salut is relaxed and works for both hello and goodbye, but only with friends and family. With a shopkeeper or someone older, choose bonjour and au revoir.
+example: Bonjour, madame ! | Hello, madam!
+example: Salut, Adrien ! | Hi, Adrien!
+grammar: Ça va ? — asking and answering | Ça va ? is the everyday way to ask how someone is. Answer with ça va, ça va bien or ça va très bien, then hand the question back with et toi ?
+example: Ça va ? — Ça va bien, merci. | How are you? — I'm fine, thanks.
+example: Et toi ? | And you?
+grammar: Toi or vous? | Toi goes with tu, the friendly "you". To a stranger or an older person, say et vous ? instead. The rest of the sentence stays the same.
+example: Et toi ? | And you? (friend)
+example: Et vous ? | And you? (polite)
+
+[quiz]
+quiz: You arrive at a friend's house at 8 pm. What do you say? | Bonsoir ! | Bonne nuit ! | Au revoir ! | A | Bonsoir is “good evening”. Bonne nuit is only for going to bed.
+quiz: What does “Ça va ?” mean? | Where are you? | How are you? | What's your name? | B | Ça va ? asks how someone is.
+quiz: Which greeting is informal and works for both hello and goodbye? | Bonsoir | Au revoir | Salut | Bonne nuit | C | Salut is for friends: it means both hi and bye.
+quiz: What does “À demain” mean? | See you soon | Good night | Good morning | See you tomorrow | D | Demain means tomorrow.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
