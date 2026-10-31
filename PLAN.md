@@ -87,7 +87,8 @@ Weeks 1-4 are all written. Weeks 5+ (December): see "Next" below.
 - Tuesday Lessons: the existing "French sounds" series (fs-01 to fs-07: accents and alphabet, silent letters, nasal vowels, the French u and r...) and the "Everyday French" series (ef-01 to ef-07), re-dated into schedule.json.
 - Shorts: another 20, built from whichever hook formulas won in November.
 
-## Things to clean up on the channel
+## Things to do by hand (2 minutes)
 
-- The channel still has three older guided-meditation videos from Oct 26 (they do not fit a beginner French channel). Consider making them private.
-- The Tiny French videos that were uploaded earlier are all private. The scheduler uploads new ones private with a publish time, so you do not need to touch YT_PRIVACY.
+- Two videos were uploaded before the scheduler existed and are still plain private: **Ep.1 A Rainy Day in Paris** and **3 French Phrases for the Bakery**. In YouTube Studio > Content, open each one > Visibility > Schedule, and pick Sun Nov 1 10:00 ET (Ep.1) and Mon Nov 2 18:00 ET (bakery Short).
+- The channel also holds three older private guided-meditation videos from Oct 26. They are private so they do no harm; delete them if you do not want them on a French channel.
+- The scheduler uploads new videos private with a publish time, so you do not need to touch the YT_PRIVACY setting.
