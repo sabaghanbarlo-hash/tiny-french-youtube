@@ -1,0 +1,18 @@
+title: How to Say “Cheers!” in French (Santé!) and More
+episode: 22
+scene: restaurant
+
+[story]
+Marinette: Voilà ! Du jus d'orange pour nous ! | Here you go! Orange juice for us!
+Adrien: Santé ! | Cheers!
+Marinette: Santé ! Et bon appétit ! | Cheers! And enjoy your meal!
+Adrien: À ta santé, Marinette ! | To your health, Marinette!
+
+[vocab]
+vocab: santé ! | cheers! | sahn-TAY
+example: Santé, tout le monde ! | Cheers, everyone!
+vocab: à votre santé | to your health (polite) | ah VOH-truh sahn-TAY
+example: À votre santé, madame ! | To your health, madam!
+
+[quiz]
+quiz: What do you say when you raise your glass? | Santé ! | Merci ! | Pardon ! | A | Santé literally means health.
