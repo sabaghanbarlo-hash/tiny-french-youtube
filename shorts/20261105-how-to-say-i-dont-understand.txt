@@ -1,0 +1,20 @@
+title: How to Say “I Don't Understand” in French (3 Useful Phrases)
+episode: 5
+scene: street
+
+[story]
+Marinette: Excusez-moi, vous avez l'heure ? | Excuse me, do you have the time?
+Adrien: Pardon, je ne comprends pas. | Sorry, I don't understand.
+Marinette: Je répète : quelle heure est-il ? | I'll repeat: what time is it?
+Adrien: Plus lentement, s'il vous plaît. | More slowly, please.
+Marinette: Quelle... heure... est-il ? | What... time... is it?
+Adrien: Ah ! Il est trois heures ! | Ah! It's three o'clock!
+
+[vocab]
+vocab: je ne comprends pas | I don't understand | zhuh nuh kohm-PRAHN pah
+example: Pardon, je ne comprends pas. | Sorry, I don't understand.
+vocab: plus lentement, s'il vous plaît | more slowly, please | plew lahnt-MAHN seel voo PLEH
+example: Parlez plus lentement, s'il vous plaît. | Please speak more slowly.
+
+[quiz]
+quiz: What does “Je ne comprends pas” mean? | I don't know | I don't understand | I don't speak | B | Comprendre means to understand.
