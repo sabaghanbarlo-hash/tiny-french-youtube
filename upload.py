@@ -125,11 +125,14 @@ def main():
     snippet = {"title": title, "description": description, "tags": TAGS,
                "categoryId": os.environ.get("YT_CATEGORY") or "27"}
     status = {"privacyStatus": privacy, "selfDeclaredMadeForKids": False}
-    print(f"Uploading '{title}' as {privacy} ({os.path.getsize(video) / 1e6:.1f} MB)…")
+    publish_at = (os.environ.get("PUBLISH_AT") or "").strip()   # e.g. 2026-11-03T15:00:00Z: stays private until then
+    if publish_at:
+        status = {"privacyStatus": "private", "publishAt": publish_at, "selfDeclaredMadeForKids": False}
+    print(f"Uploading '{title}' as {privacy}{' (publishes ' + publish_at + ')' if publish_at else ''} ({os.path.getsize(video) / 1e6:.1f} MB)…")
     vid = upload_video(token, video, snippet, status)
     thumb = set_thumbnail(token, vid, os.path.join(folder, stem + ".thumbnail.png"))
     url = f"https://youtu.be/{vid}"
-    open(os.path.join(folder, stem + ".youtube.txt"), "w", encoding="utf-8").write(f"{url}\nprivacy: {privacy}\nthumbnail: {thumb}\n")
+    open(os.path.join(folder, stem + ".youtube.txt"), "w", encoding="utf-8").write(f"{url}\nprivacy: {privacy}\n" + (f"publishAt: {publish_at}\n" if publish_at else "") + f"thumbnail: {thumb}\n")
     print(f"Uploaded: {url} (thumbnail {thumb})")
 
 
