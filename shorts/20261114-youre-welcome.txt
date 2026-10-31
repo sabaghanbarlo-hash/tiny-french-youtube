@@ -1,0 +1,20 @@
+title: 3 Ways to Say “You're Welcome” in French (Not Just De Rien)
+episode: 12
+scene: terrace
+
+[story]
+Adrien: Merci, Marinette ! | Thank you, Marinette!
+Marinette: De rien ! Ou : avec plaisir ! | You're welcome! Or: my pleasure!
+Adrien: Et en très poli ? | And very politely?
+Marinette: Je vous en prie. | You're very welcome. (formal)
+
+[vocab]
+vocab: de rien | you're welcome (casual) | duh RYAN
+example: Merci ! De rien ! | Thanks! You're welcome!
+vocab: avec plaisir | my pleasure | ah-VEK pleh-ZEER
+example: Un café ? Avec plaisir ! | A coffee? With pleasure!
+vocab: je vous en prie | you're welcome (formal) | zhuh voo zahn PREE
+example: Merci, madame. Je vous en prie. | Thank you, madam. You're welcome.
+
+[quiz]
+quiz: Which one is the most formal? | De rien | Je vous en prie | Avec plaisir | B | Je vous en prie is the polite, formal version.
