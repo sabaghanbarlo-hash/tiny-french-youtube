@@ -1,0 +1,20 @@
+title: How to Say “No” in French Without Sounding Rude
+episode: 8
+scene: street
+
+[story]
+Marinette: Tu veux un croissant, Adrien ? | Do you want a croissant, Adrien?
+Adrien: Non, merci. | No, thank you.
+Marinette: Et un café ? | And a coffee?
+Adrien: Pas maintenant, merci. | Not now, thank you.
+Marinette: Et une glace ? | And an ice cream?
+Adrien: Non, merci. Je n'ai plus faim ! | No, thank you. I'm not hungry anymore!
+
+[vocab]
+vocab: non, merci | no, thank you | nohn mehr-SEE
+example: Un café ? Non, merci. | A coffee? No, thank you.
+vocab: pas maintenant | not now | pah mant-NAHN
+example: Pas maintenant, merci. | Not now, thank you.
+
+[quiz]
+quiz: How do you politely say “no, thank you”? | Non, merci | Non ! | Jamais | A | Adding merci makes it polite.
