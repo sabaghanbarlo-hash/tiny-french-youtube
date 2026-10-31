@@ -1,0 +1,53 @@
+title: Numbers and Prices
+episode: FC3
+scene: market
+
+[story]
+Marinette: Bonjour ! C'est combien, les pommes ? | Hello! How much are the apples?
+Adrien: Deux euros le kilo. | Two euros a kilo.
+Marinette: Et les fraises ? | And the strawberries?
+Adrien: Quatre euros la barquette. | Four euros a punnet.
+Marinette: Je prends deux kilos de pommes et une barquette de fraises, s'il vous plaît. | I'll take two kilos of apples and a punnet of strawberries, please.
+Adrien: Très bien. Ça fait huit euros. | Very good. That comes to eight euros.
+Marinette: Voilà dix euros. | Here's ten euros.
+Adrien: Merci. Et voilà votre monnaie : deux euros. | Thank you. And here's your change: two euros.
+Marinette: Merci, bonne journée ! | Thanks, have a nice day!
+Adrien: Vous aussi ! | You too!
+
+[vocab]
+vocab: c'est combien ? | how much is it? | seh kohm-BYAN
+example: C'est combien, les pommes ? | How much are the apples?
+vocab: ça fait… | that comes to… | sah FEH
+example: Ça fait huit euros. | That comes to eight euros.
+vocab: je prends… | I'll take… | zhuh PRAHN
+example: Je prends deux kilos de pommes. | I'll take two kilos of apples.
+vocab: un euro | a euro | uhn uh-ROH
+example: Deux euros, s'il vous plaît. | Two euros, please.
+vocab: un kilo | a kilo | uhn kee-LOH
+example: Un kilo de pommes. | A kilo of apples.
+vocab: la monnaie | the change | lah moh-NEH
+example: Voilà votre monnaie. | Here's your change.
+vocab: deux | two | DUH
+example: Deux euros le kilo. | Two euros a kilo.
+vocab: huit | eight | WEET
+example: Ça fait huit euros. | That comes to eight euros.
+
+[grammar]
+grammar: Numbers 0–20 | Learn the numbers in small groups. Zero to ten: zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix. Then eleven to sixteen: onze, douze, treize, quatorze, quinze, seize. Then seventeen, eighteen, nineteen and twenty: dix-sept, dix-huit, dix-neuf, vingt.
+example: Il y a dix pommes. | There are ten apples.
+example: Ça fait quinze euros. | That comes to fifteen euros.
+grammar: C'est combien ? and Ça fait… | Ask C'est combien ? for a single price, or Ça coûte combien ? for the longer version. The seller answers with the price or Ça fait + total.
+example: C'est combien ? | How much is it?
+example: Ça fait huit euros. | That comes to eight euros.
+grammar: Quantities use de | After a quantity such as un kilo or une barquette, the word de links it to the thing: deux kilos de pommes. De becomes d' before a vowel.
+example: Un kilo de fraises. | A kilo of strawberries.
+example: Une bouteille d'eau. | A bottle of water.
+
+[quiz]
+quiz: How do you ask the price of something? | Ça va bien ? | Tu viens d'où ? | C'est combien ? | C | C'est combien ? = How much is it?
+quiz: Which number is “huit”? | 6 | 8 | 10 | 18 | B | Huit is eight.
+quiz: What does “Je prends deux kilos de pommes” mean? | I want a kilo of pears | I'll take two kilos of apples | Two apples cost one euro | B | Je prends = I'll take.
+quiz: What number is “dix”? | 6 | 12 | 20 | 10 | D | Dix is ten.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
