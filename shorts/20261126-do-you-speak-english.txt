@@ -1,0 +1,18 @@
+title: How to Ask “Do You Speak English?” in French (Politely!)
+episode: 20
+scene: street
+
+[story]
+Adrien: Bonjour, madame. Parlez-vous anglais ? | Hello, madam. Do you speak English?
+Marinette: Un peu. Vous parlez français ? | A little. Do you speak French?
+Adrien: Un petit peu ! Je suis débutant. | A tiny bit! I'm a beginner.
+Marinette: Pas de problème ! Parlons français ! | No problem! Let's speak French!
+
+[vocab]
+vocab: parlez-vous anglais ? | do you speak English? (polite) | par-lay-voo ahn-GLAY
+example: Pardon, parlez-vous anglais ? | Excuse me, do you speak English?
+vocab: un peu | a little | uhn PUH
+example: Je parle un peu français. | I speak a little French.
+
+[quiz]
+quiz: What does “un peu” mean? | a lot | a little | never | B | Un peu means a little.
