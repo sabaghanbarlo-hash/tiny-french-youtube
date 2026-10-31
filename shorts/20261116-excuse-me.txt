@@ -1,0 +1,21 @@
+title: 3 Ways to Say “Excuse Me” in French (Pardon, Excusez-moi…)
+episode: 13
+scene: station
+
+[story]
+Adrien: Pardon ! | Sorry!
+Marinette: Ce n'est pas grave ! | It's okay!
+Adrien: Excusez-moi, madame ! Où est la sortie ? | Excuse me, madam! Where is the exit?
+Marinette: La sortie est à gauche. | The exit is on the left.
+Adrien: Merci ! Et désolé ! | Thanks! And sorry!
+
+[vocab]
+vocab: pardon | sorry / excuse me | par-DOHN
+example: Pardon, monsieur ! | Excuse me, sir!
+vocab: excusez-moi | excuse me (polite) | ek-skew-zay-MWAH
+example: Excusez-moi, où est la gare ? | Excuse me, where is the station?
+vocab: désolé / désolée | sorry (man / woman) | day-zoh-LAY
+example: Je suis désolée ! | I'm sorry! (a woman)
+
+[quiz]
+quiz: To get a stranger's attention politely, what do you say? | Excusez-moi | Salut | Pas de problème | A | Excusez-moi is the polite way.
