@@ -1,0 +1,19 @@
+title: 3 French Phrases You'll Hear at Every Café (Understand Them!)
+episode: 9
+scene: cafe
+
+[story]
+Marinette: Bonjour ! Vous désirez ? | Hello! What would you like?
+Adrien: Un café, s'il vous plaît. | A coffee, please.
+Marinette: Sur place ou à emporter ? | For here or to go?
+Adrien: Sur place, merci. | For here, thank you.
+Marinette: Et avec ça ? | Anything else?
+
+[vocab]
+vocab: sur place | for here (eat in) | sewr PLASS
+example: Sur place, s'il vous plaît. | For here, please.
+vocab: à emporter | to go / takeaway | ah ahn-pohr-TAY
+example: Un café à emporter, s'il vous plaît. | A coffee to go, please.
+
+[quiz]
+quiz: What does “Et avec ça ?” mean? | Anything else? | How are you? | Where are you from? | A | The waiter asks if you want anything else.
