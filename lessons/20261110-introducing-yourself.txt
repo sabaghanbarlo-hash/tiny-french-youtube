@@ -1,0 +1,54 @@
+title: Introducing Yourself
+episode: FC2
+scene: terrace
+
+[story]
+Adrien: Salut ! Comment tu t'appelles ? | Hi! What's your name?
+Marinette: Je m'appelle Marinette. Et toi ? | My name is Marinette. And you?
+Adrien: Moi, c'est Adrien. Tu es française ? | Me, I'm Adrien. Are you French?
+Marinette: Oui, je suis française. J'habite à Paris. | Yes, I'm French. I live in Paris.
+Marinette: Et toi ? Tu viens d'où ? | And you? Where are you from?
+Adrien: Je viens du Canada, mais j'habite à Lyon. | I come from Canada, but I live in Lyon.
+Marinette: Tu parles anglais ? | Do you speak English?
+Adrien: Oui ! Je parle anglais et français. | Yes! I speak English and French.
+Marinette: Moi, je parle français et un peu anglais. | Me, I speak French and a little English.
+
+[vocab]
+vocab: comment tu t'appelles ? | what's your name? (to a friend) | koh-mahn tew tah-PEL
+example: Salut ! Comment tu t'appelles ? | Hi! What's your name?
+vocab: moi, c'est… | me, I'm… / I'm… | mwah SEH
+example: Moi, c'est Adrien. | I'm Adrien.
+vocab: je suis français / française | I am French (man / woman) | zhuh swee frahn-SEH / frahn-SEHZ
+example: Je suis française. | I am French.
+vocab: j'habite à… | I live in… | zhah-BEET ah
+example: J'habite à Paris. | I live in Paris.
+vocab: tu viens d'où ? | where are you from? (to a friend) | tew VYAN doo
+example: Tu viens d'où, Adrien ? | Where are you from, Adrien?
+vocab: je viens de… | I come from… | zhuh VYAN duh
+example: Je viens de Montréal. | I come from Montreal.
+vocab: je parle | I speak | zhuh PARL
+example: Je parle français. | I speak French.
+vocab: un peu | a little | uhn PUH
+example: Je parle un peu anglais. | I speak a little English.
+
+[grammar]
+grammar: Je suis + nationality | Nationalities are adjectives. For a woman add an -e. Français becomes française, canadien becomes canadienne. The masculine and feminine often sound different here, because the final consonant is pronounced in the feminine.
+example: Je suis français. | I am French. (a man)
+example: Je suis française. | I am French. (a woman)
+example: Je suis canadienne. | I am Canadian. (a woman)
+grammar: J'habite à… and je viens de… | Use à with a city to say where you live, and de with a city to say where you come from. With a masculine country such as le Canada, de + le becomes du.
+example: J'habite à Lyon. | I live in Lyon.
+example: Je viens de Paris. | I come from Paris.
+example: Je viens du Canada. | I come from Canada.
+grammar: Je parle + language | Use je parle with the name of a language, with no word for "the". Add un peu to be modest.
+example: Je parle français. | I speak French.
+example: Je parle un peu anglais. | I speak a little English.
+
+[quiz]
+quiz: How do you ask a friend their name? | Tu viens d'où ? | Comment tu t'appelles ? | Tu parles anglais ? | B | Comment tu t'appelles ? literally asks how you call yourself.
+quiz: Marinette is a woman. How does she say she is French? | Je suis français | Je suis habite | Je suis française | C | Add -e for a woman: française.
+quiz: What does “Tu viens d'où ?” mean? | Where are you from? | Where do you live? | What is your name? | A | D'où means “from where”.
+quiz: What does “Je parle un peu anglais” mean? | I speak English well | I speak a little English | I don't speak English | B | Un peu means a little.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
