@@ -1,0 +1,18 @@
+title: How to Compliment Food in French: “C'est Délicieux !” and More
+episode: 16
+scene: restaurant
+
+[story]
+Adrien: Bon appétit, Marinette ! | Enjoy your meal, Marinette!
+Marinette: Merci, toi aussi ! Hmm, ce gâteau ! | Thanks, you too! Mmm, this cake!
+Marinette: C'est délicieux ! | It's delicious!
+Adrien: Oui, c'est très bon ! | Yes, it's very good!
+
+[vocab]
+vocab: c'est délicieux | it's delicious | seh day-lee-SYUH
+example: C'est délicieux, merci ! | It's delicious, thank you!
+vocab: bon appétit | enjoy your meal | bohn ah-pay-TEE
+example: Bon appétit, tout le monde ! | Enjoy your meal, everyone!
+
+[quiz]
+quiz: What do you say before a meal? | Bon appétit | Bonne nuit | À demain | A | Bon appétit means enjoy your meal.
