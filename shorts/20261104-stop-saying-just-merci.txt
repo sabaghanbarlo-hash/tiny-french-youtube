@@ -1,0 +1,19 @@
+title: Stop Saying Just “Merci”! 3 Ways to Say Thank You in French
+episode: 4
+scene: street
+
+[story]
+Marinette: Adrien, tu dis toujours juste merci. | Adrien, you always say just thank you.
+Adrien: Et alors ? C'est mal ? | So what? Is that bad?
+Marinette: Non, mais essaie : merci beaucoup ! | No, but try: thank you very much!
+Adrien: Merci beaucoup, Marinette ! | Thank you very much, Marinette!
+Marinette: Bravo ! Pour être très poli : je vous remercie. | Bravo! To be very polite: I thank you.
+
+[vocab]
+vocab: merci beaucoup | thank you very much | mehr-SEE boh-KOO
+example: Merci beaucoup pour le café ! | Thank you very much for the coffee!
+vocab: je vous remercie | I thank you (very polite) | zhuh voo ruh-mehr-SEE
+example: Je vous remercie, madame. | I thank you, madam.
+
+[quiz]
+quiz: Which one means “thank you very much”? | Merci beaucoup | De rien | S'il vous plaît | A | Beaucoup means a lot or very much.
