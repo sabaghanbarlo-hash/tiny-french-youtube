@@ -1,0 +1,52 @@
+title: A Saturday in Town
+episode: 4
+scene: town
+
+[story]
+> Marinette enters left
+> Adrien enters right
+Adrien: Salut, Marinette ! Quelle belle journée ! | Hi, Marinette! What a beautiful day!
+> Marinette looks happy
+Marinette: Oui ! Allons faire des courses ! | Yes! Let's go shopping!
+> both walk to bakery
+Marinette: Bonjour ! Une baguette, s'il vous plaît. | Hello! A baguette, please.
+Adrien: Et un croissant pour moi, s'il vous plaît. | And a croissant for me, please.
+> both walk to flower shop
+Adrien: Regarde ! Il y a des fleurs. Elles sont belles ! | Look! There are some flowers. They are beautiful!
+Marinette: Je voudrais des fleurs pour ma mère. | I would like some flowers for my mother.
+@scene cafe
+> both enter left
+> both walk to counter
+Adrien: Je voudrais une glace, s'il vous plaît. | I would like an ice cream, please.
+> Adrien buys ice cream
+Marinette: Et moi, un jus d'orange, s'il vous plaît. | And for me, an orange juice, please.
+> Marinette buys drink
+> Adrien eats ice cream
+Adrien: C'est délicieux ! | It's delicious!
+> Adrien nods
+Marinette: Quelle belle journée ! | What a great day!
+
+[vocab]
+vocab: une baguette | a baguette | ewn ba-GET
+example: Une baguette, s'il vous plaît. | A baguette, please.
+vocab: des fleurs | some flowers | day FLUHR
+example: Je voudrais des fleurs. | I would like some flowers.
+vocab: une glace | an ice cream | ewn GLASS
+example: Une glace, s'il vous plaît. | An ice cream, please.
+vocab: faire des courses | to go shopping | fair day KOORSS
+example: Samedi, je fais des courses. | On Saturday, I do the shopping.
+
+[grammar]
+grammar: Il y a + noun | Use this to say what there is somewhere
+example: Il y a des fleurs. | There are some flowers.
+example: Il y a un café ici. | There is a café here.
+grammar: Des = some | Use des before a plural noun. For one thing, use un or une
+example: Je voudrais des fleurs. | I would like some flowers.
+example: Je voudrais une baguette. | I would like a baguette.
+
+[quiz]
+quiz: How do you say “There are some flowers”? | Il y a des fleurs | Je suis des fleurs | C'est fleurs | A | Il y a means there is or there are.
+quiz: What does “une glace” mean? | an ice cream | a bag | a ticket | A | Une glace is an ice cream.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
