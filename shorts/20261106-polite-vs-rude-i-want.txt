@@ -1,0 +1,18 @@
+title: Polite vs Rude: How to Say “I Want” in French (Not Je Veux!)
+episode: 6
+scene: cafe
+
+[story]
+Adrien: Bonjour. Je veux un café. | Hello. I want a coffee.
+Marinette: Oh là là ! C'est un peu direct. | Oh dear! That's a bit direct.
+Adrien: Ah bon ? Alors... je voudrais un café, s'il vous plaît. | Really? Then... I would like a coffee, please.
+Marinette: Voilà, c'est beaucoup mieux ! | There, that's much better!
+
+[vocab]
+vocab: je veux | I want (too direct) | zhuh VUH
+example: Je veux un café. | I want a coffee. (blunt)
+vocab: je voudrais | I would like (polite) | zhuh voo-DRAY
+example: Je voudrais un thé, s'il vous plaît. | I would like a tea, please.
+
+[quiz]
+quiz: Which is the polite way to order? | Je veux un thé | Je voudrais un thé | Donne-moi un thé | B | Je voudrais means I would like.
