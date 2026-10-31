@@ -1,0 +1,39 @@
+1
+00:00:12,240 --> 00:00:15,380
+Bonjour, Adrien !
+Hello, Adrien!
+
+2
+00:00:15,480 --> 00:00:20,324
+Bonjour, Marinette ! Ça va ?
+Hello, Marinette! How are you?
+
+3
+00:00:20,424 --> 00:00:25,412
+Ça va bien, merci. Et toi ?
+I'm fine, thanks. And you?
+
+4
+00:00:25,512 --> 00:00:28,124
+Ça va très bien !
+I'm doing very well!
+
+5
+00:00:28,224 --> 00:00:31,580
+Bonsoir, Marinette !
+Good evening, Marinette!
+
+6
+00:00:31,680 --> 00:00:35,900
+Bonsoir ! À demain ?
+Good evening! See you tomorrow?
+
+7
+00:00:36,000 --> 00:00:40,436
+Oui, à demain. Bonne nuit !
+Yes, see you tomorrow. Good night!
+
+8
+00:00:40,536 --> 00:00:45,284
+Bonne nuit, Adrien. Salut !
+Good night, Adrien. Bye!
