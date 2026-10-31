@@ -1,0 +1,54 @@
+title: A Walk in Paris
+episode: 3
+scene: eiffel
+
+[story]
+> Marinette enters left
+Marinette: Regarde ! C'est la tour Eiffel ! | Look! It's the Eiffel Tower!
+> Adrien enters right
+> Adrien looks surprised
+Adrien: Waouh, elle est très grande ! | Wow, it's very big!
+> both walk to the bench
+Marinette: Asseyons-nous un moment. | Let's sit for a moment.
+> both exit right
+@scene market
+> both enter left
+> both walk to the cheese stall
+Adrien: Bonjour ! Je voudrais du fromage, s'il vous plaît. | Hello! I would like some cheese, please.
+> Marinette looks happy
+Marinette: Moi, je voudrais des pommes. | I would like some apples.
+> both exit right
+@scene terrace
+> both enter left
+> both walk to the terrace table
+Marinette: Un chocolat chaud, s'il vous plaît. | A hot chocolate, please.
+Adrien: Et pour moi, un café. | And for me, a coffee.
+@scene eiffel
+@time night
+> both enter left
+Marinette: Quelle belle soirée ! | What a beautiful evening!
+> Adrien nods
+Adrien: Oui, Paris est magnifique. | Yes, Paris is wonderful.
+
+[vocab]
+vocab: la tour | the tower | la TOOR
+example: La tour est très grande. | The tower is very big.
+vocab: le fromage | cheese | luh fro-MAZH
+example: J'aime le fromage. | I like cheese.
+vocab: la terrasse | the terrace | la te-RASS
+example: Nous sommes sur la terrasse. | We are on the terrace.
+
+[grammar]
+grammar: Elle est + adjective | Use this to describe a feminine noun
+example: Elle est très grande. | It is very big.
+example: Elle est magnifique. | It is wonderful.
+grammar: Je voudrais + noun | Use this to politely ask for something
+example: Je voudrais du fromage. | I would like some cheese.
+example: Je voudrais un café. | I would like a coffee.
+
+[quiz]
+quiz: What does "la terrasse" mean? | the terrace | the tower | the market | A | A terrasse is the outdoor part of a café.
+quiz: How do you ask politely for some cheese? | Je voudrais du fromage | Je suis du fromage | Je fromage voudrais | A | "Je voudrais" means "I would like".
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
