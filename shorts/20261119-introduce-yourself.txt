@@ -1,0 +1,19 @@
+title: Introduce Yourself in French in 20 Seconds (Beginner Script)
+episode: 15
+scene: terrace
+
+[story]
+Adrien: Bonjour ! Je m'appelle Adrien. | Hello! My name is Adrien.
+Marinette: Enchantée ! Moi, c'est Marinette. | Nice to meet you! I'm Marinette.
+Adrien: Enchanté, Marinette ! J'habite à Lyon. Et toi ? | Nice to meet you, Marinette! I live in Lyon. And you?
+Marinette: J'habite à Paris. | I live in Paris.
+Adrien: Je parle anglais et français. | I speak English and French.
+
+[vocab]
+vocab: je m'appelle | my name is | zhuh mah-PEL
+example: Je m'appelle Adrien. | My name is Adrien.
+vocab: enchanté / enchantée | nice to meet you (man / woman) | ahn-shahn-TAY
+example: Enchanté, Marinette ! | Nice to meet you, Marinette!
+
+[quiz]
+quiz: How do you say “My name is Adrien”? | Je m'appelle Adrien | J'habite Adrien | Je parle Adrien | A | Je m'appelle means my name is.
