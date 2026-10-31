@@ -1,0 +1,20 @@
+title: Don't Say “Je Suis Chaud”! Say This Instead in French
+episode: 11
+scene: terrace
+
+[story]
+Adrien: Il fait beau ! Je suis chaud ! | It's sunny! I'm hot!
+Marinette: Oh là là, non ! Ne dis pas ça ! | Oh no! Don't say that!
+Adrien: Pourquoi ? | Why?
+Marinette: En français, on dit : j'ai chaud. | In French, we say: j'ai chaud (literally: I have hot).
+Adrien: J'ai chaud ! Et toi ? | I'm hot! And you?
+Marinette: Moi, j'ai froid ! | Me, I'm cold!
+
+[vocab]
+vocab: j'ai chaud | I'm hot / warm | zhay SHOH
+example: En été, j'ai chaud. | In summer, I'm hot.
+vocab: j'ai froid | I'm cold | zhay FRWAH
+example: En hiver, j'ai froid. | In winter, I'm cold.
+
+[quiz]
+quiz: How do you say “I'm cold”? | Je suis froid | J'ai froid | Je froid | B | In French you have cold: j'ai froid.
