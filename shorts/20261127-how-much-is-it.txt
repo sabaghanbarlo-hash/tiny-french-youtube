@@ -1,0 +1,19 @@
+title: How to Ask “How Much Is It?” in French (Too Expensive!)
+episode: 21
+scene: store
+
+[story]
+Marinette: Excusez-moi, c'est combien, ce sac ? | Excuse me, how much is this bag?
+Adrien: C'est trente euros. | It's thirty euros.
+Marinette: Trente euros ? Oh là là, c'est trop cher ! | Thirty euros? Oh dear, it's too expensive!
+Adrien: Regardez ce petit sac : c'est dix euros. | Look at this small bag: it's ten euros.
+Marinette: Parfait ! Je le prends. | Perfect! I'll take it.
+
+[vocab]
+vocab: c'est combien ? | how much is it? | seh kohm-BYAN
+example: C'est combien, s'il vous plaît ? | How much is it, please?
+vocab: c'est trop cher | it's too expensive | seh troh SHAIR
+example: Oh là là, c'est trop cher ! | Oh dear, it's too expensive!
+
+[quiz]
+quiz: What does “c'est trop cher” mean? | It's very cheap | It's too expensive | It's free | B | Cher means expensive here.
