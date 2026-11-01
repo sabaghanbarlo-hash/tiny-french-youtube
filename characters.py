@@ -2,6 +2,7 @@
 
 portrait(name, mouth, blink)        -> 504x684 head-and-torso sprite (Shorts, lessons, thumbnails)
 head(name, expr, mouth, blink, S)   -> (image, anchor_x, anchor_y) head for the full-body acting rig, scaled for rig scale S
+story_portrait(name, mouth, blink)  -> 504x684 head-and-torso cut from the Story rig (Shorts)
 """
 import functools
 from PIL import Image
@@ -26,3 +27,12 @@ def _head(name, expr, mq, blink, S):
 
 def head(name, expr, mouth, blink, S):
     return _head(name, expr, int(mouth), bool(blink), S)
+
+
+@functools.lru_cache(maxsize=64)
+def story_portrait(name, mouth, blink):
+    """Shorts: head and torso from the Story rig (the same body, arms and head as the Story videos), cut at the
+    table line. Same 504x684 size as portrait(), so the Short layout does not change."""
+    import lesson as _lesson
+    full = _lesson.sprite(name, int(mouth), bool(blink), 1.0, True)
+    return full.crop((0, 0, full.width, min(full.height, _lesson.SPRITE_H)))
