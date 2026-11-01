@@ -356,8 +356,8 @@ def mouth_levels(audio, n):
 
 # ---------- characters ----------
 def render_char(c, mouth, blink):
-    """Adrien / Marinette: the shared Tiny French artwork (head and torso, 504x684)."""
-    return CH.portrait(c["label"], mouth, blink)
+    """Adrien / Marinette in Shorts: the Story rig (same body, arms and head as the Story videos), head and torso, 504x684."""
+    return CH.story_portrait(c["label"], mouth, blink)
 
 
 @functools.lru_cache(None)
