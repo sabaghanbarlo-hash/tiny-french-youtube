@@ -1,0 +1,44 @@
+1
+00:00:14,816 --> 00:00:18,652
+Oh non ! Il pleut !
+Oh no! It's raining!
+
+2
+00:00:21,136 --> 00:00:24,420
+Bonjour, Marinette !
+Hello, Marinette!
+
+3
+00:00:24,520 --> 00:00:29,436
+Bonjour, Adrien ! J'ai froid.
+Hello, Adrien! I'm cold.
+
+4
+00:00:29,536 --> 00:00:34,260
+Moi, j'ai un parapluie. Viens !
+I have an umbrella. Come!
+
+5
+00:00:37,197 --> 00:00:40,625
+Merci, tu es gentil !
+Thank you, you are kind!
+
+6
+00:00:40,725 --> 00:00:43,313
+Allons au café !
+Let's go to the café!
+
+7
+00:00:45,350 --> 00:00:49,642
+Je voudrais un chocolat chaud, s'il vous plaît.
+I would like a hot chocolate, please.
+
+8
+00:00:51,042 --> 00:00:54,062
+Et moi, un café.
+And for me, a coffee.
+
+9
+00:00:54,162 --> 00:00:57,398
+À bientôt, la pluie !
+See you soon, rain!
