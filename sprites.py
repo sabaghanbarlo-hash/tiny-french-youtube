@@ -104,7 +104,7 @@ def sprite(name, mouth, blink):
         d.line(PP(pts), fill=col, width=int(width * S), joint="curve")
 
     if name == "Adrien":
-        gold, gold_d, gold_l = (247, 208, 120), (226, 170, 84), (255, 238, 176)
+        gold, gold_d, gold_l = (120, 80, 52), (92, 58, 36), (160, 114, 80)
         # hair behind the head
         def back(dd):
             ell((112, 112, 448, 440), gold, dd)
@@ -141,10 +141,10 @@ def sprite(name, mouth, blink):
             line(_bez(root, ctrl, tip, 10), gold_d, 6)
         for root, ctrl, tip in (((340, 130), (300, 150), (268, 178)), ((240, 126), (212, 146), (196, 176))):
             line(_bez(root, ctrl, tip, 8), gold_l, 5)
-        d.arc(P(178, 296, 244, 324), 200, 340, fill=(206, 154, 88), width=int(5 * S)); d.arc(P(316, 290, 382, 318), 200, 340, fill=(206, 154, 88), width=int(5 * S))
+        d.arc(P(178, 296, 244, 324), 200, 340, fill=(92, 58, 36), width=int(5 * S)); d.arc(P(316, 290, 382, 318), 200, 340, fill=(92, 58, 36), width=int(5 * S))
         _eyes(d, P, S, blink, lash=False)
     else:
-        navy, navy_d, navy_l = (50, 68, 122), (34, 46, 92), (92, 112, 170)
+        navy, navy_d, navy_l = (34, 34, 44), (22, 22, 30), (74, 76, 98)
         def back(dd):
             ell((106, 106, 454, 440), navy, dd)
             poly(lock_pts((130, 250), (112, 360), (140, 470), 80), navy, dd); poly(lock_pts((430, 250), (448, 360), (420, 470), 80), navy, dd)
