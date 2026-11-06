@@ -15,8 +15,8 @@ SKIN = (253, 227, 203)
 INK = (92, 52, 56)
 MOUTH = (128, 48, 62)
 TONGUE = (238, 128, 140)
-HAIR = {"Adrien": dict(main=(247, 208, 120), dark=(226, 170, 84), light=(255, 238, 176), brow=(206, 154, 88)),
-        "Marinette": dict(main=(50, 68, 122), dark=(34, 46, 92), light=(92, 112, 170), brow=(34, 46, 92), tie=(206, 54, 64))}
+HAIR = {"Adrien": dict(main=(120, 80, 52), dark=(92, 58, 36), light=(160, 114, 80), brow=(92, 58, 36)),
+        "Marinette": dict(main=(34, 34, 44), dark=(22, 22, 30), light=(74, 76, 98), brow=(22, 22, 30), tie=(206, 54, 64))}
 BLUSH_EXPR = ("embarrassed", "shy", "happy", "excited")
 EXPRESSIONS = ("happy", "excited", "surprised", "sad", "worried", "confused", "embarrassed", "shy")
 
