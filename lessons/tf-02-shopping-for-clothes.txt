@@ -1,0 +1,51 @@
+title: Shopping for Clothes
+episode: TF2
+scene: store
+
+[story]
+Marinette: Excusez-moi, je cherche une veste. | Excuse me, I'm looking for a jacket.
+Adrien: Quelle taille faites-vous ? | What size are you?
+Marinette: Je fais du 38. Vous l'avez en bleu ? | I'm a 38. Do you have it in blue?
+Adrien: Oui, la voici. Vous voulez l'essayer ? Les cabines sont au fond. | Yes, here it is. Would you like to try it on? The fitting rooms are at the back.
+Marinette: Elle est un peu grande. Vous l'avez en 36 ? | It's a bit big. Do you have it in a 36?
+Adrien: Je regarde… Oui, voilà un 36. | I'll check… Yes, here's a 36.
+Marinette: Elle me va bien ! Elle coûte combien ? | It suits me! How much is it?
+Adrien: Quatre-vingt-neuf euros, mais c'est les soldes : moins vingt pour cent. | Eighty-nine euros, but it's the sales: twenty percent off.
+Marinette: Super, je la prends. | Great, I'll take it.
+
+[vocab]
+vocab: je cherche | I'm looking for | zhuh SHERSH
+example: Je cherche une veste. | I'm looking for a jacket.
+vocab: une veste | a jacket | ewn VEST
+example: Une veste bleue. | A blue jacket.
+vocab: la taille | the size | lah TIE
+example: Quelle taille faites-vous ? | What size are you?
+vocab: essayer | to try on | ay-say-YAY
+example: Je peux l'essayer ? | Can I try it on?
+vocab: la cabine d'essayage | the fitting room | lah kah-BEEN day-say-AZH
+example: Les cabines sont au fond. | The fitting rooms are at the back.
+vocab: trop grand / trop petit | too big / too small | troh GRAHN / troh puh-TEE
+example: C'est trop grand. | It's too big.
+vocab: ça me va bien | it suits me, it fits me | sah muh vah bee-AN
+example: Elle me va bien. | It suits me.
+vocab: les soldes (m. pl.) | the sales | lay SOLD
+example: C'est les soldes. | It's the sales.
+
+[grammar]
+grammar: Object pronouns: le, la, l', les | To avoid repeating a noun, replace it with le (masculine), la (feminine), l' (before a vowel) or les (plural) and put it before the verb: Je la prends (I'll take it). Vous l'avez en bleu ? (Do you have it in blue?). Je les cherche (I'm looking for them).
+example: Je la prends. | I'll take it.
+example: Vous l'avez en bleu ? | Do you have it in blue?
+grammar: Sizes and fit | Say your size with je fais du + number for clothes: Je fais du 38. For shoes use je fais du 40 or je chausse du 40. Ça me va bien means it suits or fits me. Trop means too: trop grand, trop petit.
+example: Je fais du 38. | I'm a size 38.
+example: Elle est trop petite. | It's too small.
+grammar: Numbers 70 to 99 | French counts 70 as soixante-dix (60 + 10), 80 as quatre-vingts (4 × 20) and 90 as quatre-vingt-dix (4 × 20 + 10). So 89 is quatre-vingt-neuf and 75 is soixante-quinze. Percentages: vingt pour cent.
+example: quatre-vingt-neuf euros | eighty-nine euros
+example: soixante-quinze | seventy-five
+
+[quiz]
+quiz: What does “Je cherche une veste” mean? | I'm selling a jacket | I'm looking for a jacket | I'm wearing a jacket | B | Chercher = to look for.
+quiz: How do you say “It's too big”? | C'est très petit. | C'est assez cher. | C'est trop grand. | C | Trop = too.
+quiz: What is 80 in French? | quatre-vingts | soixante-dix | quatre-dix | A | 80 = 4 × 20.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

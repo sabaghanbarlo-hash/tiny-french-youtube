@@ -1,0 +1,52 @@
+title: At the Market
+episode: RL2
+scene: market
+
+[story]
+Adrien: Bonjour mademoiselle ! Qu'est-ce que je vous sers ? | Hello miss! What can I get you?
+Marinette: Bonjour ! Je voudrais un kilo de pommes, s'il vous plaît. | Hello! I'd like a kilo of apples, please.
+Adrien: Voilà. Et avec ça ? | Here you are. Anything else?
+Marinette: Cinq cents grammes de tomates et une barquette de fraises. | Five hundred grams of tomatoes and a punnet of strawberries.
+Marinette: Elles sont fraîches, les fraises ? | Are the strawberries fresh?
+Adrien: Oui, elles sont du jour ! Quatre euros la barquette. | Yes, they're from today! Four euros a punnet.
+Marinette: Parfait. C'est tout, merci. | Perfect. That's all, thank you.
+Adrien: Ça fait neuf euros cinquante. | That comes to nine euros fifty.
+Marinette: Voilà dix euros. | Here's ten euros.
+Adrien: Et voilà cinquante centimes. Bonne journée ! | And here's fifty cents. Have a good day!
+
+[vocab]
+vocab: je voudrais | I would like | zhuh voo-DRAY
+example: Je voudrais un kilo de pommes. | I'd like a kilo of apples.
+vocab: un kilo de | a kilo of | uhn kee-LOH duh
+example: Un kilo de pommes. | A kilo of apples.
+vocab: cinq cents grammes de | five hundred grams of | sank sahn GRAM duh
+example: Cinq cents grammes de tomates. | Five hundred grams of tomatoes.
+vocab: une barquette de | a punnet of | ewn bar-KET duh
+example: Une barquette de fraises. | A punnet of strawberries.
+vocab: et avec ça ? | anything else? | ay ah-VEK sah
+example: Et avec ça, madame ? | Anything else, madam?
+vocab: ça fait … | that comes to … | sah FAY
+example: Ça fait neuf euros cinquante. | That's nine euros fifty.
+vocab: la fraise | strawberry | lah FREZ
+example: Les fraises sont fraîches. | The strawberries are fresh.
+vocab: la tomate | tomato | lah toh-MAHT
+example: Des tomates rouges. | Red tomatoes.
+
+[grammar]
+grammar: Quantities use de | After an amount (a kilo, a litre, a punnet, a lot) use de, with no article: un kilo de pommes, une bouteille d'eau, beaucoup de fruits. Before a vowel, de becomes d'.
+example: un kilo de pommes | a kilo of apples
+example: une bouteille d'eau | a bottle of water
+grammar: Je voudrais is the polite way to ask | Je voudrais means “I would like”. It is softer and politer than je veux (“I want”). Add s'il vous plaît and you sound like a regular.
+example: Je voudrais des tomates, s'il vous plaît. | I'd like some tomatoes, please.
+example: Je voudrais un café. | I'd like a coffee.
+grammar: Du, de la, des: “some” | To talk about an amount you cannot count, use du (masculine), de la (feminine), de l' (before a vowel) and des (plural): du pain, de la salade, de l'eau, des fraises. Prices: quatre euros la barquette, “four euros per punnet”.
+example: du pain, de la salade | some bread, some salad
+example: des fraises | some strawberries
+
+[quiz]
+quiz: How do you politely say “I'd like a kilo of apples”? | Je voudrais un kilo de pommes. | Je veux un kilo des pommes. | Je voudrais un kilo pommes. | A | Je voudrais + quantity + de + noun.
+quiz: What does “Et avec ça ?” mean? | How much is it? | Anything else? | Is it fresh? | B | It is what the seller asks next.
+quiz: What does “Ça fait neuf euros” mean? | It costs nine euros each | It was nine euros | That comes to nine euros | C | Ça fait = that comes to.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

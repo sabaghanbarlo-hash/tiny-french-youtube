@@ -1,0 +1,52 @@
+title: Asking Questions
+episode: FG6
+scene: park
+
+[story]
+Adrien: Où est le concert ? | Where is the concert?
+Marinette: Il est au parc. Il commence à huit heures. | It's in the park. It starts at eight o'clock.
+Adrien: Comment est-ce qu'on va au parc ? | How do we get to the park?
+Marinette: En métro, c'est rapide. | By metro, it's quick.
+Adrien: Combien coûte le billet ? | How much is the ticket?
+Marinette: Le billet coûte dix euros. | The ticket costs ten euros.
+Adrien: Pourquoi est-ce que c'est si cher ? | Why is it so expensive?
+Marinette: Parce que c'est un grand concert ! | Because it's a big concert!
+Adrien: Qui chante ? | Who is singing?
+Marinette: Un chanteur très célèbre. Tu es prêt ? | A very famous singer. Are you ready?
+
+[vocab]
+vocab: où | where | oo
+example: Où est le parc ? | Where is the park?
+vocab: quand | when | kahn
+example: Quand est le concert ? | When is the concert?
+vocab: comment | how | koh-MAHN
+example: Comment vas-tu ? | How are you?
+vocab: combien | how much, how many | kohn-bee-AN
+example: Combien coûte le billet ? | How much is the ticket?
+vocab: pourquoi | why | poor-KWAH
+example: Pourquoi est-ce que c'est cher ? | Why is it expensive?
+vocab: parce que | because | pars-KUH
+example: Parce que c'est un grand concert. | Because it's a big concert.
+vocab: qui | who | kee
+example: Qui chante ? | Who is singing?
+vocab: est-ce que | (question marker) | es-kuh
+example: Est-ce que tu parles anglais ? | Do you speak English?
+
+[grammar]
+grammar: Three ways to ask yes/no questions | 1) Raise your voice at the end: Tu parles anglais ? 2) Put est-ce que in front: Est-ce que tu parles anglais ? 3) Invert the verb and pronoun, which is more formal: Parlez-vous anglais ? Everyday spoken French mostly uses the first two.
+example: Tu parles anglais ? | Do you speak English?
+example: Est-ce que tu parles anglais ? | Do you speak English?
+grammar: Question words | Put the question word first: Où est le parc ? Quand commence le concert ? Combien coûte le billet ? Comment tu t'appelles ? You can also add est-ce que after it: Pourquoi est-ce que c'est cher ?
+example: Où est le concert ? | Where is the concert?
+example: Combien coûte le billet ? | How much is the ticket?
+grammar: Pourquoi and parce que | Pourquoi asks why. Answer with parce que (because). Before a vowel it shortens to parce qu': Parce qu'il est tard.
+example: Pourquoi tu es content ? | Why are you happy?
+example: Parce que c'est vendredi ! | Because it's Friday!
+
+[quiz]
+quiz: Which word means “where”? | où | quand | qui | A | Où = where.
+quiz: What does “combien” ask about? | Why | How much or how many | When | B | Combien = how much, how many.
+quiz: How do you answer “Pourquoi ?” | Qui … | Comment … | Parce que … | C | Parce que = because.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

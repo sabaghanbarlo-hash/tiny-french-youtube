@@ -1,0 +1,51 @@
+title: The Verb Avoir (to have)
+episode: FG2
+scene: home
+
+[story]
+Marinette: Tu as des frères et sœurs, Adrien ? | Do you have any brothers and sisters, Adrien?
+Adrien: J'ai un frère et deux sœurs. Mon frère a vingt ans. | I have a brother and two sisters. My brother is twenty.
+Marinette: Quel âge as-tu ? | How old are you?
+Adrien: J'ai vingt-deux ans. Et toi ? | I'm twenty-two. And you?
+Marinette: J'ai vingt et un ans. Nous avons presque le même âge ! | I'm twenty-one. We're almost the same age!
+Adrien: Tu as un animal à la maison ? | Do you have a pet at home?
+Marinette: Oui, nous avons un chat. Il a trois ans. | Yes, we have a cat. He's three.
+Adrien: J'ai faim. Tu as faim aussi ? | I'm hungry. Are you hungry too?
+Marinette: Oui, j'ai très faim ! On mange ? | Yes, I'm very hungry! Shall we eat?
+
+[vocab]
+vocab: j'ai | I have | zhay
+example: J'ai un frère. | I have a brother.
+vocab: tu as | you have (informal) | tew AH
+example: Tu as un chat ? | Do you have a cat?
+vocab: il a / elle a | he has / she has | eel AH / ehl AH
+example: Il a trois ans. | He is three.
+vocab: nous avons | we have | noo zah-VOHN
+example: Nous avons un chat. | We have a cat.
+vocab: vous avez | you have (formal or plural) | voo zah-VAY
+example: Vous avez une table ? | Do you have a table?
+vocab: ils ont / elles ont | they have | eel ZOHN / ehl ZOHN
+example: Ils ont une grande maison. | They have a big house.
+vocab: avoir … ans | to be … years old | ah-VWAHR … ahn
+example: J'ai vingt-deux ans. | I am twenty-two.
+vocab: avoir faim | to be hungry | ah-VWAHR fan
+example: J'ai très faim. | I'm very hungry.
+
+[grammar]
+grammar: Avoir in the present | The six forms are: j'ai, tu as, il / elle / on a, nous avons, vous avez, ils / elles ont. Je becomes j' before a vowel. Liaison links nous avons (noo-za-VOHN), vous avez (voo-za-VAY) and ils ont (eel-ZOHN).
+example: J'ai un frère. | I have a brother.
+example: Ils ont un chat. | They have a cat.
+grammar: Age uses avoir | French does not say “I am twenty”. It says “I have twenty years”: J'ai vingt ans. Never use être for age. To ask, say Quel âge as-tu ? or Tu as quel âge ?
+example: J'ai vingt-deux ans. | I'm twenty-two.
+example: Il a trois ans. | He is three.
+grammar: Feelings with avoir | Several feelings use avoir + a noun where English uses “to be”: avoir faim (hungry), avoir soif (thirsty), avoir chaud (hot), avoir froid (cold), avoir sommeil (sleepy). Add très to say “very”.
+example: J'ai très faim. | I'm very hungry.
+example: Elle a froid. | She is cold.
+
+[quiz]
+quiz: What does “nous avons” mean? | we are | you have | we have | C | Nous avons = we have.
+quiz: How do you say “I am twenty years old”? | J'ai vingt ans. | Je suis vingt ans. | Je vingt ans. | A | French uses avoir for age.
+quiz: What does “J'ai très faim” mean? | I'm very hot | I'm very hungry | I'm very happy | B | Avoir faim = to be hungry.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,52 @@
+title: On the Phone
+episode: RL4
+scene: home
+
+[story]
+Marinette: Allô ? | Hello?
+Adrien: Allô, Marinette ? C'est Adrien. | Hello, Marinette? It's Adrien.
+Marinette: Salut Adrien ! Ça va ? | Hi Adrien! How are you?
+Adrien: Très bien. Tu es libre samedi soir ? | Very well. Are you free on Saturday evening?
+Marinette: Oui, je suis libre. Pourquoi ? | Yes, I'm free. Why?
+Adrien: Je vais au cinéma avec des amis. Tu viens avec nous ? | I'm going to the cinema with some friends. Are you coming with us?
+Marinette: Avec plaisir ! À quelle heure ? | With pleasure! At what time?
+Adrien: À vingt heures, devant le cinéma. | At eight p.m., in front of the cinema.
+Marinette: Pardon, je n'entends pas bien. Tu peux répéter ? | Sorry, I can't hear well. Can you repeat?
+Adrien: À vingt heures, devant le cinéma ! Je t'envoie l'adresse par message. | At eight p.m., in front of the cinema! I'll text you the address.
+
+[vocab]
+vocab: allô | hello (on the phone) | ah-LOH
+example: Allô ? C'est Marinette. | Hello? It's Marinette.
+vocab: c'est … (à l'appareil) | it's … (speaking) | seh … ah lah-pah-RAY
+example: C'est Adrien à l'appareil. | It's Adrien speaking.
+vocab: libre | free, available | LEE-bruh
+example: Tu es libre samedi ? | Are you free on Saturday?
+vocab: avec plaisir | with pleasure, gladly | ah-vek play-ZEER
+example: Tu viens ? Avec plaisir ! | Are you coming? Gladly!
+vocab: tu viens ? | are you coming? | tew vee-AN
+example: Tu viens avec nous ? | Are you coming with us?
+vocab: devant | in front of | duh-VAHN
+example: Devant le cinéma. | In front of the cinema.
+vocab: un message | a message, a text | uhn meh-SAZH
+example: Je t'envoie un message. | I'll send you a message.
+vocab: répéter | to repeat | ray-pay-TAY
+example: Tu peux répéter ? | Can you repeat?
+
+[grammar]
+grammar: Phone phrases | Answer with Allô ?. Say who you are with C'est + name, not je suis: C'est Adrien. Ask for someone with Je voudrais parler à …, and to be polite use Pardon or Excusez-moi when the line is bad.
+example: C'est Adrien. | It's Adrien. (on the phone)
+example: Je voudrais parler à Marie. | I'd like to speak to Marie.
+grammar: Inviting and replying | Invite with Tu es libre … ? or Tu viens … ?. Accept with Avec plaisir ! or Bonne idée ! Decline politely with Désolé(e), je ne peux pas. Add the reason if you like: Je travaille.
+example: Tu viens avec nous ? | Are you coming with us?
+example: Désolée, je ne peux pas. | Sorry, I can't.
+grammar: Pouvoir and the 24-hour clock | Pouvoir (“can”) is irregular: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. Vous pouvez répéter, s'il vous plaît ? is the polite request. For plans, French often uses the 24-hour clock: à vingt heures (8 p.m.), à vingt et une heures (9 p.m.).
+example: Tu peux répéter ? | Can you repeat?
+example: À vingt heures. | At 8 p.m.
+
+[quiz]
+quiz: How do you say who is calling? | Je suis Adrien. | Il est Adrien. | C'est Adrien. | C | On the phone use c'est + name.
+quiz: What does “Avec plaisir !” mean? | Gladly! | No, thanks! | Wait a moment! | A | It is a warm way to say yes.
+quiz: What is 8 p.m. on the 24-hour clock? | huit heures | vingt heures | dix-huit heures | B | 20:00 is vingt heures.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

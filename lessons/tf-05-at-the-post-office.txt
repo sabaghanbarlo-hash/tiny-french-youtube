@@ -1,0 +1,51 @@
+title: At the Post Office
+episode: TF5
+scene: street
+
+[story]
+Marinette: Bonjour, je voudrais envoyer cette lettre aux États-Unis. | Hello, I'd like to send this letter to the United States.
+Adrien: Je la pèse… Elle fait vingt grammes. Voilà votre timbre. | I'll weigh it… It weighs twenty grams. Here's your stamp.
+Marinette: Il faut combien de temps pour arriver ? | How long does it take to arrive?
+Adrien: Il faut environ une semaine. | It takes about a week.
+Marinette: Je voudrais aussi acheter des timbres. | I'd also like to buy some stamps.
+Adrien: Pour la France ou pour l'étranger ? | For France or for abroad?
+Marinette: Cinq pour la France, s'il vous plaît. | Five for France, please.
+Adrien: Voilà. Autre chose ? | Here you are. Anything else?
+Marinette: Non, c'est tout. Merci, bonne journée ! | No, that's all. Thank you, have a good day!
+
+[vocab]
+vocab: envoyer | to send | ahn-vwah-YAY
+example: Je voudrais envoyer une lettre. | I'd like to send a letter.
+vocab: une lettre | a letter | ewn LETR
+example: Cette lettre est pour le Japon. | This letter is for Japan.
+vocab: un colis | a parcel | uhn koh-LEE
+example: Je voudrais envoyer un colis. | I'd like to send a parcel.
+vocab: un timbre | a stamp | uhn TAN-bruh
+example: Cinq timbres, s'il vous plaît. | Five stamps, please.
+vocab: peser | to weigh | puh-ZAY
+example: Je pèse la lettre. | I weigh the letter.
+vocab: l'étranger (m.) | abroad | lay-trahn-ZHAY
+example: Pour l'étranger. | For abroad.
+vocab: il faut … | it takes … / you need … | eel FOH
+example: Il faut une semaine. | It takes a week.
+vocab: environ une semaine | about a week | ahn-vee-ROHN ewn suh-MEN
+example: Il faut environ une semaine. | It takes about a week.
+
+[grammar]
+grammar: Il faut | Il faut is an impersonal expression. With an infinitive it means “you have to”: Il faut envoyer le colis avant midi. With a time expression it means “it takes”: Il faut une semaine pour arriver.
+example: Il faut une semaine. | It takes a week.
+example: Il faut envoyer le colis. | You have to send the parcel.
+grammar: Countries: en, au, aux | To say “in” or “to” a country, use en for feminine countries (en France, en Italie, en Espagne), au for masculine countries (au Japon, au Canada) and aux for plural ones (aux États-Unis, aux Pays-Bas). Most countries ending in -e are feminine.
+example: en France, en Italie | in France, in Italy
+example: au Japon, aux États-Unis | to Japan, to the United States
+grammar: Envoyer is slightly irregular | J'envoie, tu envoies, il envoie, nous envoyons, vous envoyez, ils envoient. The y changes to i before silent endings. Je voudrais envoyer … is the polite way to ask.
+example: J'envoie une lettre. | I'm sending a letter.
+example: Nous envoyons un colis. | We're sending a parcel.
+
+[quiz]
+quiz: What does “un timbre” mean? | a stamp pad | a stamp | a ticket | B | Un timbre = a stamp.
+quiz: How do you say “to Japan”? | en Japon | aux Japon | au Japon | C | Japon is masculine: au Japon.
+quiz: Which preposition goes with France? | en France | au France | aux France | A | France is feminine: en France.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

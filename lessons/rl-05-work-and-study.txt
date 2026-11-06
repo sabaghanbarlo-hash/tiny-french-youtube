@@ -1,0 +1,50 @@
+title: Work and Study
+episode: RL5
+scene: cafe
+
+[story]
+Adrien: Qu'est-ce que tu fais dans la vie, Marinette ? | What do you do for a living, Marinette?
+Marinette: Je suis graphiste. Je travaille pour une petite entreprise. | I'm a graphic designer. I work for a small company.
+Adrien: C'est intéressant ! Tu travailles au bureau ou à la maison ? | That's interesting! Do you work at the office or at home?
+Marinette: Trois jours par semaine au bureau et deux jours à la maison. | Three days a week at the office and two days at home.
+Marinette: Et toi, Adrien ? | And you, Adrien?
+Adrien: Moi, je suis libraire. Et le soir, j'étudie le japonais en ligne. | I'm a bookseller. And in the evening I study Japanese online.
+Marinette: Bravo ! Tu as des collègues sympas ? | Bravo! Do you have nice colleagues?
+Adrien: Oui, mon patron est très gentil et ma collègue Julie est amusante. | Yes, my boss is very kind and my colleague Julie is funny.
+
+[vocab]
+vocab: qu'est-ce que tu fais dans la vie ? | what do you do for a living? | kes-kuh tew FAY dahn lah VEE
+example: Qu'est-ce que vous faites dans la vie ? | What do you do for a living?
+vocab: graphiste | graphic designer | grah-FEEST
+example: Je suis graphiste. | I'm a graphic designer.
+vocab: libraire | bookseller | lee-BRAIR
+example: Il est libraire. | He is a bookseller.
+vocab: une entreprise | a company | ewn ahn-truh-PREEZ
+example: Elle travaille pour une entreprise. | She works for a company.
+vocab: un bureau | an office, a desk | uhn bew-ROH
+example: Je travaille au bureau. | I work at the office.
+vocab: un collègue / une collègue | a colleague | uhn koh-LEG / ewn koh-LEG
+example: Ma collègue est sympa. | My colleague is nice.
+vocab: le patron / la patronne | the boss | luh pah-TROHN / lah pah-TRON
+example: Mon patron est gentil. | My boss is kind.
+vocab: étudier | to study | ay-tew-dee-AY
+example: J'étudie le japonais. | I study Japanese.
+
+[grammar]
+grammar: Jobs without an article | After être, a job or profession usually has no article: Je suis graphiste. Elle est professeure. Il est libraire. Many job names change for feminine speakers (étudiant / étudiante, boulanger / boulangère) while others stay the same (graphiste, libraire).
+example: Je suis graphiste. | I'm a graphic designer.
+example: Elle est étudiante. | She is a student.
+grammar: Mon, ma, mes: my | “My” changes with the noun: mon for masculine (mon patron), ma for feminine (ma collègue), mes for plural (mes amis). Before a feminine noun starting with a vowel use mon: mon amie. Your is ton / ta / tes, and his or her is son / sa / ses.
+example: mon patron, ma collègue | my boss, my colleague
+example: mes amis | my friends
+grammar: Where and how often | Use à + place: au bureau, à la maison. Use par for “per”: trois jours par semaine. Use en for how: en ligne (online), en métro (by metro).
+example: Je travaille au bureau. | I work at the office.
+example: Deux jours par semaine. | Two days a week.
+
+[quiz]
+quiz: How do you say “I'm a graphic designer”? | Je suis graphiste. | Je suis un graphiste de. | J'ai graphiste. | A | A job after être has no article.
+quiz: Which word means “my” before a plural noun? | ma | mes | mon | B | Mes amis.
+quiz: What does “en ligne” mean? | in line | at the office | online | C | En ligne = online.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

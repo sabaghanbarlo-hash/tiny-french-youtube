@@ -1,0 +1,49 @@
+title: Articles and Gender
+episode: FG3
+scene: kitchen
+
+[story]
+Adrien: Voilà le pain et la confiture. | Here are the bread and the jam.
+Marinette: Merci. Tu as un couteau et une assiette ? | Thanks. Do you have a knife and a plate?
+Adrien: Oui, voici un couteau et une assiette. Et les fruits ? | Yes, here's a knife and a plate. And the fruit?
+Marinette: Les pommes sont sur la table. L'orange est dans le sac. | The apples are on the table. The orange is in the bag.
+Adrien: Où est le fromage ? | Where is the cheese?
+Marinette: Le fromage est dans le frigo. Il y a aussi des œufs. | The cheese is in the fridge. There are also some eggs.
+Adrien: Super ! Un petit-déjeuner parfait. | Great! A perfect breakfast.
+
+[vocab]
+vocab: le pain | the bread (masculine) | luh PAN
+example: Voilà le pain. | Here is the bread.
+vocab: la confiture | the jam (feminine) | lah kohn-fee-TEWR
+example: La confiture est sur la table. | The jam is on the table.
+vocab: un couteau | a knife | uhn koo-TOH
+example: Tu as un couteau ? | Do you have a knife?
+vocab: une assiette | a plate | ewn ah-see-ET
+example: Voici une assiette. | Here is a plate.
+vocab: le fromage | the cheese | luh froh-MAHZH
+example: Le fromage est dans le frigo. | The cheese is in the fridge.
+vocab: la pomme | the apple | lah POM
+example: Les pommes sont rouges. | The apples are red.
+vocab: l'orange (f.) | the orange | loh-RAHNZH
+example: L'orange est dans le sac. | The orange is in the bag.
+vocab: des œufs | some eggs | day ZUH
+example: Il y a des œufs. | There are some eggs.
+
+[grammar]
+grammar: Every noun has a gender | French nouns are masculine or feminine, even objects. The gender is shown by the little word before the noun. Always learn the noun together with its article: le pain, la confiture, not just pain and confiture.
+example: un couteau (m.) | a knife
+example: une assiette (f.) | a plate
+grammar: A or the? | Un / une mean “a”: un couteau, une assiette. Le / la mean “the”: le pain, la table. Before a vowel or a silent h, le and la both become l': l'orange, l'hôtel. For more than one thing use les (the) or des (some): les pommes, des œufs.
+example: le pain, la table, l'orange | the bread, the table, the orange
+example: les pommes, des œufs | the apples, some eggs
+grammar: Making a plural | Most plurals just add -s, which you do not pronounce. The article is what you hear: la pomme / les pommes, un œuf / des œufs. Before a vowel, les and des link with a z sound: les œufs (lay-ZUH).
+example: une pomme → des pommes | an apple → some apples
+example: un œuf → des œufs | an egg → some eggs
+
+[quiz]
+quiz: Which article means “a” for a feminine noun? | une | un | le | A | Une goes with feminine nouns.
+quiz: What is “the orange” in French? | le orange | l'orange | la orange | B | Before a vowel, le and la become l'.
+quiz: What does “des œufs” mean? | the egg | an egg | some eggs | C | Des = some (plural).
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

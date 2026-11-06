@@ -1,0 +1,50 @@
+title: Saying No: ne … pas
+episode: FG5
+scene: cafe
+
+[story]
+Marinette: Tu aimes le café, Adrien ? | Do you like coffee, Adrien?
+Adrien: Non, je n'aime pas le café. Je préfère le thé. | No, I don't like coffee. I prefer tea.
+Marinette: Tu ne manges pas de croissant ? | You're not eating a croissant?
+Adrien: Non merci, je n'ai pas faim. | No thank you, I'm not hungry.
+Marinette: Tu n'es pas fatigué ? Il est huit heures ! | You're not tired? It's eight o'clock!
+Adrien: Non, je ne suis pas fatigué. Mais je ne travaille pas aujourd'hui. | No, I'm not tired. But I'm not working today.
+Marinette: Moi, je travaille. Je n'ai pas de vacances cette semaine. | I'm working. I don't have any holiday this week.
+Adrien: Pauvre Marinette ! Nous n'avons pas le même programme. | Poor Marinette! We don't have the same schedule.
+
+[vocab]
+vocab: ne … pas | not | nuh … PAH
+example: Je ne parle pas italien. | I don't speak Italian.
+vocab: ne … jamais | never | nuh … zhah-MAY
+example: Il ne mange jamais de viande. | He never eats meat.
+vocab: pas de | no, not any | pah duh
+example: Je n'ai pas de frère. | I don't have a brother.
+vocab: non merci | no thank you | nohn mehr-SEE
+example: Non merci, ça va. | No thank you, I'm fine.
+vocab: je préfère | I prefer | zhuh pray-FAIR
+example: Je préfère le thé. | I prefer tea.
+vocab: le thé | tea | luh TAY
+example: Je voudrais un thé. | I'd like a tea.
+vocab: aujourd'hui | today | oh-zhoor-DWEE
+example: Je ne travaille pas aujourd'hui. | I'm not working today.
+vocab: les vacances (f. pl.) | holiday, vacation | lay vah-KAHNS
+example: Elle n'a pas de vacances. | She has no holiday.
+
+[grammar]
+grammar: Ne … pas around the verb | To make a sentence negative, put ne before the verb and pas right after it, like a sandwich: Je ne parle pas anglais. Before a vowel or silent h, ne becomes n': Je n'aime pas le café. Je n'ai pas faim.
+example: Je ne travaille pas. | I'm not working.
+example: Je n'aime pas le café. | I don't like coffee.
+grammar: Pas de after a negative | After a negative, un, une, des and du usually become de (or d'): J'ai un frère → Je n'ai pas de frère. Do not change the article after être: Ce n'est pas un chat.
+example: Je n'ai pas de vacances. | I don't have any holiday.
+example: Ce n'est pas un chat. | It's not a cat.
+grammar: Spoken French drops ne | In relaxed conversation many French speakers leave out ne and just say pas: Je sais pas, J'ai pas faim. Learn the full form first so you can write correctly and understand both.
+example: J'ai pas faim. | I'm not hungry. (informal)
+example: Je n'ai pas faim. | I'm not hungry. (full form)
+
+[quiz]
+quiz: Where does “pas” go in a simple negative? | Before the verb | At the end of the sentence | Right after the verb | C | Ne + verb + pas.
+quiz: How do you say “I don't like coffee”? | Je n'aime pas le café. | Je ne aime pas le café. | Je aime pas le café. | A | Ne becomes n' before aimer.
+quiz: What does “ne … jamais” mean? | always | never | not yet | B | Ne … jamais = never.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,51 @@
+title: What Did You Do?
+episode: RL6
+scene: street
+
+[story]
+Marinette: Salut Adrien ! Qu'est-ce que tu as fait ce week-end ? | Hi Adrien! What did you do this weekend?
+Adrien: Samedi, j'ai travaillé le matin. Puis j'ai mangé avec un ami. | On Saturday I worked in the morning. Then I ate with a friend.
+Marinette: Vous avez mangé où ? | Where did you eat?
+Adrien: Nous avons mangé dans un petit restaurant italien. J'ai pris une pizza. | We ate in a little Italian restaurant. I had a pizza.
+Marinette: Moi, j'ai regardé un film et j'ai fini mon livre. | I watched a film and I finished my book.
+Adrien: Et dimanche ? Tu as dormi ? | And Sunday? Did you sleep?
+Marinette: Oui, j'ai dormi jusqu'à dix heures ! Puis j'ai appelé ma mère. | Yes, I slept until ten! Then I called my mother.
+Adrien: Tu n'as pas travaillé du tout ? | You didn't work at all?
+Marinette: Non, je n'ai pas travaillé. J'ai juste dormi ! | No, I didn't work. I just slept!
+
+[vocab]
+vocab: qu'est-ce que tu as fait ? | what did you do? | kes-kuh tew ah FAY
+example: Qu'est-ce que tu as fait hier ? | What did you do yesterday?
+vocab: j'ai travaillé | I worked | zhay trah-vah-YAY
+example: J'ai travaillé le matin. | I worked in the morning.
+vocab: j'ai mangé | I ate | zhay mahn-ZHAY
+example: J'ai mangé une pizza. | I ate a pizza.
+vocab: j'ai regardé | I watched | zhay ruh-gar-DAY
+example: J'ai regardé un film. | I watched a film.
+vocab: j'ai fini | I finished | zhay fee-NEE
+example: J'ai fini mon livre. | I finished my book.
+vocab: j'ai pris | I took, I had | zhay PREE
+example: J'ai pris le métro. | I took the metro.
+vocab: j'ai dormi | I slept | zhay dor-MEE
+example: J'ai dormi dix heures. | I slept ten hours.
+vocab: j'ai fait | I did, I made | zhay FAY
+example: J'ai fait un gâteau. | I made a cake.
+
+[grammar]
+grammar: The passé composé with avoir | For most verbs, the past is the present of avoir plus a past participle: j'ai mangé, tu as mangé, il a mangé, nous avons mangé, vous avez mangé, ils ont mangé. It translates “I ate”, “I have eaten” and “I did eat”.
+example: J'ai travaillé le matin. | I worked in the morning.
+example: Nous avons mangé en ville. | We ate in town.
+grammar: Making the participle | -er verbs: replace -er with é (parler → parlé). Regular -ir verbs: replace -ir with i (finir → fini, dormir → dormi). Learn the common irregular ones: avoir → eu, être → été, faire → fait, prendre → pris, voir → vu.
+example: parler → j'ai parlé | to speak → I spoke
+example: prendre → j'ai pris | to take → I took
+grammar: Negative in the past | Ne … pas wraps around the auxiliary avoir, not around the participle: Je n'ai pas travaillé. Useful time words: hier (yesterday), ce matin, samedi dernier, la semaine dernière.
+example: Je n'ai pas travaillé. | I didn't work.
+example: Hier, j'ai dormi. | Yesterday I slept.
+
+[quiz]
+quiz: How do you say “I ate”? | Je mange. | J'ai mangé. | Je mangé. | B | Avoir + participle: j'ai mangé.
+quiz: What is the participle of “finir”? | finé | finis | fini | C | Regular -ir verbs end in -i.
+quiz: What is the participle of “prendre”? | pris | prendu | pré | A | J'ai pris.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

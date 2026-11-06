@@ -1,0 +1,50 @@
+title: Regular -er Verbs
+episode: FG4
+scene: bookstore
+
+[story]
+Adrien: Tu habites à Paris, Marinette ? | Do you live in Paris, Marinette?
+Marinette: Oui, j'habite à Montmartre. Et toi ? | Yes, I live in Montmartre. And you?
+Adrien: Moi aussi ! Je travaille dans une librairie. | Me too! I work in a bookshop.
+Marinette: Tu aimes les livres ? | Do you like books?
+Adrien: J'adore les livres ! Nous parlons de livres toute la journée. | I love books! We talk about books all day.
+Marinette: Vous parlez anglais avec les touristes ? | Do you speak English with the tourists?
+Adrien: Oui, nous parlons anglais et un peu espagnol. | Yes, we speak English and a little Spanish.
+Marinette: Excellent ! Moi, je travaille à la maison et j'écoute de la musique. | Excellent! I work at home and I listen to music.
+
+[vocab]
+vocab: parler | to speak | par-LAY
+example: Je parle français. | I speak French.
+vocab: habiter | to live (in a place) | ah-bee-TAY
+example: J'habite à Paris. | I live in Paris.
+vocab: travailler | to work | trah-vah-YAY
+example: Elle travaille à la maison. | She works at home.
+vocab: aimer | to like, to love | eh-MAY
+example: Tu aimes les livres ? | Do you like books?
+vocab: adorer | to love, to adore | ah-doh-RAY
+example: J'adore le chocolat. | I love chocolate.
+vocab: écouter | to listen to | ay-koo-TAY
+example: J'écoute de la musique. | I listen to music.
+vocab: manger | to eat | mahn-ZHAY
+example: Nous mangeons à midi. | We eat at noon.
+vocab: danser | to dance | dahn-SAY
+example: Ils dansent très bien. | They dance very well.
+
+[grammar]
+grammar: The -er pattern | Take the infinitive (parler), remove -er to get the stem (parl-) and add: je parle, tu parles, il / elle parle, nous parlons, vous parlez, ils / elles parlent. Four of the six forms sound identical: parle, parles, parle, parlent are all “parl”.
+example: je parle, tu parles, il parle | I speak, you speak, he speaks
+example: nous parlons, vous parlez, ils parlent | we speak, you speak, they speak
+grammar: Elision and small spelling changes | Je becomes j' before a vowel or silent h: j'habite, j'écoute, j'adore. Verbs in -ger keep the e in the nous form so the g stays soft: nous mangeons.
+example: j'habite, j'aime | I live, I like
+example: nous mangeons | we eat
+grammar: Aimer + noun or verb | With a noun use the article le / la / les to talk about things you like in general: J'aime le café. With another verb, use the infinitive: J'aime danser. Use adorer for “love” and détester for “hate”.
+example: J'aime le café. | I like coffee.
+example: J'adore danser. | I love dancing.
+
+[quiz]
+quiz: What is the ending for “nous” with an -er verb? | -ez | -ons | -ent | B | Nous parlons, nous habitons.
+quiz: How do you say “I live in Paris”? | Je habite à Paris. | J'habites à Paris. | J'habite à Paris. | C | Je becomes j' before a vowel or silent h.
+quiz: Which is the correct nous form of manger? | nous mangeons | nous mangons | nous mangez | A | Keep the e so the g stays soft.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

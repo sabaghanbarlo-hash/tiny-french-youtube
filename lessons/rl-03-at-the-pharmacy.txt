@@ -1,0 +1,51 @@
+title: At the Pharmacy
+episode: RL3
+scene: store
+
+[story]
+Adrien: Bonjour, j'ai mal à la tête depuis hier. | Hello, I've had a headache since yesterday.
+Marinette: Vous avez de la fièvre ? | Do you have a fever?
+Adrien: Non, mais j'ai aussi mal à la gorge et je tousse. | No, but I also have a sore throat and I'm coughing.
+Marinette: Voici des pastilles pour la gorge et des comprimés pour la tête. | Here are some lozenges for your throat and some tablets for your head.
+Marinette: Prenez un comprimé, trois fois par jour. | Take one tablet, three times a day.
+Adrien: Avant ou après les repas ? | Before or after meals?
+Marinette: Après les repas, avec un grand verre d'eau. | After meals, with a large glass of water.
+Adrien: D'accord. C'est combien ? | OK. How much is it?
+Marinette: Douze euros. Si ça ne va pas mieux dans trois jours, voyez un médecin. | Twelve euros. If you're not better in three days, see a doctor.
+
+[vocab]
+vocab: la pharmacie | pharmacy | lah far-mah-SEE
+example: La pharmacie est à droite. | The pharmacy is on the right.
+vocab: j'ai mal à … | I have a pain in … | zhay mal ah
+example: J'ai mal à la tête. | I have a headache.
+vocab: la tête | head | lah TET
+example: J'ai mal à la tête. | I have a headache.
+vocab: la gorge | throat | lah GORZH
+example: J'ai mal à la gorge. | I have a sore throat.
+vocab: la fièvre | fever | lah fee-EH-vruh
+example: Il a de la fièvre. | He has a fever.
+vocab: tousser | to cough | too-SAY
+example: Je tousse beaucoup. | I'm coughing a lot.
+vocab: un comprimé | a tablet | uhn kohn-pree-MAY
+example: Un comprimé, trois fois par jour. | One tablet, three times a day.
+vocab: trois fois par jour | three times a day | trwah FWAH par ZHOOR
+example: Prenez-le trois fois par jour. | Take it three times a day.
+
+[grammar]
+grammar: J'ai mal à + body part | To say what hurts, use avoir mal à + the body part. Remember how à joins with the article: à la tête, à la gorge, à l'estomac, au dos (à + le), aux dents (à + les).
+example: J'ai mal à la gorge. | I have a sore throat.
+example: Il a mal au dos. | He has a backache.
+grammar: The vous command | Instructions to “vous” are the vous form of the verb without vous: Prenez un comprimé. Voyez un médecin. Buvez de l'eau. Pharmacists, doctors and signs use this all the time.
+example: Prenez un comprimé. | Take a tablet.
+example: Buvez de l'eau. | Drink some water.
+grammar: Depuis + present tense | To say how long something has been true, French uses the present tense with depuis: J'ai mal à la tête depuis hier (“I have had a headache since yesterday”). For an emergency in France call 15 (SAMU) or 112, the European emergency number.
+example: J'ai mal à la tête depuis hier. | I've had a headache since yesterday.
+example: Elle tousse depuis lundi. | She has been coughing since Monday.
+
+[quiz]
+quiz: How do you say “I have a headache”? | Je suis mal à la tête. | J'ai mal à la tête. | J'ai mauvais la tête. | B | Avoir mal à + body part.
+quiz: What does “Prenez un comprimé” mean? | I take a tablet | We take a tablet | Take a tablet | C | Prenez is the vous command form.
+quiz: What does “trois fois par jour” mean? | three times a day | three days a week | for three days | A | Fois = times, par jour = per day.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

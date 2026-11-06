@@ -1,0 +1,51 @@
+title: Wi-Fi and SIM Cards
+episode: TF7
+scene: cafe
+
+[story]
+Marinette: Excusez-moi, vous avez le wifi ? | Excuse me, do you have Wi-Fi?
+Adrien: Oui. Le mot de passe est sur le ticket. | Yes. The password is on the receipt.
+Marinette: Merci. Mais ça ne marche pas, je n'ai pas de réseau. | Thanks. But it isn't working, I have no signal.
+Adrien: Essayez de vous reconnecter. Sinon, il y a une boutique en face. | Try to reconnect. Otherwise there's a shop across the street.
+Marinette: Bonjour, j'ai besoin d'une carte SIM pour deux semaines. | Hello, I need a SIM card for two weeks.
+Adrien: Vous avez un téléphone débloqué ? | Do you have an unlocked phone?
+Marinette: Oui, il est débloqué. | Yes, it's unlocked.
+Adrien: Alors il y a un forfait à vingt euros avec beaucoup de data. | Then there's a plan at twenty euros with lots of data.
+Marinette: Parfait. Vous pouvez m'aider à l'installer ? | Perfect. Can you help me install it?
+
+[vocab]
+vocab: le wifi | Wi-Fi | luh wee-FEE
+example: Vous avez le wifi ? | Do you have Wi-Fi?
+vocab: le mot de passe | the password | luh moh duh PAS
+example: Le mot de passe est sur le ticket. | The password is on the receipt.
+vocab: ça ne marche pas | it isn't working | sah nuh marsh pah
+example: Ça ne marche pas. | It isn't working.
+vocab: le réseau | network, signal | luh ray-ZOH
+example: Je n'ai pas de réseau. | I have no signal.
+vocab: une carte SIM | a SIM card | ewn kart SEEM
+example: J'ai besoin d'une carte SIM. | I need a SIM card.
+vocab: un forfait | a (phone) plan | uhn for-FAY
+example: Un forfait à vingt euros. | A plan for twenty euros.
+vocab: débloqué / débloquée | unlocked | day-bloh-KAY
+example: Mon téléphone est débloqué. | My phone is unlocked.
+vocab: se reconnecter | to reconnect | suh ruh-koh-nek-TAY
+example: Essayez de vous reconnecter. | Try to reconnect.
+
+[grammar]
+grammar: Ça marche / ça ne marche pas | Marcher (literally “to walk”) is the everyday verb for “to work” when talking about things: Ça marche ? Ça ne marche pas. Le wifi ne marche pas. Ça marche ! also means “OK, deal!” in conversation.
+example: Ça ne marche pas. | It isn't working.
+example: Le wifi ne marche pas. | The Wi-Fi isn't working.
+grammar: Avoir besoin de | To say you need something, use avoir besoin de + noun or infinitive: J'ai besoin d'une carte SIM. J'ai besoin de charger mon téléphone. De becomes d' before a vowel and de + le becomes du.
+example: J'ai besoin d'une carte SIM. | I need a SIM card.
+example: Elle a besoin du mot de passe. | She needs the password.
+grammar: Pour + a length of time | Use pour + duration for how long you need something: pour deux semaines, pour trois jours, pour un mois. Essayez de + infinitive is a gentle way to suggest a fix: Essayez de vous reconnecter.
+example: pour deux semaines | for two weeks
+example: Essayez de vous reconnecter. | Try to reconnect.
+
+[quiz]
+quiz: How do you say “It isn't working”? | Ça ne marche pas. | Ça n'est pas marche. | Je ne marche pas ça. | A | Ça ne marche pas.
+quiz: What does “le mot de passe” mean? | the word of passing | the password | the menu | B | Mot de passe = password.
+quiz: What does “débloqué” mean for a phone? | broken | cheap | unlocked | C | Débloqué = unlocked.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

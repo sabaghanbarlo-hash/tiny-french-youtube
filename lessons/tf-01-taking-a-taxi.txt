@@ -1,0 +1,52 @@
+title: Taking a Taxi
+episode: TF1
+scene: street
+
+[story]
+Marinette: Bonjour, monsieur. À l'hôtel Bellevue, rue Victor Hugo, s'il vous plaît. | Hello, sir. To the Hôtel Bellevue, rue Victor Hugo, please.
+Adrien: Bien sûr. Vous avez des bagages ? | Of course. Do you have any luggage?
+Marinette: Oui, deux valises. Vous pouvez m'aider ? | Yes, two suitcases. Can you help me?
+Adrien: Avec plaisir. Montez, madame. | With pleasure. Get in, madam.
+Marinette: C'est loin d'ici ? | Is it far from here?
+Adrien: Non, c'est à dix minutes. Il y a un peu de circulation. | No, it's ten minutes away. There's a bit of traffic.
+Marinette: Ça coûte combien, environ ? | How much does it cost, roughly?
+Adrien: Environ quinze euros. | About fifteen euros.
+Marinette: Arrêtez-vous devant l'hôtel, s'il vous plaît. Vous acceptez la carte ? | Stop in front of the hotel, please. Do you take cards?
+Adrien: Oui, pas de problème. Voilà, nous sommes arrivés. | Yes, no problem. Here we are, we've arrived.
+
+[vocab]
+vocab: un taxi | a taxi | uhn tahk-SEE
+example: Je prends un taxi. | I'm taking a taxi.
+vocab: les bagages (m. pl.) | luggage | lay bah-GAZH
+example: Vous avez des bagages ? | Do you have luggage?
+vocab: une valise | a suitcase | ewn vah-LEEZ
+example: J'ai deux valises. | I have two suitcases.
+vocab: c'est loin ? | is it far? | seh LWAN
+example: C'est loin d'ici ? | Is it far from here?
+vocab: à dix minutes | ten minutes away | ah dee mee-NEWT
+example: L'hôtel est à dix minutes. | The hotel is ten minutes away.
+vocab: la circulation | traffic | lah seer-kew-lah-SYOHN
+example: Il y a de la circulation. | There's traffic.
+vocab: environ | about, roughly | ahn-vee-ROHN
+example: Environ quinze euros. | About fifteen euros.
+vocab: accepter la carte | to accept cards | ak-sep-TAY lah KART
+example: Vous acceptez la carte ? | Do you take cards?
+
+[grammar]
+grammar: Giving a destination | Use à + the place and s'il vous plaît: À la gare, s'il vous plaît. À l'aéroport, s'il vous plaît. For a hotel or street give the name: À l'hôtel Bellevue, rue Victor Hugo.
+example: À la gare, s'il vous plaît. | To the station, please.
+example: À l'aéroport, s'il vous plaît. | To the airport, please.
+grammar: How far? How long? | Use loin (far) and près (near): C'est loin ? C'est près d'ici. To say how long it takes, use à + minutes: C'est à dix minutes. Add environ for “about”.
+example: C'est à dix minutes. | It's ten minutes away.
+example: Environ quinze euros. | About fifteen euros.
+grammar: Polite requests and commands | Vous pouvez + infinitive is a polite request: Vous pouvez m'aider ? The vous command drops vous: Montez ! Arrêtez-vous ici ! Add s'il vous plaît to keep it polite.
+example: Vous pouvez m'aider ? | Can you help me?
+example: Arrêtez-vous ici, s'il vous plaît. | Stop here, please.
+
+[quiz]
+quiz: How do you ask for the station? | À la gare, s'il vous plaît. | La gare à, merci. | Je gare, s'il vous plaît. | A | À + place + s'il vous plaît.
+quiz: What does “C'est à dix minutes” mean? | It's at ten o'clock | It's ten minutes away | It costs ten euros | B | À + minutes = distance in time.
+quiz: What does “environ” mean? | exactly | never | about | C | Environ = about, roughly.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

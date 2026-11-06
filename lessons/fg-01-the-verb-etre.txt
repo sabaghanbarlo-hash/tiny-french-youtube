@@ -1,0 +1,50 @@
+title: The Verb Être (to be)
+episode: FG1
+scene: terrace
+
+[story]
+Marinette: Salut Adrien ! Je suis contente de te voir. | Hi Adrien! I'm happy to see you.
+Adrien: Moi aussi, je suis très content ! Vous êtes fatigués ? | Me too, I'm very happy! Are you (all) tired?
+Marinette: Nous sommes un peu fatigués, mais c'est une belle soirée. | We're a little tired, but it's a lovely evening.
+Adrien: Qui est la fille avec ton frère ? | Who is the girl with your brother?
+Marinette: C'est Léa. Elle est étudiante. Elle est canadienne. | That's Léa. She's a student. She's Canadian.
+Adrien: Et ton frère ? Il est étudiant aussi ? | And your brother? Is he a student too?
+Marinette: Non, il est professeur. Ils sont amis depuis l'école. | No, he's a teacher. They've been friends since school.
+Adrien: Super ! Tu es prête ? On va leur dire bonjour. | Great! Are you ready? Let's go and say hello to them.
+
+[vocab]
+vocab: je suis | I am | zhuh SWEE
+example: Je suis français. | I am French.
+vocab: tu es | you are (informal) | tew EH
+example: Tu es mon ami. | You are my friend.
+vocab: il est / elle est | he is / she is | eel EH / ehl EH
+example: Elle est étudiante. | She is a student.
+vocab: nous sommes | we are | noo SOM
+example: Nous sommes amis. | We are friends.
+vocab: vous êtes | you are (formal or plural) | vooz EHT
+example: Vous êtes madame Dupont ? | Are you Mrs Dupont?
+vocab: ils sont / elles sont | they are | eel SOHN / ehl SOHN
+example: Ils sont de Paris. | They are from Paris.
+vocab: content / contente | happy | kohn-TAHN / kohn-TAHNT
+example: Je suis contente de te voir. | I'm happy to see you.
+vocab: fatigué / fatiguée | tired | fah-tee-GAY
+example: Nous sommes un peu fatigués. | We are a little tired.
+
+[grammar]
+grammar: Être in the present | Être is the most important verb in French. The six forms are: je suis, tu es, il / elle / on est, nous sommes, vous êtes, ils / elles sont. Say them aloud until they feel automatic; you will use them every day.
+example: Je suis français. | I am French.
+example: Nous sommes amis. | We are friends.
+grammar: Tu or vous? | Use tu with friends, family and children. Use vous with one person you do not know well, or with several people. The verb changes with it: tu es, but vous êtes.
+example: Tu es mon ami. | You are my friend.
+example: Vous êtes madame Dupont ? | Are you Mrs Dupont?
+grammar: C'est or il est? | Use c'est + a noun with an article to identify someone or something: C'est un café. Use il est / elle est + an adjective or a job with no article: Elle est étudiante. Il est grand.
+example: C'est Léa. | That is Léa.
+example: Elle est étudiante. | She is a student.
+
+[quiz]
+quiz: What does “je suis” mean? | I have | I am | I go | B | Je suis = I am.
+quiz: Which form of être goes with “nous”? | êtes | sont | sommes | C | Nous sommes = we are.
+quiz: How do you say “She is a student”? | Elle est étudiante. | Elle suis étudiante. | Elle es étudiante. | A | Elle goes with est.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

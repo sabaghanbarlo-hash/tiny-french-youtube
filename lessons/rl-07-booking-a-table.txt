@@ -1,0 +1,53 @@
+title: Booking a Table
+episode: RL7
+scene: restaurant
+
+[story]
+Adrien: Restaurant Le Petit Bistrot, bonjour ! | Le Petit Bistrot restaurant, hello!
+Adrien: Bonjour, je voudrais réserver une table pour deux personnes, s'il vous plaît. | Hello, I'd like to book a table for two people, please.
+Adrien: Pour quand ? | For when?
+Adrien: Pour vendredi soir, à vingt heures. | For Friday evening, at eight.
+Adrien: Désolé, nous sommes complets à vingt heures. J'ai une table à vingt et une heures. | Sorry, we're full at eight. I have a table at nine.
+Adrien: Vingt et une heures, c'est parfait. Est-ce que vous avez des plats végétariens ? | Nine o'clock is perfect. Do you have vegetarian dishes?
+Adrien: Oui, bien sûr. C'est à quel nom ? | Yes, of course. What name is it under?
+Adrien: Au nom de Martin. | Under the name Martin.
+Marinette: Excusez-moi, l'addition, s'il vous plaît. | Excuse me, the bill, please.
+Adrien: Tout de suite. Vous payez par carte ou en espèces ? | Right away. Are you paying by card or in cash?
+Marinette: Par carte, s'il vous plaît. | By card, please.
+
+[vocab]
+vocab: réserver une table | to book a table | ray-zehr-VAY ewn TAH-bluh
+example: Je voudrais réserver une table. | I'd like to book a table.
+vocab: pour deux personnes | for two people | poor duh pehr-SON
+example: Une table pour deux personnes. | A table for two people.
+vocab: pour quand ? | for when? | poor KAHN
+example: Pour quand, monsieur ? | For when, sir?
+vocab: complet / complète | full, fully booked | kohn-PLEH / kohn-PLET
+example: Le restaurant est complet. | The restaurant is full.
+vocab: c'est à quel nom ? | what name is it under? | seh ah kel NOHN
+example: C'est à quel nom ? | What name is it under?
+vocab: au nom de … | under the name … | oh nohn duh
+example: Au nom de Martin. | Under the name Martin.
+vocab: végétarien / végétarienne | vegetarian | vay-zhay-tah-ree-AN / -EN
+example: Un plat végétarien. | A vegetarian dish.
+vocab: bien sûr | of course | bee-AN SEWR
+example: Oui, bien sûr ! | Yes, of course!
+
+[grammar]
+grammar: Booking with je voudrais | Use Je voudrais réserver une table pour + number of people. Add the day and time with pour: pour vendredi soir, à vingt heures. If the restaurant is full, expect Nous sommes complets.
+example: Je voudrais réserver une table pour deux. | I'd like to book a table for two.
+example: Pour vendredi soir, à vingt heures. | For Friday evening, at eight.
+grammar: Giving your name | French uses au nom de + surname: Au nom de Martin. The server may ask C'est à quel nom ? Spell your name with the French alphabet if needed.
+example: Au nom de Martin. | Under the name Martin.
+example: C'est à quel nom ? | What name is it under?
+grammar: Paying: par and en | Ask for the bill with L'addition, s'il vous plaît. Say how you pay with par carte (by card) or en espèces (in cash). Tipping is not required in France because service is included, but you can leave a few coins.
+example: Par carte, s'il vous plaît. | By card, please.
+example: En espèces. | In cash.
+
+[quiz]
+quiz: How do you politely say “I'd like to book a table”? | Je veux table réserver. | J'ai une table réserver. | Je voudrais réserver une table. | C | Je voudrais + infinitive.
+quiz: What does “complet” mean for a restaurant? | full | closed | cheap | A | Complet = fully booked.
+quiz: How do you ask for the bill? | Le menu, s'il vous plaît. | L'addition, s'il vous plaît. | La carte, merci. | B | L'addition = the bill.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

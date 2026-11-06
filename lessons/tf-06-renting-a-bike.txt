@@ -1,0 +1,50 @@
+title: Renting a Bike
+episode: TF6
+scene: park
+
+[story]
+Adrien: Bonjour, je voudrais louer deux vélos pour la journée. | Hello, I'd like to rent two bikes for the day.
+Marinette: Pas de problème. Vous voulez des vélos de ville ou des VTT ? | No problem. Do you want city bikes or mountain bikes?
+Adrien: Des vélos de ville, s'il vous plaît. Ça coûte combien ? | City bikes, please. How much is it?
+Marinette: Douze euros par vélo pour la journée, avec le casque et l'antivol. | Twelve euros per bike for the day, with a helmet and a lock.
+Adrien: Il faut rendre les vélos à quelle heure ? | What time do we have to return the bikes?
+Marinette: Avant dix-neuf heures. Vous devez laisser une pièce d'identité. | Before seven p.m. You have to leave some ID.
+Adrien: Voici mon passeport. Vous avez une carte des pistes cyclables ? | Here's my passport. Do you have a map of the cycle paths?
+Marinette: Oui, la voilà. Faites attention à la circulation, et bonne balade ! | Yes, here it is. Watch out for the traffic, and enjoy the ride!
+
+[vocab]
+vocab: louer | to rent | loo-AY
+example: Je voudrais louer un vélo. | I'd like to rent a bike.
+vocab: un vélo | a bike | uhn vay-LOH
+example: Deux vélos de ville. | Two city bikes.
+vocab: la journée | the (whole) day | lah zhoor-NAY
+example: Pour la journée. | For the day.
+vocab: un casque | a helmet | uhn KASK
+example: Avec le casque. | With a helmet.
+vocab: un antivol | a bike lock | uhn ahn-tee-VOL
+example: Le vélo a un antivol. | The bike has a lock.
+vocab: rendre | to return, to give back | RAHN-druh
+example: Il faut rendre le vélo. | You must return the bike.
+vocab: une pièce d'identité | an ID document | ewn pee-ES dee-dahn-tee-TAY
+example: Laissez une pièce d'identité. | Leave an ID.
+vocab: une piste cyclable | a cycle path | ewn peest see-KLAH-bluh
+example: La piste cyclable longe la rivière. | The cycle path runs along the river.
+
+[grammar]
+grammar: Devoir and vouloir | Devoir (must, have to): je dois, tu dois, il doit, nous devons, vous devez, ils doivent. Vouloir (to want): je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent. Use je voudrais for polite requests.
+example: Vous devez laisser une pièce d'identité. | You must leave an ID.
+example: Vous voulez des vélos de ville ? | Do you want city bikes?
+grammar: Before and after a time | Use avant (before) and après (after) with a time: avant dix-neuf heures (before 7 p.m.), après midi (after noon). For a deadline, avant is the word you will hear most.
+example: Avant dix-neuf heures. | Before 7 p.m.
+example: Après midi. | After noon.
+grammar: Faites attention | Faire attention à + noun means “to be careful of”. The vous command is Faites attention ! You will hear it from rental staff, on the road and at crossings.
+example: Faites attention à la circulation. | Watch out for the traffic.
+example: Fais attention ! | Be careful! (to a friend)
+
+[quiz]
+quiz: What does “louer” mean? | to wash | to lose | to rent | C | Louer = to rent.
+quiz: What does “avant dix-neuf heures” mean? | before 7 p.m. | after 7 p.m. | at 9 a.m. | A | Avant = before; 19 h = 7 p.m.
+quiz: What is “un casque”? | a bike | a helmet | a lock | B | Un casque = a helmet.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

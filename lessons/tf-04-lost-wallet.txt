@@ -1,0 +1,52 @@
+title: I've Lost My Wallet
+episode: TF4
+scene: station
+
+[story]
+Adrien: Bonjour, j'ai perdu mon portefeuille. | Hello, I've lost my wallet.
+Marinette: Où l'avez-vous perdu ? | Where did you lose it?
+Adrien: Je ne sais pas. Peut-être dans le métro, ce matin. | I don't know. Maybe in the metro, this morning.
+Marinette: Vous pouvez le décrire ? | Can you describe it?
+Adrien: Il est noir, en cuir. Il y a ma carte d'identité et ma carte bancaire. | It's black, made of leather. My ID card and my bank card are in it.
+Marinette: Quand l'avez-vous perdu ? | When did you lose it?
+Adrien: Il y a deux heures environ. | About two hours ago.
+Marinette: Je note votre nom et votre numéro de téléphone. On vous appelle si on le trouve. | I'll note your name and phone number. We'll call you if we find it.
+Adrien: Merci. Et pour la carte bancaire ? | Thank you. And for the bank card?
+Marinette: Appelez votre banque tout de suite pour bloquer la carte. | Call your bank right away to block the card.
+
+[vocab]
+vocab: j'ai perdu | I've lost | zhay pehr-DEW
+example: J'ai perdu mon portefeuille. | I've lost my wallet.
+vocab: le portefeuille | wallet | luh por-tuh-FUHY
+example: Mon portefeuille est noir. | My wallet is black.
+vocab: la carte d'identité | ID card | lah kart dee-dahn-tee-TAY
+example: J'ai ma carte d'identité. | I have my ID card.
+vocab: la carte bancaire | bank card | lah kart bahn-KAIR
+example: Je bloque ma carte bancaire. | I'm blocking my bank card.
+vocab: en cuir | made of leather | ahn KWEER
+example: Un sac en cuir. | A leather bag.
+vocab: peut-être | maybe | puh-TETR
+example: Peut-être dans le métro. | Maybe in the metro.
+vocab: il y a deux heures | two hours ago | eel ee ah duh zuhr
+example: Il y a deux heures environ. | About two hours ago.
+vocab: trouver | to find | troo-VAY
+example: On le trouve. | We find it.
+
+[grammar]
+grammar: J'ai perdu | Perdre is a regular -re verb whose past participle is perdu. In the passé composé: j'ai perdu, tu as perdu, il a perdu. The wallet is masculine, so you can say Je l'ai perdu (I lost it).
+example: J'ai perdu mon portefeuille. | I lost my wallet.
+example: Je l'ai perdu ce matin. | I lost it this morning.
+grammar: Il y a + time = ago | Il y a before a length of time means “ago”: il y a deux heures (two hours ago), il y a trois jours (three days ago), il y a une semaine (a week ago).
+example: Il y a deux heures. | Two hours ago.
+example: Il y a trois jours. | Three days ago.
+grammar: Describing with être and il y a | Describe the object with est + adjective and what is inside with il y a: Il est noir. Il y a ma carte d'identité. Mon, ma, mes show who it belongs to: mon portefeuille, ma carte, mes clés.
+example: Il est noir, en cuir. | It's black, in leather.
+example: Il y a ma carte d'identité. | My ID card is in it.
+
+[quiz]
+quiz: How do you say “I've lost my wallet”? | J'ai perdu mon portefeuille. | Je suis perdu mon portefeuille. | Je perds mon portefeuille hier. | A | Avoir + perdu.
+quiz: What does “il y a deux heures” mean? | in two hours | two hours ago | for two hours | B | Il y a + time = ago.
+quiz: What does “tout de suite” mean? | maybe | later | right away | C | Tout de suite = immediately.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

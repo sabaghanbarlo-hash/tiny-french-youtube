@@ -1,0 +1,50 @@
+title: My Morning Routine
+episode: RL1
+scene: bedroom
+
+[story]
+Marinette: À quelle heure est-ce que tu te lèves, Adrien ? | What time do you get up, Adrien?
+Adrien: Je me lève à sept heures. Je me douche et je m'habille. | I get up at seven. I shower and I get dressed.
+Marinette: Et le petit-déjeuner ? | And breakfast?
+Adrien: Je prends un café et un croissant. Puis je me brosse les dents. | I have a coffee and a croissant. Then I brush my teeth.
+Marinette: Moi, je me lève plus tard, à huit heures. Je me dépêche toujours ! | I get up later, at eight. I always hurry!
+Adrien: Tu te couches tôt le soir ? | Do you go to bed early in the evening?
+Marinette: Non, je me couche tard, vers minuit. | No, I go to bed late, around midnight.
+Adrien: Moi, je me couche à dix heures. Je suis très sérieux ! | I go to bed at ten. I'm very serious!
+
+[vocab]
+vocab: se lever | to get up | suh luh-VAY
+example: Je me lève à sept heures. | I get up at seven.
+vocab: se doucher | to take a shower | suh doo-SHAY
+example: Je me douche le matin. | I shower in the morning.
+vocab: s'habiller | to get dressed | sah-bee-YAY
+example: Elle s'habille vite. | She gets dressed quickly.
+vocab: se brosser les dents | to brush your teeth | suh bro-SAY lay DAHN
+example: Je me brosse les dents. | I brush my teeth.
+vocab: se coucher | to go to bed | suh koo-SHAY
+example: Il se couche à dix heures. | He goes to bed at ten.
+vocab: se dépêcher | to hurry | suh day-peh-SHAY
+example: Je me dépêche toujours. | I'm always in a hurry.
+vocab: le petit-déjeuner | breakfast | luh puh-tee day-zhuh-NAY
+example: Je prends le petit-déjeuner à huit heures. | I have breakfast at eight.
+vocab: tôt / tard | early / late | toh / tar
+example: Je me couche tard. | I go to bed late.
+
+[grammar]
+grammar: Reflexive verbs | A reflexive verb has an extra pronoun that points back to the subject: je me lève, tu te lèves, il / elle se lève, nous nous levons, vous vous levez, ils / elles se lèvent. Many daily routine verbs are reflexive in French: se lever, se laver, s'habiller, se coucher.
+example: Je me lève à sept heures. | I get up at seven.
+example: Elle se couche tard. | She goes to bed late.
+grammar: Me becomes m' | Before a vowel or silent h, me, te and se shorten to m', t' and s': je m'habille, tu t'habilles, il s'habille.
+example: Je m'habille. | I get dressed.
+example: Il s'habille vite. | He gets dressed quickly.
+grammar: Putting a routine in order | Use d'abord (first), puis or ensuite (then) and enfin (finally) to link actions: D'abord je me lève, puis je me douche, enfin je prends mon petit-déjeuner. Say the time with à + hour: à sept heures.
+example: D'abord je me lève, puis je me douche. | First I get up, then I shower.
+example: Je me couche à dix heures. | I go to bed at ten.
+
+[quiz]
+quiz: What does “je me lève” mean? | I wash | I go to bed | I get up | C | Se lever = to get up.
+quiz: How do you say “I get dressed”? | Je m'habille. | Je me habille. | Je habille moi. | A | Me becomes m' before a vowel or silent h.
+quiz: What does “tôt” mean? | late | early | later | B | Tôt = early, tard = late.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
