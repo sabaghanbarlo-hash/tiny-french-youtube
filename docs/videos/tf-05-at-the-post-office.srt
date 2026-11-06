@@ -1,0 +1,44 @@
+1
+00:00:12,144 --> 00:00:17,348
+Bonjour, je voudrais envoyer cette lettre aux États-Unis.
+Hello, I'd like to send this letter to the United States.
+
+2
+00:00:17,448 --> 00:00:24,380
+Je la pèse… Elle fait vingt grammes. Voilà votre timbre.
+I'll weigh it… It weighs twenty grams. Here's your stamp.
+
+3
+00:00:24,480 --> 00:00:28,052
+Il faut combien de temps pour arriver ?
+How long does it take to arrive?
+
+4
+00:00:28,152 --> 00:00:31,268
+Il faut environ une semaine.
+It takes about a week.
+
+5
+00:00:31,368 --> 00:00:35,036
+Je voudrais aussi acheter des timbres.
+I'd also like to buy some stamps.
+
+6
+00:00:35,136 --> 00:00:38,420
+Pour la France ou pour l'étranger ?
+For France or for abroad?
+
+7
+00:00:38,520 --> 00:00:42,524
+Cinq pour la France, s'il vous plaît.
+Five for France, please.
+
+8
+00:00:42,624 --> 00:00:46,772
+Voilà. Autre chose ?
+Here you are. Anything else?
+
+9
+00:00:46,872 --> 00:00:52,292
+Non, c'est tout. Merci, bonne journée !
+No, that's all. Thank you, have a good day!

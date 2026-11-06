@@ -1,0 +1,44 @@
+1
+00:00:12,552 --> 00:00:16,604
+Excusez-moi, vous avez le wifi ?
+Excuse me, do you have Wi-Fi?
+
+2
+00:00:16,704 --> 00:00:21,452
+Oui. Le mot de passe est sur le ticket.
+Yes. The password is on the receipt.
+
+3
+00:00:21,552 --> 00:00:27,476
+Merci. Mais ça ne marche pas, je n'ai pas de réseau.
+Thanks. But it isn't working, I have no signal.
+
+4
+00:00:27,576 --> 00:00:34,220
+Essayez de vous reconnecter. Sinon, il y a une boutique en face.
+Try to reconnect. Otherwise there's a shop across the street.
+
+5
+00:00:34,320 --> 00:00:39,380
+Bonjour, j'ai besoin d'une carte SIM pour deux semaines.
+Hello, I need a SIM card for two weeks.
+
+6
+00:00:39,480 --> 00:00:42,812
+Vous avez un téléphone débloqué ?
+Do you have an unlocked phone?
+
+7
+00:00:42,912 --> 00:00:46,148
+Oui, il est débloqué.
+Yes, it's unlocked.
+
+8
+00:00:46,248 --> 00:00:50,900
+Alors il y a un forfait à vingt euros avec beaucoup de data.
+Then there's a plan at twenty euros with lots of data.
+
+9
+00:00:51,000 --> 00:00:55,988
+Parfait. Vous pouvez m'aider à l'installer ?
+Perfect. Can you help me install it?

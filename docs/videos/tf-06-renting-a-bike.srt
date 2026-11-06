@@ -1,0 +1,39 @@
+1
+00:00:11,952 --> 00:00:16,556
+Bonjour, je voudrais louer deux vélos pour la journée.
+Hello, I'd like to rent two bikes for the day.
+
+2
+00:00:16,656 --> 00:00:22,652
+Pas de problème. Vous voulez des vélos de ville ou des VTT ?
+No problem. Do you want city bikes or mountain bikes?
+
+3
+00:00:22,752 --> 00:00:28,556
+Des vélos de ville, s'il vous plaît. Ça coûte combien ?
+City bikes, please. How much is it?
+
+4
+00:00:28,656 --> 00:00:34,340
+Douze euros par vélo pour la journée, avec le casque et l'antivol.
+Twelve euros per bike for the day, with a helmet and a lock.
+
+5
+00:00:34,440 --> 00:00:37,844
+Il faut rendre les vélos à quelle heure ?
+What time do we have to return the bikes?
+
+6
+00:00:37,944 --> 00:00:44,108
+Avant dix-neuf heures. Vous devez laisser une pièce d'identité.
+Before seven p.m. You have to leave some ID.
+
+7
+00:00:44,208 --> 00:00:50,540
+Voici mon passeport. Vous avez une carte des pistes cyclables ?
+Here's my passport. Do you have a map of the cycle paths?
+
+8
+00:00:50,640 --> 00:00:57,692
+Oui, la voilà. Faites attention à la circulation, et bonne balade !
+Yes, here it is. Watch out for the traffic, and enjoy the ride!

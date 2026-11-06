@@ -1,0 +1,49 @@
+1
+00:00:12,288 --> 00:00:16,388
+Bonjour, j'ai perdu mon portefeuille.
+Hello, I've lost my wallet.
+
+2
+00:00:16,488 --> 00:00:19,244
+Où l'avez-vous perdu ?
+Where did you lose it?
+
+3
+00:00:19,344 --> 00:00:24,908
+Je ne sais pas. Peut-être dans le métro, ce matin.
+I don't know. Maybe in the metro, this morning.
+
+4
+00:00:25,008 --> 00:00:28,148
+Vous pouvez le décrire ?
+Can you describe it?
+
+5
+00:00:28,248 --> 00:00:35,180
+Il est noir, en cuir. Il y a ma carte d'identité et ma carte bancaire.
+It's black, made of leather. My ID card and my bank card are in it.
+
+6
+00:00:35,280 --> 00:00:38,108
+Quand l'avez-vous perdu ?
+When did you lose it?
+
+7
+00:00:38,208 --> 00:00:41,084
+Il y a deux heures environ.
+About two hours ago.
+
+8
+00:00:41,184 --> 00:00:48,596
+Je note votre nom et votre numéro de téléphone. On vous appelle si on le trouve.
+I'll note your name and phone number. We'll call you if we find it.
+
+9
+00:00:48,696 --> 00:00:53,444
+Merci. Et pour la carte bancaire ?
+Thank you. And for the bank card?
+
+10
+00:00:53,544 --> 00:00:58,244
+Appelez votre banque tout de suite pour bloquer la carte.
+Call your bank right away to block the card.
