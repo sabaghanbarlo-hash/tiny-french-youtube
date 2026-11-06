@@ -1,0 +1,39 @@
+1
+00:00:12,456 --> 00:00:18,020
+Salut Adrien ! Je suis contente de te voir.
+Hi Adrien! I'm happy to see you.
+
+2
+00:00:18,120 --> 00:00:23,852
+Moi aussi, je suis très content ! Vous êtes fatigués ?
+Me too, I'm very happy! Are you (all) tired?
+
+3
+00:00:23,952 --> 00:00:28,652
+Nous sommes un peu fatigués, mais c'est une belle soirée.
+We're a little tired, but it's a lovely evening.
+
+4
+00:00:28,752 --> 00:00:31,940
+Qui est la fille avec ton frère ?
+Who is the girl with your brother?
+
+5
+00:00:32,040 --> 00:00:38,732
+C'est Léa. Elle est étudiante. Elle est canadienne.
+That's Léa. She's a student. She's Canadian.
+
+6
+00:00:38,832 --> 00:00:43,532
+Et ton frère ? Il est étudiant aussi ?
+And your brother? Is he a student too?
+
+7
+00:00:43,632 --> 00:00:49,652
+Non, il est professeur. Ils sont amis depuis l'école.
+No, he's a teacher. They've been friends since school.
+
+8
+00:00:49,752 --> 00:00:56,516
+Super ! Tu es prête ? On va leur dire bonjour.
+Great! Are you ready? Let's go and say hello to them.
