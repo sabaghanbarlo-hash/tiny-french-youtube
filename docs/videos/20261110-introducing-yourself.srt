@@ -1,0 +1,44 @@
+1
+00:00:12,312 --> 00:00:16,580
+Salut ! Comment tu t'appelles ?
+Hi! What's your name?
+
+2
+00:00:16,680 --> 00:00:21,452
+Je m'appelle Marinette. Et toi ?
+My name is Marinette. And you?
+
+3
+00:00:21,552 --> 00:00:26,612
+Moi, c'est Adrien. Tu es française ?
+Me, I'm Adrien. Are you French?
+
+4
+00:00:26,712 --> 00:00:32,300
+Oui, je suis française. J'habite à Paris.
+Yes, I'm French. I live in Paris.
+
+5
+00:00:32,400 --> 00:00:36,404
+Et toi ? Tu viens d'où ?
+And you? Where are you from?
+
+6
+00:00:36,504 --> 00:00:40,604
+Je viens du Canada, mais j'habite à Lyon.
+I come from Canada, but I live in Lyon.
+
+7
+00:00:40,704 --> 00:00:43,316
+Tu parles anglais ?
+Do you speak English?
+
+8
+00:00:43,416 --> 00:00:48,020
+Oui ! Je parle anglais et français.
+Yes! I speak English and French.
+
+9
+00:00:48,120 --> 00:00:52,388
+Moi, je parle français et un peu anglais.
+Me, I speak French and a little English.
