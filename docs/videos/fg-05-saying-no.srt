@@ -1,0 +1,39 @@
+1
+00:00:12,624 --> 00:00:16,148
+Tu aimes le café, Adrien ?
+Do you like coffee, Adrien?
+
+2
+00:00:16,248 --> 00:00:21,908
+Non, je n'aime pas le café. Je préfère le thé.
+No, I don't like coffee. I prefer tea.
+
+3
+00:00:22,008 --> 00:00:25,148
+Tu ne manges pas de croissant ?
+You're not eating a croissant?
+
+4
+00:00:25,248 --> 00:00:28,700
+Non merci, je n'ai pas faim.
+No thank you, I'm not hungry.
+
+5
+00:00:28,800 --> 00:00:33,500
+Tu n'es pas fatigué ? Il est huit heures !
+You're not tired? It's eight o'clock!
+
+6
+00:00:33,600 --> 00:00:39,788
+Non, je ne suis pas fatigué. Mais je ne travaille pas aujourd'hui.
+No, I'm not tired. But I'm not working today.
+
+7
+00:00:39,888 --> 00:00:46,100
+Moi, je travaille. Je n'ai pas de vacances cette semaine.
+I'm working. I don't have any holiday this week.
+
+8
+00:00:46,200 --> 00:00:51,668
+Pauvre Marinette ! Nous n'avons pas le même programme.
+Poor Marinette! We don't have the same schedule.

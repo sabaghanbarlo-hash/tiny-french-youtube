@@ -1,0 +1,34 @@
+1
+00:00:12,168 --> 00:00:15,500
+Voilà le pain et la confiture.
+Here are the bread and the jam.
+
+2
+00:00:15,600 --> 00:00:20,828
+Merci. Tu as un couteau et une assiette ?
+Thanks. Do you have a knife and a plate?
+
+3
+00:00:20,928 --> 00:00:26,708
+Oui, voici un couteau et une assiette. Et les fruits ?
+Yes, here's a knife and a plate. And the fruit?
+
+4
+00:00:26,808 --> 00:00:32,636
+Les pommes sont sur la table. L'orange est dans le sac.
+The apples are on the table. The orange is in the bag.
+
+5
+00:00:32,736 --> 00:00:35,420
+Où est le fromage ?
+Where is the cheese?
+
+6
+00:00:35,520 --> 00:00:41,036
+Le fromage est dans le frigo. Il y a aussi des œufs.
+The cheese is in the fridge. There are also some eggs.
+
+7
+00:00:41,136 --> 00:00:45,980
+Super ! Un petit-déjeuner parfait.
+Great! A perfect breakfast.

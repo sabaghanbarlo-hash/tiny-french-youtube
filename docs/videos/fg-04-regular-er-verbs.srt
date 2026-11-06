@@ -1,0 +1,39 @@
+1
+00:00:12,192 --> 00:00:15,908
+Tu habites à Paris, Marinette ?
+Do you live in Paris, Marinette?
+
+2
+00:00:16,008 --> 00:00:21,188
+Oui, j'habite à Montmartre. Et toi ?
+Yes, I live in Montmartre. And you?
+
+3
+00:00:21,288 --> 00:00:26,276
+Moi aussi ! Je travaille dans une librairie.
+Me too! I work in a bookshop.
+
+4
+00:00:26,376 --> 00:00:29,012
+Tu aimes les livres ?
+Do you like books?
+
+5
+00:00:29,112 --> 00:00:34,844
+J'adore les livres ! Nous parlons de livres toute la journée.
+I love books! We talk about books all day.
+
+6
+00:00:34,944 --> 00:00:38,708
+Vous parlez anglais avec les touristes ?
+Do you speak English with the tourists?
+
+7
+00:00:38,808 --> 00:00:43,148
+Oui, nous parlons anglais et un peu espagnol.
+Yes, we speak English and a little Spanish.
+
+8
+00:00:43,248 --> 00:00:50,060
+Excellent ! Moi, je travaille à la maison et j'écoute de la musique.
+Excellent! I work at home and I listen to music.

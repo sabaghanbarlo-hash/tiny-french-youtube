@@ -1,0 +1,44 @@
+1
+00:00:12,792 --> 00:00:16,556
+Tu as des frères et sœurs, Adrien ?
+Do you have any brothers and sisters, Adrien?
+
+2
+00:00:16,656 --> 00:00:21,884
+J'ai un frère et deux sœurs. Mon frère a vingt ans.
+I have a brother and two sisters. My brother is twenty.
+
+3
+00:00:21,984 --> 00:00:24,500
+Quel âge as-tu ?
+How old are you?
+
+4
+00:00:24,600 --> 00:00:28,748
+J'ai vingt-deux ans. Et toi ?
+I'm twenty-two. And you?
+
+5
+00:00:28,848 --> 00:00:34,316
+J'ai vingt et un ans. Nous avons presque le même âge !
+I'm twenty-one. We're almost the same age!
+
+6
+00:00:34,416 --> 00:00:37,460
+Tu as un animal à la maison ?
+Do you have a pet at home?
+
+7
+00:00:37,560 --> 00:00:42,740
+Oui, nous avons un chat. Il a trois ans.
+Yes, we have a cat. He's three.
+
+8
+00:00:42,840 --> 00:00:47,060
+J'ai faim. Tu as faim aussi ?
+I'm hungry. Are you hungry too?
+
+9
+00:00:47,160 --> 00:00:52,028
+Oui, j'ai très faim ! On mange ?
+Yes, I'm very hungry! Shall we eat?
