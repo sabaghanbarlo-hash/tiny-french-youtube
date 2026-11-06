@@ -104,7 +104,7 @@ def sprite(name, mouth, blink):
         d.line(PP(pts), fill=col, width=int(width * S), joint="curve")
 
     if name == "Adrien":
-        gold, gold_d, gold_l = (190, 104, 54), (150, 78, 40), (232, 150, 92)
+        gold, gold_d, gold_l = (247, 208, 120), (226, 170, 84), (255, 238, 176)
         # hair behind the head
         def back(dd):
             ell((112, 112, 448, 440), gold, dd)
@@ -141,11 +141,10 @@ def sprite(name, mouth, blink):
             line(_bez(root, ctrl, tip, 10), gold_d, 6)
         for root, ctrl, tip in (((340, 130), (300, 150), (268, 178)), ((240, 126), (212, 146), (196, 176))):
             line(_bez(root, ctrl, tip, 8), gold_l, 5)
-        d.arc(P(178, 296, 244, 324), 200, 340, fill=(150, 78, 40), width=int(5 * S)); d.arc(P(316, 290, 382, 318), 200, 340, fill=(150, 78, 40), width=int(5 * S))
+        d.arc(P(178, 296, 244, 324), 200, 340, fill=(206, 154, 88), width=int(5 * S)); d.arc(P(316, 290, 382, 318), 200, 340, fill=(206, 154, 88), width=int(5 * S))
         _eyes(d, P, S, blink, lash=False)
-        for fx, fy in ((172, 408), (188, 402), (204, 410), (356, 410), (372, 402), (388, 408)): ell((fx - 4, fy - 4, fx + 4, fy + 4), (206, 134, 98))   # freckles
     else:
-        navy, navy_d, navy_l = (92, 48, 84), (62, 32, 58), (140, 88, 128)
+        navy, navy_d, navy_l = (50, 68, 122), (34, 46, 92), (92, 112, 170)
         def back(dd):
             ell((106, 106, 454, 440), navy, dd)
             poly(lock_pts((130, 250), (112, 360), (140, 470), 80), navy, dd); poly(lock_pts((430, 250), (448, 360), (420, 470), 80), navy, dd)
@@ -178,12 +177,12 @@ def sprite(name, mouth, blink):
         def tails(dd):
             ell((80, 470, 206, 650), navy, dd); ell((354, 470, 480, 650), navy, dd)
             poly(lock_pts((160, 440), (150, 470), (136, 520), 54), navy, dd); poly(lock_pts((400, 440), (410, 470), (424, 520), 54), navy, dd)
-        put(layer(lambda dd: ell((222, 44, 338, 152), navy, dd), navy, 6))
-        ell((230, 132, 330, 162), (238, 176, 60)); line(_bez((236, 150), (280, 160), (324, 150), 8), (206, 140, 40), 3)
+        put(layer(tails, navy, 6))
+        ell((146, 456, 170, 486), (206, 54, 64)); ell((390, 456, 414, 486), (206, 54, 64))
         _arms(d, S, (104, 94, 102), (44, 36, 42))
         for root, ctrl, tip in (((170, 140), (130, 220), (168, 320)), ((260, 130), (222, 180), (232, 250)), ((406, 150), (432, 220), (404, 290))):
             line(_bez(root, ctrl, tip, 10), navy_l, 6)
-        line(_bez((250, 70), (280, 62), (312, 80), 10), navy_l, 6)
+        line(_bez((110, 520), (100, 570), (130, 620), 10), navy_l, 5); line(_bez((450, 520), (460, 570), (430, 620), 10), navy_l, 5)
         d.arc(P(178, 298, 244, 326), 200, 340, fill=navy_d, width=int(5 * S)); d.arc(P(316, 298, 382, 326), 200, 340, fill=navy_d, width=int(5 * S))
         _eyes(d, P, S, blink, lash=True)
     ell((166, 398, 210, 422), (252, 190, 190)); ell((350, 398, 394, 422), (252, 190, 190))   # small blush
