@@ -1,0 +1,39 @@
+1
+00:00:11,856 --> 00:00:19,148
+Bonjour, deux billets, s'il vous plaît. Il y a un tarif réduit pour les étudiants ?
+Hello, two tickets please. Is there a reduced price for students?
+
+2
+00:00:19,248 --> 00:00:26,468
+Oui, huit euros avec une carte d'étudiant. Le plein tarif est à quinze euros.
+Yes, eight euros with a student card. The full price is fifteen euros.
+
+3
+00:00:26,568 --> 00:00:31,580
+Nous sommes étudiants. Voici nos cartes.
+We're students. Here are our cards.
+
+4
+00:00:31,680 --> 00:00:40,484
+Merci. Le musée ferme à dix-huit heures. Il y a une visite guidée en anglais à quinze heures.
+Thank you. The museum closes at six p.m. There's a guided tour in English at three p.m.
+
+5
+00:00:40,584 --> 00:00:44,516
+Où est l'exposition sur les impressionnistes ?
+Where is the exhibition on the Impressionists?
+
+6
+00:00:44,616 --> 00:00:52,628
+Au deuxième étage, à gauche. Les photos sont autorisées, mais pas avec le flash.
+On the second floor, on the left. Photos are allowed, but not with the flash.
+
+7
+00:00:52,728 --> 00:00:55,748
+Est-ce qu'il y a un vestiaire ?
+Is there a cloakroom?
+
+8
+00:00:55,848 --> 00:01:00,956
+Oui, au rez-de-chaussée. C'est gratuit.
+Yes, on the ground floor. It's free.

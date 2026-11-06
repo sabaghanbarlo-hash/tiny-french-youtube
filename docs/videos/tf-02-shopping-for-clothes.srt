@@ -1,0 +1,44 @@
+1
+00:00:12,240 --> 00:00:16,316
+Excusez-moi, je cherche une veste.
+Excuse me, I'm looking for a jacket.
+
+2
+00:00:16,416 --> 00:00:19,028
+Quelle taille faites-vous ?
+What size are you?
+
+3
+00:00:19,128 --> 00:00:24,260
+Je fais du 38. Vous l'avez en bleu ?
+I'm a 38. Do you have it in blue?
+
+4
+00:00:24,360 --> 00:00:31,676
+Oui, la voici. Vous voulez l'essayer ? Les cabines sont au fond.
+Yes, here it is. Would you like to try it on? The fitting rooms are at the back.
+
+5
+00:00:31,776 --> 00:00:37,052
+Elle est un peu grande. Vous l'avez en 36 ?
+It's a bit big. Do you have it in a 36?
+
+6
+00:00:37,152 --> 00:00:42,596
+Je regarde… Oui, voilà un 36.
+I'll check… Yes, here's a 36.
+
+7
+00:00:42,696 --> 00:00:47,348
+Elle me va bien ! Elle coûte combien ?
+It suits me! How much is it?
+
+8
+00:00:47,448 --> 00:00:52,388
+Quatre-vingt-neuf euros, mais c'est les soldes : moins vingt pour cent.
+Eighty-nine euros, but it's the sales: twenty percent off.
+
+9
+00:00:52,488 --> 00:00:55,700
+Super, je la prends.
+Great, I'll take it.

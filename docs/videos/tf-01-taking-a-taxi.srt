@@ -1,0 +1,49 @@
+1
+00:00:12,120 --> 00:00:19,772
+Bonjour, monsieur. À l'hôtel Bellevue, rue Victor Hugo, s'il vous plaît.
+Hello, sir. To the Hôtel Bellevue, rue Victor Hugo, please.
+
+2
+00:00:19,872 --> 00:00:24,500
+Bien sûr. Vous avez des bagages ?
+Of course. Do you have any luggage?
+
+3
+00:00:24,600 --> 00:00:29,756
+Oui, deux valises. Vous pouvez m'aider ?
+Yes, two suitcases. Can you help me?
+
+4
+00:00:29,856 --> 00:00:34,940
+Avec plaisir. Montez, madame.
+With pleasure. Get in, madam.
+
+5
+00:00:35,040 --> 00:00:37,796
+C'est loin d'ici ?
+Is it far from here?
+
+6
+00:00:37,896 --> 00:00:43,964
+Non, c'est à dix minutes. Il y a un peu de circulation.
+No, it's ten minutes away. There's a bit of traffic.
+
+7
+00:00:44,064 --> 00:00:47,708
+Ça coûte combien, environ ?
+How much does it cost, roughly?
+
+8
+00:00:47,808 --> 00:00:50,636
+Environ quinze euros.
+About fifteen euros.
+
+9
+00:00:50,736 --> 00:00:57,500
+Arrêtez-vous devant l'hôtel, s'il vous plaît. Vous acceptez la carte ?
+Stop in front of the hotel, please. Do you take cards?
+
+10
+00:00:57,600 --> 00:01:03,692
+Oui, pas de problème. Voilà, nous sommes arrivés.
+Yes, no problem. Here we are, we've arrived.

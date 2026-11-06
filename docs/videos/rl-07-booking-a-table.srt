@@ -1,0 +1,54 @@
+1
+00:00:11,952 --> 00:00:16,196
+Restaurant Le Petit Bistrot, bonjour !
+Le Petit Bistrot restaurant, hello!
+
+2
+00:00:16,296 --> 00:00:22,412
+Bonjour, je voudrais réserver une table pour deux personnes, s'il vous plaît.
+Hello, I'd like to book a table for two people, please.
+
+3
+00:00:22,512 --> 00:00:24,884
+Pour quand ?
+For when?
+
+4
+00:00:24,984 --> 00:00:28,892
+Pour vendredi soir, à vingt heures.
+For Friday evening, at eight.
+
+5
+00:00:28,992 --> 00:00:35,996
+Désolé, nous sommes complets à vingt heures. J'ai une table à vingt et une heures.
+Sorry, we're full at eight. I have a table at nine.
+
+6
+00:00:36,096 --> 00:00:42,452
+Vingt et une heures, c'est parfait. Est-ce que vous avez des plats végétariens ?
+Nine o'clock is perfect. Do you have vegetarian dishes?
+
+7
+00:00:42,552 --> 00:00:47,444
+Oui, bien sûr. C'est à quel nom ?
+Yes, of course. What name is it under?
+
+8
+00:00:47,544 --> 00:00:50,156
+Au nom de Martin.
+Under the name Martin.
+
+9
+00:00:50,256 --> 00:00:54,668
+Excusez-moi, l'addition, s'il vous plaît.
+Excuse me, the bill, please.
+
+10
+00:00:54,768 --> 00:01:00,260
+Tout de suite. Vous payez par carte ou en espèces ?
+Right away. Are you paying by card or in cash?
+
+11
+00:01:00,360 --> 00:01:03,716
+Par carte, s'il vous plaît.
+By card, please.
