@@ -16,7 +16,7 @@ except Exception:                                    # pragma: no cover
 
 H = lambda t: "#%02x%02x%02x" % tuple(int(v) for v in t)
 SK, SH = "#fde3cb", "#f0cdb2"
-NV, NVD, NVL = H((50, 68, 122)), H((34, 46, 92)), H((92, 112, 170))
+NV, NVD, NVL = H((34, 34, 44)), H((22, 22, 30)), H((74, 76, 98))
 
 
 def bez(p0, p1, p2, n=14):
@@ -97,7 +97,7 @@ def _marinette():
 
 
 def _adrien():
-    G, GD, GL = H((247, 208, 120)), H((226, 170, 84)), H((255, 238, 176))
+    G, GD, GL = H((120, 80, 52)), H((92, 58, 36)), H((160, 114, 80))
     hb = ell((112, 112, 448, 440), G)+"".join(poly(lock(*a), G) for a in (((150, 250), (100, 300), (74, 372), 70), ((410, 250), (462, 290), (486, 352), 64), ((262, 124), (288, 76), (338, 58), 54)))
     xl = lambda y: 232-12*(y-490)/270; xr = lambda y: 328+12*(y-490)/270
     st = ""
@@ -114,7 +114,7 @@ def _adrien():
           + "".join(line(bez(*a, 8), GL, 5) for a in (((340, 130), (300, 150), (268, 178)), ((240, 126), (212, 146), (196, 176)))))
     hf = ell((130, 316, 180, 396), SK)+ell((136, 154, 424, 462), SK)+ell((166, 398, 210, 422), H((252, 190, 190)))+ell((350, 398, 394, 422), H((252, 190, 190)))+fr
     ll, rl = _plain_legs("#3c4048")
-    return dict(k='fr', lash=0, br=(H((206, 154, 88)), (211, 310), (349, 304)), hb=hb, torso=torso, hf=hf, tails=None, arms=_arm(WH, 70, 28, SK, SK),
+    return dict(k='fr', lash=0, br=(H((92, 58, 36)), (211, 310), (349, 304)), hb=hb, torso=torso, hf=hf, tails=None, arms=_arm(WH, 70, 28, SK, SK),
                 A=(175, 512), B=(385, 512), low='', legs=(ll, rl))
 
 
