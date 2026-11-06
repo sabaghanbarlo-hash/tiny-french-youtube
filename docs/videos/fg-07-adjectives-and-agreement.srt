@@ -1,0 +1,39 @@
+1
+00:00:12,168 --> 00:00:15,332
+L'appartement est très joli !
+The flat is very pretty!
+
+2
+00:00:15,432 --> 00:00:20,828
+Merci ! Il est petit, mais il est lumineux.
+Thanks! It's small, but it's bright.
+
+3
+00:00:20,928 --> 00:00:25,244
+La cuisine est grande, et la chambre est petite ?
+The kitchen is big, and the bedroom is small?
+
+4
+00:00:25,344 --> 00:00:30,884
+Oui. J'aime la porte rouge et le canapé vert.
+Yes. I like the red door and the green sofa.
+
+5
+00:00:30,984 --> 00:00:34,700
+Il est confortable, le canapé ?
+Is the sofa comfortable?
+
+6
+00:00:34,800 --> 00:00:42,260
+Très confortable ! Les fenêtres sont grandes, alors il y a beaucoup de lumière.
+Very comfortable! The windows are big, so there's lots of light.
+
+7
+00:00:42,360 --> 00:00:47,012
+Et les voisins ? Ils sont sympathiques ?
+And the neighbours? Are they friendly?
+
+8
+00:00:47,112 --> 00:00:51,860
+Oui, une voisine gentille et un voisin très amusant.
+Yes, a kind neighbour and a very funny one.

@@ -1,0 +1,49 @@
+1
+00:00:12,192 --> 00:00:14,804
+Où est le concert ?
+Where is the concert?
+
+2
+00:00:14,904 --> 00:00:20,132
+Il est au parc. Il commence à huit heures.
+It's in the park. It starts at eight o'clock.
+
+3
+00:00:20,232 --> 00:00:23,300
+Comment est-ce qu'on va au parc ?
+How do we get to the park?
+
+4
+00:00:23,400 --> 00:00:26,900
+En métro, c'est rapide.
+By metro, it's quick.
+
+5
+00:00:27,000 --> 00:00:29,780
+Combien coûte le billet ?
+How much is the ticket?
+
+6
+00:00:29,880 --> 00:00:33,020
+Le billet coûte dix euros.
+The ticket costs ten euros.
+
+7
+00:00:33,120 --> 00:00:36,356
+Pourquoi est-ce que c'est si cher ?
+Why is it so expensive?
+
+8
+00:00:36,456 --> 00:00:39,908
+Parce que c'est un grand concert !
+Because it's a big concert!
+
+9
+00:00:40,008 --> 00:00:42,380
+Qui chante ?
+Who is singing?
+
+10
+00:00:42,480 --> 00:00:47,324
+Un chanteur très célèbre. Tu es prêt ?
+A very famous singer. Are you ready?

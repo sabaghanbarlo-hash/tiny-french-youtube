@@ -1,0 +1,39 @@
+1
+00:00:12,216 --> 00:00:16,292
+À quelle heure est-ce que tu te lèves, Adrien ?
+What time do you get up, Adrien?
+
+2
+00:00:16,392 --> 00:00:21,884
+Je me lève à sept heures. Je me douche et je m'habille.
+I get up at seven. I shower and I get dressed.
+
+3
+00:00:21,984 --> 00:00:24,908
+Et le petit-déjeuner ?
+And breakfast?
+
+4
+00:00:25,008 --> 00:00:30,668
+Je prends un café et un croissant. Puis je me brosse les dents.
+I have a coffee and a croissant. Then I brush my teeth.
+
+5
+00:00:30,768 --> 00:00:37,868
+Moi, je me lève plus tard, à huit heures. Je me dépêche toujours !
+I get up later, at eight. I always hurry!
+
+6
+00:00:37,968 --> 00:00:41,012
+Tu te couches tôt le soir ?
+Do you go to bed early in the evening?
+
+7
+00:00:41,112 --> 00:00:45,620
+Non, je me couche tard, vers minuit.
+No, I go to bed late, around midnight.
+
+8
+00:00:45,720 --> 00:00:51,644
+Moi, je me couche à dix heures. Je suis très sérieux !
+I go to bed at ten. I'm very serious!

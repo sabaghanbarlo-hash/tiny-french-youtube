@@ -1,0 +1,49 @@
+1
+00:00:11,856 --> 00:00:16,988
+Bonjour mademoiselle ! Qu'est-ce que je vous sers ?
+Hello miss! What can I get you?
+
+2
+00:00:17,088 --> 00:00:23,228
+Bonjour ! Je voudrais un kilo de pommes, s'il vous plaît.
+Hello! I'd like a kilo of apples, please.
+
+3
+00:00:23,328 --> 00:00:27,332
+Voilà. Et avec ça ?
+Here you are. Anything else?
+
+4
+00:00:27,432 --> 00:00:32,060
+Cinq cents grammes de tomates et une barquette de fraises.
+Five hundred grams of tomatoes and a punnet of strawberries.
+
+5
+00:00:32,160 --> 00:00:35,780
+Elles sont fraîches, les fraises ?
+Are the strawberries fresh?
+
+6
+00:00:35,880 --> 00:00:41,756
+Oui, elles sont du jour ! Quatre euros la barquette.
+Yes, they're from today! Four euros a punnet.
+
+7
+00:00:41,856 --> 00:00:46,604
+Parfait. C'est tout, merci.
+Perfect. That's all, thank you.
+
+8
+00:00:46,704 --> 00:00:49,988
+Ça fait neuf euros cinquante.
+That comes to nine euros fifty.
+
+9
+00:00:50,088 --> 00:00:52,844
+Voilà dix euros.
+Here's ten euros.
+
+10
+00:00:52,944 --> 00:00:58,124
+Et voilà cinquante centimes. Bonne journée !
+And here's fifty cents. Have a good day!
