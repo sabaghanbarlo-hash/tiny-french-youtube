@@ -15,8 +15,8 @@ SKIN = (253, 227, 203)
 INK = (92, 52, 56)
 MOUTH = (128, 48, 62)
 TONGUE = (238, 128, 140)
-HAIR = {"Adrien": dict(main=(247, 208, 120), dark=(226, 170, 84), light=(255, 238, 176), brow=(206, 154, 88)),
-        "Marinette": dict(main=(50, 68, 122), dark=(34, 46, 92), light=(92, 112, 170), brow=(34, 46, 92), tie=(206, 54, 64))}
+HAIR = {"Adrien": dict(main=(190, 104, 54), dark=(150, 78, 40), light=(232, 150, 92), brow=(150, 78, 40)),
+        "Marinette": dict(main=(92, 48, 84), dark=(62, 32, 58), light=(140, 88, 128), brow=(62, 32, 58), tie=(238, 176, 60), iris=(60, 116, 110))}
 BLUSH_EXPR = ("embarrassed", "shy", "happy", "excited")
 EXPRESSIONS = ("happy", "excited", "surprised", "sad", "worried", "confused", "embarrassed", "shy")
 
@@ -94,14 +94,11 @@ def _static(name):
                                         ((330, 126), (372, 200), (338, 292), 84), ((404, 140), (434, 220), (404, 300), 60)):
                 cv.poly(_lock(root, ctrl, tip, wd), g, dd)
         cv.layer(front, g, 2)
-        def tails(dd):
-            cv.ell((80, 470, 206, 650), g, dd); cv.ell((354, 470, 480, 650), g, dd)
-            cv.poly(_lock((160, 440), (150, 470), (136, 520), 54), g, dd); cv.poly(_lock((400, 440), (410, 470), (424, 520), 54), g, dd)
-        cv.layer(tails, g, 6)
-        cv.ell((146, 456, 170, 486), h["tie"]); cv.ell((390, 456, 414, 486), h["tie"])
+        cv.layer(lambda dd: cv.ell((222, 44, 338, 152), g, dd), g, 6)                    # half-up bun
+        cv.ell((230, 132, 330, 162), h["tie"]); cv.line(_bez((236, 150), (280, 160), (324, 150), 8), (206, 140, 40), 3)
         for root, ctrl, tip in (((170, 140), (130, 220), (168, 320)), ((260, 130), (222, 180), (232, 250)), ((406, 150), (432, 220), (404, 290))):
             cv.line(_bez(root, ctrl, tip, 10), h["light"], 6)
-        cv.line(_bez((110, 520), (100, 570), (130, 620), 10), h["light"], 5); cv.line(_bez((450, 520), (460, 570), (430, 620), 10), h["light"], 5)
+        cv.line(_bez((250, 70), (280, 62), (312, 80), 10), h["light"], 6)
     return cv.im
 
 
@@ -121,6 +118,8 @@ def _head(name, expr, mq, blink, laugh):
     bl = expr in BLUSH_EXPR
     pad = 4 if bl else 0; col = (250, 160, 168) if bl else (252, 190, 190)
     cv.ell((166 - pad, 398 - pad // 2, 210 + pad, 422 + pad // 2), col); cv.ell((350 - pad, 398 - pad // 2, 394 + pad, 422 + pad // 2), col)
+    if name == "Adrien":                                                 # freckles
+        for fx, fy in ((172, 408), (188, 402), (204, 410), (356, 410), (372, 402), (388, 408)): cv.ell((fx - 4, fy - 4, fx + 4, fy + 4), (206, 134, 98))
     oy = 8 if expr in ("sad", "shy") else 0
     for ex in (214, 346):
         if closed or happy_eyes:
