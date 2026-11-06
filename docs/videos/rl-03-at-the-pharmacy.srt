@@ -1,0 +1,44 @@
+1
+00:00:11,976 --> 00:00:16,196
+Bonjour, j'ai mal à la tête depuis hier.
+Hello, I've had a headache since yesterday.
+
+2
+00:00:16,296 --> 00:00:19,316
+Vous avez de la fièvre ?
+Do you have a fever?
+
+3
+00:00:19,416 --> 00:00:23,948
+Non, mais j'ai aussi mal à la gorge et je tousse.
+No, but I also have a sore throat and I'm coughing.
+
+4
+00:00:24,048 --> 00:00:29,132
+Voici des pastilles pour la gorge et des comprimés pour la tête.
+Here are some lozenges for your throat and some tablets for your head.
+
+5
+00:00:29,232 --> 00:00:33,572
+Prenez un comprimé, trois fois par jour.
+Take one tablet, three times a day.
+
+6
+00:00:33,672 --> 00:00:36,572
+Avant ou après les repas ?
+Before or after meals?
+
+7
+00:00:36,672 --> 00:00:40,796
+Après les repas, avec un grand verre d'eau.
+After meals, with a large glass of water.
+
+8
+00:00:40,896 --> 00:00:45,092
+D'accord. C'est combien ?
+OK. How much is it?
+
+9
+00:00:45,192 --> 00:00:51,932
+Douze euros. Si ça ne va pas mieux dans trois jours, voyez un médecin.
+Twelve euros. If you're not better in three days, see a doctor.

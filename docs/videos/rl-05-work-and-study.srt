@@ -1,0 +1,39 @@
+1
+00:00:11,928 --> 00:00:15,884
+Qu'est-ce que tu fais dans la vie, Marinette ?
+What do you do for a living, Marinette?
+
+2
+00:00:15,984 --> 00:00:22,244
+Je suis graphiste. Je travaille pour une petite entreprise.
+I'm a graphic designer. I work for a small company.
+
+3
+00:00:22,344 --> 00:00:27,764
+C'est intéressant ! Tu travailles au bureau ou à la maison ?
+That's interesting! Do you work at the office or at home?
+
+4
+00:00:27,864 --> 00:00:32,636
+Trois jours par semaine au bureau et deux jours à la maison.
+Three days a week at the office and two days at home.
+
+5
+00:00:32,736 --> 00:00:35,828
+Et toi, Adrien ?
+And you, Adrien?
+
+6
+00:00:35,928 --> 00:00:43,028
+Moi, je suis libraire. Et le soir, j'étudie le japonais en ligne.
+I'm a bookseller. And in the evening I study Japanese online.
+
+7
+00:00:43,128 --> 00:00:47,924
+Bravo ! Tu as des collègues sympas ?
+Bravo! Do you have nice colleagues?
+
+8
+00:00:48,024 --> 00:00:53,564
+Oui, mon patron est très gentil et ma collègue Julie est amusante.
+Yes, my boss is very kind and my colleague Julie is funny.

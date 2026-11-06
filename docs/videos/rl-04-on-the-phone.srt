@@ -1,0 +1,49 @@
+1
+00:00:11,736 --> 00:00:14,108
+Allô ?
+Hello?
+
+2
+00:00:14,208 --> 00:00:19,028
+Allô, Marinette ? C'est Adrien.
+Hello, Marinette? It's Adrien.
+
+3
+00:00:19,128 --> 00:00:23,420
+Salut Adrien ! Ça va ?
+Hi Adrien! How are you?
+
+4
+00:00:23,520 --> 00:00:28,220
+Très bien. Tu es libre samedi soir ?
+Very well. Are you free on Saturday evening?
+
+5
+00:00:28,320 --> 00:00:33,140
+Oui, je suis libre. Pourquoi ?
+Yes, I'm free. Why?
+
+6
+00:00:33,240 --> 00:00:38,564
+Je vais au cinéma avec des amis. Tu viens avec nous ?
+I'm going to the cinema with some friends. Are you coming with us?
+
+7
+00:00:38,664 --> 00:00:43,196
+Avec plaisir ! À quelle heure ?
+With pleasure! At what time?
+
+8
+00:00:43,296 --> 00:00:46,988
+À vingt heures, devant le cinéma.
+At eight p.m., in front of the cinema.
+
+9
+00:00:47,088 --> 00:00:52,724
+Pardon, je n'entends pas bien. Tu peux répéter ?
+Sorry, I can't hear well. Can you repeat?
+
+10
+00:00:52,824 --> 00:00:59,372
+À vingt heures, devant le cinéma ! Je t'envoie l'adresse par message.
+At eight p.m., in front of the cinema! I'll text you the address.

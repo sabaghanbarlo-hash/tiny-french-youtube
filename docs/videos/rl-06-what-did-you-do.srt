@@ -1,0 +1,44 @@
+1
+00:00:11,808 --> 00:00:17,180
+Salut Adrien ! Qu'est-ce que tu as fait ce week-end ?
+Hi Adrien! What did you do this weekend?
+
+2
+00:00:17,280 --> 00:00:23,612
+Samedi, j'ai travaillé le matin. Puis j'ai mangé avec un ami.
+On Saturday I worked in the morning. Then I ate with a friend.
+
+3
+00:00:23,712 --> 00:00:26,636
+Vous avez mangé où ?
+Where did you eat?
+
+4
+00:00:26,736 --> 00:00:33,044
+Nous avons mangé dans un petit restaurant italien. J'ai pris une pizza.
+We ate in a little Italian restaurant. I had a pizza.
+
+5
+00:00:33,144 --> 00:00:37,916
+Moi, j'ai regardé un film et j'ai fini mon livre.
+I watched a film and I finished my book.
+
+6
+00:00:38,016 --> 00:00:42,308
+Et dimanche ? Tu as dormi ?
+And Sunday? Did you sleep?
+
+7
+00:00:42,408 --> 00:00:48,716
+Oui, j'ai dormi jusqu'à dix heures ! Puis j'ai appelé ma mère.
+Yes, I slept until ten! Then I called my mother.
+
+8
+00:00:48,816 --> 00:00:51,812
+Tu n'as pas travaillé du tout ?
+You didn't work at all?
+
+9
+00:00:51,912 --> 00:00:57,596
+Non, je n'ai pas travaillé. J'ai juste dormi !
+No, I didn't work. I just slept!
