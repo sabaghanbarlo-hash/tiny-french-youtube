@@ -8,7 +8,7 @@ the place the story spends most time in) and drawn as a 1280x720 picture: that p
 Adrien big in front (sharing an umbrella when it rains), and the title on a banner. So a rainy story looks rainy, a
 festival looks like a festival, and every video gets a different cover.
 """
-import glob, os, sys, tempfile
+import glob, os, re, sys, tempfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -128,7 +128,7 @@ def make_cover(script, out_path):
     snow = seg.get("weather") == "snow" and scene in A.AT.OUTDOOR
     k = OUT / L.STAGE_OUT
     cast = [("Marinette", 640, "happy", 0), ("Adrien", 1280, "surprised" if wet else "happy", 0)]
-    if int(meta.get("episode") or 0) % 2:                      # vary who stands where
+    if int(re.sub(r"\D", "", str(meta.get("episode") or "")) or 0) % 2:   # vary who stands where (episode ids like "TF4" are fine)
         cast = [("Adrien", 640, cast[1][2], 0), ("Marinette", 1280, cast[0][2], 0)]
     sprites = []
     for nm, cx, expr, arm in cast:
