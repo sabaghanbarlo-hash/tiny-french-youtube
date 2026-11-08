@@ -1,0 +1,46 @@
+title: Tiny French 1000 · Lesson 3 · Questions and Politeness
+episode: T1-003
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Où est la boulangerie ? | Hello, Marinette! Where is the bakery?
+Marinette: Elle est près de l'école. | It's near the school.
+Adrien: Merci. Quand ouvre-t-elle ? | Thanks. When does it open?
+Marinette: À neuf heures. Pourquoi ? | At nine o'clock. Why?
+Adrien: Je veux du pain. Que veux-tu ? | I want some bread. What do you want?
+Marinette: Un croissant, s'il te plaît. | A croissant, please.
+Adrien: Pardon, Marinette, qui arrive ? | Excuse me, Marinette, who's coming?
+Marinette: C'est Alya ! Comment vas-tu ? | It's Alya! How are you?
+
+[vocab]
+vocab: qui | who | KEE
+example: Qui est là ? | Who is there?
+vocab: que | what | KUH
+example: Que fais-tu ? | What are you doing?
+vocab: où | where | OO
+example: Où est la gare ? | Where is the station?
+vocab: quand | when | KAHN
+example: Tu pars quand ? | When are you leaving?
+vocab: comment | how | koh-MAHN
+example: Comment ça va ? | How are you?
+vocab: pourquoi | why | poor-KWAH
+example: Pourquoi tu pars ? | Why are you leaving?
+vocab: bonjour | hello | bohn-ZHOOR
+example: Bonjour, madame ! | Hello, madam!
+vocab: merci | thank you | mehr-SEE
+example: Merci pour votre aide. | Thank you for your help.
+vocab: s'il vous plaît | please | seel voo PLEH
+example: Un café, s'il vous plaît. | A coffee, please.
+vocab: pardon | sorry; excuse me | par-DOHN
+example: Pardon, où est la sortie ? | Excuse me, where is the exit?
+
+[grammar]
+grammar: Question words at the start | French question words usually come at the beginning of a question. They can be followed by an inverted verb and subject, as in “Quand ouvre-t-elle ?”, or by a subject and verb in casual speech, as in “Pourquoi tu demandes ?”.
+example: Où est la boulangerie ? | Where is the bakery?
+example: Comment tu vas ? | How are you?
+
+[quiz]
+quiz: Which French word means “where”? | où | qui | quand | A | “Où” means “where.”
+quiz: How do you say “thank you” in French? | bonjour | merci | pardon | B | “Merci” means “thank you.”
+quiz: What does “quand” mean? | what | when | please | B | quand means “when”.
+quiz: What does “s'il vous plaît” mean? | who | please | where | B | s'il vous plaît means “please”.
