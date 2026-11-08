@@ -1,0 +1,39 @@
+1
+00:00:15,480 --> 00:00:20,636
+Bonjour, Marinette ! Tu es prête ?
+Hello, Marinette! Are you ready?
+
+2
+00:00:20,736 --> 00:00:26,876
+Oui, je suis prête. Et toi, tu as ton cahier ?
+Yes, I’m ready. And you, do you have your notebook?
+
+3
+00:00:26,976 --> 00:00:31,412
+Oui, il est dans mon sac, et j’ai un stylo.
+Yes, it’s in my bag, and I have a pen.
+
+4
+00:00:31,512 --> 00:00:37,076
+Nous sommes en avance. Vous êtes aussi dans le groupe ?
+We’re early. Are you also in the group?
+
+5
+00:00:37,176 --> 00:00:42,140
+Oui, nous sommes là. Ils sont avec nous.
+Yes, we’re here. They’re with us.
+
+6
+00:00:42,240 --> 00:00:46,508
+Et les filles ? Elles sont où ?
+And the girls? Where are they?
+
+7
+00:00:46,608 --> 00:00:51,524
+Lina ? Elle est ici, avec moi.
+Lina? She’s here, with me.
+
+8
+00:00:51,624 --> 00:00:56,444
+Super ! J’ai aussi mon livre.
+Great! I have my book too.

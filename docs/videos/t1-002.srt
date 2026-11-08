@@ -1,0 +1,39 @@
+1
+00:00:13,920 --> 00:00:19,532
+Bonjour, Marinette ! Tu vas à l'école avec moi ?
+Hello, Marinette! Are you going to school with me?
+
+2
+00:00:19,632 --> 00:00:25,076
+Oui ! Le livre de français est dans mon sac.
+Yes! The French book is in my bag.
+
+3
+00:00:25,176 --> 00:00:28,892
+Tu veux du pain ou une pomme pour le déjeuner ?
+Do you want bread or an apple for lunch?
+
+4
+00:00:28,992 --> 00:00:33,788
+Une pomme, merci, mais je ne veux pas de pain.
+An apple, thanks, but I don't want bread.
+
+5
+00:00:33,888 --> 00:00:39,500
+D'accord. La boulangerie est à côté de l'école.
+Okay. The bakery is next to the school.
+
+6
+00:00:39,600 --> 00:00:42,428
+C'est parfait pour moi !
+That's perfect for me!
+
+7
+00:00:42,528 --> 00:00:45,044
+Tu viens de Paris ?
+Are you from Paris?
+
+8
+00:00:45,144 --> 00:00:48,452
+Oui, et j'habite ici.
+Yes, and I live here.

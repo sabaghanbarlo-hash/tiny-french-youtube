@@ -1,0 +1,39 @@
+1
+00:00:14,136 --> 00:00:19,436
+Bonjour, Marinette ! Tu vas à l'école ?
+Hi, Marinette! Are you going to school?
+
+2
+00:00:19,536 --> 00:00:23,420
+Oui, puis je vais au magasin en ville.
+Yes, then I'm going to the shop in town.
+
+3
+00:00:23,520 --> 00:00:26,420
+Tu veux acheter un livre ?
+Do you want to buy a book?
+
+4
+00:00:26,520 --> 00:00:30,116
+Oui, je vais acheter un livre.
+Yes, I'm going to buy a book.
+
+5
+00:00:30,216 --> 00:00:34,268
+Après, on rentre à la maison en voiture ?
+Later, shall we go home by car?
+
+6
+00:00:34,368 --> 00:00:39,476
+Oui. Je prends aussi de l'eau pour la route.
+Yes. I'll also take some water for the road.
+
+7
+00:00:39,576 --> 00:00:43,268
+Mon lieu de travail se trouve dans cette rue.
+My workplace is on this street.
+
+8
+00:00:43,368 --> 00:00:46,460
+À bientôt, Adrien !
+See you soon, Adrien!

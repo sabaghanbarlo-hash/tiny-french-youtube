@@ -1,0 +1,39 @@
+1
+00:00:13,992 --> 00:00:19,676
+Salut, Marinette ! Tu veux aller au café avec moi ?
+Hi, Marinette! Do you want to go to the café with me?
+
+2
+00:00:19,776 --> 00:00:24,692
+Oui ! Je peux venir après les cours.
+Yes! I can come after class.
+
+3
+00:00:24,792 --> 00:00:30,260
+Super. On peut parler et prendre un chocolat chaud.
+Great. We can talk and get a hot chocolate.
+
+4
+00:00:30,360 --> 00:00:34,676
+D’accord. Tu sais où il est ?
+Okay. Do you know where it is?
+
+5
+00:00:34,776 --> 00:00:40,220
+Oui, je le sais. Je vais te dire comment y aller.
+Yes, I know. I’m going to tell you how to get there.
+
+6
+00:00:40,320 --> 00:00:47,588
+Merci ! Tu vois la boulangerie ? Le café est à côté.
+Thanks! Do you see the bakery? The café is next to it.
+
+7
+00:00:47,688 --> 00:00:51,836
+Oui. Qu’est-ce qu’on fait après ?
+Yes. What shall we do afterward?
+
+8
+00:00:51,936 --> 00:00:56,276
+On va faire nos devoirs, puis je veux rentrer.
+We’re going to do our homework, then I want to go home.

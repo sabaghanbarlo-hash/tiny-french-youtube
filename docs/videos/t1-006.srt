@@ -1,0 +1,39 @@
+1
+00:00:14,832 --> 00:00:20,516
+Bonjour, Marinette ! Qu'est-ce que tu fais aujourd'hui ?
+Hi, Marinette! What are you doing today?
+
+2
+00:00:20,616 --> 00:00:25,436
+Je vais au café le matin. Et toi ?
+I go to the café in the morning. And you?
+
+3
+00:00:25,536 --> 00:00:30,212
+Je travaille maintenant, mais je suis libre ce soir.
+I'm working now, but I'm free this evening.
+
+4
+00:00:30,312 --> 00:00:35,684
+Super ! On peut se voir demain après le cours.
+Great! We can see each other tomorrow after class.
+
+5
+00:00:35,784 --> 00:00:41,228
+Oui. Hier, j'ai étudié toute la journée.
+Yes. Yesterday, I studied all day.
+
+6
+00:00:41,328 --> 00:00:44,756
+Tu étudies beaucoup chaque semaine !
+You study a lot every week!
+
+7
+00:00:44,856 --> 00:00:49,148
+Oui, mais j'aime prendre du temps pour mes amis.
+Yes, but I like to make time for my friends.
+
+8
+00:00:49,248 --> 00:00:54,404
+Moi aussi ! Un an, ça passe vite !
+Me too! A year goes by fast!

@@ -1,0 +1,39 @@
+1
+00:00:15,000 --> 00:00:20,228
+Bonjour, Marinette ! Tu vois un homme ?
+Hello, Marinette! Do you see a man?
+
+2
+00:00:20,328 --> 00:00:23,828
+Oui, et une femme avec lui.
+Yes, and a woman with him.
+
+3
+00:00:23,928 --> 00:00:26,996
+Leur enfant est très gentil.
+Their child is very nice.
+
+4
+00:00:27,096 --> 00:00:30,332
+C’est un ami de mon frère.
+He’s a friend of my brother.
+
+5
+00:00:30,432 --> 00:00:35,228
+Voici une famille. Le père est là.
+Here is a family. The father is there.
+
+6
+00:00:35,328 --> 00:00:39,188
+Oui, une personne attend sa sœur.
+Yes, someone is waiting for their sister.
+
+7
+00:00:39,288 --> 00:00:41,708
+Où est la mère ?
+Where is the mother?
+
+8
+00:00:41,808 --> 00:00:45,596
+Elle est ici, avec son frère.
+She is here, with her brother.

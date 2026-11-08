@@ -1,0 +1,39 @@
+1
+00:00:14,544 --> 00:00:19,820
+Bonjour, Marinette ! Où est la boulangerie ?
+Hello, Marinette! Where is the bakery?
+
+2
+00:00:19,920 --> 00:00:22,772
+Elle est près de l'école.
+It's near the school.
+
+3
+00:00:22,872 --> 00:00:27,092
+Merci. Quand ouvre-t-elle ?
+Thanks. When does it open?
+
+4
+00:00:27,192 --> 00:00:31,388
+À neuf heures. Pourquoi ?
+At nine o'clock. Why?
+
+5
+00:00:31,488 --> 00:00:35,636
+Je veux du pain. Que veux-tu ?
+I want some bread. What do you want?
+
+6
+00:00:35,736 --> 00:00:39,140
+Un croissant, s'il te plaît.
+A croissant, please.
+
+7
+00:00:39,240 --> 00:00:43,172
+Pardon, Marinette, qui arrive ?
+Excuse me, Marinette, who's coming?
+
+8
+00:00:43,272 --> 00:00:47,660
+C'est Alya ! Comment vas-tu ?
+It's Alya! How are you?

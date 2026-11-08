@@ -1,0 +1,39 @@
+1
+00:00:14,712 --> 00:00:18,020
+Tu as déjà fini tes devoirs ?
+Have you already finished your homework?
+
+2
+00:00:18,120 --> 00:00:21,956
+Oui, parce que c'était très facile.
+Yes, because it was very easy.
+
+3
+00:00:22,056 --> 00:00:25,076
+Tu travailles toujours ici ?
+Do you still work here?
+
+4
+00:00:25,176 --> 00:00:28,748
+Oui, et je peux aussi t'aider.
+Yes, and I can help you too.
+
+5
+00:00:28,848 --> 00:00:33,524
+Merci ! J'aime beaucoup ce café.
+Thanks! I like this café a lot.
+
+6
+00:00:33,624 --> 00:00:37,436
+Il est plus calme et moins bruyant le matin.
+It's calmer and less noisy in the morning.
+
+7
+00:00:37,536 --> 00:00:40,292
+Tu viens encore demain ?
+Are you coming again tomorrow?
+
+8
+00:00:40,392 --> 00:00:45,548
+Oui, sauf le dimanche : je ne viens jamais ce jour-là.
+Yes, except on Sundays: I never come that day.
