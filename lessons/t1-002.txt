@@ -1,0 +1,46 @@
+title: Tiny French 1000 · Lesson 2 · Little Words
+episode: T1-002
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu vas à l'école avec moi ? | Hello, Marinette! Are you going to school with me?
+Marinette: Oui ! Le livre de français est dans mon sac. | Yes! The French book is in my bag.
+Adrien: Tu veux du pain ou une pomme pour le déjeuner ? | Do you want bread or an apple for lunch?
+Marinette: Une pomme, merci, mais je ne veux pas de pain. | An apple, thanks, but I don't want bread.
+Adrien: D'accord. La boulangerie est à côté de l'école. | Okay. The bakery is next to the school.
+Marinette: C'est parfait pour moi ! | That's perfect for me!
+Adrien: Tu viens de Paris ? | Are you from Paris?
+Marinette: Oui, et j'habite ici. | Yes, and I live here.
+
+[vocab]
+vocab: de | of, from | DUH
+example: Je viens de Paris. | I come from Paris.
+vocab: à | to, at | AH
+example: Je suis à la maison. | I am at home.
+vocab: et | and | AY
+example: Paul et Marie parlent. | Paul and Marie are talking.
+vocab: ou | or | OO
+example: Tu veux du thé ou du café ? | Do you want tea or coffee?
+vocab: mais | but | MEH
+example: Je veux sortir, mais il pleut. | I want to go out, but it’s raining.
+vocab: dans | in, inside | DAHN
+example: Le livre est dans le sac. | The book is in the bag.
+vocab: pour | for | POOR
+example: Ce cadeau est pour toi. | This gift is for you.
+vocab: avec | with | ah-VEK
+example: Je mange avec ma sœur. | I eat with my sister.
+vocab: ne...pas | not | nuh PAH
+example: Je ne parle pas anglais. | I don’t speak English.
+vocab: oui | yes | WEE
+example: Oui, je comprends. | Yes, I understand.
+
+[grammar]
+grammar: Making a sentence negative | To make a French sentence negative, put ne before the verb and pas after it. In « je ne veux pas », ne comes before veux and pas comes after it.
+example: Je ne veux pas de pain. | I don't want bread.
+example: Je ne parle pas français. | I don't speak French.
+
+[quiz]
+quiz: What does ou mean? | and | or | but | B | Ou gives a choice between two things.
+quiz: Which phrase means “I don't want bread”? | Je veux du pain. | Je ne veux pas de pain. | Je veux une pomme. | B | Ne...pas makes the sentence negative.
+quiz: What does “de” mean? | to, at | not | of, from | C | de means “of, from”.
+quiz: What does “à” mean? | of, from | and | to, at | C | à means “to, at”.
