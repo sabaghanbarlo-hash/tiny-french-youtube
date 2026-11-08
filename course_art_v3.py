@@ -30,14 +30,16 @@ THEMES = {   # course -> (accent colour, scene, level, chip)
     "real-life-french":                 ((36, 142, 80),  "market",    "A1–A2", "7 VIDEO LESSONS"),
     "travel-french":                    ((222, 78, 60),  "airport",   "A1–A2", "7 VIDEO LESSONS"),
     "from-zero-to-first-conversations": ((58, 72, 138),  "river",     "A1",    "COMING SOON"),
+    "tiny-1000":                        ((14, 118, 186), "street",    "A1–A2", "100 LESSONS · 1,000 WORDS"),
 }
 FILES = {"free-lessons": "cover-free-lessons.png", "first-conversations": "cover-first-conversations.png",
          "french-sounds-starter": "cover-french-sounds.png", "everyday-french": "cover-everyday-french.png",
          "french-grammar-starter": "cover-french-grammar.png", "real-life-french": "cover-real-life-french.png",
-         "travel-french": "cover-travel-french.png", "from-zero-to-first-conversations": "cover-zero-to-conversations.png"}
+         "travel-french": "cover-travel-french.png", "from-zero-to-first-conversations": "cover-zero-to-conversations.png",
+         "tiny-1000": "cover-tiny-1000.png"}
 TITLES = {"free-lessons": "Free French Lessons", "first-conversations": "First Conversations", "french-sounds-starter": "French Sounds Starter",
           "everyday-french": "Everyday French", "french-grammar-starter": "French Grammar Starter", "real-life-french": "Real-Life French",
-          "travel-french": "Travel French", "from-zero-to-first-conversations": "From Zero to Your First Conversations"}
+          "travel-french": "Travel French", "from-zero-to-first-conversations": "From Zero to Your First Conversations", "tiny-1000": "Tiny 1000"}
 
 
 def banner(fr, title, accent, y0=104):
