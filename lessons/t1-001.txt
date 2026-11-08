@@ -1,0 +1,46 @@
+title: Tiny French 1000 · Lesson 1 · Pronouns and Être/Avoir
+episode: T1-001
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu es prête ? | Hello, Marinette! Are you ready?
+Marinette: Oui, je suis prête. Et toi, tu as ton cahier ? | Yes, I’m ready. And you, do you have your notebook?
+Adrien: Oui, il est dans mon sac, et j’ai un stylo. | Yes, it’s in my bag, and I have a pen.
+Marinette: Nous sommes en avance. Vous êtes aussi dans le groupe ? | We’re early. Are you also in the group?
+Adrien: Oui, nous sommes là. Ils sont avec nous. | Yes, we’re here. They’re with us.
+Marinette: Et les filles ? Elles sont où ? | And the girls? Where are they?
+Adrien: Lina ? Elle est ici, avec moi. | Lina? She’s here, with me.
+Marinette: Super ! J’ai aussi mon livre. | Great! I have my book too.
+
+[vocab]
+vocab: je | I | ZHUH
+example: Je suis ici. | I am here.
+vocab: tu | you (singular) | TEW
+example: Tu es gentil. | You are kind.
+vocab: il | he; it | EEL
+example: Il est là. | He is there.
+vocab: elle | she; it | ELL
+example: Elle est là. | She is there.
+vocab: nous | we | NOO
+example: Nous sommes prêts. | We are ready.
+vocab: vous | you (plural or formal) | VOO
+example: Vous êtes ici. | You are here.
+vocab: ils | they (masculine or mixed) | EEL
+example: Ils sont contents. | They are happy.
+vocab: elles | they (feminine) | ELL
+example: Elles sont ici. | They are here.
+vocab: être | to be | eh-TRUH
+example: Je veux être calme. | I want to be calm.
+vocab: avoir | to have | ah-VWAHR
+example: J'aime avoir du temps. | I like having time.
+
+[grammar]
+grammar: Pronouns and verb forms | In French, a subject pronoun usually comes before the verb. The verb form changes to match the subject, as with être in these examples.
+example: Je suis prête. | I am ready.
+example: Nous sommes en avance. | We are early.
+
+[quiz]
+quiz: What does « tu » mean? | I | you (singular) | we | B | « Tu » is used to address one person informally.
+quiz: Which French verb means “to have”? | être | avoir | nous | B | « Avoir » means “to have.”
+quiz: What does “il” mean? | he | to be | she | A | il means “he”.
+quiz: What does “tu” mean? | they (masculine or mixed) | he | you (singular) | C | tu means “you (singular)”.
