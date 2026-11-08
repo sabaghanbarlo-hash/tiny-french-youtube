@@ -90,3 +90,5 @@ python course_art.py poster <out_dir>   # free video poster
 Lesson titles, French titles, emoji and video names are in `assets/course_art/lessons.json`. To add a lesson, add an entry there and a scene in `LESSON_SCENE` in `course_art.py`.
 
 Credits: fonts are Poppins (SIL Open Font License 1.1); lesson icons are Twemoji by Twitter / jdecked (CC-BY 4.0, https://github.com/jdecked/twemoji).
+
+**Current look (v3).** The lesson thumbnails and course covers now use the same look as the YouTube videos: `course_art_v3.py thumbs <out_dir>` runs `story/make_cover.py` on every course lesson script, and `course_art_v3.py covers <out_dir>` draws the 8 covers in the same style. It needs `pip install resvg-py`; without it the characters fall back to the old triangle-body drawing, so the script stops instead. `course_art.py` is the older design.
