@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 5 · People and Family
+episode: T1-005
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu vois un homme ? | Hello, Marinette! Do you see a man?
+Marinette: Oui, et une femme avec lui. | Yes, and a woman with him.
+Adrien: Leur enfant est très gentil. | Their child is very nice.
+Marinette: C’est un ami de mon frère. | He’s a friend of my brother.
+Adrien: Voici une famille. Le père est là. | Here is a family. The father is there.
+Marinette: Oui, une personne attend sa sœur. | Yes, someone is waiting for their sister.
+Adrien: Où est la mère ? | Where is the mother?
+Marinette: Elle est ici, avec son frère. | She is here, with her brother.
+
+[vocab]
+vocab: un homme | man | uhn OHM
+example: L'homme parle avec son fils. | The man talks with his son.
+vocab: une femme | woman | ewn FAM
+example: La femme travaille ici. | The woman works here.
+vocab: un enfant | child | uhn ahn-FAHN
+example: L'enfant joue dans le jardin. | The child plays in the garden.
+vocab: un ami | friend | uhn ah-MEE
+example: Mon ami arrive ce soir. | My friend is arriving this evening.
+vocab: une mère | mother | ewn MEHR
+example: Ma mère cuisine. | My mother is cooking.
+vocab: un père | father | uhn PEHR
+example: Mon père lit. | My father is reading.
+vocab: une famille | family | ewn fah-MEE
+example: Ma famille habite en France. | My family lives in France.
+vocab: une personne | person | ewn pair-SOHN
+example: Cette personne parle français. | This person speaks French.
+vocab: un frère | brother | uhn FREHR
+example: Mon frère aime le football. | My brother likes football.
+vocab: une sœur | sister | ewn SUHR
+example: Ma sœur chante bien. | My sister sings well.
+
+[grammar]
+grammar: Un and une | French nouns are masculine or feminine, and the word for “a” changes to match. Use un with masculine nouns and une with feminine nouns.
+example: un homme | a man
+example: une femme | a woman
+
+[quiz]
+quiz: Which French word means “mother”? | un père | une mère | une sœur | B | Une mère means “a mother.”
+quiz: What does un ami mean? | a friend | a child | a father | A | Un ami means “a friend.”
+quiz: What does “une sœur” mean? | mother | sister | child | B | une sœur means “sister”.
+quiz: What does “une mère” mean? | sister | mother | child | B | une mère means “mother”.
+quiz: What does “et” mean? | not | and | in, inside | B | et means “and”.
