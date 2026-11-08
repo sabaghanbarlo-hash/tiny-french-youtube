@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 6 · Time Words
+episode: T1-006
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Qu'est-ce que tu fais aujourd'hui ? | Hi, Marinette! What are you doing today?
+Marinette: Je vais au café le matin. Et toi ? | I go to the café in the morning. And you?
+Adrien: Je travaille maintenant, mais je suis libre ce soir. | I'm working now, but I'm free this evening.
+Marinette: Super ! On peut se voir demain après le cours. | Great! We can see each other tomorrow after class.
+Adrien: Oui. Hier, j'ai étudié toute la journée. | Yes. Yesterday, I studied all day.
+Marinette: Tu étudies beaucoup chaque semaine ! | You study a lot every week!
+Adrien: Oui, mais j'aime prendre du temps pour mes amis. | Yes, but I like to make time for my friends.
+Marinette: Moi aussi ! Un an, ça passe vite ! | Me too! A year goes by fast!
+
+[vocab]
+vocab: aujourd'hui | today | oh-zhoor-DWEE
+example: Aujourd'hui, je travaille. | Today, I’m working.
+vocab: demain | tomorrow | duh-MAN
+example: Demain, je pars tôt. | Tomorrow, I’m leaving early.
+vocab: hier | yesterday | YAIR
+example: Hier, j'ai travaillé. | Yesterday, I worked.
+vocab: maintenant | now | mant-NAHN
+example: Maintenant, je comprends. | Now, I understand.
+vocab: le jour | day | luh ZHOOR
+example: Le jour commence tôt. | The day starts early.
+vocab: le matin | morning | luh ma-TAN
+example: Le matin, je bois du café. | In the morning, I drink coffee.
+vocab: le soir | evening | luh SWAHR
+example: Le soir, nous mangeons ensemble. | In the evening, we eat together.
+vocab: un an | year | uh NAHN
+example: Un an passe vite. | A year goes by quickly.
+vocab: le temps | time | luh TAHN
+example: Le temps passe vite. | Time goes by quickly.
+vocab: la semaine | week | lah suh-MEN
+example: La semaine commence lundi. | The week starts on Monday.
+
+[grammar]
+grammar: French noun articles | French nouns often appear with an article, which shows their grammatical gender. Use le with masculine nouns and la with feminine nouns; learn the article together with each noun.
+example: le matin | the morning
+example: la semaine | the week
+
+[quiz]
+quiz: What does demain mean? | today | tomorrow | yesterday | B | Demain means tomorrow.
+quiz: What does le soir mean? | the morning | the evening | the week | B | Le soir means the evening.
+quiz: What does “la semaine” mean? | week | morning | time | A | la semaine means “week”.
+quiz: What does “demain” mean? | evening | now | tomorrow | C | demain means “tomorrow”.
+quiz: What does “bonjour” mean? | hello | who | please | A | bonjour means “hello”.
