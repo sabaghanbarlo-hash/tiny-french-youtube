@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 7 · First Adjectives
+episode: T1-007
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Ce café est bon, tu trouves ? | Hi, Marinette! This café is good, don't you think?
+Marinette: Oui ! Et le grand jardin est très beau. | Yes! And the big garden is very beautiful.
+Adrien: Le petit café près d’ici est nouveau ? | Is the little café nearby new?
+Marinette: Oui, et le jeune serveur est très gentil. | Yes, and the young waiter is very kind.
+Adrien: Le vieux café, c’est au même endroit que le nouveau ? | Is the old café in the same place as the new one?
+Marinette: Non, c’est un autre café, juste là-bas. | No, it’s another café, just over there.
+Adrien: Ah ! Leur café est mauvais ? | Oh! Is their coffee bad?
+Marinette: Non, pas du tout ! Il est bon aussi. | No, not at all! It’s good too.
+
+[vocab]
+vocab: bon | good | BOHN
+example: C'est un bon café. | It's a good coffee.
+vocab: grand | big; tall | GRAHN
+example: Mon frère est grand. | My brother is tall.
+vocab: petit | small; little | puh-TEE
+example: Le chat est petit. | The cat is small.
+vocab: nouveau | new | noo-VOH
+example: C'est un nouveau livre. | It's a new book.
+vocab: beau | beautiful; handsome | BOH
+example: C'est un beau jardin. | It's a beautiful garden.
+vocab: jeune | young | ZHUHN
+example: Mon fils est jeune. | My son is young.
+vocab: vieux | old | VYUH
+example: Mon père est vieux. | My father is old.
+vocab: même | same | MEM
+example: Nous avons le même livre. | We have the same book.
+vocab: autre | other; another | OHTR
+example: Je prends un autre café. | I'll have another coffee.
+vocab: mauvais | bad | moh-VAY
+example: Ce film est mauvais. | This film is bad.
+
+[grammar]
+grammar: Adjective agreement | French adjectives often change to agree with the gender of the noun they describe. Many add -e in the feminine, while vieux becomes vieille.
+example: Le grand jardin est très beau. | The big garden is very beautiful.
+example: La vieille maison est ici. | The old house is here.
+
+[quiz]
+quiz: What does bon mean? | good | old | small | A | Bon means good.
+quiz: What does nouveau mean? | same | new | bad | B | Nouveau means new.
+quiz: What does “jeune” mean? | old | big | young | C | jeune means “young”.
+quiz: What does “petit” mean? | old | small | new | B | petit means “small”.
+quiz: What does “voir” mean? | to say | to see | to want | B | voir means “to see”.
