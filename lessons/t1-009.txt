@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 9 · Numbers 1 to 10
+episode: T1-009
+scene: classroom
+
+[story]
+Adrien: On compte les marches ? Un, deux, trois. | Shall we count the steps? One, two, three.
+Marinette: Oui ! Quatre, cinq, six. | Yes! Four, five, six.
+Adrien: Sept, huit, neuf... | Seven, eight, nine...
+Marinette: Et dix ! Voilà, dix marches. | And ten! There we go, ten steps.
+Adrien: C'était facile, non ? | That was easy, wasn't it?
+Marinette: Oui, comptons encore ! | Yes, let's count again!
+Adrien: Un, deux, trois ! | One, two, three!
+Marinette: Merci, Adrien ! | Thank you, Adrien!
+
+[vocab]
+vocab: un | one | UH(n)
+example: J'ai un frère. | I have one brother.
+vocab: deux | two | DUH
+example: Elle a deux chats. | She has two cats.
+vocab: trois | three | TRWAH
+example: Nous avons trois pommes. | We have three apples.
+vocab: quatre | four | KATR
+example: Il y a quatre livres. | There are four books.
+vocab: cinq | five | SANK
+example: J'ai cinq euros. | I have five euros.
+vocab: six | six | SEESS
+example: Les six enfants jouent. | The six children are playing.
+vocab: sept | seven | SET
+example: Il y a sept jours. | There are seven days.
+vocab: huit | eight | WEET
+example: Huit heures, c'est tôt. | Eight o'clock is early.
+vocab: neuf | nine | NUHF
+example: Il a neuf ans. | He is nine years old.
+vocab: dix | ten | DEESS
+example: Dix élèves arrivent. | Ten students are arriving.
+
+[grammar]
+grammar: Numbers before nouns | In French, a number usually comes before the noun it counts, as in dix marches (ten steps). When counting aloud, you can also say the numbers on their own.
+example: Il y a trois marches. | There are three steps.
+example: Je vois cinq vélos. | I see five bicycles.
+
+[quiz]
+quiz: What does deux mean? | one | two | three | B | Deux is the French word for two.
+quiz: Which French word means eight? | six | sept | huit | C | Huit means eight.
+quiz: What does “huit” mean? | seven | ten | eight | C | huit means “eight”.
+quiz: What does “six” mean? | five | six | nine | B | six means “six”.
+quiz: What does “maintenant” mean? | year | day | now | C | maintenant means “now”.
