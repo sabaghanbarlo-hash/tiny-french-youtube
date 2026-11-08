@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 10 · Degree Words and Connectors
+episode: T1-010
+scene: classroom
+
+[story]
+Adrien: Tu as déjà fini tes devoirs ? | Have you already finished your homework?
+Marinette: Oui, parce que c'était très facile. | Yes, because it was very easy.
+Adrien: Tu travailles toujours ici ? | Do you still work here?
+Marinette: Oui, et je peux aussi t'aider. | Yes, and I can help you too.
+Adrien: Merci ! J'aime beaucoup ce café. | Thanks! I like this café a lot.
+Marinette: Il est plus calme et moins bruyant le matin. | It's calmer and less noisy in the morning.
+Adrien: Tu viens encore demain ? | Are you coming again tomorrow?
+Marinette: Oui, sauf le dimanche : je ne viens jamais ce jour-là. | Yes, except on Sundays: I never come that day.
+
+[vocab]
+vocab: très | very | TREH
+example: Il est très gentil. | He is very kind.
+vocab: plus | more | PLÜ
+example: Il est plus grand que moi. | He is taller than me.
+vocab: moins | less | MWAHN
+example: Je parle moins vite maintenant. | I speak less quickly now.
+vocab: beaucoup | a lot | boh-KOO
+example: Elle travaille beaucoup. | She works a lot.
+vocab: aussi | also; too | oh-SEE
+example: Elle est aussi grande que moi. | She is as tall as me.
+vocab: toujours | always; still | too-ZHOOR
+example: Il habite toujours ici. | He still lives here.
+vocab: jamais | never | zhah-MEH
+example: Je ne mange jamais ici. | I never eat here.
+vocab: déjà | already | day-ZHAH
+example: Je connais déjà cette chanson. | I already know this song.
+vocab: encore | again; still; more | ahn-KOR
+example: Je veux encore du pain. | I want some more bread.
+vocab: parce que | because | pars-KUH
+example: Je reste parce que j'attends Marie. | I stay because I am waiting for Marie.
+
+[grammar]
+grammar: Saying “never” | In standard French, put ne before the verb and jamais after it to say “never.” In everyday speech, people sometimes leave out ne, but it is helpful to learn the full form.
+example: Je ne viens jamais le dimanche. | I never come on Sundays.
+example: Il ne travaille jamais le soir. | He never works in the evening.
+
+[quiz]
+quiz: What does « parce que » mean? | because | again | always | A | « Parce que » gives a reason and means “because.”
+quiz: Which phrase means “I never come on Sundays”? | Je viens toujours le dimanche. | Je ne viens jamais le dimanche. | Je viens encore le dimanche. | B | « Ne... jamais » means “never.”
+quiz: What does “parce que” mean? | less | always | because | C | parce que means “because”.
+quiz: What does “très” mean? | very | always | also | A | très means “very”.
+quiz: What does “vieux” mean? | other | big | old | C | vieux means “old”.
