@@ -76,3 +76,17 @@ Keep the Google consent screen **In production**, otherwise the refresh token ex
 - Marinette says each vocabulary word and example slowly; English is read by a narrator voice.
 - Thumbnails: stories and lessons use `story/make_cover.py` (the place, weather and the two characters with the title on a banner); `thumb.py` is the fallback; Shorts use `short_thumb.py`.
 - The extra Japan-only places from the original engine (ramen shop, shrine, festival, onsen, karaoke, ...) are switched off for automatic scene picking. More French places (a boulangerie interior, the Seine, the Paris metro) would be the next additions in `french_places.py`.
+
+## Course art (covers and lesson thumbnails)
+
+`course_art.py` draws the artwork for the Tiny French courses: the 42 course-video thumbnails (`docs/videos/<stem>.thumbnail.png`, 1280x720), the 8 course covers and the vertical poster of the free video. Each course has its own colour; every lesson gets its own scene, French title and emoji badge, with Marinette and Adrien in front.
+
+```
+python course_art.py thumbs <out_dir>   # 42 lesson thumbnails
+python course_art.py covers <out_dir>   # 8 course covers (copy them to tiny-french/assets/img/)
+python course_art.py poster <out_dir>   # free video poster
+```
+
+Lesson titles, French titles, emoji and video names are in `assets/course_art/lessons.json`. To add a lesson, add an entry there and a scene in `LESSON_SCENE` in `course_art.py`.
+
+Credits: fonts are Poppins (SIL Open Font License 1.1); lesson icons are Twemoji by Twitter / jdecked (CC-BY 4.0, https://github.com/jdecked/twemoji).
