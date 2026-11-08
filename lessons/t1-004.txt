@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 4 · First Verbs
+episode: T1-004
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu veux aller au café avec moi ? | Hi, Marinette! Do you want to go to the café with me?
+Marinette: Oui ! Je peux venir après les cours. | Yes! I can come after class.
+Adrien: Super. On peut parler et prendre un chocolat chaud. | Great. We can talk and get a hot chocolate.
+Marinette: D’accord. Tu sais où il est ? | Okay. Do you know where it is?
+Adrien: Oui, je le sais. Je vais te dire comment y aller. | Yes, I know. I’m going to tell you how to get there.
+Marinette: Merci ! Tu vois la boulangerie ? Le café est à côté. | Thanks! Do you see the bakery? The café is next to it.
+Adrien: Oui. Qu’est-ce qu’on fait après ? | Yes. What shall we do afterward?
+Marinette: On va faire nos devoirs, puis je veux rentrer. | We’re going to do our homework, then I want to go home.
+
+[vocab]
+vocab: aller | to go | ah-LAY
+example: Je vais à l'école. | I go to school.
+vocab: faire | to do; to make | FEHR
+example: Je fais du café. | I make coffee.
+vocab: dire | to say; to tell | DEER
+example: Il dit bonjour. | He says hello.
+vocab: voir | to see | VWAR
+example: Je vois un chien. | I see a dog.
+vocab: pouvoir | to be able to; can | poo-VWAR
+example: Tu peux venir ? | Can you come?
+vocab: vouloir | to want | voo-LWAR
+example: Je veux de l'eau. | I want some water.
+vocab: savoir | to know | sah-VWAR
+example: Je sais la réponse. | I know the answer.
+vocab: venir | to come | vuh-NEER
+example: Elle vient ce soir. | She is coming tonight.
+vocab: prendre | to take | PRAHNDR
+example: Nous prenons le bus. | We take the bus.
+vocab: parler | to speak; to talk | par-LAY
+example: Ils parlent français. | They speak French.
+
+[grammar]
+grammar: Aller + infinitive | Use the present tense of aller followed by an infinitive to express an intended or upcoming action (the near future). In the dialogue, vais dire means “am going to tell,” and on va faire means “we are going to do.”
+example: Je vais parler avec Adrien. | I am going to talk with Adrien.
+example: On va prendre un café. | We are going to have a coffee.
+
+[quiz]
+quiz: What does pouvoir mean? | to see | to be able to; can | to come | B | Pouvoir means “to be able to” or “can.”
+quiz: Which sentence means “I want to go”? | Je veux aller. | Je sais venir. | Je peux voir. | A | Je veux means “I want,” and aller means “to go.”
+quiz: What does “voir” mean? | to say | to know | to see | C | voir means “to see”.
+quiz: What does “pouvoir” mean? | to be able to | to do | to take | A | pouvoir means “to be able to”.
+quiz: What does “je” mean? | I | they (masculine or mixed) | you (singular) | A | je means “I”.
