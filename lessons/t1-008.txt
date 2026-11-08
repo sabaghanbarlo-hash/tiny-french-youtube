@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 8 · Places and Things
+episode: T1-008
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu vas à l'école ? | Hi, Marinette! Are you going to school?
+Marinette: Oui, puis je vais au magasin en ville. | Yes, then I'm going to the shop in town.
+Adrien: Tu veux acheter un livre ? | Do you want to buy a book?
+Marinette: Oui, je vais acheter un livre. | Yes, I'm going to buy a book.
+Adrien: Après, on rentre à la maison en voiture ? | Later, shall we go home by car?
+Marinette: Oui. Je prends aussi de l'eau pour la route. | Yes. I'll also take some water for the road.
+Adrien: Mon lieu de travail se trouve dans cette rue. | My workplace is on this street.
+Marinette: À bientôt, Adrien ! | See you soon, Adrien!
+
+[vocab]
+vocab: la maison | house | lah meh-ZOHN
+example: J'habite dans une maison. | I live in a house.
+vocab: la ville | city | lah VEEL
+example: Je vais en ville. | I'm going into town.
+vocab: la voiture | car | lah vwah-TYUR
+example: Ma voiture est rouge. | My car is red.
+vocab: un livre | book | uhn LEE-vruh
+example: Je lis un livre. | I'm reading a book.
+vocab: l'eau | water | LOH
+example: Je bois de l'eau. | I drink water.
+vocab: le pain | bread | luh PAN
+example: Je mange du pain. | I eat bread.
+vocab: le travail | work | luh trah-VAI
+example: Je vais au travail. | I'm going to work.
+vocab: l'école | school | lay-KOHL
+example: Les enfants vont à l'école. | The children go to school.
+vocab: le magasin | shop | luh mah-gah-ZAN
+example: Le magasin est ouvert. | The shop is open.
+vocab: la rue | street | lah ROO
+example: La rue est calme. | The street is quiet.
+
+[grammar]
+grammar: Articles with nouns | French nouns usually appear with an article. Articles agree with a noun's gender and number and show whether it is definite or indefinite. Le and la mean “the” with singular masculine and feminine nouns; un and une mean “a” or “an.”
+example: la maison | the house
+example: un livre | a book
+
+[quiz]
+quiz: What does « l'eau » mean? | water | bread | book | A | « L'eau » means “water.”
+quiz: Which French word means “shop”? | la rue | le magasin | la maison | B | « Le magasin » means “the shop.”
+quiz: What does “un livre” mean? | shop | street | book | C | un livre means “book”.
+quiz: What does “le pain” mean? | bread | car | shop | A | le pain means “bread”.
+quiz: What does “une personne” mean? | family | brother | person | C | une personne means “person”.
