@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 89 · Adverbs 2
+episode: T1-089
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu vas bien ? | Hi, Marinette! Are you doing well?
+Marinette: Oui, merci. Je travaille dehors aujourd’hui. | Yes, thanks. I’m working outside today.
+Adrien: D’abord, on range les livres, puis on nettoie à l’intérieur. | First, we put away the books, then we clean inside.
+Marinette: D’accord. Je peux le faire vite et bien. | Okay. I can do it quickly and well.
+Adrien: Ensuite, regarde partout : le crayon est juste sous la table. | Then, look everywhere: the pencil is just under the table.
+Marinette: Je le vois ! Je chante mal, mais je dessine rapidement. | I see it! I sing badly, but I draw quickly.
+Adrien: Merci ! Tu peux m’aider, s’il te plaît ? | Thanks! Can you help me, please?
+Marinette: Bien sûr, allons-y ensemble. | Of course, let’s go together.
+
+[vocab]
+vocab: bien | well | BYEHN
+example: Je vais bien aujourd’hui. | I’m doing well today.
+vocab: mal | badly | MAHL
+example: Il dort mal cette nuit. | He is sleeping badly tonight.
+vocab: vite | quickly | VEET
+example: Nous marchons vite. | We walk quickly.
+vocab: juste | just | ZHYST
+example: Je veux juste un café. | I just want a coffee.
+vocab: partout | everywhere | par-TOO
+example: Il y a des fleurs partout. | There are flowers everywhere.
+vocab: dehors | outside | duh-OR
+example: Les enfants jouent dehors. | The children are playing outside.
+vocab: dedans | inside | duh-DAHN
+example: Le chat reste dedans. | The cat stays inside.
+vocab: d’abord | first | dah-BOR
+example: D’abord, je prends un café. | First, I have a coffee.
+vocab: ensuite | then | ahn-SWEET
+example: Ensuite, nous allons au marché. | Then, we go to the market.
+vocab: rapidement | quickly | rah-peed-MAHN
+example: Il parle rapidement. | He speaks quickly.
+
+[grammar]
+grammar: Adverbs after verbs | Many French adverbs that describe how an action happens come after the verb. This is true for short adverbs like bien and vite, and longer ones like rapidement.
+example: Je travaille bien. | I work well.
+example: Je dessine rapidement. | I draw quickly.
+
+[quiz]
+quiz: What does « dehors » mean? | inside | outside | everywhere | B | « Dehors » means outside.
+quiz: Which word means « first »? | ensuite | juste | d’abord | C | « D’abord » means first.
+quiz: What does “mal” mean? | quickly | badly | then | B | mal means “badly”.
+quiz: What does “partout” mean? | everywhere | first | then | A | partout means “everywhere”.
+quiz: What does “le français” mean? | festival | French (language) | to know | B | le français means “French (language)”.
