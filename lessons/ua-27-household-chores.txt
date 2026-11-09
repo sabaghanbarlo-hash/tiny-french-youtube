@@ -1,0 +1,47 @@
+title: Household Chores
+episode: UA27
+scene: home
+
+[story]
+Marinette: Tu fais le ménage le week-end ? | Do you do the housework on weekends?
+Adrien: Oui, je passe l'aspirateur et je fais la vaisselle. | Yes, I vacuum and do the dishes.
+Marinette: Moi, je dois faire la lessive et ranger ma chambre. | I have to do the laundry and tidy my room.
+Adrien: Tu dois aussi faire les courses ? | Do you also have to do the shopping?
+Marinette: Oui, mais je peux les faire demain. | Yes, but I can do it tomorrow.
+Adrien: Alors on se retrouve dimanche après-midi ! | Then let's meet on Sunday afternoon!
+
+[vocab]
+vocab: le ménage | housework | luh may-NAHZH
+example: Je fais le ménage. | I do the housework.
+vocab: la vaisselle | dishes | lah veh-SEHL
+example: Je fais la vaisselle. | I do the dishes.
+vocab: passer l'aspirateur | to vacuum | pah-SAY lah-spee-rah-TUHR
+example: Je passe l'aspirateur. | I vacuum.
+vocab: la lessive | laundry | lah leh-SEEV
+example: Je fais la lessive. | I do the laundry.
+vocab: ranger | to tidy | rahn-ZHAY
+example: Je range ma chambre. | I tidy my room.
+vocab: les courses | shopping, errands | lay KOORSS
+example: Je fais les courses. | I do the shopping.
+vocab: devoir | to have to, must | duh-VWAHR
+example: Je dois travailler. | I have to work.
+vocab: pouvoir | to be able to, can | poo-VWAHR
+example: Je peux venir demain. | I can come tomorrow.
+vocab: après-midi | afternoon | ah-preh-mee-DEE
+example: Dimanche après-midi. | Sunday afternoon.
+
+[grammar]
+grammar: Devoir + infinitive | Devoir is irregular: je dois, tu dois, il / elle doit, nous devons, vous devez, ils / elles doivent. It is followed by an infinitive: je dois ranger, nous devons faire les courses. In the negative: je ne dois pas travailler.
+example: Je dois ranger ma chambre. | I have to tidy my room.
+example: Nous devons faire les courses. | We have to do the shopping.
+grammar: Faire for chores | French uses faire for most chores: faire le ménage, faire la vaisselle, faire la lessive, faire les courses, faire la cuisine. Passer l'aspirateur and ranger are separate verbs.
+example: Je fais la vaisselle. | I do the dishes.
+example: Il fait la cuisine. | He cooks.
+
+[quiz]
+quiz: How do you say “I have to do the laundry”? | Je dois fais la lessive. | Je dois faire lessive. | Je dois la lessive. | Je dois faire la lessive. | D | Devoir + infinitive.
+quiz: What does “la vaisselle” mean? | the dishes | the laundry | the dust | the garden | A | Vaisselle = dishes.
+quiz: Which verb goes with “ménage”? | passer | faire | mettre | donner | B | Faire le ménage.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
