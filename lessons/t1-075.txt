@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 75 · Life events
+episode: T1-075
+scene: classroom
+
+[story]
+Adrien: Ma sœur attend un bébé : la naissance est prévue en juin. | My sister is expecting a baby: the birth is planned for June.
+Marinette: Félicitations ! Elle va accoucher à Paris ? | Congratulations! Is she going to give birth in Paris?
+Adrien: Oui, et le bébé va naître à Paris. | Yes, and the baby is going to be born in Paris.
+Marinette: Mon cousin va se marier samedi. Le mariage est à la mairie. | My cousin is getting married on Saturday. The wedding is at city hall.
+Adrien: C'est super ! Mes grands-parents parlent de la retraite. | That's great! My grandparents are talking about retirement.
+Marinette: Mes voisins vont divorcer. Leur divorce est difficile. | My neighbors are going to get divorced. Their divorce is difficult.
+Adrien: Ils cherchent un appartement après leur déménagement. | They're looking for an apartment after their move.
+Marinette: Je comprends. Quelle année : une grossesse, un mariage et la retraite ! | I understand. What a year: a pregnancy, a wedding, and retirement!
+
+[vocab]
+vocab: la naissance | birth | lah neh-SAHNSS
+example: Sa naissance est une grande joie. | Her birth is a great joy.
+vocab: le mariage | marriage; wedding | luh mah-ree-AHZH
+example: Le mariage est samedi. | The wedding is Saturday.
+vocab: le divorce | divorce | luh dee-VORSS
+example: Le divorce est officiel. | The divorce is official.
+vocab: la grossesse | pregnancy | lah groh-SESS
+example: Sa grossesse se passe bien. | Her pregnancy is going well.
+vocab: la retraite | retirement | lah ruh-TRET
+example: Elle prend sa retraite demain. | She retires tomorrow.
+vocab: un déménagement | a move | uhn day-may-nazh-MAHN
+example: Le déménagement est lundi. | The move is Monday.
+vocab: naître | to be born | NETR
+example: Un bébé naît en juin. | A baby is born in June.
+vocab: se marier | to get married | suh mah-ree-AY
+example: Ils se marient en juin. | They are getting married in June.
+vocab: divorcer | to get divorced | dee-vor-SAY
+example: Ils divorcent après dix ans. | They are getting divorced after ten years.
+vocab: accoucher | to give birth | ah-koo-SHAY
+example: Elle accouche demain. | She is giving birth tomorrow.
+
+[grammar]
+grammar: Talking about the near future | Use a form of aller followed by an infinitive to talk about a future event, often one that is planned or expected soon. The verb aller changes to match the subject, while the next verb stays in its infinitive form.
+example: Elle va accoucher en juin. | She is going to give birth in June.
+example: Ils vont divorcer. | They are going to get divorced.
+
+[quiz]
+quiz: What does la grossesse mean? | pregnancy | retirement | birth | A | La grossesse means pregnancy.
+quiz: Which French word means “to be born”? | divorcer | naître | accoucher | B | Naître means to be born.
+quiz: What does “se marier” mean? | to get married | marriage | to be born | A | se marier means “to get married”.
+quiz: What does “naître” mean? | to be born | to give birth | birth | A | naître means “to be born”.
+quiz: What does “élégant” mean? | elegant | makeup | fashion | A | élégant means “elegant”.
