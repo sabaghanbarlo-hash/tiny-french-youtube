@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 45 · City places
+episode: T1-045
+scene: classroom
+
+[story]
+Adrien: Marinette, où allons-nous en ville ? | Marinette, where are we going in town?
+Marinette: D’abord, au marché, s’il te plaît. | First, to the market, please.
+Adrien: Bien sûr. Puis, à la boulangerie ? | Of course. Then, to the bakery?
+Marinette: Oui, et à la pharmacie aussi. | Yes, and to the pharmacy too.
+Adrien: Après, on passe devant la banque et la poste. | After that, we pass by the bank and the post office.
+Marinette: D’accord. Le restaurant est près du cinéma. | Okay. The restaurant is near the movie theater.
+Adrien: L’hôtel est au centre-ville, près de l’hôpital. | The hotel is downtown, near the hospital.
+Marinette: Parfait, merci ! On y va à pied ? | Perfect, thanks! Shall we go on foot?
+
+[vocab]
+vocab: le restaurant | restaurant | ruh-stoh-RAHN
+example: Le restaurant est près de la banque. | The restaurant is near the bank.
+vocab: l'hôpital | hospital | loh-pee-TAL
+example: L'hôpital est dans la ville. | The hospital is in the city.
+vocab: la banque | bank | lah BAHNK
+example: La banque est près du restaurant. | The bank is near the restaurant.
+vocab: la poste | post office | lah POHST
+example: La poste est dans la ville. | The post office is in the city.
+vocab: le marché | market | luh mar-SHAY
+example: Le marché est ouvert aujourd'hui. | The market is open today.
+vocab: la pharmacie | pharmacy | lah far-mah-SEE
+example: La pharmacie est près de l'hôtel. | The pharmacy is near the hotel.
+vocab: le cinéma | movie theater | luh see-nay-MAH
+example: Le cinéma est dans la ville. | The movie theater is in the city.
+vocab: la boulangerie | bakery | lah boo-lahnzh-REE
+example: La boulangerie est près de la maison. | The bakery is near the house.
+vocab: l'hôtel | hotel | loh-TEL
+example: L'hôtel est près du cinéma. | The hotel is near the movie theater.
+vocab: le centre-ville | city center | luh sahntr-VEEL
+example: Le centre-ville est grand. | The city center is big.
+
+[grammar]
+grammar: Using à with places | When saying “to” or “at” a place, à + le contracts to au. With feminine la, use à la; before a vowel, use à l’.
+example: Nous allons au marché. | We are going to the market.
+example: Elle est à la banque, puis elle va à l’hôpital. | She is at the bank, then she goes to the hospital.
+
+[quiz]
+quiz: Which French word means “post office”? | la poste | la banque | le marché | A | La poste means “the post office.”
+quiz: Where can you buy bread? | à l'hôpital | à la boulangerie | au cinéma | B | A boulangerie is a bakery.
+quiz: What does “le marché” mean? | hospital | market | city center | B | le marché means “market”.
+quiz: What does “le cinéma” mean? | hotel | bakery | movie theater | C | le cinéma means “movie theater”.
+quiz: What does “la classe” mean? | grade | classroom | student | B | la classe means “classroom”.
