@@ -1,0 +1,47 @@
+title: Getting Around Town
+episode: UA8
+scene: station
+
+[story]
+Adrien: Comment tu vas à l'école ? | How do you get to school?
+Marinette: Je prends le métro, ligne quatre. C'est rapide. | I take the metro, line four. It's fast.
+Adrien: Moi, je prends le bus ou je vais à vélo. | I take the bus or I go by bike.
+Marinette: Un ticket coûte combien ? | How much does a ticket cost?
+Adrien: Il coûte deux euros. Le carnet de dix tickets coûte vingt euros. | It costs two euros. A book of ten tickets costs twenty euros.
+Marinette: Merci ! À demain, Adrien. | Thanks! See you tomorrow, Adrien.
+
+[vocab]
+vocab: le métro | metro, subway | luh may-TROH
+example: Je prends le métro. | I take the metro.
+vocab: le bus | bus | luh BEWSS
+example: Le bus est en retard. | The bus is late.
+vocab: le vélo | bike | luh vay-LOH
+example: Je vais à vélo. | I go by bike.
+vocab: la voiture | car | lah vwah-TEWR
+example: Il va en voiture. | He goes by car.
+vocab: prendre | to take | PRAHN-druh
+example: Je prends le train. | I take the train.
+vocab: le ticket | ticket | luh tee-KEH
+example: J'ai un ticket de métro. | I have a metro ticket.
+vocab: combien ? | how much? | kohn-BYAN
+example: Ça coûte combien ? | How much does it cost?
+vocab: trente, quarante, cinquante | thirty, forty, fifty | trahnt, ka-RAHNT, san-KAHNT
+example: Il a trente ans. | He is thirty.
+vocab: soixante, cent | sixty, one hundred | swah-SAHNT, SAHN
+example: Ça coûte cent euros. | It costs a hundred euros.
+
+[grammar]
+grammar: Prendre | Prendre is irregular: je prends, tu prends, il / elle prend, nous prenons, vous prenez, ils / elles prennent. Use it for transport: je prends le bus, nous prenons le train.
+example: Je prends le métro. | I take the metro.
+example: Elle prend le bus. | She takes the bus.
+grammar: En, à or by? | With vehicles you sit inside, use en: en bus, en métro, en voiture, en train. With things you sit on or do yourself, use à: à vélo, à pied. Numbers: vingt, trente, quarante, cinquante, soixante, then soixante-dix, quatre-vingts, quatre-vingt-dix, cent.
+example: Je vais en bus. | I go by bus.
+example: Il va à vélo. | He goes by bike.
+
+[quiz]
+quiz: How do you say “I go by bike”? | Je vais en vélo. | Je prends à vélo. | Je vais à vélo. | Je vais par vélo. | C | À vélo.
+quiz: Which number is “fifty”? | quarante | soixante | trente | cinquante | D | Cinquante = 50.
+quiz: Which is correct? | Elle va en voiture. | Elle va à voiture. | Elle va par voiture. | Elle prend en voiture. | A | En voiture.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
