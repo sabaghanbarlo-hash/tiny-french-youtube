@@ -1,0 +1,39 @@
+1
+00:00:14,976 --> 00:00:21,116
+Bonjour, Marinette. Tu as l’ordinateur et le téléphone ?
+Hi, Marinette. Do you have the computer and the phone?
+
+2
+00:00:21,216 --> 00:00:27,548
+Oui, ils sont sur le bureau. Le client arrive à dix heures.
+Yes, they’re on the desk. The client arrives at ten.
+
+3
+00:00:27,648 --> 00:00:33,884
+D’accord. La réunion est à neuf heures, puis j’ai un rendez-vous.
+Okay. The meeting is at nine, and then I have an appointment.
+
+4
+00:00:33,984 --> 00:00:38,612
+Tu peux signer ce document et mettre le dossier ici ?
+Can you sign this document and put the file here?
+
+5
+00:00:38,712 --> 00:00:44,444
+Bien sûr. J’ouvre mon agenda pour noter le rendez-vous.
+Of course. I’m opening my planner to write down the appointment.
+
+6
+00:00:44,544 --> 00:00:49,988
+Merci ! Le client veut parler de son compte.
+Thanks! The client wants to talk about their account.
+
+7
+00:00:50,088 --> 00:00:54,092
+Je prépare les documents sur l’ordinateur.
+I’m preparing the documents on the computer.
+
+8
+00:00:54,192 --> 00:00:57,644
+Parfait, à tout à l’heure !
+Perfect, see you later!

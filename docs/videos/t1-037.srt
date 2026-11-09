@@ -1,0 +1,39 @@
+1
+00:00:15,792 --> 00:00:21,932
+Salut, Marinette ! En fait, le café est fermé.
+Hi, Marinette! Actually, the café is closed.
+
+2
+00:00:22,032 --> 00:00:26,540
+Ah bon ? Euh, on fait quoi ?
+Oh really? Um, what should we do?
+
+3
+00:00:26,640 --> 00:00:30,716
+Ben, on peut prendre le bus, du coup.
+Well, in that case, we can take the bus.
+
+4
+00:00:30,816 --> 00:00:36,044
+D'accord. Sinon, on va au parc ?
+Okay. Alternatively, shall we go to the park?
+
+5
+00:00:36,144 --> 00:00:41,492
+Voilà, bonne idée ! Le parc est près d'ici.
+Exactly, good idea! The park is nearby.
+
+6
+00:00:41,592 --> 00:00:48,236
+D'ailleurs, tu as vu le nouveau café ? C'est genre juste à côté.
+By the way, have you seen the new café? It's, like, right next door.
+
+7
+00:00:48,336 --> 00:00:53,828
+Enfin, je préfère le parc. Il fait beau.
+Well, I prefer the park. The weather is nice.
+
+8
+00:00:53,928 --> 00:00:56,900
+Bref, allons-y !
+Anyway, let's go!

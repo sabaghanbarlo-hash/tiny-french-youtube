@@ -1,0 +1,39 @@
+1
+00:00:14,688 --> 00:00:20,228
+Salut, Marinette ! Tu as changé de coiffure ?
+Hi, Marinette! Have you changed your hairstyle?
+
+2
+00:00:20,328 --> 00:00:27,020
+Oui, et je vais devenir styliste. Je me sens calme aujourd’hui.
+Yes, and I’m going to become a stylist. I feel calm today.
+
+3
+00:00:27,120 --> 00:00:32,588
+Tu sembles heureuse. Tu as grandi depuis l’an dernier !
+You seem happy. You’ve grown since last year!
+
+4
+00:00:32,688 --> 00:00:39,236
+Merci ! Mon grand-père vieillit, mais il reste très actif.
+Thanks! My grandfather is getting older, but he stays very active.
+
+5
+00:00:39,336 --> 00:00:42,116
+Oh, il est malade ?
+Oh, is he sick?
+
+6
+00:00:42,216 --> 00:00:48,908
+Non, il va bien. Il est tombé hier, mais rien de grave.
+No, he’s fine. He fell yesterday, but nothing serious.
+
+7
+00:00:49,008 --> 00:00:54,212
+Tant mieux. On change de sujet et on va au café ?
+That’s good. Shall we change the subject and go to the café?
+
+8
+00:00:54,312 --> 00:00:56,996
+Avec plaisir !
+With pleasure!
