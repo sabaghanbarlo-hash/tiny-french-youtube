@@ -1,0 +1,46 @@
+title: Shopping for Food
+episode: UA9
+scene: market
+
+[story]
+Marinette: Bonjour ! Je voudrais des tomates et du fromage, s'il vous plaît. | Hello! I'd like some tomatoes and some cheese, please.
+Adrien: Voilà ! Vous désirez autre chose ? | Here you are! Would you like anything else?
+Marinette: Oui, de la salade et de l'eau, s'il vous plaît. | Yes, some lettuce and some water, please.
+Adrien: Voilà. Ça fait huit euros cinquante. | Here you are. That's eight euros fifty.
+Marinette: Tenez. Merci, bonne journée ! | Here. Thank you, have a nice day!
+Adrien: Merci, à vous aussi ! | Thank you, you too!
+
+[vocab]
+vocab: les tomates | tomatoes | lay toh-MAHT
+example: Je voudrais des tomates. | I'd like some tomatoes.
+vocab: le fromage | cheese | luh froh-MAHZH
+example: Du fromage, s'il vous plaît. | Some cheese, please.
+vocab: la salade | lettuce, salad | lah sah-LAHD
+example: Je prends de la salade. | I'll have some salad.
+vocab: l'eau | water | LOH
+example: De l'eau, s'il vous plaît. | Some water, please.
+vocab: le pain | bread | luh PAN
+example: Je mange du pain. | I eat bread.
+vocab: la pomme | apple | lah POHM
+example: Une pomme, s'il vous plaît. | An apple, please.
+vocab: je voudrais | I would like | zhuh voo-DREH
+example: Je voudrais du pain. | I'd like some bread.
+vocab: voilà | here you are | vwah-LAH
+example: Voilà votre monnaie. | Here is your change.
+vocab: ça fait… | that comes to… | sah FEH
+example: Ça fait cinq euros. | That's five euros.
+
+[grammar]
+grammar: Du, de la, de l', des (some) | In French you need a word before food even when you mean "some". Use du with masculine nouns, de la with feminine, de l' before a vowel and des with plurals.
+example: Je voudrais du fromage. | I'd like some cheese.
+example: Elle prend de la salade. | She has some salad.
+grammar: Je voudrais: the polite way to ask | Je voudrais is softer than je veux. Add s'il vous plaît and you sound natural in any shop. The seller answers Voilà and may ask Vous désirez autre chose ?
+example: Je voudrais des pommes, s'il vous plaît. | I'd like some apples, please.
+
+[quiz]
+quiz: How do you ask politely for some cheese? | Je veux fromage. | Je voudrais du fromage. | Je voudrais le fromage de. | Je voudrais fromage. | B | Je voudrais + du/de la/des.
+quiz: Which is correct? | du tomates | de la tomates | des tomates | de tomates | C | Plural = des.
+quiz: What does “Ça fait huit euros” mean? | It costs eighty euros | I have eight euros | It is eight o'clock | That comes to eight euros | D | Ça fait = that comes to.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
