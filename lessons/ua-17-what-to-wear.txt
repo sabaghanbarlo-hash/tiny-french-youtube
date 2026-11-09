@@ -1,0 +1,47 @@
+title: What to Wear
+episode: UA17
+scene: store
+
+[story]
+Adrien: Je cherche une veste pour l'hiver. | I'm looking for a jacket for winter.
+Marinette: Regarde cette veste noire. Elle est très chic ! | Look at this black jacket. It's very smart!
+Adrien: Elle est jolie. Je peux l'essayer ? | It's nice. Can I try it on?
+Marinette: Oui, les cabines sont au fond du magasin. | Yes, the fitting rooms are at the back of the shop.
+Adrien: Elle me va bien, non ? | It suits me, doesn't it?
+Marinette: Oui, parfaite avec ton pantalon gris. | Yes, perfect with your grey trousers.
+
+[vocab]
+vocab: la veste | jacket | lah VEHST
+example: Je cherche une veste. | I'm looking for a jacket.
+vocab: le pantalon | trousers | luh pahn-tah-LOHN
+example: Ce pantalon est grand. | These trousers are big.
+vocab: la robe | dress | lah ROHB
+example: Elle porte une robe bleue. | She's wearing a blue dress.
+vocab: la chemise | shirt | lah shuh-MEEZ
+example: Il met une chemise blanche. | He's putting on a white shirt.
+vocab: le pull | jumper, sweater | luh PEWL
+example: J'ai un pull chaud. | I have a warm jumper.
+vocab: les chaussures | shoes | lay shoh-SEWR
+example: Mes chaussures sont neuves. | My shoes are new.
+vocab: chercher | to look for | shehr-SHAY
+example: Je cherche un pull. | I'm looking for a jumper.
+vocab: essayer | to try on | eh-say-YAY
+example: Je peux essayer cette veste ? | Can I try this jacket on?
+vocab: la cabine d'essayage | fitting room | lah kah-BEEN deh-say-AHZH
+example: La cabine est au fond. | The fitting room is at the back.
+
+[grammar]
+grammar: Regular -er verbs | Chercher and essayer follow the regular -er pattern: je cherche, tu cherches, il / elle cherche, nous cherchons, vous cherchez, ils / elles cherchent. Only the ending changes; the sound of je, tu, il and ils is the same. Essayer changes y to i before silent endings: j'essaie.
+example: Je cherche une veste. | I'm looking for a jacket.
+example: Nous cherchons des chaussures. | We're looking for shoes.
+grammar: Aller bien: it suits me | Say Ça me va bien or Elle me va bien to say something suits you. The pronoun changes: te, lui. Use Ça ne me va pas for the opposite.
+example: Ça me va bien. | It suits me.
+example: Ça ne te va pas. | It doesn't suit you.
+
+[quiz]
+quiz: How do you say “I'm looking for a jacket”? | Je cherches une veste. | Je cherche une veste. | Je cherchons une veste. | Je chercher une veste. | B | Je + cherche.
+quiz: What does “essayer” mean? | to wear out | to buy | to try on | to pay | C | Essayer = to try.
+quiz: What does “Ça me va bien” mean? | It's too big. | It's expensive. | It's on sale. | It suits me. | D | Aller bien = to suit.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
