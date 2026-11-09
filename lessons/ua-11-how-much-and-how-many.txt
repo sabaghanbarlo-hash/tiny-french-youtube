@@ -1,0 +1,47 @@
+title: How Much and How Many
+episode: UA11
+scene: store
+
+[story]
+Marinette: Pour ce soir, j'ai besoin de pâtes et de légumes. | For tonight, I need pasta and vegetables.
+Adrien: Tu as besoin de combien de pâtes ? | How much pasta do you need?
+Marinette: Un paquet de pâtes et un kilo de tomates. | A packet of pasta and a kilo of tomatoes.
+Adrien: Tu as assez d'huile ? | Do you have enough oil?
+Marinette: Non, il me faut une bouteille d'huile. | No, I need a bottle of oil.
+Adrien: Et du sel ? Un peu de sel suffit. | And salt? A little salt is enough.
+
+[vocab]
+vocab: un kilo de | a kilo of | uhn kee-LOH duh
+example: Un kilo de pommes, s'il vous plaît. | A kilo of apples, please.
+vocab: un paquet de | a packet of | uhn pah-KEH duh
+example: Un paquet de pâtes. | A packet of pasta.
+vocab: une bouteille de | a bottle of | ewn boo-TEHY duh
+example: Une bouteille d'eau. | A bottle of water.
+vocab: un peu de | a little | uhn puh DUH
+example: Un peu de sel. | A little salt.
+vocab: beaucoup de | a lot of | boh-KOO duh
+example: Il y a beaucoup de légumes. | There are lots of vegetables.
+vocab: assez de | enough | ah-SAY duh
+example: Tu as assez d'huile ? | Do you have enough oil?
+vocab: les pâtes | pasta | lay PAHT
+example: J'adore les pâtes. | I love pasta.
+vocab: les légumes | vegetables | lay lay-GEWM
+example: Je mange des légumes. | I eat vegetables.
+vocab: avoir besoin de | to need | ah-VWAHR buh-ZWAN duh
+example: J'ai besoin de pain. | I need bread.
+
+[grammar]
+grammar: De with no article | After a quantity word you use de and no article: un kilo de pommes, beaucoup de légumes, assez d'huile, une bouteille d'eau. The article du, de la, des disappears.
+example: Un kilo de tomates. | A kilo of tomatoes.
+example: Beaucoup d'eau. | A lot of water.
+grammar: Avoir besoin de | To say what you need, use avoir besoin de plus noun: j'ai besoin de pain. Il me faut is another common way: il me faut une bouteille d'huile. Both mean "I need".
+example: J'ai besoin de légumes. | I need vegetables.
+example: Il me faut du sel. | I need some salt.
+
+[quiz]
+quiz: Which sentence is correct? | Un kilo des pommes. | Un kilo pommes. | Un kilo de les pommes. | Un kilo de pommes. | D | No article after de.
+quiz: What does “assez de” mean? | enough | too much | a little | none | A | Assez de = enough.
+quiz: How do you say “I need bread”? | Je suis besoin de pain. | J'ai besoin de pain. | J'ai besoin du pain de. | Je besoin pain. | B | Avoir besoin de.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
