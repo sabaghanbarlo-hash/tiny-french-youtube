@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 82 · Body and health 2
+episode: T1-082
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu as mal au dos ? | Hello, Marinette. Does your back hurt?
+Marinette: Un peu. J’ai aussi mal au ventre et à la gorge. | A little. My stomach and throat hurt too.
+Adrien: Est-ce que ton cœur bat vite ? | Is your heart beating fast?
+Marinette: Non, ça va. Je respire bien, mais ma peau est rouge. | No, I’m okay. I’m breathing well, but my skin is red.
+Adrien: Tu as mal au doigt ou au genou ? | Does your finger or knee hurt?
+Marinette: Non, je ne saigne pas. J’ai mal à une dent. | No, I’m not bleeding. I have a toothache.
+Adrien: D’accord. Bois un peu d’eau et repose-toi, s’il te plaît. | All right. Drink a little water and rest, please.
+Marinette: Merci, Adrien. Je vais appeler le médecin si ça continue. | Thanks, Adrien. I’ll call the doctor if it continues.
+
+[vocab]
+vocab: le dos | back | luh DOH
+example: J'ai mal au dos. | My back hurts.
+vocab: le ventre | stomach; belly | luh VAHN-truh
+example: Mon ventre est plein. | My stomach is full.
+vocab: la gorge | throat | lah GORZH
+example: J'ai mal à la gorge. | My throat hurts.
+vocab: le cœur | heart | luh KUHR
+example: Mon cœur bat vite. | My heart beats fast.
+vocab: la peau | skin | lah POH
+example: Ma peau est sèche. | My skin is dry.
+vocab: la dent | tooth | lah DAHN
+example: Cette dent me fait mal. | This tooth hurts.
+vocab: le doigt | finger | luh DWAH
+example: Il lève le doigt. | He raises his finger.
+vocab: le genou | knee | luh zhuh-NOO
+example: Mon genou est fragile. | My knee is fragile.
+vocab: respirer | to breathe | rehs-pee-RAY
+example: Je respire lentement. | I breathe slowly.
+vocab: saigner | to bleed | seh-NYAY
+example: Mon doigt saigne. | My finger is bleeding.
+
+[grammar]
+grammar: Saying what hurts | To say that a body part hurts, French usually uses avoir mal à, followed by the body part with its definite article. À + le contracts to au, as in au dos; à + la stays à la, as in à la gorge; à + l’ becomes à l’ before a vowel or a mute h; and à + les contracts to aux. When referring to a specific tooth, an indefinite article is also possible, as in avoir mal à une dent.
+example: J’ai mal au dos. | My back hurts.
+example: Elle a mal à la gorge. | Her throat hurts.
+
+[quiz]
+quiz: What does le genou mean? | knee | finger | tooth | A | Le genou means “the knee.”
+quiz: Which French word means “to bleed”? | respirer | saigner | le cœur | B | Saigner means “to bleed.”
+quiz: What does “la gorge” mean? | to breathe | throat | skin | B | la gorge means “throat”.
+quiz: What does “le genou” mean? | finger | to breathe | knee | C | le genou means “knee”.
+quiz: What does “patient” mean? | patient | proud | nervous | A | patient means “patient”.
