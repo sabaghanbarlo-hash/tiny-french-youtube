@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 38 · Polite expressions and greetings
+episode: T1-038
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! On s'entraîne à se saluer ? | Hi, Marinette! Shall we practice greeting each other?
+Marinette: Oui ! Bonsoir, monsieur. Enchantée ! Bienvenue ! | Yes! Good evening, sir. Pleased to meet you! Welcome!
+Adrien: Enchanté, madame. Je m'excuse, je suis en retard. | Pleased to meet you, ma’am. I apologize; I’m late.
+Marinette: Ce n'est pas une excuse, monsieur ! | That’s no excuse, sir!
+Adrien: Allô, madame ? Vous allez bien ? | Hello, ma’am? Are you doing well?
+Marinette: Très bien, monsieur. Et vous ? | Very well, sir. And you?
+Adrien: Très bien ! Au revoir, madame ! | Very well! Goodbye, ma’am!
+Marinette: Au revoir, monsieur ! | Goodbye, sir!
+
+[vocab]
+vocab: salut | hi; bye | sah-LEW
+example: Salut, Léa ! | Hi, Léa!
+vocab: bonsoir | good evening | bohn-SWAHR
+example: Bonsoir, monsieur. | Good evening, sir.
+vocab: au revoir | goodbye | oh ruh-VWAHR
+example: Au revoir, madame. | Goodbye, ma’am.
+vocab: bienvenue | welcome | byehn-vuh-NOO
+example: Bienvenue chez nous ! | Welcome to our home!
+vocab: allô | hello (on the phone) | ah-LOH
+example: Allô, c'est Paul. | Hello, it's Paul.
+vocab: enchanté | pleased to meet you | ahn-shahn-TAY
+example: Enchanté de vous rencontrer. | Pleased to meet you.
+vocab: s'excuser | to apologize | sehk-kew-ZAY
+example: Je dois m'excuser. | I have to apologize.
+vocab: une excuse | an excuse | ewn ehk-SKEWZ
+example: J'ai une excuse. | I have an excuse.
+vocab: un monsieur | a gentleman; sir | uhn muh-SYUH
+example: Bonsoir, monsieur. | Good evening, sir.
+vocab: une madame | a lady; ma’am | ewn mah-DAHM
+example: Bonsoir, madame. | Good evening, ma’am.
+
+[grammar]
+grammar: Enchanté : masculin et féminin | In French, enchanté agrees with the gender of the person speaking, not the person they meet. A male speaker says enchanté, while a female speaker adds -e and says enchantée.
+example: Enchanté, madame. | Pleased to meet you, ma’am. (said by a man)
+example: Enchantée, monsieur. | Pleased to meet you, sir. (said by a woman)
+
+[quiz]
+quiz: Which greeting means “good evening”? | Bonsoir | Salut | Au revoir | A | Bonsoir is used to greet someone in the evening.
+quiz: Which phrase means “pleased to meet you”? | Bienvenue | Enchanté | Allô | B | Enchanté means “pleased to meet you” when said by a man.
+quiz: What does “s'excuser” mean? | a gentleman | hello (on the phone) | to apologize | C | s'excuser means “to apologize”.
+quiz: What does “une madame” mean? | welcome | a lady | hi | B | une madame means “a lady”.
+quiz: What does “tellement” mean? | rather | only | so | C | tellement means “so”.
