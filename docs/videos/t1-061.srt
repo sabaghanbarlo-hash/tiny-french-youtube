@@ -1,0 +1,39 @@
+1
+00:00:15,672 --> 00:00:18,524
+Quelle est la date aujourd’hui ?
+What’s the date today?
+
+2
+00:00:18,624 --> 00:00:21,908
+Nous sommes le 12 février.
+It’s February 12.
+
+3
+00:00:22,008 --> 00:00:25,316
+Tu peux regarder le calendrier ?
+Can you look at the calendar?
+
+4
+00:00:25,416 --> 00:00:29,948
+Oui : le prochain trimestre commence en mars.
+Yes: the next term starts in March.
+
+5
+00:00:30,048 --> 00:00:33,764
+Et janvier, c’était le mois dernier ?
+And January was last month?
+
+6
+00:00:33,864 --> 00:00:38,756
+Oui. L’hiver est une saison froide.
+Yes. Winter is a cold season.
+
+7
+00:00:38,856 --> 00:00:42,644
+Tu as aimé les vacances de janvier dernier ?
+Did you enjoy last January’s vacation?
+
+8
+00:00:42,744 --> 00:00:45,596
+Oui, beaucoup !
+Yes, a lot!

@@ -1,0 +1,39 @@
+1
+00:00:14,928 --> 00:00:20,732
+Bonjour, Marinette. Tu as regardé la météo ?
+Hi, Marinette. Did you check the weather?
+
+2
+00:00:20,832 --> 00:00:25,964
+Oui. Le ciel est gris et il va pleuvoir.
+Yes. The sky is gray, and it’s going to rain.
+
+3
+00:00:26,064 --> 00:00:31,100
+Il y a un grand nuage. Tu vois de la neige ?
+There’s a big cloud. Do you see any snow?
+
+4
+00:00:31,200 --> 00:00:36,980
+Oui, un peu. J’espère qu’il n’y aura pas d’orage.
+Yes, a little. I hope there won’t be a thunderstorm.
+
+5
+00:00:37,080 --> 00:00:42,140
+La rivière est belle. Le lac est près d’ici.
+The river is beautiful. The lake is nearby.
+
+6
+00:00:42,240 --> 00:00:48,092
+Oui, allons-y ! Regarde cette fleur dans l’herbe.
+Yes, let’s go! Look at that flower in the grass.
+
+7
+00:00:48,192 --> 00:00:52,628
+Elle est jolie. La neige fond déjà.
+It’s pretty. The snow is already melting.
+
+8
+00:00:52,728 --> 00:00:56,708
+Rentrons avant l’orage, d’accord ?
+Let’s go home before the thunderstorm, okay?

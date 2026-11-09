@@ -1,0 +1,39 @@
+1
+00:00:14,688 --> 00:00:18,836
+La vie en France est belle, tu ne trouves pas ?
+Life in France is beautiful, don't you think?
+
+2
+00:00:18,936 --> 00:00:25,772
+Oui ! Je ressens de la joie, mais je suis un peu fatiguée aujourd'hui.
+Yes! I feel joy, but I'm a little tired today.
+
+3
+00:00:25,872 --> 00:00:30,716
+Tu as un problème ? Tu sembles inquiète.
+Do you have a problem? You seem worried.
+
+4
+00:00:30,816 --> 00:00:37,604
+Ma mémoire me joue des tours : j'ai oublié mon rendez-vous. Quelle honte !
+My memory is playing tricks on me: I forgot my appointment. How embarrassing!
+
+5
+00:00:37,704 --> 00:00:42,740
+Ce n'est pas grave ; tu as de la chance, il est encore temps.
+It's okay; you're in luck, there's still time.
+
+6
+00:00:42,840 --> 00:00:47,396
+Oui, l'amour de mes amis me donne du courage.
+Yes, the love of my friends gives me courage.
+
+7
+00:00:47,496 --> 00:00:52,652
+La vérité, c'est que la liberté et la joie sont importantes.
+The truth is that freedom and joy are important.
+
+8
+00:00:52,752 --> 00:00:57,332
+C'est vrai. Allons-y ensemble !
+That's true. Let's go together!

@@ -1,0 +1,39 @@
+1
+00:00:14,784 --> 00:00:20,180
+Salut, Marinette. Tu révises le français ?
+Hi, Marinette. Are you reviewing French?
+
+2
+00:00:20,280 --> 00:00:23,996
+Oui, j’apprends une nouvelle langue.
+Yes, I’m learning a new language.
+
+3
+00:00:24,096 --> 00:00:27,092
+Quel mot veux-tu traduire ?
+Which word do you want to translate?
+
+4
+00:00:27,192 --> 00:00:31,172
+« Bonjour » est un mot dans une phrase.
+“Hello” is a word in a sentence.
+
+5
+00:00:31,272 --> 00:00:34,748
+Tu as une question sur la grammaire ?
+Do you have a question about grammar?
+
+6
+00:00:34,848 --> 00:00:39,116
+Oui. Où est le dictionnaire ?
+Yes. Where is the dictionary?
+
+7
+00:00:39,216 --> 00:00:44,348
+Ici. Fais un exercice, puis je te donne la réponse.
+Here. Do an exercise, then I’ll give you the answer.
+
+8
+00:00:44,448 --> 00:00:49,196
+Merci ! Je révise avec toi.
+Thanks! I’m reviewing with you.

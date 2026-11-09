@@ -1,0 +1,39 @@
+1
+00:00:15,528 --> 00:00:19,700
+Salut Marinette, tu connais ce quartier ?
+Hi, Marinette, do you know this neighborhood?
+
+2
+00:00:19,800 --> 00:00:24,332
+Oui, ce quartier est près du centre du village.
+Yes, this neighborhood is near the center of the village.
+
+3
+00:00:24,432 --> 00:00:29,180
+Allons au centre. Quel chemin prendre ?
+Let’s go to the center. Which path should we take?
+
+4
+00:00:29,280 --> 00:00:33,524
+Suis le trottoir jusqu’au pont, s’il te plaît.
+Follow the sidewalk to the bridge, please.
+
+5
+00:00:33,624 --> 00:00:37,460
+Après le pont, on tourne au carrefour ?
+After the bridge, do we turn at the intersection?
+
+6
+00:00:37,560 --> 00:00:42,308
+Oui, puis au rond-point, prends la deuxième sortie.
+Yes, then at the roundabout, take the second exit.
+
+7
+00:00:42,408 --> 00:00:45,476
+Et la boulangerie est au coin ?
+And is the bakery on the corner?
+
+8
+00:00:45,576 --> 00:00:49,676
+Oui, juste là, au coin de la rue !
+Yes, right there, on the corner of the street!

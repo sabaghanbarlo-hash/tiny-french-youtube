@@ -1,0 +1,39 @@
+1
+00:00:14,616 --> 00:00:17,540
+Comment est ton ami Léo ?
+What is your friend Léo like?
+
+2
+00:00:17,640 --> 00:00:21,476
+Il est gentil, drôle et intelligent.
+He is kind, funny, and intelligent.
+
+3
+00:00:21,576 --> 00:00:24,164
+Il est blond aussi ?
+Is he blond too?
+
+4
+00:00:24,264 --> 00:00:28,964
+Oui, il est sympathique, mais un peu timide.
+Yes, he is nice, but a little shy.
+
+5
+00:00:29,064 --> 00:00:31,532
+Et son père ?
+And his father?
+
+6
+00:00:31,632 --> 00:00:34,652
+Il est sérieux et fort.
+He is serious and strong.
+
+7
+00:00:34,752 --> 00:00:37,436
+Et son grand-père ?
+And his grandfather?
+
+8
+00:00:37,536 --> 00:00:41,684
+Il est âgé et mince, mais très gentil !
+He is elderly and slim, but very kind!

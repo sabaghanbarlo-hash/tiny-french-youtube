@@ -1,0 +1,39 @@
+1
+00:00:14,664 --> 00:00:18,644
+Regarde ce sac : il est joli et léger.
+Look at this bag: it's pretty and lightweight.
+
+2
+00:00:18,744 --> 00:00:22,292
+Oui, mais celui-là est lourd.
+Yes, but that one is heavy.
+
+3
+00:00:22,392 --> 00:00:26,156
+Tu préfères le sac gris ou le sac marron ?
+Do you prefer the gray bag or the brown bag?
+
+4
+00:00:26,256 --> 00:00:32,348
+Le gris, s’il te plaît. Et cette écharpe rose est jolie.
+The gray one, please. And this pink scarf is pretty.
+
+5
+00:00:32,448 --> 00:00:38,324
+Oui. Le coussin est mou, mais le galet est dur et lisse.
+Yes. The cushion is soft, but the pebble is hard and smooth.
+
+6
+00:00:38,424 --> 00:00:41,828
+Et la serviette est sèche maintenant.
+And the towel is dry now.
+
+7
+00:00:41,928 --> 00:00:46,364
+Parfait ! Le sac gris est léger.
+Perfect! The gray bag is lightweight.
+
+8
+00:00:46,464 --> 00:00:52,004
+Oui, il est joli. Merci, Adrien.
+Yes, it's pretty. Thank you, Adrien.
