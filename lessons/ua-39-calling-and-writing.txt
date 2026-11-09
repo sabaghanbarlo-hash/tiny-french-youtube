@@ -1,0 +1,47 @@
+title: Phone Calls and E-mails
+episode: UA39
+scene: town
+
+[story]
+Marinette: Allô ? Agence Voyage Plus, bonjour. | Hello? Voyage Plus agency, good morning.
+Adrien: Bonjour, je voudrais parler à Madame Dupont, s'il vous plaît. | Hello, I'd like to speak to Madame Dupont, please.
+Marinette: Elle n'est pas là. Vous voulez laisser un message ? | She isn't here. Would you like to leave a message?
+Adrien: Oui, pouvez-vous lui dire que je rappelle demain ? | Yes, can you tell her that I'll call back tomorrow?
+Marinette: Bien sûr. C'est de la part de qui ? | Of course. Who shall I say is calling?
+Adrien: Adrien Martin. Merci, au revoir ! | Adrien Martin. Thank you, goodbye!
+
+[vocab]
+vocab: allô | hello (on the phone) | ah-LOH
+example: Allô ? Oui, bonjour. | Hello? Yes, good morning.
+vocab: parler à | to speak to | pahr-LAY ah
+example: Je voudrais parler à Madame Dupont. | I'd like to speak to Madame Dupont.
+vocab: laisser un message | to leave a message | leh-SAY uhn meh-SAHZH
+example: Je voudrais laisser un message. | I'd like to leave a message.
+vocab: rappeler | to call back | rah-puh-LAY
+example: Je rappelle demain. | I'll call back tomorrow.
+vocab: c'est de la part de qui ? | who's calling? | seh duh lah PAR duh KEE
+example: C'est de la part de qui ? | Who's calling?
+vocab: envoyer | to send | ahn-vwah-YAY
+example: J'envoie un e-mail. | I'm sending an e-mail.
+vocab: répondre | to answer | ray-POHN-druh
+example: Je réponds à votre e-mail. | I'm replying to your e-mail.
+vocab: cordialement | kind regards | kohr-dyahl-MAHN
+example: Cordialement, Adrien Martin. | Kind regards, Adrien Martin.
+vocab: à bientôt | see you soon | ah byan-TOH
+example: Merci, à bientôt ! | Thanks, see you soon!
+
+[grammar]
+grammar: Polite requests | To be polite, use Je voudrais plus infinitive and Pouvez-vous plus infinitive: Je voudrais parler à Madame Dupont. Pouvez-vous lui dire que je rappelle ? Lui means to him / to her. Always finish with s'il vous plaît or merci.
+example: Pouvez-vous répéter, s'il vous plaît ? | Can you repeat, please?
+example: Je voudrais laisser un message. | I'd like to leave a message.
+grammar: A short formal e-mail | Start with Bonjour Madame / Bonjour Monsieur, then write one clear idea per sentence. Finish with Cordialement and your name. With friends, use Salut and À bientôt. To reply, use Merci pour votre message and Je réponds à votre e-mail.
+example: Bonjour Madame, je voudrais un rendez-vous. | Hello Madam, I'd like an appointment.
+example: Cordialement, Adrien Martin. | Kind regards, Adrien Martin.
+
+[quiz]
+quiz: How do you answer the phone? | Bonjour, monsieur ? | Salut ? | Voilà ? | Allô ? | D | Allô.
+quiz: Which ending is right for a formal e-mail? | Cordialement | Salut | Bises | À plus | A | Cordialement = kind regards.
+quiz: What does “Pouvez-vous répéter ?” ask? | Can you wait? | Can you repeat? | Can you help? | Can you pay? | B | Répéter = repeat.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
