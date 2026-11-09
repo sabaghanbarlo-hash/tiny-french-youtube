@@ -1,0 +1,47 @@
+title: Aches and Pains
+episode: UA29
+scene: park
+
+[story]
+Adrien: Qu'est-ce qui ne va pas, Marinette ? | What's wrong, Marinette?
+Marinette: J'ai mal à la tête et mal au ventre. | I have a headache and a stomach ache.
+Adrien: Tu as aussi mal à la gorge ? | Do you have a sore throat too?
+Marinette: Un peu, oui. Et j'ai mal aux jambes après le sport. | A little, yes. And my legs hurt after sport.
+Adrien: Tu es fatiguée. Repose-toi aujourd'hui. | You're tired. Rest today.
+Marinette: Oui, je vais rester à la maison. | Yes, I'm going to stay at home.
+
+[vocab]
+vocab: la tête | head | lah TEHT
+example: J'ai mal à la tête. | I have a headache.
+vocab: le ventre | stomach, belly | luh VAHN-truh
+example: J'ai mal au ventre. | I have a stomach ache.
+vocab: le dos | back | luh DOH
+example: Il a mal au dos. | His back hurts.
+vocab: la gorge | throat | lah GOHRZH
+example: J'ai mal à la gorge. | I have a sore throat.
+vocab: la main | hand | lah MAN
+example: J'ai mal à la main. | My hand hurts.
+vocab: la jambe | leg | lah ZHAHMB
+example: J'ai mal aux jambes. | My legs hurt.
+vocab: le bras | arm | luh BRAH
+example: Il a mal au bras. | His arm hurts.
+vocab: avoir mal à | to have pain in | ah-VWAHR mahl ah
+example: J'ai mal à la tête. | I have a headache.
+vocab: fatigué / fatiguée | tired | fah-tee-GAY
+example: Je suis très fatigué. | I'm very tired.
+
+[grammar]
+grammar: Avoir mal à + body part | Use à with the body part: à la tête, au dos, à l'estomac, aux jambes. The word avoir changes: j'ai mal, tu as mal, il / elle a mal. Ask Qu'est-ce qui ne va pas ? to find out what is wrong, and Où as-tu mal ? to ask where it hurts.
+example: J'ai mal à la tête. | I have a headache.
+example: Il a mal aux jambes. | His legs hurt.
+grammar: Giving advice with the tu command | Give a friend advice with the tu command: repose-toi, bois de l'eau, mange quelque chose. For a reflexive verb the pronoun comes after the verb: repose-toi.
+example: Repose-toi. | Rest.
+example: Bois de l'eau. | Drink some water.
+
+[quiz]
+quiz: How do you say “I have a headache”? | Je suis mal à la tête. | J'ai mal à la tête. | J'ai mal la tête. | Je mal à la tête. | B | Avoir mal à.
+quiz: What does “Qu'est-ce qui ne va pas ?” ask? | What is your name? | What do you want? | What's wrong? | Where is it? | C | Ça ne va pas = something's wrong.
+quiz: Which is correct? | J'ai mal à les jambes. | J'ai mal au jambes. | J'ai mal à la jambes. | J'ai mal aux jambes. | D | À + les = aux.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
