@@ -1,0 +1,47 @@
+title: My Day, Hour by Hour
+episode: UA21
+scene: home
+
+[story]
+Adrien: Tu te lèves à quelle heure ? | What time do you get up?
+Marinette: À sept heures. Je prends mon petit-déjeuner à sept heures et demie, et je pars à huit heures. | At seven. I have breakfast at half past seven, and I leave at eight.
+Adrien: Et tu finis à quelle heure ? | And what time do you finish?
+Marinette: À dix-sept heures. Et le soir, je me couche vers vingt-deux heures. | At five p.m. And in the evening I go to bed around ten p.m.
+Adrien: Moi, je commence à midi et je finis à minuit ! | I start at noon and finish at midnight!
+Marinette: Quel horaire ! | What a schedule!
+
+[vocab]
+vocab: se lever | to get up | suh luh-VAY
+example: Je me lève à sept heures. | I get up at seven.
+vocab: se coucher | to go to bed | suh koo-SHAY
+example: Je me couche tard. | I go to bed late.
+vocab: partir | to leave | pahr-TEER
+example: Je pars à huit heures. | I leave at eight.
+vocab: commencer | to start | koh-mahn-SAY
+example: Je commence à midi. | I start at noon.
+vocab: finir | to finish | fee-NEER
+example: Je finis à cinq heures. | I finish at five.
+vocab: à quelle heure ? | at what time? | ah kehl UHR
+example: À quelle heure tu pars ? | What time are you leaving?
+vocab: vers | around, about | VEHR
+example: Vers vingt-deux heures. | Around ten p.m.
+vocab: midi, minuit | noon, midnight | mee-DEE, mee-NWEE
+example: Je mange à midi. | I eat at noon.
+vocab: l'horaire | schedule, timetable | loh-REHR
+example: Mon horaire change. | My schedule changes.
+
+[grammar]
+grammar: Reflexive verbs | A reflexive verb has a small extra word that matches the subject: je me lève, tu te lèves, il / elle se lève, nous nous levons, vous vous levez, ils / elles se lèvent. Se coucher works the same way. The me, te, se becomes m', t', s' before a vowel.
+example: Je me lève à sept heures. | I get up at seven.
+example: Elle se couche tard. | She goes to bed late.
+grammar: 24-hour clock and quarters | In daily speech, say il est sept heures et demie or huit heures moins le quart. For timetables and work, use the 24-hour clock: dix-sept heures, vingt-deux heures trente. Use à before the time: à sept heures. Vers means around.
+example: Il est sept heures et demie. | It's half past seven.
+example: Le train part à dix-sept heures. | The train leaves at 5 p.m.
+
+[quiz]
+quiz: How do you say “I get up at seven”? | Je lève à sept heures. | Je me lève à sept heures. | Je se lève à sept heures. | Je me levons à sept heures. | B | Reflexive: je me lève.
+quiz: What does “vers vingt-deux heures” mean? | at exactly 10 p.m. | until 10 p.m. | around 10 p.m. | after 10 a.m. | C | Vers = around.
+quiz: Which time is “17 heures” in everyday terms? | 7 p.m. | 5 a.m. | 7 a.m. | 5 p.m. | D | 17 − 12 = 5.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
