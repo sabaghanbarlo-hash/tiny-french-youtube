@@ -1,0 +1,47 @@
+title: Free Time and Hobbies
+episode: UA22
+scene: park
+
+[story]
+Marinette: Qu'est-ce que tu fais pendant ton temps libre ? | What do you do in your free time?
+Adrien: Je fais du sport et je joue au football. Et toi ? | I do sport and I play football. And you?
+Marinette: Moi, je fais de la danse et je joue de la guitare. | I do dance and I play the guitar.
+Adrien: Tu écoutes de la musique aussi ? | Do you listen to music too?
+Marinette: Oui, tout le temps ! Et je regarde des films le soir. | Yes, all the time! And I watch films in the evening.
+Adrien: Moi, je préfère lire. | I prefer reading.
+
+[vocab]
+vocab: le temps libre | free time | luh tahn LEE-bruh
+example: Pendant mon temps libre, je lis. | In my free time I read.
+vocab: faire du sport | to do sport | fehr dew SPOHR
+example: Je fais du sport le mardi. | I do sport on Tuesdays.
+vocab: jouer au football | to play football | zhoo-AY oh foot-BOHL
+example: Il joue au football. | He plays football.
+vocab: jouer de la guitare | to play the guitar | zhoo-AY duh lah gee-TAHR
+example: Elle joue de la guitare. | She plays the guitar.
+vocab: la danse | dance | lah DAHNSS
+example: Je fais de la danse. | I do dance.
+vocab: écouter | to listen to | ay-koo-TAY
+example: J'écoute de la musique. | I listen to music.
+vocab: regarder | to watch, look at | ruh-gahr-DAY
+example: Je regarde un film. | I'm watching a film.
+vocab: lire | to read | LEER
+example: J'aime lire. | I like reading.
+vocab: le cinéma | cinema | luh see-nay-MAH
+example: Je vais au cinéma. | I'm going to the cinema.
+
+[grammar]
+grammar: Faire du, de la, des | For activities, use faire with a partitive: faire du sport, faire de la danse, faire des courses. Faire is irregular: je fais, tu fais, il / elle fait, nous faisons, vous faites, ils / elles font.
+example: Je fais du sport. | I do sport.
+example: Elle fait de la danse. | She does dance.
+grammar: Jouer à or jouer de? | Use jouer à plus sport or game: jouer au football, jouer à la pétanque. Use jouer de plus instrument: jouer de la guitare, jouer du piano. Do not mix them up.
+example: Il joue au football. | He plays football.
+example: Elle joue du piano. | She plays the piano.
+
+[quiz]
+quiz: Which is correct? | Je joue au football. | Je joue du football. | Je joue le football. | Je joue de football. | A | Sport = jouer à.
+quiz: Which is correct? | Elle joue à la guitare. | Elle joue de la guitare. | Elle joue la guitare à. | Elle joue guitare. | B | Instrument = jouer de.
+quiz: What does “le temps libre” mean? | weather | a long time | free time | late time | C | Temps libre = free time.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
