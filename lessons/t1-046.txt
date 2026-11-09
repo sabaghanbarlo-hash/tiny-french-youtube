@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 46 · Travel and sightseeing
+episode: T1-046
+scene: classroom
+
+[story]
+Adrien: Salut Marinette ! On va visiter le musée et le château demain ? | Hi, Marinette! Shall we visit the museum and the castle tomorrow?
+Marinette: Oui, bonne idée ! Je veux voyager à Lyon avec toi. | Yes, good idea! I want to travel to Lyon with you.
+Adrien: J'ai réservé l'hôtel. As-tu ton passeport ? | I booked the hotel. Do you have your passport?
+Marinette: Oui, et ma valise est prête. | Yes, and my suitcase is ready.
+Adrien: Super ! Le guide nous attend au musée à neuf heures. | Great! The guide is waiting for us at the museum at nine o'clock.
+Marinette: Je veux prendre une photo du château. | I want to take a photo of the castle.
+Adrien: Un touriste prend une photo près du château. | A tourist is taking a photo near the castle.
+Marinette: Alors, allons-y ! | Then, let's go!
+
+[vocab]
+vocab: le musée | museum | mew-ZAY
+example: Nous visitons le musée. | We visit the museum.
+vocab: visiter | to visit | vee-zee-TAY
+example: Je visite le château. | I visit the castle.
+vocab: voyager | to travel | vwah-yah-ZHAY
+example: Je voyage en train. | I travel by train.
+vocab: réserver | to book | ray-zair-VAY
+example: Je réserve une chambre. | I book a room.
+vocab: le passeport | passport | pass-POR
+example: Mon passeport est ici. | My passport is here.
+vocab: la valise | suitcase | vah-LEEZ
+example: La valise est dans la voiture. | The suitcase is in the car.
+vocab: la photo | photo | foh-TOH
+example: Je prends une photo. | I take a photo.
+vocab: le guide | guide | GEED
+example: Le guide parle anglais. | The guide speaks English.
+vocab: le château | castle | shah-TOH
+example: Le château est très vieux. | The castle is very old.
+vocab: un touriste | tourist | too-REEST
+example: Le touriste visite le musée. | The tourist visits the museum.
+
+[grammar]
+grammar: Vouloir + infinitive | Use vouloir (to want) followed by an infinitive to say what you want to do. The second verb stays in its infinitive form.
+example: Je veux visiter le musée. | I want to visit the museum.
+example: Nous voulons voyager en France. | We want to travel in France.
+
+[quiz]
+quiz: What does « la valise » mean? | suitcase | passport | photo | A | « La valise » is the French word for suitcase.
+quiz: What does « réserver » mean? | to visit | to book | to travel | B | You can réserver a hotel or a ticket.
+quiz: What does “visiter” mean? | to visit | guide | to book | A | visiter means “to visit”.
+quiz: What does “la photo” mean? | to visit | photo | tourist | B | la photo means “photo”.
+quiz: What does “signer” mean? | an account | to sign | appointment | B | signer means “to sign”.
