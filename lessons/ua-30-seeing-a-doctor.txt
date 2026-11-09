@@ -1,0 +1,48 @@
+title: Seeing a Doctor
+episode: UA30
+scene: home
+
+[story]
+Adrien: Bonjour, madame. Qu'est-ce qui vous arrive ? | Hello, madam. What's the matter?
+Marinette: J'ai de la fièvre et je tousse depuis trois jours. | I've had a fever and a cough for three days.
+Adrien: Vous avez mal à la gorge ? | Do you have a sore throat?
+Marinette: Oui, un peu. | Yes, a little.
+Adrien: Prenez ces médicaments deux fois par jour et reposez-vous. | Take this medicine twice a day and rest.
+Marinette: Je dois revenir ? | Do I need to come back?
+Adrien: Oui, dans une semaine si ça ne va pas mieux. | Yes, in a week if you're not better.
+
+[vocab]
+vocab: la fièvre | fever | lah FYEH-vruh
+example: J'ai de la fièvre. | I have a fever.
+vocab: tousser | to cough | too-SAY
+example: Je tousse beaucoup. | I'm coughing a lot.
+vocab: le médicament | medicine | luh may-dee-kah-MAHN
+example: Je prends un médicament. | I'm taking a medicine.
+vocab: l'ordonnance | prescription | lohr-doh-NAHNSS
+example: J'ai une ordonnance. | I have a prescription.
+vocab: se reposer | to rest | suh ruh-poh-ZAY
+example: Reposez-vous bien. | Rest well.
+vocab: depuis | for, since | duh-PWEE
+example: Je tousse depuis trois jours. | I've been coughing for three days.
+vocab: deux fois par jour | twice a day | duh FWAH pahr ZHOOR
+example: Prenez-le deux fois par jour. | Take it twice a day.
+vocab: aller mieux | to feel better | ah-LAY MYUH
+example: Je vais mieux. | I'm feeling better.
+vocab: qu'est-ce qui vous arrive ? | what's the matter? | kehs-kee voo zah-REEV
+example: Qu'est-ce qui vous arrive ? | What's the matter?
+
+[grammar]
+grammar: Depuis + present | French uses the present tense with depuis for something that started in the past and is still true: Je tousse depuis trois jours. Do not use the past: it is still happening.
+example: J'ai mal à la tête depuis hier. | I've had a headache since yesterday.
+example: Elle est malade depuis lundi. | She has been ill since Monday.
+grammar: The vous command | A doctor speaks to you with vous. Orders drop the pronoun: vous prenez becomes prenez, vous vous reposez becomes reposez-vous, vous buvez becomes buvez. Add deux fois par jour for how often, or matin et soir for morning and evening.
+example: Prenez ces médicaments. | Take this medicine.
+example: Reposez-vous bien. | Rest well.
+
+[quiz]
+quiz: How do you say “I've been coughing for three days”? | Je tousse depuis trois jours. | Je toussais depuis trois jours. | J'ai toussé depuis trois jours. | Je tousse pour trois jours. | A | Present + depuis.
+quiz: What does “deux fois par jour” mean? | two days a week | twice a day | every two days | two hours a day | B | Fois = times.
+quiz: A doctor tells you what to do. Which form does he use? | Repose-toi. | Tu te reposes. | Reposez-vous. | Je me repose. | C | Doctors use vous.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
