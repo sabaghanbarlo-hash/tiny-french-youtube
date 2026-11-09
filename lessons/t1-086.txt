@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 86 · Culture and France
+episode: T1-086
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu veux découvrir la France avec moi ? | Hi, Marinette! Do you want to discover France with me?
+Marinette: Oui, avec plaisir. J’aime le français et la culture française. | Yes, with pleasure. I like French and French culture.
+Adrien: À Paris, on peut voir un monument célèbre. | In Paris, you can see a famous monument.
+Marinette: Et découvrir l’art au musée, c’est super. | And discovering art at the museum is great.
+Adrien: Tu connais la tradition de ce festival ? | Do you know the tradition of this festival?
+Marinette: Non, mais je veux la connaître. | No, but I want to know about it.
+Adrien: Il y a de la musique et de bons plats. | There is music and good food.
+Marinette: Génial ! Merci, Adrien. | Great! Thanks, Adrien.
+
+[vocab]
+vocab: la France | France | lah FRAHNS
+example: La France est en Europe. | France is in Europe.
+vocab: le français | French (language) | luh frahn-SEH
+example: Le français est une belle langue. | French is a beautiful language.
+vocab: la culture | culture | lah kuul-TUR
+example: La culture française est riche. | French culture is rich.
+vocab: l'art | art | LAHR
+example: L'art est important en France. | Art is important in France.
+vocab: le monument | monument | luh moh-new-MAHN
+example: Ce monument attire des visiteurs. | This monument attracts visitors.
+vocab: la tradition | tradition | lah trah-dee-SYOHN
+example: Cette tradition existe depuis longtemps. | This tradition has existed for a long time.
+vocab: connaître | to know | koh-NETR
+example: Je connais bien cette tradition. | I know this tradition well.
+vocab: découvrir | to discover | day-koo-VREER
+example: Je découvre un monument à Paris. | I discover a monument in Paris.
+vocab: célèbre | famous | seh-LEBR
+example: Ce monument est célèbre en France. | This monument is famous in France.
+vocab: un festival | festival | fes-tee-VAHL
+example: On va au festival de musique. | We’re going to the music festival.
+
+[grammar]
+grammar: French noun articles | French nouns usually take an article such as le, la, or l’. The article agrees with the noun in gender and number; l’ is used before a vowel or a mute h.
+example: J’aime le français et la culture française. | I like French and French culture.
+example: J’aime l’art. | I like art.
+
+[quiz]
+quiz: Which French word means “to discover”? | connaître | découvrir | célèbre | B | Découvrir means “to discover.”
+quiz: What does un festival mean? | a festival | a monument | a tradition | A | Un festival means “a festival.”
+quiz: What does “la France” mean? | culture | France | festival | B | la France means “France”.
+quiz: What does “célèbre” mean? | famous | festival | culture | A | célèbre means “famous”.
+quiz: What does “la carotte” mean? | banana | carrot | yogurt | B | la carotte means “carrot”.
