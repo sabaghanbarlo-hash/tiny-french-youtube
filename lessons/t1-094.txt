@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 94 · Abstract nouns 2
+episode: T1-094
+scene: classroom
+
+[story]
+Adrien: Quel plaisir de te voir, Marinette ! | What a pleasure to see you, Marinette!
+Marinette: Moi aussi. J’ai confiance en toi. | Me too. I trust you.
+Adrien: Avec toi, je trouve le bonheur. | With you, I find happiness.
+Marinette: Le respect et la patience sont importants. | Respect and patience are important.
+Adrien: Je veux la paix, pas la dispute. | I want peace, not an argument.
+Marinette: Tu as raison. Parlons calmement. | You’re right. Let’s talk calmly.
+Adrien: Mon rêve, c’est de garder cette habitude. | My dream is to keep this habit.
+Marinette: Alors, un peu de silence et du thé ? | Then, a little silence and some tea?
+
+[vocab]
+vocab: le plaisir | pleasure | pleh-ZEER
+example: C'est un plaisir. | It's a pleasure.
+vocab: la confiance | trust | kon-FYAHNS
+example: La confiance est importante. | Trust is important.
+vocab: le bonheur | happiness | boh-NUHR
+example: Le bonheur est important. | Happiness is important.
+vocab: le respect | respect | reh-SPEH
+example: Le respect compte. | Respect matters.
+vocab: la patience | patience | pah-SYAHNS
+example: La patience est utile. | Patience is useful.
+vocab: la paix | peace | PEH
+example: Nous voulons la paix. | We want peace.
+vocab: la raison | reason | reh-ZOHN
+example: La raison est simple. | The reason is simple.
+vocab: le rêve | dream | REV
+example: J'ai un rêve. | I have a dream.
+vocab: l’habitude | habit | lah-bee-TEWD
+example: J’ai l’habitude de prendre le bus. | I’m in the habit of taking the bus.
+vocab: le silence | silence | luh see-LAHNS
+example: J’aime le silence le matin. | I like the silence in the morning.
+
+[grammar]
+grammar: Articles with abstract nouns | French nouns have grammatical gender, so when talking about an abstract noun in general, they usually take the definite article le, la, or l’. Use l’ before a vowel or a mute h, as in l’habitude.
+example: La patience est importante. | Patience is important.
+example: J’aime le silence. | I like silence.
+
+[quiz]
+quiz: What does la confiance mean? | trust | happiness | silence | A | La confiance means trust.
+quiz: What does le bonheur mean? | reason | happiness | peace | B | Le bonheur means happiness.
+quiz: What does “l’habitude” mean? | dream | habit | reason | B | l’habitude means “habit”.
+quiz: What does “le bonheur” mean? | peace | happiness | reason | B | le bonheur means “happiness”.
+quiz: What does “plaire” mean? | to please | to smile | to press | A | plaire means “to please”.
