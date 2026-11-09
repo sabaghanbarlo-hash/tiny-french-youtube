@@ -1,0 +1,39 @@
+1
+00:00:14,160 --> 00:00:19,916
+Bonjour, Marinette ! Tu as ton cahier et ta règle ?
+Hi, Marinette! Do you have your notebook and your ruler?
+
+2
+00:00:20,016 --> 00:00:24,092
+Oui, et j’ai une gomme dans mon cartable.
+Yes, and I have an eraser in my schoolbag.
+
+3
+00:00:24,192 --> 00:00:29,180
+Merci. Le tableau est prêt pour le cours ?
+Thanks. Is the board ready for class?
+
+4
+00:00:29,280 --> 00:00:33,884
+Oui. Quelle est ta matière préférée ?
+Yes. What’s your favorite subject?
+
+5
+00:00:33,984 --> 00:00:38,516
+J’aime le français, mais je n’aime pas les devoirs.
+I like French, but I don’t like homework.
+
+6
+00:00:38,616 --> 00:00:45,116
+Moi non plus ! Nous avons un contrôle aujourd’hui et un examen demain.
+Me neither! We have a test today and an exam tomorrow.
+
+7
+00:00:45,216 --> 00:00:50,132
+Ah bon ? Après, c’est la récréation ?
+Oh, really? Is it recess afterward?
+
+8
+00:00:50,232 --> 00:00:55,628
+Oui, à dix heures. À bientôt en classe !
+Yes, at ten o’clock. See you in class!

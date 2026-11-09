@@ -1,0 +1,39 @@
+1
+00:00:14,640 --> 00:00:19,892
+Bonjour, Marinette. Tu as mal au dos ?
+Hello, Marinette. Does your back hurt?
+
+2
+00:00:19,992 --> 00:00:25,388
+Un peu. J’ai aussi mal au ventre et à la gorge.
+A little. My stomach and throat hurt too.
+
+3
+00:00:25,488 --> 00:00:28,580
+Est-ce que ton cœur bat vite ?
+Is your heart beating fast?
+
+4
+00:00:28,680 --> 00:00:35,108
+Non, ça va. Je respire bien, mais ma peau est rouge.
+No, I’m okay. I’m breathing well, but my skin is red.
+
+5
+00:00:35,208 --> 00:00:38,300
+Tu as mal au doigt ou au genou ?
+Does your finger or knee hurt?
+
+6
+00:00:38,400 --> 00:00:43,580
+Non, je ne saigne pas. J’ai mal à une dent.
+No, I’m not bleeding. I have a toothache.
+
+7
+00:00:43,680 --> 00:00:49,820
+D’accord. Bois un peu d’eau et repose-toi, s’il te plaît.
+All right. Drink a little water and rest, please.
+
+8
+00:00:49,920 --> 00:00:56,516
+Merci, Adrien. Je vais appeler le médecin si ça continue.
+Thanks, Adrien. I’ll call the doctor if it continues.

@@ -1,0 +1,39 @@
+1
+00:00:14,520 --> 00:00:20,108
+Salut, Marinette ! Tu es libre cet après-midi ?
+Hi, Marinette! Are you free this afternoon?
+
+2
+00:00:20,208 --> 00:00:26,732
+Oui, mais je suis occupée maintenant. Ce projet est important.
+Yes, but I’m busy right now. This project is important.
+
+3
+00:00:26,832 --> 00:00:31,124
+C’est possible de travailler ensemble après le cours ?
+Is it possible to work together after class?
+
+4
+00:00:31,224 --> 00:00:38,300
+Oui. Tu es prêt ? Cette idée est intéressante et utile.
+Yes. Are you ready? This idea is interesting and useful.
+
+5
+00:00:38,400 --> 00:00:43,412
+Oui, je suis prêt. Le plan est sûr ?
+Yes, I’m ready. Is the plan reliable?
+
+6
+00:00:43,512 --> 00:00:49,052
+J’en suis sûre. Le tissu est doux pour le costume.
+I’m sure of it. The fabric is soft for the costume.
+
+7
+00:00:49,152 --> 00:00:54,332
+Très bien. Mais le son est faible dans cette vidéo.
+Very good. But the sound is low in this video.
+
+8
+00:00:54,432 --> 00:00:58,988
+D’accord, on augmente le son et on commence !
+Okay, let’s turn up the sound and get started!
