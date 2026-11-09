@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 32 · Opinions and thinking words
+episode: T1-032
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette. Tu as une idée pour le projet ? | Hi, Marinette. Do you have an idea for the project?
+Marinette: Oui. Je pense que le jardin est joli. | Yes. I think the garden is pretty.
+Adrien: Je crois que tu as raison. | I believe you are right.
+Marinette: Merci ! Et toi, quel est ton avis ? | Thanks! And you, what’s your opinion?
+Adrien: Je trouve que le plan est bon, mais je ne comprends pas tout. | I think the plan is good, but I don’t understand everything.
+Marinette: D’accord. Cette partie est peut-être un peu difficile. | Okay. This part may be a little difficult.
+Adrien: C’est vrai. Le dessin est faux ? | That’s true. Is the drawing wrong?
+Marinette: Non, il est correct ! | No, it’s correct!
+
+[vocab]
+vocab: penser | to think | pahn-SAY
+example: Je pense que c'est une bonne idée. | I think it's a good idea.
+vocab: croire | to believe | KRWAH
+example: Je crois qu'il a raison. | I believe he's right.
+vocab: trouver | to think; to find | troo-VAY
+example: Je trouve ce film intéressant. | I think this film is interesting.
+vocab: comprendre | to understand | kohm-prahn-DRUH
+example: Je comprends ton point de vue. | I understand your point of view.
+vocab: l'idée | idea | lee-DAY
+example: Cette idée est intéressante. | This idea is interesting.
+vocab: l'avis | opinion | lah-VEE
+example: Quel est ton avis ? | What's your opinion?
+vocab: vrai | true | VRAY
+example: C'est vrai, je suis d'accord. | That's true; I agree.
+vocab: faux | false; wrong | FOH
+example: C'est faux. | That's false.
+vocab: peut-être | maybe | puh-TETR
+example: Peut-être qu'elle vient demain. | Maybe she'll come tomorrow.
+vocab: d'accord | in agreement | dah-KOR
+example: Nous sommes d'accord. | We agree.
+
+[grammar]
+grammar: Que after opinion verbs | Use que after penser, croire, or trouver to introduce a thought or opinion. In speech, que often becomes qu’ before a vowel, as in « Je crois qu’il… ».
+example: Je pense que le jardin est joli. | I think the garden is pretty.
+example: Je trouve que le plan est bon. | I think the plan is good.
+
+[quiz]
+quiz: What does « peut-être » mean? | maybe | wrong | to understand | A | « Peut-être » means “maybe” or “perhaps.”
+quiz: Which word means “opinion”? | l'idée | l'avis | vrai | B | « L’avis » means “opinion.”
+quiz: What does “croire” mean? | to believe | maybe | false | A | croire means “to believe”.
+quiz: What does “comprendre” mean? | maybe | to think | to understand | C | comprendre means “to understand”.
+quiz: What does “la musique” mean? | music | to dance | to do DIY | A | la musique means “music”.
