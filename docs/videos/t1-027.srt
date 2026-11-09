@@ -1,0 +1,39 @@
+1
+00:00:14,592 --> 00:00:19,772
+Salut, Marinette ! Tu arrives au café ?
+Hi, Marinette! Are you arriving at the café?
+
+2
+00:00:19,872 --> 00:00:25,172
+Oui, j'arrive. Je marche dans la rue.
+Yes, I’m on my way. I’m walking down the street.
+
+3
+00:00:25,272 --> 00:00:31,436
+Super. Nous entrons ici, puis nous montons à l'étage.
+Great. We’re going in here, then we’re going upstairs.
+
+4
+00:00:31,536 --> 00:00:38,156
+D'accord. Après, nous sortons et nous avançons vers le parc.
+Okay. Afterward, we’re going out and moving toward the park.
+
+5
+00:00:38,256 --> 00:00:43,796
+Attention, un vélo arrive ! Ne recule pas.
+Careful, a bicycle is coming! Don’t move backward.
+
+6
+00:00:43,896 --> 00:00:50,948
+Oh ! Je descends vite. Après, je rentre chez moi.
+Oh! I’m going down quickly. Afterward, I’m going home.
+
+7
+00:00:51,048 --> 00:00:55,844
+Très bien. Moi, je pars maintenant.
+Very good. I’m leaving now.
+
+8
+00:00:55,944 --> 00:00:59,060
+À demain, Adrien !
+See you tomorrow, Adrien!

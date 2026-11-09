@@ -1,0 +1,39 @@
+1
+00:00:14,832 --> 00:00:20,132
+Bonjour, Marinette ! Le trajet est long.
+Hello, Marinette! The trip is long.
+
+2
+00:00:20,232 --> 00:00:24,500
+Oui, mais le bus est rapide, pas lent.
+Yes, but the bus is fast, not slow.
+
+3
+00:00:24,600 --> 00:00:28,844
+La rue est propre, mais le trottoir est sale.
+The street is clean, but the sidewalk is dirty.
+
+4
+00:00:28,944 --> 00:00:34,412
+Le café est ouvert ? La porte est ouverte.
+Is the café open? The door is open.
+
+5
+00:00:34,512 --> 00:00:39,476
+Oui. Cette file est courte, heureusement !
+Yes. This line is short, thankfully!
+
+6
+00:00:39,576 --> 00:00:43,820
+La salle est pleine, mais la rue est vide.
+The room is full, but the street is empty.
+
+7
+00:00:43,920 --> 00:00:47,252
+Le magasin est fermé maintenant ?
+Is the shop closed now?
+
+8
+00:00:47,352 --> 00:00:50,252
+Oui, désolée.
+Yes, sorry.

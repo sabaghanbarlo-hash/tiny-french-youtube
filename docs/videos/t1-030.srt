@@ -1,0 +1,39 @@
+1
+00:00:15,024 --> 00:00:18,548
+Pour le pique-nique, j’ai peu de pain.
+For the picnic, I don’t have much bread.
+
+2
+00:00:18,648 --> 00:00:23,756
+Pas de souci, j’ai assez de fromage et quelques tomates.
+No problem, I have enough cheese and a few tomatoes.
+
+3
+00:00:23,856 --> 00:00:26,924
+Tu as plusieurs bouteilles d’eau ?
+Do you have several bottles of water?
+
+4
+00:00:27,024 --> 00:00:32,348
+Oui, une bouteille pour chacun, et une boîte de biscuits.
+Yes, one bottle for each person, and a box of cookies.
+
+5
+00:00:32,448 --> 00:00:37,052
+Super ! Mais il y a trop de jus ?
+Great! But is there too much juice?
+
+6
+00:00:37,152 --> 00:00:40,628
+Non, prends une tranche de gâteau.
+No, have a slice of cake.
+
+7
+00:00:40,728 --> 00:00:44,876
+Merci ! On partage tout ?
+Thanks! Are we sharing everything?
+
+8
+00:00:44,976 --> 00:00:49,292
+Oui, chaque ami peut choisir quelque chose.
+Yes, each friend can choose something.

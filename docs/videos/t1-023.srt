@@ -1,0 +1,39 @@
+1
+00:00:15,144 --> 00:00:20,132
+Salut, Marinette ! Je peux entrer ?
+Hi, Marinette! Can I come in?
+
+2
+00:00:20,232 --> 00:00:25,292
+Bien sûr ! La cuisine est près du salon.
+Of course! The kitchen is near the living room.
+
+3
+00:00:25,392 --> 00:00:28,364
+Et la chambre, elle est où ?
+And where is the bedroom?
+
+4
+00:00:28,464 --> 00:00:32,612
+Elle est là, avec un lit et une fenêtre.
+It's there, with a bed and a window.
+
+5
+00:00:32,712 --> 00:00:36,452
+La table et la chaise sont dans la cuisine ?
+Are the table and the chair in the kitchen?
+
+6
+00:00:36,552 --> 00:00:41,300
+Oui, et la porte de la salle de bains est ouverte.
+Yes, and the bathroom door is open.
+
+7
+00:00:41,400 --> 00:00:45,644
+Super ! Où est le coussin ?
+Great! Where is the cushion?
+
+8
+00:00:45,744 --> 00:00:48,404
+Il est sur le lit.
+It's on the bed.

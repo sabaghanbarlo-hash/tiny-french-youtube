@@ -1,0 +1,39 @@
+1
+00:00:15,288 --> 00:00:20,588
+Bonjour, Marinette ! Tu veux te promener ?
+Hello, Marinette! Do you want to go for a walk?
+
+2
+00:00:20,688 --> 00:00:23,924
+Oui, allons au parc !
+Yes, let’s go to the park!
+
+3
+00:00:24,024 --> 00:00:27,236
+Il y a un jardin près d’ici.
+There’s a garden nearby.
+
+4
+00:00:27,336 --> 00:00:33,260
+Super ! Regarde l’arbre et la nature autour de nous.
+Great! Look at the tree and the nature around us.
+
+5
+00:00:33,360 --> 00:00:37,436
+Demain, on ira à la mer et à la plage.
+Tomorrow, we’ll go to the sea and the beach.
+
+6
+00:00:37,536 --> 00:00:43,076
+D’accord. On verra aussi la montagne et la forêt.
+Okay. We’ll also see the mountain and the forest.
+
+7
+00:00:43,176 --> 00:00:47,324
+Ici, il y a un rocher sur la colline.
+Here, there’s a rock on the hill.
+
+8
+00:00:47,424 --> 00:00:52,652
+C’est magnifique ! Merci, Adrien.
+It’s beautiful! Thank you, Adrien.

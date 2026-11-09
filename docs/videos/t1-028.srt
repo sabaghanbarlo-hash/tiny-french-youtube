@@ -1,0 +1,39 @@
+1
+00:00:16,032 --> 00:00:22,364
+Salut, Marinette ! Tu peux apporter les feuilles pour notre projet ?
+Hi, Marinette! Can you bring the papers for our project?
+
+2
+00:00:22,464 --> 00:00:28,124
+Oui, bien sûr. Je prépare aussi un gâteau.
+Yes, of course. I’m also making a cake.
+
+3
+00:00:28,224 --> 00:00:34,124
+Merci ! Je vais fabriquer une maquette et construire un petit pont.
+Thanks! I’m going to make a model and build a little bridge.
+
+4
+00:00:34,224 --> 00:00:40,028
+Super ! Tu peux m’envoyer une photo quand tu as fini ?
+Great! Can you send me a photo when you’re finished?
+
+5
+00:00:40,128 --> 00:00:45,452
+Oui. Je vais te donner les plans et t’offrir un café.
+Yes. I’ll give you the plans and offer you a coffee.
+
+6
+00:00:45,552 --> 00:00:52,460
+Merci ! Je reçois les plans maintenant, et je te rends ton livre demain.
+Thanks! I’m getting the plans now, and I’ll give your book back tomorrow.
+
+7
+00:00:52,560 --> 00:00:58,772
+D’accord. J’ai obtenu du carton à l’école pour la maquette.
+Okay. I got some cardboard at school for the model.
+
+8
+00:00:58,872 --> 00:01:04,364
+Parfait ! Je t’apporte le gâteau après le cours.
+Perfect! I’ll bring you the cake after class.

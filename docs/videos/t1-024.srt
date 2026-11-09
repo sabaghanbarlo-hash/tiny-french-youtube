@@ -1,0 +1,39 @@
+1
+00:00:14,496 --> 00:00:20,204
+Bonjour, Marinette ! Tu vas à la gare en bus ?
+Hi, Marinette! Are you going to the train station by bus?
+
+2
+00:00:20,304 --> 00:00:25,220
+Oui, puis je prends le train. Et toi ?
+Yes, then I’m taking the train. And you?
+
+3
+00:00:25,320 --> 00:00:29,804
+Je vais en métro. Tu as ton billet ?
+I’m going by subway. Do you have your ticket?
+
+4
+00:00:29,904 --> 00:00:35,012
+Oui. Après, on peut louer un vélo.
+Yes. After that, we can rent a bicycle.
+
+5
+00:00:35,112 --> 00:00:40,604
+Bonne idée ! Pour aller sur l’île, on prend un bateau.
+Good idea! To go to the island, we’ll take a boat.
+
+6
+00:00:40,704 --> 00:00:46,004
+D’accord. Je peux aussi prendre un taxi.
+Okay. I can also take a taxi.
+
+7
+00:00:46,104 --> 00:00:49,412
+Et demain, tu viens en avion ?
+And tomorrow, are you coming by plane?
+
+8
+00:00:49,512 --> 00:00:53,036
+Non, je viens en scooter !
+No, I’m coming by scooter!

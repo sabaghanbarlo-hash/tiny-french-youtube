@@ -1,0 +1,39 @@
+1
+00:00:15,168 --> 00:00:20,780
+Salut, Marinette. Tu as une idée pour le projet ?
+Hi, Marinette. Do you have an idea for the project?
+
+2
+00:00:20,880 --> 00:00:25,988
+Oui. Je pense que le jardin est joli.
+Yes. I think the garden is pretty.
+
+3
+00:00:26,088 --> 00:00:29,084
+Je crois que tu as raison.
+I believe you are right.
+
+4
+00:00:29,184 --> 00:00:34,148
+Merci ! Et toi, quel est ton avis ?
+Thanks! And you, what’s your opinion?
+
+5
+00:00:34,248 --> 00:00:38,900
+Je trouve que le plan est bon, mais je ne comprends pas tout.
+I think the plan is good, but I don’t understand everything.
+
+6
+00:00:39,000 --> 00:00:44,708
+D’accord. Cette partie est peut-être un peu difficile.
+Okay. This part may be a little difficult.
+
+7
+00:00:44,808 --> 00:00:49,148
+C’est vrai. Le dessin est faux ?
+That’s true. Is the drawing wrong?
+
+8
+00:00:49,248 --> 00:00:52,508
+Non, il est correct !
+No, it’s correct!
