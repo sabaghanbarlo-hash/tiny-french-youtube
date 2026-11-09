@@ -1,0 +1,39 @@
+1
+00:00:14,496 --> 00:00:20,252
+Bonjour, Marinette ! Regarde le cercle bleu.
+Hello, Marinette! Look at the blue circle.
+
+2
+00:00:20,352 --> 00:00:25,868
+Bonjour, Adrien ! Le carré est rouge.
+Hello, Adrien! The square is red.
+
+3
+00:00:25,968 --> 00:00:30,044
+Le triangle est vert, et le cercle est rond.
+The triangle is green, and the circle is round.
+
+4
+00:00:30,144 --> 00:00:33,380
+La petite forme est jaune.
+The little shape is yellow.
+
+5
+00:00:33,480 --> 00:00:36,836
+Voilà un petit carré noir.
+Here is a little black square.
+
+6
+00:00:36,936 --> 00:00:41,780
+Merci ! Le cercle blanc est joli.
+Thanks! The white circle is pretty.
+
+7
+00:00:41,880 --> 00:00:45,284
+Tu préfères le triangle rouge ?
+Do you prefer the red triangle?
+
+8
+00:00:45,384 --> 00:00:49,244
+Oui, il est très beau, merci.
+Yes, it is very nice, thanks.

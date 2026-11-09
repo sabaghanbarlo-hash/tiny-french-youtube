@@ -1,0 +1,39 @@
+1
+00:00:14,928 --> 00:00:18,596
+Excuse-moi, où est la boulangerie ?
+Excuse me, where is the bakery?
+
+2
+00:00:18,696 --> 00:00:22,220
+Elle est là, près de la place.
+It’s there, near the square.
+
+3
+00:00:22,320 --> 00:00:25,244
+On continue tout droit ?
+Do we keep going straight ahead?
+
+4
+00:00:25,344 --> 00:00:28,628
+Oui, puis tourne à gauche.
+Yes, then turn left.
+
+5
+00:00:28,728 --> 00:00:31,748
+Le café est à droite ?
+Is the café on the right?
+
+6
+00:00:31,848 --> 00:00:36,284
+Non, il est devant le musée, pas derrière.
+No, it’s in front of the museum, not behind it.
+
+7
+00:00:36,384 --> 00:00:39,284
+La gare est loin d’ici ?
+Is the station far from here?
+
+8
+00:00:39,384 --> 00:00:44,660
+Non, elle est près d’ici. Tourne à droite.
+No, it’s near here. Turn right.

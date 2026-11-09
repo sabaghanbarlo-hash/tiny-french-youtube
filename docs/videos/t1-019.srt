@@ -1,0 +1,39 @@
+1
+00:00:15,528 --> 00:00:21,284
+Bonjour, Marinette. Tu veux du café ou du thé ?
+Hi, Marinette. Would you like coffee or tea?
+
+2
+00:00:21,384 --> 00:00:27,524
+Un thé, s’il te plaît. Et un bol de soupe, merci.
+A tea, please. And a bowl of soup, thanks.
+
+3
+00:00:27,624 --> 00:00:32,252
+Bien sûr. Tu déjeunes avec moi ?
+Of course. Are you having lunch with me?
+
+4
+00:00:32,352 --> 00:00:37,724
+Oui, avec plaisir. Le repas est prêt ?
+Yes, gladly. Is the meal ready?
+
+5
+00:00:37,824 --> 00:00:43,124
+Presque ! Il y a du jus, de la bière et du vin.
+Almost! There’s juice, beer, and wine.
+
+6
+00:00:43,224 --> 00:00:49,100
+Je prends du jus, merci. Pas de bière ni de vin.
+I’ll have juice, thanks. No beer or wine.
+
+7
+00:00:49,200 --> 00:00:56,468
+D’accord. Voici une assiette. Le repas sera délicieux !
+Okay. Here’s a plate. The meal will be delicious!
+
+8
+00:00:56,568 --> 00:01:02,060
+Merci ! Après, je prendrai un café.
+Thanks! Afterward, I’ll have a coffee.

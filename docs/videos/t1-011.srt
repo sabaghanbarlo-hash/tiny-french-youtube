@@ -1,0 +1,39 @@
+1
+00:00:14,616 --> 00:00:17,636
+Tu me montres ta famille ?
+Will you show me your family?
+
+2
+00:00:17,736 --> 00:00:22,820
+Oui, voici mes parents, mon grand-père et ma grand-mère.
+Yes, here are my parents, my grandfather, and my grandmother.
+
+3
+00:00:22,920 --> 00:00:26,252
+Cette fille, c’est ta sœur ?
+Is this girl your sister?
+
+4
+00:00:26,352 --> 00:00:31,460
+C’est ma demi-sœur, et ce garçon est mon demi-frère.
+She’s my half-sister, and this boy is my half-brother.
+
+5
+00:00:31,560 --> 00:00:35,516
+Et ce garçon, c’est ton demi-frère ?
+And this boy, is he your half-brother?
+
+6
+00:00:35,616 --> 00:00:39,284
+Oui, nous avons le même père.
+Yes, we have the same father.
+
+7
+00:00:39,384 --> 00:00:43,388
+Le mari de ta mère, c’est ton beau-père ?
+Is your mother’s husband your stepfather?
+
+8
+00:00:43,488 --> 00:00:48,692
+Oui. La femme de mon père est ma belle-mère.
+Yes. My father’s wife is my stepmother.

@@ -1,0 +1,39 @@
+1
+00:00:14,448 --> 00:00:17,420
+Tu veux acheter ce livre ?
+Do you want to buy this book?
+
+2
+00:00:17,520 --> 00:00:21,860
+Oui. Combien coûte ce livre ?
+Yes. How much does this book cost?
+
+3
+00:00:21,960 --> 00:00:24,932
+Le prix est de dix euros.
+The price is ten euros.
+
+4
+00:00:25,032 --> 00:00:32,468
+C'est un peu cher. J'ai de l'argent. Je peux payer par carte ?
+It's a little expensive. I have money. Can I pay by card?
+
+5
+00:00:32,568 --> 00:00:36,620
+Oui, le paiement par carte est possible.
+Yes, payment by card is possible.
+
+6
+00:00:36,720 --> 00:00:42,164
+Alors, je paie par carte. Et ce stylo ?
+Then, I'll pay by card. And this pen?
+
+7
+00:00:42,264 --> 00:00:44,924
+Il coûte un euro.
+It costs one euro.
+
+8
+00:00:45,024 --> 00:00:50,084
+Parfait, je prends les deux. Merci !
+Perfect, I'll take both. Thanks!

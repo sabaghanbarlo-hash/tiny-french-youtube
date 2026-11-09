@@ -1,0 +1,39 @@
+1
+00:00:15,096 --> 00:00:23,540
+Bonjour, Marinette ! Aujourd’hui, c’est samedi 13. Tu es libre lundi ?
+Hi, Marinette! Today is Saturday the 13th. Are you free Monday?
+
+2
+00:00:23,640 --> 00:00:32,492
+Bonjour, Adrien. Oui ! Le mardi, j’ai cours ; le mercredi aussi.
+Hi, Adrien. Yes! I have class on Tuesdays; on Wednesdays too.
+
+3
+00:00:32,592 --> 00:00:35,900
+Et le jeudi, tu es libre ?
+And are you free on Thursdays?
+
+4
+00:00:36,000 --> 00:00:39,836
+Non, je travaille le vendredi.
+No, I work on Fridays.
+
+5
+00:00:39,936 --> 00:00:46,076
+Alors, on se voit lundi 15 ? Après-demain, c’est lundi.
+So, shall we see each other Monday the 15th? The day after tomorrow is Monday.
+
+6
+00:00:46,176 --> 00:00:52,292
+Oui ! Le lendemain, mardi 16, j’ai cours.
+Yes! The following day, Tuesday the 16th, I have class.
+
+7
+00:00:52,392 --> 00:00:58,412
+D’accord. On prépare tout la veille, dimanche 14 ?
+Okay. Shall we prepare everything the day before, Sunday the 14th?
+
+8
+00:00:58,512 --> 00:01:04,340
+Avec plaisir ! Le samedi, je fais du vélo.
+Gladly! On Saturdays, I ride my bike.
