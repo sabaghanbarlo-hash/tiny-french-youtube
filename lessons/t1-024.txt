@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 24 · Transportation
+episode: T1-024
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu vas à la gare en bus ? | Hi, Marinette! Are you going to the train station by bus?
+Marinette: Oui, puis je prends le train. Et toi ? | Yes, then I’m taking the train. And you?
+Adrien: Je vais en métro. Tu as ton billet ? | I’m going by subway. Do you have your ticket?
+Marinette: Oui. Après, on peut louer un vélo. | Yes. After that, we can rent a bicycle.
+Adrien: Bonne idée ! Pour aller sur l’île, on prend un bateau. | Good idea! To go to the island, we’ll take a boat.
+Marinette: D’accord. Je peux aussi prendre un taxi. | Okay. I can also take a taxi.
+Adrien: Et demain, tu viens en avion ? | And tomorrow, are you coming by plane?
+Marinette: Non, je viens en scooter ! | No, I’m coming by scooter!
+
+[vocab]
+vocab: le bus | bus | luh BYOOS
+example: Le bus arrive à huit heures. | The bus arrives at eight o’clock.
+vocab: le train | train | luh TRAHN
+example: Le train part maintenant. | The train is leaving now.
+vocab: le métro | subway | luh may-TROH
+example: Je prends le métro. | I take the subway.
+vocab: le vélo | bicycle | luh vay-LOH
+example: Il va au travail à vélo. | He goes to work by bicycle.
+vocab: le taxi | taxi | luh tack-SEE
+example: Le taxi arrive bientôt. | The taxi is arriving soon.
+vocab: l’avion | plane | lah-VYOHN
+example: L’avion part à midi. | The plane leaves at noon.
+vocab: la gare | train station | lah GAHR
+example: La gare est près d’ici. | The train station is near here.
+vocab: le billet | ticket | luh bee-YAY
+example: J’achète un billet pour le train. | I’m buying a ticket for the train.
+vocab: un bateau | boat | uhn bah-TOH
+example: Le bateau arrive au port. | The boat arrives at the port.
+vocab: un scooter | scooter | uhn skoo-TEHR
+example: Je prends mon scooter. | I'm taking my scooter.
+
+[grammar]
+grammar: French articles | For singular nouns beginning with a consonant sound, use le with masculine nouns and la with feminine nouns as the definite article.
+example: Je prends le train. | I’m taking the train.
+example: Je vais à la gare. | I’m going to the train station.
+
+[quiz]
+quiz: What does le métro mean? | subway | bus | train station | A | Le métro means “the subway.”
+quiz: Which French word means “ticket”? | le vélo | le billet | un bateau | B | Le billet means “the ticket.”
+quiz: What does “la gare” mean? | scooter | taxi | train station | C | la gare means “train station”.
+quiz: What does “le métro” mean? | train | subway | taxi | B | le métro means “subway”.
+quiz: What does “l'argent” mean? | money | to buy | price | A | l'argent means “money”.
