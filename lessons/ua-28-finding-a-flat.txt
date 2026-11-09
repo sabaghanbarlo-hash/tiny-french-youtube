@@ -1,0 +1,47 @@
+title: Finding a Flat
+episode: UA28
+scene: town
+
+[story]
+Adrien: Bonjour, je cherche un appartement avec deux chambres. | Hello, I'm looking for an apartment with two bedrooms.
+Marinette: Voici une annonce : un trois-pièces de quarante mètres carrés, loyer six cents euros par mois. | Here's a listing: a three-room flat of forty square metres, rent six hundred euros a month.
+Adrien: Les charges sont comprises ? | Are the charges included?
+Marinette: Oui, charges comprises. L'appartement est à dix minutes du métro. | Yes, charges included. The flat is ten minutes from the metro.
+Adrien: Je peux le visiter demain ? | Can I visit it tomorrow?
+Marinette: Bien sûr, à quatorze heures. | Of course, at two p.m.
+
+[vocab]
+vocab: l'annonce | ad, listing | lah-NOHNSS
+example: Je lis une annonce. | I'm reading an ad.
+vocab: le loyer | rent | luh lwah-YAY
+example: Le loyer est de six cents euros. | The rent is six hundred euros.
+vocab: les charges | utility costs, fees | lay SHARZH
+example: Les charges sont comprises. | The charges are included.
+vocab: par mois | per month | pahr MWAH
+example: Six cents euros par mois. | Six hundred euros a month.
+vocab: mètres carrés | square metres | MEH-truh kah-RAY
+example: Quarante mètres carrés. | Forty square metres.
+vocab: visiter | to visit, view | vee-zee-TAY
+example: Je peux visiter l'appartement ? | Can I view the flat?
+vocab: louer | to rent | loo-AY
+example: Je veux louer un studio. | I want to rent a studio.
+vocab: meublé | furnished | muh-BLAY
+example: Un studio meublé. | A furnished studio.
+vocab: comprises | included | kohn-PREEZ
+example: Charges comprises. | Charges included.
+
+[grammar]
+grammar: Rent and numbers | Say rents with the hundreds you learned: six cents euros, huit cents euros, mille euros. Remember that cent takes an s only when it ends the number: six cents, but six cent cinquante. Add par mois to say per month.
+example: Six cents euros par mois. | Six hundred euros per month.
+example: Huit cent cinquante euros. | Eight hundred and fifty euros.
+grammar: Reading a small ad | Ads use short forms: T3 or trois-pièces, 40 m², meublé, CC, proche métro. Ask Je peux visiter ? to arrange a viewing and quand ? for the time.
+example: Un T3 de 40 m². | A three-room flat of 40 m².
+example: Charges comprises. | Charges included.
+
+[quiz]
+quiz: How do you say 600 in French? | six cent | soixante | six cents | six mille | C | Six cents when it ends the number.
+quiz: What does “charges comprises” mean? | no charges | charges extra | charges unknown | charges included | D | Comprises = included.
+quiz: What does “meublé” mean? | furnished | empty | new | cheap | A | Meublé = furnished.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
