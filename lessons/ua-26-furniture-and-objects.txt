@@ -1,0 +1,47 @@
+title: Furniture and Objects
+episode: UA26
+scene: home
+
+[story]
+Adrien: Ta chambre est comment ? | What's your bedroom like?
+Marinette: Elle est petite mais claire. Il y a un lit, une armoire et un bureau. | It's small but bright. There's a bed, a wardrobe and a desk.
+Adrien: Tu as une télé ? | Do you have a TV?
+Marinette: Non, mais j'ai un ordinateur et une lampe. | No, but I have a computer and a lamp.
+Adrien: Et une plante ? | And a plant?
+Marinette: Oui, sur le rebord de la fenêtre. | Yes, on the windowsill.
+
+[vocab]
+vocab: le lit | bed | luh LEE
+example: Le lit est grand. | The bed is big.
+vocab: l'armoire | wardrobe | lahr-MWAHR
+example: Les vêtements sont dans l'armoire. | The clothes are in the wardrobe.
+vocab: le bureau | desk, office | luh bew-ROH
+example: Mon bureau est près de la fenêtre. | My desk is near the window.
+vocab: la lampe | lamp | lah LAHMP
+example: La lampe est sur la table. | The lamp is on the table.
+vocab: l'ordinateur | computer | lohr-dee-nah-TUHR
+example: J'ai un nouvel ordinateur. | I have a new computer.
+vocab: la fenêtre | window | lah fuh-NEH-truh
+example: La fenêtre est ouverte. | The window is open.
+vocab: le canapé | sofa | luh kah-nah-PAY
+example: Le canapé est confortable. | The sofa is comfortable.
+vocab: la plante | plant | lah PLAHNT
+example: J'ai une plante verte. | I have a green plant.
+vocab: clair / claire | bright, light | KLEHR
+example: La chambre est claire. | The room is bright.
+
+[grammar]
+grammar: Il y a with furniture | To describe a room, use il y a plus un, une, des: il y a un lit, il y a une armoire. Add position words to be precise: il y a un bureau devant la fenêtre. For a negative, remember de: il n'y a pas de télé.
+example: Il y a un lit et un bureau. | There's a bed and a desk.
+example: Il n'y a pas de télé. | There is no TV.
+grammar: Describing a room | Ask Ta chambre est comment ? and answer with être plus adjective: elle est petite, claire, grande, calme. Link ideas with mais and et: petite mais claire.
+example: Elle est petite mais claire. | It's small but bright.
+example: Le salon est grand et calme. | The living room is big and quiet.
+
+[quiz]
+quiz: How do you say “There's a lamp”? | Il y a une lampe. | Il est une lampe. | C'est y a une lampe. | Il a lampe. | A | Il y a.
+quiz: What does “claire” mean? | small | bright | old | dark | B | Clair = bright.
+quiz: Which sentence is correct for a bedroom? | Il est petite mais claire. | Elle est petit mais claire. | Elle est petite mais claire. | Elle petite mais claire. | C | Chambre is feminine.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
