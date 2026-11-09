@@ -1,0 +1,48 @@
+title: My First Interview
+episode: UA40
+scene: classroom
+
+[story]
+Marinette: Parlez-moi de vous, s'il vous plaît. | Tell me about yourself, please.
+Adrien: Je m'appelle Adrien, j'ai vingt ans et j'étudie le tourisme. J'aime voyager et parler avec les gens. | My name is Adrien, I'm twenty and I study tourism. I like travelling and talking with people.
+Marinette: Vous parlez quelles langues ? | Which languages do you speak?
+Adrien: Je parle français, anglais et un peu espagnol. | I speak French, English and a little Spanish.
+Marinette: Vous habitez où ? | Where do you live?
+Adrien: J'habite à Lyon, près de la gare. Je peux commencer dès lundi prochain. | I live in Lyon, near the station. I can start from next Monday.
+Marinette: Parfait. Nous allons vous rappeler. Merci et bonne journée ! | Perfect. We'll call you back. Thank you and have a nice day!
+
+[vocab]
+vocab: l'entretien | interview | lahn-truh-TYAN
+example: J'ai un entretien demain. | I have an interview tomorrow.
+vocab: parler de soi | to talk about oneself | pahr-LAY duh SWAH
+example: Parlez-moi de vous. | Tell me about yourself.
+vocab: étudier | to study | ay-tew-DYAY
+example: J'étudie le tourisme. | I study tourism.
+vocab: voyager | to travel | vwah-yah-ZHAY
+example: J'aime voyager. | I like to travel.
+vocab: la langue | language | lah LAHNG
+example: Je parle trois langues. | I speak three languages.
+vocab: le stage | internship | luh STAHZH
+example: Je cherche un stage. | I'm looking for an internship.
+vocab: l'expérience | experience | lehk-spay-RYAHNSS
+example: J'ai peu d'expérience. | I have little experience.
+vocab: dès lundi | from Monday | deh lun-DEE
+example: Je peux commencer dès lundi. | I can start from Monday.
+vocab: les gens | people | lay ZHAHN
+example: J'aime parler avec les gens. | I like talking with people.
+
+[grammar]
+grammar: Talking about yourself in A1 | A short self-introduction uses everything you have learned: Je m'appelle, j'ai ans, j'habite à, j'étudie / je travaille, j'aime plus infinitive. Add je parle plus language: je parle français, je parle un peu anglais.
+example: Je parle français et anglais. | I speak French and English.
+example: J'aime voyager. | I like to travel.
+grammar: When can you start? | Say Je peux commencer plus time word: dès lundi, demain, la semaine prochaine. Ask politely Quand pouvez-vous commencer ? Remember vous for an employer. Use dès for from on: dès lundi, dès demain.
+example: Je peux commencer dès lundi. | I can start from Monday.
+example: Quand pouvez-vous commencer ? | When can you start?
+
+[quiz]
+quiz: How do you say “I speak French and English”? | Je parles français et anglais. | Je parle le français et l'anglais. | Je parle français et anglais. | Je suis français et anglais. | C | Je parle + language.
+quiz: What does “dès lundi” mean? | every Monday | last Monday | on Monday morning | from Monday | D | Dès = from.
+quiz: Which question does a polite interviewer ask? | Quand pouvez-vous commencer ? | Quand tu peux commencer ? | Quand je peux commencer ? | Quand pouvons-tu commencer ? | A | Vous in a formal setting.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
