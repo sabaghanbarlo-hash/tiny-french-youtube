@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 27 · Verbs of movement
+episode: T1-027
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu arrives au café ? | Hi, Marinette! Are you arriving at the café?
+Marinette: Oui, j'arrive. Je marche dans la rue. | Yes, I’m on my way. I’m walking down the street.
+Adrien: Super. Nous entrons ici, puis nous montons à l'étage. | Great. We’re going in here, then we’re going upstairs.
+Marinette: D'accord. Après, nous sortons et nous avançons vers le parc. | Okay. Afterward, we’re going out and moving toward the park.
+Adrien: Attention, un vélo arrive ! Ne recule pas. | Careful, a bicycle is coming! Don’t move backward.
+Marinette: Oh ! Je descends vite. Après, je rentre chez moi. | Oh! I’m going down quickly. Afterward, I’m going home.
+Adrien: Très bien. Moi, je pars maintenant. | Very good. I’m leaving now.
+Marinette: À demain, Adrien ! | See you tomorrow, Adrien!
+
+[vocab]
+vocab: partir | to leave | par-TEER
+example: Nous partons demain matin. | We’re leaving tomorrow morning.
+vocab: arriver | to arrive | ah-ree-VAY
+example: Le train arrive à midi. | The train arrives at noon.
+vocab: entrer | to enter | ahn-TRAY
+example: Elle entre dans la classe. | She enters the classroom.
+vocab: sortir | to go out | sor-TEER
+example: Il sort avec ses amis. | He goes out with his friends.
+vocab: marcher | to walk | mar-SHAY
+example: Nous marchons dans le parc. | We walk in the park.
+vocab: rentrer | to return home | rahn-TRAY
+example: Je rentre chez moi. | I’m going home.
+vocab: monter | to go up | mohn-TAY
+example: Je monte les escaliers. | I go up the stairs.
+vocab: descendre | to go down | day-SAHN-druh
+example: Elle descend du bus. | She gets off the bus.
+vocab: avancer | to move forward | ah-vahn-SAY
+example: Avance jusqu'à la porte, s'il te plaît. | Move forward to the door, please.
+vocab: reculer | to move backward | ruh-kew-LAY
+example: La voiture recule doucement. | The car moves backward slowly.
+
+[grammar]
+grammar: Present tense of -er verbs | Many French verbs ending in -er use the present-tense ending -e with je and -es with tu. Remove -er from the infinitive, then add the ending: marcher becomes je marche and tu marches.
+example: Je marche dans la rue. | I walk in the street.
+example: Tu arrives au café. | You arrive at the café.
+
+[quiz]
+quiz: Which verb means “to leave”? | partir | arriver | entrer | A | Partir means to leave or set off.
+quiz: What does “Nous montons à l'étage” mean? | We go downstairs. | We go upstairs. | We go outside. | B | Monter means to go up.
+quiz: What does “descendre” mean? | to go down | to return home | to move forward | A | descendre means “to go down”.
+quiz: What does “marcher” mean? | to walk | to go down | to arrive | A | marcher means “to walk”.
+quiz: What does “le billet” mean? | train | taxi | ticket | C | le billet means “ticket”.
