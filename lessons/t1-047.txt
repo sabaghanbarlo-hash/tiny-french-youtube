@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 47 · Health and sickness
+episode: T1-047
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette. Tu as l'air malade. | Hi, Marinette. You look sick.
+Marinette: Oui, j'ai un rhume et de la fièvre. | Yes, I have a cold and a fever.
+Adrien: Tu tousses beaucoup ? | Are you coughing a lot?
+Marinette: Oui, je tousse beaucoup et j'ai mal au dos. | Yes, I'm coughing a lot and my back hurts.
+Adrien: Tu as pris un médicament ? | Did you take any medicine?
+Marinette: Oui, mais je viens d'éternuer. | Yes, but I just sneezed.
+Adrien: Repose-toi : la santé, c'est important. Tu vas guérir bientôt. | Get some rest: health is important. You'll recover soon.
+Marinette: Merci ! J'espère que je ne vais pas vomir. | Thanks! I hope I'm not going to vomit.
+
+[vocab]
+vocab: la santé | health | lah sahn-TAY
+example: La santé compte. | Health matters.
+vocab: un médicament | medicine | uhn may-dee-kah-MAHN
+example: Un médicament calme la douleur. | A medicine eases the pain.
+vocab: la fièvre | fever | lah FYEVR
+example: La fièvre augmente. | The fever rises.
+vocab: tousser | to cough | too-SAY
+example: Le bébé tousse. | The baby coughs.
+vocab: guérir | to recover | geh-REER
+example: Guérir reste possible. | Recovery is still possible.
+vocab: la douleur | pain | lah doo-LUHR
+example: La douleur disparaît. | The pain disappears.
+vocab: éternuer | to sneeze | ay-tehr-NWEH
+example: Il faut éternuer dans son coude. | You should sneeze into your elbow.
+vocab: vomir | to vomit | voh-MEER
+example: Je vais vomir. | I’m going to vomit.
+vocab: la toux | cough | TOO
+example: La toux me réveille. | The cough wakes me up.
+vocab: le rhume | common cold | ROOM
+example: J’ai attrapé un rhume. | I caught a cold.
+
+[grammar]
+grammar: Using avoir for illness | French often uses avoir (to have) to talk about being sick or having a symptom. The noun phrase takes the article required by the expression: un rhume, de la fièvre, or une toux.
+example: J'ai un rhume. | I have a cold.
+example: Elle a de la fièvre. | She has a fever.
+
+[quiz]
+quiz: What does un médicament mean? | a cough | medicine | a cold | B | Un médicament is a medicine or medication.
+quiz: Which French verb means “to cough”? | tousser | guérir | éternuer | A | Tousser means “to cough.”
+quiz: What does “la douleur” mean? | pain | common cold | health | A | la douleur means “pain”.
+quiz: What does “un médicament” mean? | to vomit | medicine | to sneeze | B | un médicament means “medicine”.
+quiz: What does “le chargeur” mean? | website | keyboard | charger | C | le chargeur means “charger”.
