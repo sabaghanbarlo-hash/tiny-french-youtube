@@ -1,0 +1,47 @@
+title: Getting There
+episode: UA36
+scene: station
+
+[story]
+Marinette: Le train pour Nice part de quelle voie ? | Which platform does the train to Nice leave from?
+Adrien: Voie six, à neuf heures dix. | Platform six, at 9:10.
+Marinette: Un aller simple ou un aller-retour ? | A one-way or a return?
+Adrien: Un aller-retour, en deuxième classe. | A return, in second class.
+Marinette: À quelle heure est l'arrivée ? | What time is the arrival?
+Adrien: À dix-sept heures. Mais attention, le train est en retard ! | At five p.m. But watch out, the train is late!
+
+[vocab]
+vocab: le billet | ticket | luh bee-YEH
+example: Un billet pour Nice, s'il vous plaît. | A ticket to Nice, please.
+vocab: un aller simple | a one-way ticket | uhn ah-LAY SAN-pluh
+example: Un aller simple pour Lyon. | A one-way ticket to Lyon.
+vocab: un aller-retour | a return ticket | uhn ah-LAY ruh-TOOR
+example: Un aller-retour, s'il vous plaît. | A return ticket, please.
+vocab: la voie | platform, track | lah VWAH
+example: Le train part voie six. | The train leaves from platform six.
+vocab: le départ | departure | luh day-PAHR
+example: Le départ est à neuf heures. | Departure is at nine.
+vocab: l'arrivée | arrival | lah-ree-VAY
+example: L'arrivée est à dix-sept heures. | Arrival is at five p.m.
+vocab: la valise | suitcase | lah vah-LEEZ
+example: Ma valise est lourde. | My suitcase is heavy.
+vocab: en retard | late | ahn ruh-TAHR
+example: Le train est en retard. | The train is late.
+vocab: la classe | class (travel) | lah KLAHSS
+example: En deuxième classe. | In second class.
+
+[grammar]
+grammar: Ordering a ticket | Use Je voudrais or Un billet pour to ask: Un aller-retour pour Nice, s'il vous plaît. Specify the class with en première classe or en deuxième classe. The clerk may ask Vous voulez un aller simple ou un aller-retour ?
+example: Un aller simple pour Lyon. | A one-way ticket to Lyon.
+example: Je voudrais un aller-retour. | I'd like a return ticket.
+grammar: Times for departure and arrival | Use à plus time: le train part à neuf heures dix, il arrive à dix-sept heures. Say the platform with voie plus number: voie six. For late, use en retard; for on time, à l'heure.
+example: Le train part à neuf heures dix. | The train leaves at 9:10.
+example: Il est à l'heure. | It's on time.
+
+[quiz]
+quiz: Which ticket do you ask for if you come back the same day? | un aller simple | un abonnement | un aller-retour | un ticket de métro | C | Aller-retour = return.
+quiz: What does “voie six” mean? | six seats | six tickets | six trains | platform six | D | Voie = platform.
+quiz: What does “l'arrivée” mean? | arrival | departure | delay | ticket | A | Arrivée = arrival.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
