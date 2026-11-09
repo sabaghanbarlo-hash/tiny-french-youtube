@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 31 · Feelings and emotions
+episode: T1-031
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Je suis heureux de te voir. | Hi, Marinette! I’m happy to see you.
+Marinette: Salut, Adrien ! Moi, je suis contente, mais fatiguée. | Hi, Adrien! I’m happy, but tired.
+Adrien: Tu as l’air inquiète. Tu as peur du contrôle ? | You seem worried. Are you afraid of the test?
+Marinette: Oui, je suis inquiète et un peu stressée. | Yes, I’m worried and a little stressed.
+Adrien: Je comprends. Moi, je suis stressé, mais pas triste. | I understand. I’m stressed, but not sad.
+Marinette: Tu es en colère à cause du contrôle ? | Are you angry about the test?
+Adrien: Non, j’aime réviser, mais je déteste attendre les résultats. | No, I like studying, but I hate waiting for the results.
+Marinette: Alors, respire ! Je suis contente pour toi. Ça va aller. | Then take a breath! I’m happy for you. It’ll be okay.
+
+[vocab]
+vocab: heureux | happy | uh-RUH
+example: Je suis heureux aujourd'hui. | I am happy today.
+vocab: triste | sad | TREEST
+example: Elle est triste ce soir. | She is sad tonight.
+vocab: content | glad, happy | kohn-TAHN
+example: Il est content. | He is happy.
+vocab: fatigué | tired | fa-tee-GAY
+example: Je suis fatigué après le sport. | I am tired after sports.
+vocab: inquiet | worried | an-kee-AY
+example: Il est inquiet pour sa sœur. | He is worried about his sister.
+vocab: stressé | stressed | stray-SAY
+example: Je suis stressé avant le départ. | I am stressed before leaving.
+vocab: la peur | fear | lah PUHR
+example: J'ai peur du noir. | I'm afraid of the dark.
+vocab: la colère | anger | lah koh-LAIR
+example: Sa colère est visible. | His anger is visible.
+vocab: aimer | to like, love | eh-MAY
+example: J'aime cette chanson. | I love this song.
+vocab: détester | to hate | day-tes-TAY
+example: Je déteste attendre. | I hate waiting.
+
+[grammar]
+grammar: Adjective agreement | French adjectives often change to match the gender of the person they describe. The feminine form often has a different ending, as with heureux and heureuse or content and contente.
+example: Adrien est heureux. | Adrien is happy.
+example: Marinette est contente. | Marinette is glad.
+
+[quiz]
+quiz: What does heureux mean? | sad | happy | tired | B | Heureux means happy.
+quiz: Which sentence means “I hate waiting”? | Je déteste attendre. | J’aime attendre. | Je suis fatigué. | A | Détester means to hate, and attendre means to wait.
+quiz: What does “heureux” mean? | tired | worried | happy | C | heureux means “happy”.
+quiz: What does “la colère” mean? | fear | tired | anger | C | la colère means “anger”.
+quiz: What does “offrir” mean? | to prepare | to offer | to make | B | offrir means “to offer”.
