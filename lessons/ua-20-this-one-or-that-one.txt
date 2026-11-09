@@ -1,0 +1,47 @@
+title: This One or That One?
+episode: UA20
+scene: store
+
+[story]
+Marinette: Tu préfères ce pull ou cette veste ? | Do you prefer this jumper or this jacket?
+Adrien: J'aime bien cette veste, mais elle est un peu chère. | I quite like this jacket, but it's a bit expensive.
+Marinette: Et ces chaussures ? Elles sont plus confortables que tes bottes. | And these shoes? They're more comfortable than your boots.
+Adrien: Elles sont jolies, mais trop petites pour moi. | They're pretty, but too small for me.
+Marinette: Alors prends cet imperméable. Il est très pratique ! | Then take this raincoat. It's very practical!
+Adrien: Bonne idée, il me plaît beaucoup. | Good idea, I like it a lot.
+
+[vocab]
+vocab: ce, cet | this (masculine) | SUH, SEHT
+example: Ce pull est joli. Cet imperméable est pratique. | This jumper is pretty. This raincoat is practical.
+vocab: cette | this (feminine) | SEHT
+example: J'aime bien cette veste. | I quite like this jacket.
+vocab: ces | these | SAY
+example: Ces chaussures sont jolies. | These shoes are pretty.
+vocab: joli / jolie | pretty, nice | zhoh-LEE
+example: Quelle jolie robe ! | What a pretty dress!
+vocab: moche | ugly | MOHSH
+example: Ces bottes sont moches. | These boots are ugly.
+vocab: pratique | practical | prah-TEEK
+example: Cet imperméable est pratique. | This raincoat is practical.
+vocab: confortable | comfortable | kohn-fohr-TAH-bluh
+example: Ces chaussures sont confortables. | These shoes are comfortable.
+vocab: trop | too (much) | TROH
+example: C'est trop petit. | It's too small.
+vocab: plus… que | more… than | plew… kuh
+example: Cette veste est plus chère que ce pull. | This jacket is more expensive than this jumper.
+
+[grammar]
+grammar: Ce, cet, cette, ces | This / these changes with the noun: ce plus masculine, cet plus masculine starting with a vowel, cette plus feminine, ces plus plural. To be specific, add -ci and -là: ce pull-ci, cette veste-là.
+example: Ce pull est joli. | This jumper is pretty.
+example: Cette veste est chère. | This jacket is expensive.
+grammar: Trop, très, assez, un peu | These words go before the adjective to change its strength: très grand, assez grand, un peu grand, trop grand. To compare, use plus que or moins que: plus cher que, moins cher que.
+example: C'est trop petit. | It's too small.
+example: Cette veste est plus chère que ce pull. | This jacket is more expensive than this jumper.
+
+[quiz]
+quiz: Which is correct? | ce imperméable | cette imperméable | cet imperméable | ces imperméable | C | Cet before a vowel.
+quiz: What does “trop petit” mean? | very small | quite small | a bit small | too small | D | Trop = too.
+quiz: Which sentence says “more expensive than”? | plus cher que | moins cher que | très cher que | aussi cher | A | Plus… que.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
