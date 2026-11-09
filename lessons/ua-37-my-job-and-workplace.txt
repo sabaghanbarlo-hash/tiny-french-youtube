@@ -1,0 +1,47 @@
+title: My Job and Workplace
+episode: UA37
+scene: terrace
+
+[story]
+Marinette: Tu travailles où ? | Where do you work?
+Adrien: Je travaille dans une agence de voyage, au centre-ville. | I work in a travel agency in the town centre.
+Marinette: C'est comment, ton travail ? | What's your job like?
+Adrien: C'est intéressant, mais il y a beaucoup de réunions. Mes collègues sont sympas. | It's interesting, but there are lots of meetings. My colleagues are nice.
+Marinette: Tu travailles combien d'heures par semaine ? | How many hours a week do you work?
+Adrien: Trente-cinq heures. Et mon patron est très gentil. | Thirty-five hours. And my boss is very kind.
+
+[vocab]
+vocab: l'agence de voyage | travel agency | lah-ZHAHNSS duh vwah-YAHZH
+example: Je travaille dans une agence de voyage. | I work in a travel agency.
+vocab: le collègue / la collègue | colleague | luh koh-LEHG
+example: Mes collègues sont sympas. | My colleagues are nice.
+vocab: la réunion | meeting | lah ray-ew-NYOHN
+example: J'ai une réunion à dix heures. | I have a meeting at ten.
+vocab: le patron / la patronne | boss | luh pah-TROHN
+example: Mon patron est gentil. | My boss is kind.
+vocab: le travail | work, job | luh trah-VAHY
+example: Mon travail est intéressant. | My job is interesting.
+vocab: intéressant / intéressante | interesting | an-tay-reh-SAHN
+example: Le travail est intéressant. | The job is interesting.
+vocab: fatigant / fatigante | tiring | fah-tee-GAHN
+example: Le travail est fatigant. | The job is tiring.
+vocab: l'heure | hour, time | LUHR
+example: Trente-cinq heures par semaine. | Thirty-five hours a week.
+vocab: combien de | how much, how many | kohn-BYAN duh
+example: Combien d'heures ? | How many hours?
+
+[grammar]
+grammar: Where do you work? | Use dans for a place inside which you work, à for a town or a named place and chez for a company or a person. Ask Tu travailles où ?
+example: Je travaille dans une agence. | I work in an agency.
+example: Elle travaille chez Renault. | She works at Renault.
+grammar: Son, sa, ses | His / her changes with the noun, not with the owner: son plus masculine, sa plus feminine, ses plus plural. Before a vowel use son: son amie. Compare with mon, ma, mes from Unit 2.
+example: Son patron est gentil. | His / her boss is kind.
+example: Ses collègues sont sympas. | His / her colleagues are nice.
+
+[quiz]
+quiz: Which sentence is correct? | Je travaille à une agence. | Je travaille dans une agence. | Je travaille en une agence. | Je travaille chez une agence. | B | Dans = inside.
+quiz: What does “fatigant” mean? | tired | fascinating | tiring | boring | C | Fatigant = tiring.
+quiz: What does “Tu travailles où ?” ask? | When do you work? | What do you do? | Who do you work with? | Where do you work? | D | Où = where.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
