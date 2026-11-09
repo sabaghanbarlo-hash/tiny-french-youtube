@@ -1,0 +1,54 @@
+title: What Do You Do?
+episode: UA3
+scene: home
+
+[story]
+Adrien: Qu'est-ce que tu fais dans la vie, Marinette ? | What do you do for a living, Marinette?
+Marinette: Je suis étudiante. Et toi ? | I'm a student. And you?
+Adrien: Moi, je suis serveur dans un café. Mon frère est ingénieur. | I'm a waiter in a café. My brother is an engineer.
+Marinette: Et ta mère ? Elle travaille ? | And your mother? Does she work?
+Adrien: Oui, elle est infirmière à l'hôpital. | Yes, she's a nurse at the hospital.
+Marinette: C'est un beau métier ! | That's a great job!
+Adrien: Oui, mais elle travaille beaucoup. | Yes, but she works a lot.
+
+[vocab]
+vocab: qu'est-ce que tu fais dans la vie ? | what do you do for a living? | kehs-kuh too FEH dahn lah VEE
+example: Qu'est-ce que tu fais dans la vie ? | What do you do for a living?
+vocab: étudiant / étudiante | student | ay-tew-DYAHN / ay-tew-DYAHNT
+example: Je suis étudiante. | I'm a student.
+vocab: serveur / serveuse | waiter / waitress | sehr-VUHR / sehr-VUHZ
+example: Il est serveur. | He is a waiter.
+vocab: ingénieur / ingénieure | engineer | an-zhay-NYUHR
+example: Mon frère est ingénieur. | My brother is an engineer.
+vocab: infirmier / infirmière | nurse | an-feer-MYAY / an-feer-MYEHR
+example: Elle est infirmière. | She is a nurse.
+vocab: professeur | teacher | proh-feh-SUHR
+example: Marie est professeur. | Marie is a teacher.
+vocab: médecin | doctor | mayd-SAN
+example: Il est médecin. | He is a doctor.
+vocab: boulanger / boulangère | baker | boo-lahn-ZHAY / boo-lahn-ZHEHR
+example: Elle est boulangère. | She is a baker.
+vocab: travailler | to work | trah-vah-YAY
+example: Je travaille à Paris. | I work in Paris.
+vocab: le métier | job, profession | luh may-TYAY
+example: C'est un beau métier. | It's a great job.
+
+[grammar]
+grammar: No article after être | To say your job, French does not use un or une after je suis, tu es, il est: Je suis étudiante, Il est serveur. The sentence sounds like "I am student". If you add an adjective, you can use c'est un: C'est un beau métier.
+example: Je suis professeur. | I'm a teacher.
+example: Elle est infirmière. | She is a nurse.
+grammar: Jobs: masculine and feminine | Many jobs add -e for a woman. Jobs ending in -ier become -ière. Jobs ending in -eur often become -euse. Some, like professeur and médecin, stay the same.
+example: Il est boulanger. | He is a baker.
+example: Elle est boulangère. | She is a baker.
+grammar: Asking about work | Ask Qu'est-ce que tu fais dans la vie ? or Qu'est-ce que vous faites dans la vie ?. You can also ask Tu travailles où ? to find out where someone works.
+example: Tu travailles où ? | Where do you work?
+example: Je travaille à l'hôpital. | I work at the hospital.
+
+[quiz]
+quiz: Which sentence is correct? | Je suis une étudiante. | Je suis étudiante. | Je suis étudiants. | Je étudiante. | B | No article after je suis + job.
+quiz: What does “Qu'est-ce que tu fais dans la vie ?” ask? | Where do you live? | What is your name? | What do you do for a living? | How old are you? | C | Dans la vie = for a living.
+quiz: What is the feminine of “serveur”? | serveure | serveuer | serveuse-e | serveuse | D | -eur often becomes -euse.
+quiz: Which job title stays the same for men and women? | professeur | boulanger | étudiant | infirmier | A | Professeur does not change.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
