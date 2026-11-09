@@ -1,0 +1,54 @@
+title: Where Are You From?
+episode: UA2
+scene: terrace
+
+[story]
+Adrien: Tu es d'où, Marinette ? | Where are you from, Marinette?
+Marinette: Je suis de Paris. Je suis française. Et toi ? | I'm from Paris. I'm French. And you?
+Adrien: Moi aussi, je suis français. Mais ma mère est italienne. | Me too, I'm French. But my mother is Italian.
+Marinette: Elle habite en Italie ? | Does she live in Italy?
+Adrien: Non, elle habite à Lyon. Et toi, tu habites où ? | No, she lives in Lyon. And you, where do you live?
+Marinette: J'habite à Paris, dans un petit appartement. | I live in Paris, in a small apartment.
+Adrien: Super ! Moi, j'habite à Lyon avec ma mère. | Great! I live in Lyon with my mother.
+
+[vocab]
+vocab: tu es d'où ? | where are you from? | too eh DOO
+example: Tu es d'où ? | Where are you from?
+vocab: je suis de… | I'm from… | zhuh swee DUH
+example: Je suis de Paris. | I'm from Paris.
+vocab: français / française | French | frahn-SEH / frahn-SEHZ
+example: Elle est française. | She is French.
+vocab: italien / italienne | Italian | ee-tah-LYAN / ee-tah-LYEHN
+example: Ma mère est italienne. | My mother is Italian.
+vocab: espagnol / espagnole | Spanish | ehs-pah-NYOHL
+example: Il est espagnol. | He is Spanish.
+vocab: américain / américaine | American | ah-may-ree-KAN / ah-may-ree-KEHN
+example: Je suis américain. | I'm American.
+vocab: japonais / japonaise | Japanese | zhah-poh-NEH / zhah-poh-NEHZ
+example: Elle est japonaise. | She is Japanese.
+vocab: habiter | to live (in a place) | ah-bee-TAY
+example: J'habite à Lyon. | I live in Lyon.
+vocab: la France | France | lah FRAHNSS
+example: J'habite en France. | I live in France.
+vocab: l'Italie | Italy | lee-tah-LEE
+example: Elle habite en Italie. | She lives in Italy.
+
+[grammar]
+grammar: Nationality: masculine and feminine | Most nationalities add -e for a woman: français becomes française, espagnol becomes espagnole. Words ending in -ien add -ne and words ending in -ais add -e. Nationalities are written with a small letter.
+example: Il est français. | He is French.
+example: Elle est italienne. | She is Italian.
+grammar: Je suis de… (origin) | Use de before a city or a country to say where you come from. Before a vowel it becomes d'. Ask with Tu es d'où ? or, more formally, Vous êtes d'où ?
+example: Je suis de Paris. | I'm from Paris.
+example: Je suis d'Italie. | I'm from Italy.
+grammar: J'habite à… or en…? | Use à with a city and en with a feminine country: j'habite à Lyon, j'habite en France, j'habite en Italie. The verb habiter starts with a silent h, so je becomes j'.
+example: J'habite à Paris. | I live in Paris.
+example: Elle habite en Italie. | She lives in Italy.
+
+[quiz]
+quiz: How do you say “I'm from Paris”? | J'habite de Paris. | Je suis de Paris. | Je suis à Paris. | Tu es de Paris. | B | Je suis de + place = I'm from.
+quiz: Marinette is a woman from France. She says… | Je suis français. | Je suis francais. | Je suis française. | Je suis françaises. | C | Add -e for a woman: française.
+quiz: Which sentence is correct? | Elle habite en Lyon. | Elle habite de Lyon. | Elle habites à Lyon. | Elle habite à Lyon. | D | Use à before a city.
+quiz: What does “Tu es d'où ?” ask? | Where are you from? | How old are you? | What is your name? | Where do you live? | A | D'où = from where.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
