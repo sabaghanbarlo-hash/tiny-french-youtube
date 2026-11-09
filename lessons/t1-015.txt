@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 15 · Body parts
+episode: T1-015
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Ça va ? | Hello, Marinette. How are you?
+Marinette: Très bien, merci ! On révise le corps ? | Very well, thanks! Shall we review the body?
+Adrien: Oui. La tête, les yeux, le nez et la bouche. | Yes. The head, the eyes, the nose, and the mouth.
+Marinette: Et l'oreille ? J'ai deux oreilles ! | And the ear? I have two ears!
+Adrien: Exactement. Voici ma main et mon bras. | Exactly. Here are my hand and my arm.
+Marinette: Je montre ma jambe et mon pied. | I show my leg and my foot.
+Adrien: Super ! Tu connais bien le corps. | Great! You know the body well.
+Marinette: Merci, Adrien. À bientôt ! | Thanks, Adrien. See you soon!
+
+[vocab]
+vocab: le corps | body | luh KOR
+example: Le corps humain est très complexe. | The human body is very complex.
+vocab: la tête | head | lah TET
+example: Elle tourne la tête. | She turns her head.
+vocab: les yeux | eyes | lay ZYUH
+example: J'ai les yeux bleus. | I have blue eyes.
+vocab: le nez | nose | luh NAY
+example: Il a le nez froid. | His nose is cold.
+vocab: la bouche | mouth | lah BOOSH
+example: La bouche est ouverte. | The mouth is open.
+vocab: l'oreille | ear | lor-AY
+example: J'ai mal à l'oreille. | My ear hurts.
+vocab: la main | hand | lah MAHN
+example: Elle lève la main. | She raises her hand.
+vocab: le bras | arm | luh BRAH
+example: Il lève le bras. | He raises his arm.
+vocab: la jambe | leg | lah ZHAHMB
+example: Ma jambe me fait mal. | My leg hurts.
+vocab: le pied | foot | luh PYAY
+example: J'ai mal au pied. | My foot hurts.
+
+[grammar]
+grammar: Definite articles | French nouns usually appear with an article like le, la, or les. Use l' before a vowel sound, as in l'oreille.
+example: Le nez est petit. | The nose is small.
+example: Les yeux sont bleus. | The eyes are blue.
+
+[quiz]
+quiz: What does « la bouche » mean? | mouth | nose | head | A | « La bouche » means “the mouth.”
+quiz: What does « le pied » mean? | hand | foot | arm | B | « Le pied » means “the foot.”
+quiz: What does “le nez” mean? | hand | mouth | nose | C | le nez means “nose”.
+quiz: What does “le corps” mean? | body | head | hand | A | le corps means “body”.
+quiz: What does “s’habiller” mean? | to brush | to get dressed | to sleep | B | s’habiller means “to get dressed”.
