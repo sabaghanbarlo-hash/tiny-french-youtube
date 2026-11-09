@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 52 · Events and plans
+episode: T1-052
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu viens à ma fête d’anniversaire ce week-end ? | Hi, Marinette! Are you coming to my birthday party this weekend?
+Marinette: Oui, merci de m’inviter ! On peut organiser une sortie ensemble ? | Yes, thanks for inviting me! Can we organize an outing together?
+Adrien: Bonne idée ! On commence au café samedi ? | Good idea! Shall we start at the café on Saturday?
+Marinette: D’accord. J’ai un plan : on visite le parc après le café. | Okay. I have a plan: we’ll visit the park after the café.
+Adrien: Super ! La fête commence à trois heures chez moi. | Great! The party starts at three o’clock at my place.
+Marinette: Parfait. Si tu es malade, on peut annuler la sortie ? | Perfect. If you’re sick, can we cancel the outing?
+Adrien: Oui, bien sûr. Mais j’espère qu’on peut y aller ! | Yes, of course. But I hope we can go!
+Marinette: Moi aussi ! À samedi, Adrien ! | Me too! See you Saturday, Adrien!
+
+[vocab]
+vocab: la fête | party; celebration | FET
+example: Nous faisons la fête ce week-end. | We’re having a party this weekend.
+vocab: l’anniversaire | birthday | ah-nee-vair-SAIR
+example: Mon anniversaire est en juin. | My birthday is in June.
+vocab: le week-end | weekend | week-END
+example: On part ce week-end. | We’re leaving this weekend.
+vocab: inviter | to invite | ahn-vee-TAY
+example: J’invite mes amis à la fête. | I’m inviting my friends to the party.
+vocab: organiser | to organize | or-gah-nee-ZAY
+example: Nous organisons une fête. | We’re organizing a party.
+vocab: commencer | to start; begin | koh-mahn-SAY
+example: Le concert commence à huit heures. | The concert starts at eight.
+vocab: ensemble | together | ahn-SAHMBL
+example: On danse ensemble. | We’re dancing together.
+vocab: annuler | to cancel | ah-new-LAY
+example: Je dois annuler notre sortie. | I have to cancel our outing.
+vocab: une sortie | an outing | ewn sor-TEE
+example: La sortie est samedi. | The outing is on Saturday.
+vocab: un plan | a plan | uhn PLAHN
+example: Quel est ton plan pour demain ? | What’s your plan for tomorrow?
+
+[grammar]
+grammar: Pouvoir + infinitive | In French, pouvoir (can or to be able to) is followed by a verb in its infinitive form. The infinitive keeps its ending, as in organiser or annuler.
+example: On peut organiser une sortie. | We can organize an outing.
+example: On peut annuler la sortie. | We can cancel the outing.
+
+[quiz]
+quiz: What does inviter mean? | to invite | to cancel | to begin | A | Inviter means “to invite.”
+quiz: What does le week-end mean? | the birthday | the weekend | the outing | B | Le week-end means “the weekend.”
+quiz: What does “organiser” mean? | to organize | birthday | together | A | organiser means “to organize”.
+quiz: What does “la fête” mean? | to start | party | to invite | B | la fête means “party”.
+quiz: What does “retirer” mean? | garage | to withdraw | parcel | B | retirer means “to withdraw”.
