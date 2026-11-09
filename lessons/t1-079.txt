@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 79 · Emotions 2 and personality
+episode: T1-079
+scene: classroom
+
+[story]
+Adrien: Tu es fâchée, Marinette ? | Are you angry, Marinette?
+Marinette: Non, je suis surprise. Tu as l’air nerveux. | No, I'm surprised. You look nervous.
+Adrien: Oui, je suis nerveux, mais je suis fier de notre projet. | Yes, I'm nervous, but I'm proud of our project.
+Marinette: Moi, je suis un peu jalouse : tu as fini avant moi ! | I'm a little jealous: you finished before me!
+Adrien: Ne sois pas fâchée. Je peux t’aider : je suis patient. | Don't be angry. I can help you: I'm patient.
+Marinette: Merci ! Tu es poli et généreux, mais parfois paresseux. | Thanks! You're polite and generous, but sometimes lazy.
+Adrien: C’est vrai. Max est méchant quand il est jaloux. | That's true. Max is mean when he's jealous.
+Marinette: Oui, mais il n’est pas toujours méchant. | Yes, but he isn't always mean.
+
+[vocab]
+vocab: fâché | angry | fah-SHAY
+example: Il est fâché contre son frère. | He is angry with his brother.
+vocab: surpris | surprised | sur-PREE
+example: Il est surpris par le bruit. | He is surprised by the noise.
+vocab: fier | proud | FYER
+example: Mon ami est fier de sa réussite. | My friend is proud of his success.
+vocab: jaloux | jealous | zhah-LOO
+example: Il est jaloux de son frère. | He is jealous of his brother.
+vocab: nerveux | nervous | nair-VUH
+example: Il est nerveux avant un examen. | He is nervous before an exam.
+vocab: patient | patient | pah-SYAHN
+example: Mon père est patient avec moi. | My father is patient with me.
+vocab: paresseux | lazy | pah-reh-SUH
+example: Mon frère est paresseux le matin. | My brother is lazy in the morning.
+vocab: poli | polite | poh-LEE
+example: Ce garçon est poli avec tout le monde. | This boy is polite to everyone.
+vocab: méchant | mean | may-SHAHN
+example: Ce chien n'est pas méchant. | This dog is not mean.
+vocab: généreux | generous | zhay-nay-RUH
+example: Mon ami est généreux avec sa famille. | My friend is generous with his family.
+
+[grammar]
+grammar: Adjective agreement | In French, adjectives usually change to match the gender of the person they describe. For many adjectives, add -e for a feminine person; some forms change spelling, like fier becoming fière.
+example: Marinette est surprise. | Marinette is surprised.
+example: Adrien est patient. | Adrien is patient.
+
+[quiz]
+quiz: What does « généreux » mean? | generous | nervous | jealous | A | « Généreux » means generous.
+quiz: Which word means “angry”? | poli | fâché | fier | B | « Fâché » means angry.
+quiz: What does “fier” mean? | patient | proud | mean | B | fier means “proud”.
+quiz: What does “poli” mean? | lazy | angry | polite | C | poli means “polite”.
+quiz: What does “un reportage” mean? | to announce | to inform | news report | C | un reportage means “news report”.
