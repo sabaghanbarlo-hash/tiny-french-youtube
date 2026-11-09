@@ -1,0 +1,48 @@
+title: What We Did
+episode: UA34
+scene: eiffel
+
+[story]
+Marinette: Hier, j'ai visité le vieux port. | Yesterday I visited the old harbour.
+Adrien: Tu as mangé où ? | Where did you eat?
+Marinette: J'ai mangé dans un petit restaurant. Puis on a pris le train. | I ate in a small restaurant. Then we took the train.
+Adrien: Vous avez vu la plage ? | Did you see the beach?
+Marinette: Oui, mais je n'ai pas nagé. L'eau était froide. | Yes, but I didn't swim. The water was cold.
+Adrien: Tu as aimé ton voyage ? | Did you like your trip?
+Marinette: J'ai adoré ! | I loved it!
+
+[vocab]
+vocab: hier | yesterday | YEHR
+example: Hier, j'ai visité un musée. | Yesterday I visited a museum.
+vocab: visiter | to visit | vee-zee-TAY
+example: J'ai visité Paris. | I visited Paris.
+vocab: la plage | beach | lah PLAHZH
+example: La plage est belle. | The beach is beautiful.
+vocab: nager | to swim | nah-ZHAY
+example: Je n'ai pas nagé. | I didn't swim.
+vocab: la carte postale | postcard | lah kart pohs-TAHL
+example: J'envoie une carte postale. | I'm sending a postcard.
+vocab: le voyage | trip, journey | luh vwah-YAHZH
+example: Bon voyage ! | Have a good trip!
+vocab: on a pris | we took | ohn ah PREE
+example: On a pris le train. | We took the train.
+vocab: j'ai vu | I saw | zhay VEW
+example: J'ai vu la mer. | I saw the sea.
+vocab: j'ai adoré | I loved it | zhay ah-doh-RAY
+example: J'ai adoré le voyage. | I loved the trip.
+
+[grammar]
+grammar: Passé composé with avoir | Form the past with avoir in the present plus the past participle: j'ai visité, tu as mangé, il a vu, nous avons pris, vous avez aimé, ils ont adoré. For -er verbs, the participle ends in -é. Some are irregular: prendre becomes pris, voir becomes vu, faire becomes fait.
+example: J'ai visité le port. | I visited the harbour.
+example: On a pris le train. | We took the train.
+grammar: Negative in the past | Put ne pas around avoir, not around the participle: je n'ai pas nagé, il n'a pas mangé, nous n'avons pas vu. Use hier, la semaine dernière, le mois dernier, l'année dernière for when.
+example: Je n'ai pas nagé. | I didn't swim.
+example: Hier, nous avons marché. | Yesterday we walked.
+
+[quiz]
+quiz: How do you say “I visited the museum”? | J'ai visité le musée. | Je visité le musée. | J'ai visiter le musée. | Je suis visité le musée. | A | Avoir + participle.
+quiz: Which negative is correct? | Je n'ai nagé pas. | Je n'ai pas nagé. | Je ne nagé pas. | Je n'ai pas nager. | B | Ne… pas around avoir.
+quiz: What does “hier” mean? | tomorrow | today | yesterday | last year | C | Hier = yesterday.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
