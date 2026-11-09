@@ -1,0 +1,47 @@
+title: My Home
+episode: UA25
+scene: home
+
+[story]
+Marinette: Tu habites dans un appartement ou dans une maison ? | Do you live in an apartment or a house?
+Adrien: Dans un appartement de trois pièces : un salon, une chambre et une cuisine. | In a three-room apartment: a living room, a bedroom and a kitchen.
+Marinette: Il y a un balcon ? | Is there a balcony?
+Adrien: Oui, et une petite salle de bains. | Yes, and a small bathroom.
+Marinette: C'est au premier étage ? | Is it on the first floor?
+Adrien: Non, c'est au troisième étage, sans ascenseur ! | No, it's on the third floor, with no lift!
+
+[vocab]
+vocab: l'appartement | apartment, flat | lah-par-tuh-MAHN
+example: J'habite dans un appartement. | I live in an apartment.
+vocab: la maison | house | lah meh-ZOHN
+example: Ils ont une grande maison. | They have a big house.
+vocab: la chambre | bedroom | lah SHAHN-bruh
+example: Ma chambre est petite. | My bedroom is small.
+vocab: le salon | living room | luh sah-LOHN
+example: Le salon est grand. | The living room is big.
+vocab: la cuisine | kitchen | lah kwee-ZEEN
+example: La cuisine est moderne. | The kitchen is modern.
+vocab: la salle de bains | bathroom | lah sahl duh BAN
+example: La salle de bains est petite. | The bathroom is small.
+vocab: le balcon | balcony | luh bahl-KOHN
+example: Il y a un balcon. | There is a balcony.
+vocab: l'étage | floor, storey | lay-TAHZH
+example: C'est au troisième étage. | It's on the third floor.
+vocab: l'ascenseur | lift, elevator | lah-sahn-SUHR
+example: Il y a un ascenseur. | There is a lift.
+
+[grammar]
+grammar: Counting rooms and floors | French counts les pièces: un trois-pièces is a flat with three main rooms. For floors, use au plus ordinal: au premier étage, au deuxième étage. The ground floor is le rez-de-chaussée, so the French first floor is one up from the ground floor.
+example: C'est au deuxième étage. | It's on the second floor.
+example: Un appartement de trois pièces. | A three-room apartment.
+grammar: Avec and sans | Avec means with and sans means without. Sans removes the article: un appartement avec balcon, un appartement sans ascenseur, une chambre sans fenêtre.
+example: Un appartement avec balcon. | An apartment with a balcony.
+example: Un immeuble sans ascenseur. | A building without a lift.
+
+[quiz]
+quiz: Which room is “la cuisine”? | bedroom | kitchen | bathroom | living room | B | Cuisine = kitchen.
+quiz: How do you say “on the third floor”? | à troisième étage | au trois étage | au troisième étage | en troisième étage | C | Au + ordinal.
+quiz: What does “un trois-pièces” mean? | a flat with three floors | three flats | a house with three kitchens | a flat with three main rooms | D | Pièces = rooms.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
