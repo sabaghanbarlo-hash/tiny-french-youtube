@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 25 · Animals and pets
+episode: T1-025
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu veux promener le chien avec moi ? | Hi, Marinette! Do you want to take the dog for a walk with me?
+Marinette: Oui ! J'aime les animaux. Quel animal allons-nous voir ? | Yes! I love animals. What animal are we going to see?
+Adrien: Mon chat est ici, et il regarde un oiseau. | My cat is here, and he is watching a bird.
+Marinette: Oh, regarde ! C'est un cheval ? | Oh, look! Is that a horse?
+Adrien: Oui, et près de lui, il y a un lapin et une souris. | Yes, and near it, there is a rabbit and a mouse.
+Marinette: La tortue est très calme. | The turtle is very calm.
+Adrien: Et le cochon mange dans son enclos. | And the pig is eating in its pen.
+Marinette: C'est une belle promenade ! | It's a lovely walk!
+
+[vocab]
+vocab: le chien | dog | luh SHYEN
+example: Le chien dort près de la porte. | The dog is sleeping near the door.
+vocab: le chat | cat | luh SHAH
+example: Le chat aime dormir au soleil. | The cat likes sleeping in the sun.
+vocab: l'animal | animal | lah-nee-MAHL
+example: Cet animal est très calme. | This animal is very calm.
+vocab: un oiseau | bird | uh-nwah-ZOH
+example: Un oiseau chante dans le jardin. | A bird is singing in the garden.
+vocab: un cheval | horse | uh(n) shuh-VAHL
+example: Le cheval court dans le pré. | The horse runs in the meadow.
+vocab: un lapin | rabbit | uh(n) lah-PAN
+example: Mon lapin mange une carotte. | My rabbit is eating a carrot.
+vocab: une souris | mouse | ewn soo-REE
+example: La souris est toute petite. | The mouse is very small.
+vocab: une tortue | turtle | ewn tor-TEW
+example: La tortue avance lentement. | The turtle moves slowly.
+vocab: promener | to take for a walk | pro-muh-NAY
+example: Je promène le chien chaque matin. | I take the dog for a walk every morning.
+vocab: un cochon | pig | uh koh-SHOHN
+example: Le cochon est rose. | The pig is pink.
+
+[grammar]
+grammar: French noun articles | French nouns have grammatical gender. For masculine singular nouns, use un for “a/an” and le for “the”; for feminine singular nouns, use une for “a/an” and la for “the.”
+example: C'est un cheval. | It's a horse.
+example: La tortue est très calme. | The turtle is very calm.
+
+[quiz]
+quiz: What does « un lapin » mean? | a rabbit | a turtle | a bird | A | « Un lapin » means “a rabbit.”
+quiz: Which animal is « le cochon »? | a cat | a pig | a horse | B | « Le cochon » means “the pig.”
+quiz: What does “une souris” mean? | turtle | cat | mouse | C | une souris means “mouse”.
+quiz: What does “le chien” mean? | horse | turtle | dog | C | le chien means “dog”.
+quiz: What does “la jupe” mean? | pants | coat | skirt | C | la jupe means “skirt”.
