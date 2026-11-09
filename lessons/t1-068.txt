@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 68 · Verbs: try, decide, choose, change, prepare, practice...
+episode: T1-068
+scene: classroom
+
+[story]
+Adrien: Marinette, tu veux essayer cette recette après l’école ? | Marinette, do you want to try this recipe after school?
+Marinette: Oui ! Je dois choisir un dessert et prévoir les ingrédients. | Yes! I have to choose a dessert and plan what ingredients to use.
+Adrien: D’accord. On peut s’entraîner à faire la recette ensemble ? | Okay. Can we practice making the recipe together?
+Marinette: Bonne idée. Je vais m’entraîner avec toi, puis modifier la recette. | Good idea. I’ll practice with you, then modify the recipe.
+Adrien: Tu veux remplacer le sucre par du miel ? | Do you want to replace the sugar with honey?
+Marinette: Oui, c’est mon choix. Je prends une décision : je vais préparer une tarte. | Yes, that’s my choice. I’m making a decision: I’ll prepare a tart.
+Adrien: Alors, on décide de faire une tarte aux pommes ? | So, shall we decide to make an apple tart?
+Marinette: Oui, bonne idée ! À tout à l’heure ! | Yes, good idea! See you later!
+
+[vocab]
+vocab: essayer | to try | eh-say-YAY
+example: J’essaie cette recette. | I’m trying this recipe.
+vocab: décider | to decide | day-see-DAY
+example: Nous décidons ce soir. | We’ll decide tonight.
+vocab: choisir | to choose | shwah-ZEER
+example: Elle choisit le train. | She chooses the train.
+vocab: pratiquer | to practice | prah-tee-KAY
+example: Je pratique le français chaque jour. | I practice French every day.
+vocab: s’entraîner | to train, practice | sahn-tray-NAY
+example: Il s’entraîne après le travail. | He trains after work.
+vocab: modifier | to modify, change | moh-dee-FYAY
+example: Je modifie mon plan. | I’m changing my plan.
+vocab: remplacer | to replace | rahm-plah-SAY
+example: On remplace la vieille lampe. | We’re replacing the old lamp.
+vocab: prévoir | to plan, expect | pray-VWAHR
+example: Tu prévois quoi pour demain ? | What are you planning for tomorrow?
+vocab: le choix | choice | luh SHWAH
+example: Le choix est difficile. | The choice is difficult.
+vocab: une décision | decision | ewn day-see-ZYOHN
+example: C’est une décision importante. | It’s an important decision.
+
+[grammar]
+grammar: Pouvoir + infinitive | After pouvoir (can), use another verb in its infinitive form. The infinitive does not change to match the person.
+example: On peut pratiquer ensemble. | We can practice together.
+example: Nous pouvons modifier la recette. | We can change the recipe.
+
+[quiz]
+quiz: What does choisir mean? | to choose | to replace | to practice | A | Choisir means “to choose.”
+quiz: Which verb form completes this sentence: On peut ___ la recette. | modifie | modifier | modifions | B | After peut, use the infinitive modifier.
+quiz: What does “prévoir” mean? | to modify, change | to plan, expect | to try | B | prévoir means “to plan, expect”.
+quiz: What does “le choix” mean? | to practice | choice | to decide | B | le choix means “choice”.
+quiz: What does “le ciel” mean? | weather | lake | sky | C | le ciel means “sky”.
