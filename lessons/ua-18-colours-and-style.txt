@@ -1,0 +1,47 @@
+title: Colours and Style
+episode: UA18
+scene: town
+
+[story]
+Marinette: Tu aimes ma robe verte ? | Do you like my green dress?
+Adrien: Oui, la couleur te va bien. Moi, je préfère le bleu foncé. | Yes, the colour suits you. I prefer dark blue.
+Marinette: Et tes chaussures, elles sont blanches ? | And your shoes, are they white?
+Adrien: Non, elles sont grises. | No, they're grey.
+Marinette: Et ton pull marron, tu le trouves chaud ? | And your brown jumper, do you find it warm?
+Adrien: Très chaud ! Je le porte tout l'hiver. | Very warm! I wear it all winter.
+
+[vocab]
+vocab: rouge | red | ROOZH
+example: Une robe rouge. | A red dress.
+vocab: bleu / bleue | blue | BLUH
+example: Un pantalon bleu. | Blue trousers.
+vocab: vert / verte | green | VEHR / VEHRT
+example: Une veste verte. | A green jacket.
+vocab: jaune | yellow | ZHOHN
+example: Un pull jaune. | A yellow jumper.
+vocab: noir / noire | black | NWAHR
+example: Des chaussures noires. | Black shoes.
+vocab: blanc / blanche | white | BLAHN / BLAHNSH
+example: Une chemise blanche. | A white shirt.
+vocab: gris / grise | grey | GREE / GREEZ
+example: Des chaussures grises. | Grey shoes.
+vocab: marron | brown | mah-ROHN
+example: Un pull marron. | A brown jumper.
+vocab: foncé / clair | dark / light | fohn-SAY / KLEHR
+example: Un bleu foncé. | A dark blue.
+
+[grammar]
+grammar: Colours agree | Colours are adjectives: add -e for feminine and -s for plural. Some change more: blanc becomes blanche, noir becomes noire. Colours come after the noun: une robe verte, des chaussures noires.
+example: Un pull vert. | A green jumper.
+example: Des chaussures blanches. | White shoes.
+grammar: Colours that never change | Marron and orange never change, even in the plural: des chaussures marron, une veste orange. Add foncé or clair for shades: un bleu foncé, un vert clair, and these stay the same too.
+example: Un pull marron. | A brown jumper.
+example: Des vestes orange. | Orange jackets.
+
+[quiz]
+quiz: Which is correct? | une robe verte | une robe vert | un robe verte | une robe verts | A | Robe is feminine.
+quiz: Which colour never takes an extra e or s? | rouge | marron | vert | gris | B | Marron does not change.
+quiz: What does “foncé” mean? | light | bright | dark | pale | C | Foncé = dark.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
