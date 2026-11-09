@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 34 · Grammar-like words
+episode: T1-034
+scene: classroom
+
+[story]
+Adrien: Alors, tu viens chez moi après les cours ? | So, are you coming to my place after school?
+Marinette: Oui, si je finis mes devoirs avant cinq heures. | Yes, if I finish my homework before five o’clock.
+Adrien: Donc, on se retrouve chez moi à cinq heures ? | So, shall we meet at my place at five o’clock?
+Marinette: D’accord. Je viens sans mon sac. Il est trop lourd. | Okay. I’ll come without my bag. It’s too heavy.
+Adrien: Pose ton manteau sur la chaise, pas sous la table ! | Put your coat on the chair, not under the table!
+Marinette: Comme tu veux ! On prend un goûter après ? | As you like! Shall we have a snack afterward?
+Adrien: Oui, et puis on regarde un film. | Yes, and then we’ll watch a movie.
+Marinette: Super, alors à tout à l’heure ! | Great, see you later!
+
+[vocab]
+vocab: alors | then; so | ah-LOR
+example: Alors, Marie sourit. | Then, Marie smiles.
+vocab: donc | so; therefore | DONK
+example: Donc, Paul reste calme. | So, Paul stays calm.
+vocab: si | if | SEE
+example: Si Marie chante, Paul écoute. | If Marie sings, Paul listens.
+vocab: sans | without | SAHN
+example: Le thé est bon sans sucre. | The tea is good without sugar.
+vocab: sur | on; over | SEWR
+example: Le stylo est sur le bureau. | The pen is on the desk.
+vocab: sous | under | SOO
+example: Le chat dort sous la chaise. | The cat sleeps under the chair.
+vocab: avant | before | ah-VAHN
+example: Paul lit avant le repas. | Paul reads before the meal.
+vocab: après | after | ah-PREH
+example: Après le cours, Marie rentre. | After class, Marie goes home.
+vocab: comme | as; like | KOM
+example: Comme il pleut, Paul reste. | Since it is raining, Paul stays.
+vocab: chez | at; to someone's home | SHAY
+example: Marie dîne chez Paul. | Marie has dinner at Paul's.
+
+[grammar]
+grammar: Using si for “if” | Si means “if” when it introduces a condition. In everyday plans, it is often followed by a present-tense verb.
+example: Si je finis mes devoirs, je viens. | If I finish my homework, I’ll come.
+example: Si tu as le temps, on regarde un film. | If you have time, we’ll watch a movie.
+
+[quiz]
+quiz: What does “sans” mean? | before | without | under | B | “Sans” means “without,” as in “sans mon sac” (without my bag).
+quiz: Which word means “under”? | sur | après | sous | C | “Sous” means “under”; “sur” means “on.”
+quiz: What does “comme” mean? | as | under | on | A | comme means “as”.
+quiz: What does “sous” mean? | under | on | so | A | sous means “under”.
+quiz: What does “inquiet” mean? | worried | to like, love | fear | A | inquiet means “worried”.
