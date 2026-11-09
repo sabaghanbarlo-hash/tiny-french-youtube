@@ -1,0 +1,47 @@
+title: Weekend Plans
+episode: UA24
+scene: street
+
+[story]
+Marinette: Ce week-end, je vais voir ma grand-mère à Lyon. | This weekend I'm going to see my grandmother in Lyon.
+Adrien: Tu vas prendre le train ? | Are you going to take the train?
+Marinette: Oui, je pars vendredi soir et je reviens dimanche. | Yes, I'm leaving Friday evening and coming back Sunday.
+Adrien: Moi, je vais rester à la maison et regarder des séries. | I'm going to stay at home and watch series.
+Marinette: Quel programme ! Et la semaine prochaine ? | What a programme! And next week?
+Adrien: La semaine prochaine, je vais travailler beaucoup. | Next week I'm going to work a lot.
+
+[vocab]
+vocab: le week-end | weekend | luh wee-KEHND
+example: Ce week-end, je me repose. | This weekend I'm resting.
+vocab: la semaine prochaine | next week | lah suh-MEHN proh-SHEHN
+example: La semaine prochaine, je travaille. | Next week I'm working.
+vocab: rester | to stay | rehs-TAY
+example: Je reste à la maison. | I'm staying at home.
+vocab: voir | to see | VWAHR
+example: Je vais voir ma grand-mère. | I'm going to see my grandmother.
+vocab: revenir | to come back | ruh-vuh-NEER
+example: Je reviens dimanche. | I'm coming back on Sunday.
+vocab: la série | series, TV show | lah say-REE
+example: Je regarde une série. | I'm watching a series.
+vocab: le programme | plan, programme | luh proh-GRAHM
+example: Quel programme ! | What a plan!
+vocab: vendredi soir | Friday evening | vahn-druh-DEE SWAHR
+example: Je pars vendredi soir. | I'm leaving Friday evening.
+vocab: demain | tomorrow | duh-MAN
+example: Demain, je travaille. | Tomorrow I'm working.
+
+[grammar]
+grammar: The near future with aller | Use the present of aller plus an infinitive to say what you are going to do: je vais voir, tu vas prendre, il va rester, nous allons partir, vous allez travailler, ils vont revenir. In a negative sentence, ne pas goes around aller: je ne vais pas partir.
+example: Je vais voir ma grand-mère. | I'm going to see my grandmother.
+example: Il ne va pas rester. | He isn't going to stay.
+grammar: Time words for plans | Put the time word at the start or the end: demain, après-demain, ce week-end, la semaine prochaine, le mois prochain. With days, use no preposition: samedi, vendredi soir, dimanche matin.
+example: Demain, je vais travailler. | Tomorrow I'm going to work.
+example: Dimanche matin, je vais courir. | Sunday morning I'm going to run.
+
+[quiz]
+quiz: How do you say “I'm going to stay at home”? | Je rester vais à la maison. | Je vais reste à la maison. | Je vais rester à la maison. | Je suis rester à la maison. | C | Aller + infinitive.
+quiz: What does “la semaine prochaine” mean? | last week | this week | every week | next week | D | Prochaine = next.
+quiz: Which is correct? | Je vais voir ma grand-mère. | Je vais vois ma grand-mère. | Je vois aller ma grand-mère. | Je suis voir ma grand-mère. | A | Infinitive after aller.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
