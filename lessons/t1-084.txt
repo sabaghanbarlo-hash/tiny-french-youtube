@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 84 · Work 2
+episode: T1-084
+scene: classroom
+
+[story]
+Adrien: Salut Marinette, tu as un entretien d'embauche aujourd'hui ? | Hi Marinette, do you have a job interview today?
+Marinette: Oui, je rencontre le chef d'une boutique. | Yes, I'm meeting the manager of a shop.
+Adrien: Tu veux postuler pour le poste ? | Do you want to apply for the job?
+Marinette: Oui. J'espère qu'il va m'embaucher. | Yes. I hope he'll hire me.
+Adrien: Et le contrat, tu l'as signé ? | And the contract, have you signed it?
+Marinette: Pas encore. Un employé m'a donné mes horaires et une tâche. | Not yet. An employee gave me my schedule and a task.
+Adrien: Pense à prendre une pause, et ne démissionne pas déjà ! | Remember to take a break, and don't resign already!
+Marinette: Ah ah, promis ! Le travail me plaît déjà. | Ha ha, I promise! I already like the job.
+
+[vocab]
+vocab: un chef | boss; manager | uhn SHEF
+example: Le chef signe le contrat. | The boss signs the contract.
+vocab: un employé | employee | uhn ahn-plwah-YAY
+example: L'employé répond au téléphone. | The employee answers the phone.
+vocab: un contrat | contract | uhn kohn-TRAH
+example: Je signe le contrat aujourd'hui. | I'm signing the contract today.
+vocab: un entretien d'embauche | job interview | uhn ahn-truh-tyahn dahm-BOHSH
+example: L'entretien d'embauche est demain. | The job interview is tomorrow.
+vocab: une pause | break | ewn POHZ
+example: La pause dure dix minutes. | The break lasts ten minutes.
+vocab: un horaire | schedule; work hours | uhn oh-RER
+example: Mon horaire change chaque semaine. | My schedule changes every week.
+vocab: une tâche | task | ewn TAHSH
+example: Cette tâche est simple. | This task is simple.
+vocab: embaucher | to hire | ahm-boh-SHAY
+example: Cette entreprise embauche souvent. | This company hires often.
+vocab: postuler | to apply for a job | pohs-tew-LAY
+example: Il postule pour un poste. | He's applying for a job.
+vocab: démissionner | to resign | day-mee-syoh-NAY
+example: Elle veut démissionner demain. | She wants to resign tomorrow.
+
+[grammar]
+grammar: Un and une | French nouns are masculine or feminine. Use un before a masculine noun and une before a feminine noun; the article must match the noun's gender.
+example: un contrat | a contract
+example: une pause | a break
+
+[quiz]
+quiz: What does « un employé » mean? | an employee | a schedule | a contract | A | « Un employé » means an employee.
+quiz: Which French verb means “to apply for a job”? | démissionner | postuler | embaucher | B | « Postuler » means to apply for a job.
+quiz: What does “une pause” mean? | to resign | to hire | break | C | une pause means “break”.
+quiz: What does “un chef” mean? | boss | employee | contract | A | un chef means “boss”.
+quiz: What does “la terre” mean? | field | earth, ground | to grow | B | la terre means “earth, ground”.
