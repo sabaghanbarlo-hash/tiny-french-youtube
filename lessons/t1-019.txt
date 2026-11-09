@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 19 · Drinks, meals and eating words
+episode: T1-019
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu veux du café ou du thé ? | Hi, Marinette. Would you like coffee or tea?
+Marinette: Un thé, s’il te plaît. Et un bol de soupe, merci. | A tea, please. And a bowl of soup, thanks.
+Adrien: Bien sûr. Tu déjeunes avec moi ? | Of course. Are you having lunch with me?
+Marinette: Oui, avec plaisir. Le repas est prêt ? | Yes, gladly. Is the meal ready?
+Adrien: Presque ! Il y a du jus, de la bière et du vin. | Almost! There’s juice, beer, and wine.
+Marinette: Je prends du jus, merci. Pas de bière ni de vin. | I’ll have juice, thanks. No beer or wine.
+Adrien: D’accord. Voici une assiette. Le repas sera délicieux ! | Okay. Here’s a plate. The meal will be delicious!
+Marinette: Merci ! Après, je prendrai un café. | Thanks! Afterward, I’ll have a coffee.
+
+[vocab]
+vocab: le café | coffee | luh kuh-FAY
+example: Je prends un café. | I have a coffee.
+vocab: le repas | meal | luh ruh-PAH
+example: Le repas est prêt. | The meal is ready.
+vocab: le déjeuner | lunch | luh day-zhuh-NAY
+example: Je prends le déjeuner à midi. | I have lunch at noon.
+vocab: le dîner | dinner | luh dee-NAY
+example: Nous préparons le dîner. | We are making dinner.
+vocab: le thé | tea | TAY
+example: Je bois du thé. | I drink tea.
+vocab: le jus | juice | ZHEW
+example: Elle boit du jus. | She drinks juice.
+vocab: la bière | beer | BYAIR
+example: Il boit une bière. | He drinks a beer.
+vocab: le vin | wine | VAN (nasal)
+example: Un verre de vin, s’il vous plaît. | A glass of wine, please.
+vocab: une assiette | a plate | ah-SYET
+example: L’assiette est sur la table. | The plate is on the table.
+vocab: un bol | a bowl | BOHL
+example: Le bol est sur la table. | The bowl is on the table.
+
+[grammar]
+grammar: French noun articles | French nouns have grammatical gender, and their articles match: le and un go with masculine nouns, while la and une go with feminine nouns. The article is part of how you use the noun, so learn them together.
+example: Le repas est prêt. | The meal is ready.
+example: Voici une assiette. | Here is a plate.
+
+[quiz]
+quiz: What does le dîner mean? | dinner | lunch | coffee | A | Le dîner means dinner.
+quiz: Which French word means “a bowl”? | un bol | une assiette | le vin | A | Un bol means a bowl.
+quiz: What does “le café” mean? | a bowl | meal | coffee | C | le café means “coffee”.
+quiz: What does “une assiette” mean? | wine | a plate | beer | B | une assiette means “a plate”.
+quiz: What does “à droite” mean? | there | to the right | in front of | B | à droite means “to the right”.
