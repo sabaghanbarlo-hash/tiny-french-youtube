@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 60 · Quantity and amount words
+episode: T1-060
+scene: classroom
+
+[story]
+Adrien: On prend un kilo de pommes et un litre de lait ? | Shall we get a kilogram of apples and a liter of milk?
+Marinette: Oui. La moitié des pommes est pour la tarte. | Yes. Half of the apples are for the tart.
+Adrien: La plupart des clients achètent autant de pommes que nous. | Most customers buy as many apples as we do.
+Marinette: Moi, j’en voudrais davantage, s’il te plaît. | I’d like more, please.
+Adrien: Il n’y a aucun fromage dans le sac. | There’s no cheese in the bag.
+Marinette: Ce n’est rien, on peut acheter un morceau. | That’s all right; we can buy a piece.
+Adrien: Chacun porte un sac ? | Will each of us carry a bag?
+Marinette: Oui, et prends aussi un litre d’eau. | Yes, and get a liter of water too.
+
+[vocab]
+vocab: la moitié | half | la mwah-TYAY
+example: Je mange la moitié du pain. | I eat half the bread.
+vocab: la plupart | most | lah plee-PAHR
+example: La plupart des enfants aiment le riz. | Most children like rice.
+vocab: autant | as much; as many | oh-TAHN
+example: Elle boit autant d'eau que moi. | She drinks as much water as I do.
+vocab: davantage | more | da-vahn-TAZH
+example: Il travaille davantage le soir. | He works more in the evening.
+vocab: aucun | no; not any | oh-KUN
+example: Aucun train n'arrive. | No train is arriving.
+vocab: rien | nothing | RYEHN
+example: Rien ne reste dans le sac. | Nothing is left in the bag.
+vocab: chacun | each; each one | shah-KUN
+example: Chacun reçoit un livre. | Each person gets a book.
+vocab: un kilo | a kilogram | uhn kee-LO
+example: Je prends un kilo de pommes. | I’m getting a kilogram of apples.
+vocab: un litre | a liter | uhn LEE-truh
+example: Elle boit un litre d'eau. | She drinks a liter of water.
+vocab: un morceau | a piece | uhn mor-SOH
+example: Je prends un morceau de fromage. | I’ll have a piece of cheese.
+
+[grammar]
+grammar: De after quantity words | Many quantity expressions are followed by de before a noun; use d’ before a vowel sound or a mute h. This pattern appears in units like « un kilo de » and « un litre de ».
+example: un kilo de pommes | a kilogram of apples
+example: un litre d’eau | a liter of water
+
+[quiz]
+quiz: What does « la moitié » mean? | half | most | nothing | A | « La moitié » means half.
+quiz: What does « davantage » mean? | each | more | no | B | « Davantage » means more.
+quiz: What does “aucun” mean? | a liter | a kilogram | no | C | aucun means “no”.
+quiz: What does “un morceau” mean? | a piece | no | nothing | A | un morceau means “a piece”.
+quiz: What does “emmener” mean? | to carry | to close | to take someone along | C | emmener means “to take someone along”.
