@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 73 · Transportation and traffic 2
+episode: T1-073
+scene: classroom
+
+[story]
+Adrien: On doit conduire jusqu'au parking, Marinette. | We have to drive to the parking lot, Marinette.
+Marinette: Oui, mais il y a un embouteillage sur l'autoroute. | Yes, but there's a traffic jam on the highway.
+Adrien: Le camion devant nous ralentit. | The truck in front of us is slowing down.
+Marinette: La moto derrière nous va vite. Attention ! | The motorcycle behind us is going fast. Watch out!
+Adrien: Je vais freiner au feu rouge. | I'm going to brake at the red light.
+Marinette: Merci. On peut traverser la rue ici ? | Thanks. Can we cross the street here?
+Adrien: Oui, quand le feu est vert. Regarde bien. | Yes, when the light is green. Look carefully.
+Marinette: D'accord, puis on se gare au parking. | Okay, then we'll park in the parking lot.
+
+[vocab]
+vocab: conduire | to drive | kohn-DWEER
+example: Je conduis la voiture. | I drive the car.
+vocab: traverser | to cross | trah-vehr-SAY
+example: Nous traversons la rue. | We cross the street.
+vocab: freiner | to brake | freh-NAY
+example: Je freine avant le feu. | I brake before the traffic light.
+vocab: ralentir | to slow down | rah-lahn-TEER
+example: La voiture ralentit. | The car slows down.
+vocab: le feu | fire | luh FUH
+example: Le feu brûle. | The fire is burning.
+vocab: le camion | truck | luh kah-MYOHN
+example: Le camion arrive ce matin. | The truck arrives this morning.
+vocab: la moto | motorcycle | lah moh-TOH
+example: La moto est rapide. | The motorcycle is fast.
+vocab: l'autoroute | highway | loh-toh-ROOT
+example: L'autoroute est près de la ville. | The highway is near the city.
+vocab: un embouteillage | traffic jam | uhn ahn-boo-tay-YAHZH
+example: Il y a un embouteillage. | There is a traffic jam.
+vocab: le parking | parking lot | luh par-KEENG
+example: Le parking est complet. | The parking lot is full.
+
+[grammar]
+grammar: The near future | To say what someone is going to do, use the present tense of aller followed by an infinitive. In the dialogue, vais freiner means “am going to brake.”
+example: Je vais conduire. | I'm going to drive.
+example: On va traverser la rue. | We're going to cross the street.
+
+[quiz]
+quiz: What does conduire mean? | to drive | to cross | to brake | A | Conduire means “to drive.”
+quiz: What does ralentir mean? | to speed up | to slow down | to park | B | Ralentir means “to slow down.”
+quiz: What does “le feu” mean? | motorcycle | fire | to drive | B | le feu means “fire”.
+quiz: What does “traverser” mean? | highway | to cross | truck | B | traverser means “to cross”.
+quiz: What does “supérieur” mean? | equal | worse | superior | C | supérieur means “superior”.
