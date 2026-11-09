@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 54 · Music, movies and entertainment
+episode: T1-054
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Tu veux regarder un film ce soir ? | Hi, Marinette! Do you want to watch a film tonight?
+Marinette: Oui, mais j’aime aussi la série que tu m’as conseillée. | Yes, but I also like the series you recommended to me.
+Adrien: D’accord. On peut regarder la télé ou écouter la radio. | All right. We can watch TV or listen to the radio.
+Marinette: Je préfère écouter une chanson et chanter un peu. | I’d rather listen to a song and sing a little.
+Adrien: Après, il y a un concert au théâtre. | Afterward, there’s a concert at the theater.
+Marinette: Super ! Un acteur joue aussi dans le spectacle ? | Great! Is an actor performing in the show too?
+Adrien: Oui, c’est un acteur drôle. Tu aimes le théâtre ? | Yes, he’s a funny actor. Do you like theater?
+Marinette: Oui, j’aime le théâtre. Allons-y ! | Yes, I like theater. Let’s go!
+
+[vocab]
+vocab: le film | film | luh FEELM
+example: J'aime ce film. | I like this film.
+vocab: la chanson | song | lah shahn-SOHN
+example: Cette chanson est connue. | This song is well-known.
+vocab: la télé | TV | lah tay-LAY
+example: Je regarde la télé après le dîner. | I watch TV after dinner.
+vocab: la série | TV series | lah say-REE
+example: La série commence ce soir. | The series starts tonight.
+vocab: le concert | concert | luh kohn-SEHR
+example: Le concert commence à huit heures. | The concert starts at eight o’clock.
+vocab: la radio | radio | lah rah-DYOH
+example: J'écoute la radio le matin. | I listen to the radio in the morning.
+vocab: le théâtre | theater | luh tay-AHTR
+example: Le théâtre est près d'ici. | The theater is near here.
+vocab: chanter | to sing | shahn-TAY
+example: Je chante dans la voiture. | I sing in the car.
+vocab: un acteur | actor | uhn ak-TUHR
+example: Cet acteur joue dans ce film. | This actor is in this film.
+vocab: le spectacle | show; performance | spek-TAH-kl
+example: On va voir un spectacle ce soir. | We're going to see a show tonight.
+
+[grammar]
+grammar: Aimer + le or la | Use aimer followed by le or la when talking about liking something in general. The article agrees with the noun: le goes with masculine nouns, and la goes with feminine nouns.
+example: J’aime le théâtre. | I like theater.
+example: J’aime la télé. | I like TV.
+
+[quiz]
+quiz: What does « la chanson » mean? | song | radio | concert | A | « La chanson » means “song.”
+quiz: Which word means “to sing”? | le spectacle | chanter | un acteur | B | « Chanter » is the verb “to sing.”
+quiz: What does “la télé” mean? | film | TV series | TV | C | la télé means “TV”.
+quiz: What does “chanter” mean? | song | theater | to sing | C | chanter means “to sing”.
+quiz: What does “rencontrer” mean? | uncle | to meet | female cousin | B | rencontrer means “to meet”.
