@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 57 · Verbs: open, close, put, take, bring, carry, turn on...
+episode: T1-057
+scene: classroom
+
+[story]
+Adrien: Tu peux ouvrir la fenêtre, s’il te plaît ? | Can you open the window, please?
+Marinette: Oui. J’allume la lampe aussi. | Yes. I’ll turn on the lamp too.
+Adrien: Pose ton sac ici et enlève ton manteau, s’il te plaît. | Put your bag down here and take off your coat, please.
+Marinette: D’accord, je mets le livre sur la table. | Okay, I’ll put the book on the table.
+Adrien: Tu amènes Zoé chez nous ce soir ? | Are you bringing Zoé to our place tonight?
+Marinette: Oui, je l’emmène avec moi après le cours. | Yes, I’m taking her along with me after class.
+Adrien: Je porte les boissons. Tu peux fermer la porte ? | I’ll carry the drinks. Can you close the door?
+Marinette: Bien sûr, et j’éteins la lampe en partant. | Of course, and I’ll turn off the lamp when we leave.
+
+[vocab]
+vocab: ouvrir | to open | oo-VREER
+example: J'ouvre le placard. | I open the cupboard.
+vocab: fermer | to close | fair-MAY
+example: Elle ferme le rideau. | She closes the curtain.
+vocab: mettre | to put | METR
+example: Je mets du sucre. | I put some sugar.
+vocab: porter | to carry; to wear | por-TAY
+example: Il porte une caisse. | He carries a crate.
+vocab: allumer | to turn on | ah-lyoo-MAY
+example: J'allume la lampe. | I turn on the lamp.
+vocab: éteindre | to turn off | ay-TANDR
+example: J'éteins la lampe. | I turn off the lamp.
+vocab: poser | to put down | poh-ZAY
+example: Je pose la tasse. | I put down the cup.
+vocab: enlever | to remove; to take off | ahn-luh-VAY
+example: Il enlève son chapeau. | He takes off his hat.
+vocab: amener | to bring someone | ahm-NAY
+example: Zoé amène Paul chez moi. | Zoé brings Paul to my place.
+vocab: emmener | to take someone along | ahn-mNAY
+example: Zoé emmène Paul. | Zoé takes Paul along.
+
+[grammar]
+grammar: Object pronouns before verbs | In French, a short object pronoun usually goes before the verb. Le or la becomes l’ before a vowel sound or a silent h, as in « je l’emmène » (I take him or her along).
+example: Je l’emmène avec moi. | I’m taking him or her along with me.
+example: Je la porte aujourd’hui. | I’m wearing it today.
+
+[quiz]
+quiz: Which verb means “to turn off”? | allumer | éteindre | ouvrir | B | Éteindre means to turn off; allumer means to turn on.
+quiz: What does « Je porte les boissons » mean? | I’m carrying the drinks. | I’m opening the drinks. | I’m putting down the drinks. | A | Porter means to carry or to wear.
+quiz: What does “ouvrir” mean? | to remove | to open | to take someone along | B | ouvrir means “to open”.
+quiz: What does “éteindre” mean? | to close | to turn on | to turn off | C | éteindre means “to turn off”.
+quiz: What does “le spectacle” mean? | radio | film | show | C | le spectacle means “show”.
