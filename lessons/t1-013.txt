@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 13 · Days of the week and date words
+episode: T1-013
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Aujourd’hui, c’est samedi 13. Tu es libre lundi ? | Hi, Marinette! Today is Saturday the 13th. Are you free Monday?
+Marinette: Bonjour, Adrien. Oui ! Le mardi, j’ai cours ; le mercredi aussi. | Hi, Adrien. Yes! I have class on Tuesdays; on Wednesdays too.
+Adrien: Et le jeudi, tu es libre ? | And are you free on Thursdays?
+Marinette: Non, je travaille le vendredi. | No, I work on Fridays.
+Adrien: Alors, on se voit lundi 15 ? Après-demain, c’est lundi. | So, shall we see each other Monday the 15th? The day after tomorrow is Monday.
+Marinette: Oui ! Le lendemain, mardi 16, j’ai cours. | Yes! The following day, Tuesday the 16th, I have class.
+Adrien: D’accord. On prépare tout la veille, dimanche 14 ? | Okay. Shall we prepare everything the day before, Sunday the 14th?
+Marinette: Avec plaisir ! Le samedi, je fais du vélo. | Gladly! On Saturdays, I ride my bike.
+
+[vocab]
+vocab: le lundi | Monday | luhn-DEE
+example: Le lundi, je vais au travail. | On Mondays, I go to work.
+vocab: le mardi | Tuesday | mahr-DEE
+example: Le mardi, elle joue au tennis. | On Tuesdays, she plays tennis.
+vocab: le mercredi | Wednesday | mehr-kruh-DEE
+example: Le mercredi, nous faisons du sport. | On Wednesdays, we exercise.
+vocab: le jeudi | Thursday | zhuh-DEE
+example: Le jeudi, il travaille à la maison. | On Thursdays, he works at home.
+vocab: le vendredi | Friday | vahn-druh-DEE
+example: Le vendredi, je retrouve mes amis. | On Fridays, I meet my friends.
+vocab: le samedi | Saturday | sahm-DEE
+example: Le samedi, ils vont au marché. | On Saturdays, they go to the market.
+vocab: le dimanche | Sunday | dee-MAHNSH
+example: Le dimanche, nous mangeons ensemble. | On Sundays, we eat together.
+vocab: le lendemain | the following day | lahn-duh-MAN
+example: Le lendemain, nous travaillons. | The following day, we work.
+vocab: la veille | the day before | lah vey
+example: La veille, je suis arrivé. | The day before, I arrived.
+vocab: après-demain | the day after tomorrow | ah-preh duh-MAN
+example: On part après-demain. | We're leaving the day after tomorrow.
+
+[grammar]
+grammar: Le with weekdays | In French, le + weekday often describes a regular routine, like “on Tuesdays.” For a specific upcoming day with a date, French often uses the weekday without le.
+example: Le mardi, j’ai cours. | I have class on Tuesdays.
+example: On se voit lundi 15. | We’ll see each other Monday the 15th.
+
+[quiz]
+quiz: What does « le lendemain » mean? | The following day | The day before | The day after tomorrow | A | « Le lendemain » refers to the day that comes next.
+quiz: Which French word means “Thursday”? | le mardi | le jeudi | le dimanche | B | « Le jeudi » means Thursday.
+quiz: What does “le vendredi” mean? | the day after tomorrow | the day before | Friday | C | le vendredi means “Friday”.
+quiz: What does “après-demain” mean? | the day after tomorrow | Sunday | Wednesday | A | après-demain means “the day after tomorrow”.
+quiz: What does “déjà” mean? | very | also | already | C | déjà means “already”.
