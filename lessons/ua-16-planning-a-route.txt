@@ -1,0 +1,47 @@
+title: Planning a Route
+episode: UA16
+scene: station
+
+[story]
+Marinette: Pour aller au musée, je prends quel bus ? | To get to the museum, which bus do I take?
+Adrien: Prends le 72. Descends à l'arrêt « Mairie ». | Take the 72. Get off at the Mairie stop.
+Marinette: Et ensuite ? | And then?
+Adrien: Prends la deuxième rue à droite. Le musée est au bout de la rue. | Take the second street on the right. The museum is at the end of the street.
+Marinette: Ça prend combien de temps ? | How long does it take?
+Adrien: Environ vingt minutes. | About twenty minutes.
+
+[vocab]
+vocab: l'arrêt | stop (bus) | lah-REH
+example: L'arrêt est devant la gare. | The stop is in front of the station.
+vocab: descendre | to get off | day-SAHN-druh
+example: Je descends ici. | I'm getting off here.
+vocab: ensuite | then, next | ahn-SWEET
+example: Ensuite, tournez à droite. | Then turn right.
+vocab: la rue | street | lah REW
+example: La rue est calme. | The street is quiet.
+vocab: première, deuxième | first, second | pruh-MYEHR, duh-ZYEHM
+example: La deuxième rue à gauche. | The second street on the left.
+vocab: au bout de | at the end of | oh BOO duh
+example: Au bout de la rue. | At the end of the street.
+vocab: le musée | museum | luh mew-ZAY
+example: Le musée ouvre à dix heures. | The museum opens at ten.
+vocab: environ | about, approximately | ahn-vee-ROHN
+example: Environ vingt minutes. | About twenty minutes.
+vocab: ça prend… de temps | it takes… of time | sah PRAHN duh TAHN
+example: Ça prend une heure. | It takes an hour.
+
+[grammar]
+grammar: The tu command | To tell a friend what to do, use the tu form without the pronoun: tu prends becomes prends, tu descends becomes descends. For -er verbs drop the s: tu tournes becomes tourne, tu continues becomes continue. Add -ez for vous: prenez, descendez, tournez.
+example: Prends le bus 72. | Take bus 72.
+example: Tourne à gauche. | Turn left.
+grammar: Ordinal numbers | The first one is premier / première. After that add -ième to the number: deuxième, troisième, quatrième. Use the feminine with rue: la première rue, la deuxième rue.
+example: La première rue à gauche. | The first street on the left.
+example: La troisième rue à droite. | The third street on the right.
+
+[quiz]
+quiz: How do you tell a friend “Take the bus”? | Prend le bus. | Prenez le bus. | Prends le bus. | Tu prends le bus. | C | Tu command: prends.
+quiz: What does “au bout de la rue” mean? | at the start of the street | in the middle of the street | across the street | at the end of the street | D | Au bout de = at the end of.
+quiz: How do you say “the second street”? | la deuxième rue | la deux rue | la second rue | le deuxième rue | A | Deux + ième.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
