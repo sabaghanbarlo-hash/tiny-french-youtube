@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 17 · Weather and seasons
+episode: T1-017
+scene: classroom
+
+[story]
+Adrien: Quel temps fait-il aujourd’hui ? | What’s the weather like today?
+Marinette: Il y a du soleil, mais aussi du vent. | It’s sunny, but also windy.
+Adrien: Au printemps, il y a souvent de la pluie. | In spring, there is often rain.
+Marinette: Oui, et en hiver, il fait froid. | Yes, and in winter, it’s cold.
+Adrien: En été, il fait chaud. | In summer, it’s hot.
+Marinette: En automne, il y a parfois du brouillard. | In autumn, there is sometimes fog.
+Adrien: Je préfère le soleil. Et toi ? | I prefer the sun. And you?
+Marinette: Moi aussi ! Mais la pluie est bonne pour les fleurs. | Me too! But rain is good for the flowers.
+
+[vocab]
+vocab: le soleil | sun | soh-LAY
+example: Le soleil brille aujourd'hui. | The sun is shining today.
+vocab: la pluie | rain | PLWEE
+example: La pluie tombe doucement. | The rain is falling gently.
+vocab: le vent | wind | VAHN
+example: Le vent souffle fort. | The wind is blowing hard.
+vocab: chaud | hot | SHOH
+example: Il fait chaud aujourd'hui. | It's hot today.
+vocab: froid | cold | FRWAH
+example: Il fait froid ce matin. | It's cold this morning.
+vocab: le printemps | spring | pran-TAHN
+example: Le printemps est doux. | Spring is mild.
+vocab: l'été | summer | ay-TAY
+example: L'été est chaud. | Summer is hot.
+vocab: l'automne | autumn | oh-TON
+example: L'automne est ma saison préférée. | Autumn is my favorite season.
+vocab: l'hiver | winter | ee-VAIR
+example: L'hiver est froid. | Winter is cold.
+vocab: le brouillard | fog | broo-YAR
+example: Il y a du brouillard ce matin. | There is fog this morning.
+
+[grammar]
+grammar: Using en with seasons | In French, use en before most season names when saying “in” a season: en été, en automne, and en hiver. Spring is the exception: say au printemps.
+example: En été, il fait chaud. | In summer, it’s hot.
+example: Au printemps, il y a de la pluie. | In spring, there is rain.
+
+[quiz]
+quiz: What does « le brouillard » mean? | fog | wind | sun | A | « Le brouillard » means “fog.”
+quiz: Which French word means “cold”? | chaud | froid | soleil | B | « Froid » means “cold.”
+quiz: What does “l'hiver” mean? | winter | hot | autumn | A | l'hiver means “winter”.
+quiz: What does “l'été” mean? | spring | summer | rain | B | l'été means “summer”.
+quiz: What does “vert” mean? | green | circle | square | A | vert means “green”.
