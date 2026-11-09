@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 93 · Nouns 4
+episode: T1-093
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Quelle belle journée ! | Hello, Marinette! What a lovely day!
+Marinette: Oui, mais j'entends du bruit dans le couloir. | Yes, but I hear a noise in the hallway.
+Adrien: Ça vient de la douche : le robinet goutte encore. | It's coming from the shower: the tap is still dripping.
+Marinette: Je vais le fermer. Le frigo est dans la cuisine, près du placard. | I'll turn it off. The fridge is in the kitchen, near the cupboard.
+Adrien: Merci. Où est l'escalier pour monter au toit ? | Thanks. Where is the staircase to the roof?
+Marinette: Au fond du couloir. Le rideau de la fenêtre bouge avec le vent. | At the end of the hallway. The window curtain is moving in the wind.
+Adrien: D'accord, je vais vérifier le toit. Tu viens ? | Okay, I'll check the roof. Are you coming?
+Marinette: Oui, j'arrive ! | Yes, I'm coming!
+
+[vocab]
+vocab: la journée | day; daytime | lah zhoor-NAY
+example: La journée commence bien. | The day is starting well.
+vocab: la douche | shower | lah DOOSH
+example: Je prends une douche le matin. | I take a shower in the morning.
+vocab: le frigo | fridge | luh free-GOH
+example: Le frigo est dans la cuisine. | The fridge is in the kitchen.
+vocab: le placard | cupboard | luh plah-KAHR
+example: Le placard est dans la chambre. | The cupboard is in the bedroom.
+vocab: l’escalier | stairs | less-kah-LYAY
+example: L’escalier est à gauche. | The stairs are on the left.
+vocab: le rideau | curtain | luh ree-DOH
+example: Le rideau est bleu. | The curtain is blue.
+vocab: le robinet | tap | luh roh-bee-NAY
+example: Le robinet ne marche pas. | The tap isn’t working.
+vocab: le couloir | hallway | koo-LWAHR
+example: Le couloir est très long. | The hallway is very long.
+vocab: le bruit | noise | BRWEE
+example: J'entends un bruit dehors. | I hear a noise outside.
+vocab: le toit | roof | TWAH
+example: Le toit est rouge. | The roof is red.
+
+[grammar]
+grammar: French noun articles | French nouns usually appear with an article that indicates their grammatical gender. Use le with masculine nouns and la with feminine nouns. Before a vowel sound, le and la are elided to l', as in l'escalier.
+example: Le frigo est dans la cuisine. | The fridge is in the kitchen.
+example: Où est l'escalier ? | Where is the staircase?
+
+[quiz]
+quiz: What does le couloir mean? | the hallway | the roof | the shower | A | Le couloir means “the hallway.”
+quiz: Which word means “curtain”? | le bruit | le rideau | le robinet | B | Le rideau means “the curtain.”
+quiz: What does “le couloir” mean? | tap | stairs | hallway | C | le couloir means “hallway”.
+quiz: What does “le rideau” mean? | hallway | noise | curtain | C | le rideau means “curtain”.
+quiz: What does “la place” mean? | place | name | thing | A | la place means “place”.
