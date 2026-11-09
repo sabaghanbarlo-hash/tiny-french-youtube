@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 96 · Verbs 10
+episode: T1-096
+scene: classroom
+
+[story]
+Adrien: On doit se dépêcher ; le café ferme bientôt. | We have to hurry; the café is closing soon.
+Marinette: D’accord, mais arrête de courir ! | Okay, but stop running!
+Adrien: Je vais me garer ici, puis on continue à pied. | I’ll park here, then we’ll continue on foot.
+Marinette: Je vais prévenir Lucas que nous arrivons. | I’ll let Lucas know that we’re arriving.
+Adrien: Le café sert du chocolat chaud ; on en prend à emporter ? | The café serves hot chocolate; shall we get some to go?
+Marinette: Oui, puis on installe la couverture au parc. | Yes, then we’ll set up the blanket in the park.
+Adrien: Après, on se repose un peu, puis je dois revenir chez moi. | Afterward, we’ll rest a little, then I have to go back home.
+Marinette: D’accord, je t’accompagne. | Okay, I’ll come with you.
+
+[vocab]
+vocab: arrêter | to stop | ah-reh-TAY
+example: J’arrête la musique. | I’m stopping the music.
+vocab: continuer | to continue | kohn-tee-new-AY
+example: Nous continuons après le déjeuner. | We continue after lunch.
+vocab: se dépêcher | to hurry | suh day-pay-SHAY
+example: Dépêche-toi, nous sommes en retard. | Hurry up, we're late.
+vocab: se reposer | to rest | suh ruh-poh-ZAY
+example: Je me repose après le travail. | I rest after work.
+vocab: se garer | to park | suh gah-RAY
+example: Je me gare devant la maison. | I park in front of the house.
+vocab: servir | to serve | sehr-VEER
+example: Ce restaurant sert du poisson. | This restaurant serves fish.
+vocab: installer | to install; to set up | an-stah-LAY
+example: Installe l’application sur ton téléphone. | Install the app on your phone.
+vocab: emporter | to take along | ahn-por-TAY
+example: J’emporte un sandwich pour midi. | I'm taking a sandwich for lunch.
+vocab: prévenir | to warn; to let know | pray-vuh-NEER
+example: Préviens-moi quand tu arrives. | Let me know when you arrive.
+vocab: revenir | to come back; to return | ruh-vuh-NEER
+example: Je vais revenir demain. | I’m coming back tomorrow.
+
+[grammar]
+grammar: Reflexive verbs | Some French verbs use a reflexive pronoun, such as se dépêcher (to hurry) and se reposer (to rest). The pronoun changes to match the subject: for example, je me dépêche, but on se dépêche.
+example: Je vais me garer ici. | I’m going to park here.
+example: On se repose un peu. | We’re resting a little.
+
+[quiz]
+quiz: What does se garer mean? | to park | to hurry | to serve | A | Se garer means to park a vehicle.
+quiz: Which verb means “to take along”? | revenir | emporter | arrêter | B | Emporter means to take something along or away.
+quiz: What does “servir” mean? | to install | to continue | to serve | C | servir means “to serve”.
+quiz: What does “revenir” mean? | to rest | to stop | to come back | C | revenir means “to come back”.
+quiz: What does “le bruit” mean? | cupboard | noise | curtain | B | le bruit means “noise”.
