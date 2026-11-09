@@ -1,0 +1,47 @@
+title: My Neighbourhood
+episode: UA5
+scene: street
+
+[story]
+Adrien: Tu habites dans quel quartier ? | Which neighbourhood do you live in?
+Marinette: J'habite près du centre-ville. Dans mon quartier, il y a une boulangerie, une pharmacie et un parc. | I live near the town centre. In my neighbourhood there is a bakery, a pharmacy and a park.
+Adrien: Il y a un supermarché ? | Is there a supermarket?
+Marinette: Non, il n'y a pas de supermarché, mais il y a un marché le samedi. | No, there isn't a supermarket, but there is a market on Saturdays.
+Adrien: C'est pratique ! | That's convenient!
+Marinette: Oui, et la gare est à cinq minutes à pied. | Yes, and the station is five minutes away on foot.
+
+[vocab]
+vocab: le quartier | neighbourhood | luh kar-TYAY
+example: J'aime mon quartier. | I like my neighbourhood.
+vocab: la boulangerie | bakery | lah boo-lahn-zhuh-REE
+example: La boulangerie est ouverte. | The bakery is open.
+vocab: la pharmacie | pharmacy | lah far-mah-SEE
+example: La pharmacie est à côté. | The pharmacy is next door.
+vocab: le parc | park | luh PARK
+example: Il y a un parc près de chez moi. | There is a park near my home.
+vocab: le supermarché | supermarket | luh sew-pehr-mar-SHAY
+example: Je vais au supermarché. | I'm going to the supermarket.
+vocab: la gare | train station | lah GAHR
+example: La gare est loin. | The station is far.
+vocab: il y a | there is / there are | eel ee AH
+example: Il y a un café ici. | There is a café here.
+vocab: près de | near | preh DUH
+example: Je suis près de la gare. | I'm near the station.
+vocab: à pied | on foot | ah PYAY
+example: Je vais au travail à pied. | I walk to work.
+
+[grammar]
+grammar: Il y a / il n'y a pas de | Il y a means both "there is" and "there are". To say there isn't any, use il n'y a pas de. The article disappears after pas: il y a un parc, but il n'y a pas de parc.
+example: Il y a une pharmacie. | There is a pharmacy.
+example: Il n'y a pas de cinéma. | There isn't a cinema.
+grammar: Près de + du / de la | Près de joins with the article: près du parc, près de la gare, près de l'école. Du replaces de le, and des replaces de les.
+example: Je suis près du parc. | I'm near the park.
+example: J'habite près de la gare. | I live near the station.
+
+[quiz]
+quiz: How do you say “there is a park”? | Il est un parc. | Il y a un parc. | C'est y a un parc. | Il a un parc. | B | Il y a = there is.
+quiz: Which sentence means “There isn't a supermarket”? | Il n'y a pas un supermarché. | Il y a pas de supermarché. | Il n'y a pas de supermarché. | Il n'y a pas des supermarché. | C | After pas, un becomes de.
+quiz: What does “à pied” mean? | by bus | by bike | by car | on foot | D | À pied = on foot.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
