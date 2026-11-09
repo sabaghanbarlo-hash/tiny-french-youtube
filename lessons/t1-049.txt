@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 49 · Services and daily errands
+episode: T1-049
+scene: classroom
+
+[story]
+Adrien: Tu attends un colis ? | Are you waiting for a parcel?
+Marinette: Oui, puis je vais au supermarché. | Yes, then I’m going to the supermarket.
+Adrien: Je dois retirer de l’argent au distributeur. | I have to withdraw some money at the ATM.
+Marinette: Moi, je passe à la laverie et au pressing. | I’m stopping by the laundromat and the dry cleaner’s.
+Adrien: Ensuite, je vais au garage pour ma voiture. | Then I’m going to the garage for my car.
+Marinette: Je vais chez le coiffeur, puis à la mairie. | I’m going to the hairdresser’s, then to the town hall.
+Adrien: D’accord. On se retrouve après ? | Okay. Shall we meet up afterward?
+Marinette: Oui, j’attends ton message ! | Yes, I’ll wait for your message!
+
+[vocab]
+vocab: un colis | parcel | uhn koh-LEE
+example: Mon colis arrive bientôt. | My parcel is arriving soon.
+vocab: attendre | to wait | ah-TAHNDR
+example: J'attends devant la poste. | I'm waiting outside the post office.
+vocab: retirer | to withdraw | ruh-tee-RAY
+example: Je retire de l'argent. | I'm withdrawing money.
+vocab: le supermarché | supermarket | luh soo-pehr-mar-SHAY
+example: Je vais au supermarché après le travail. | I’m going to the supermarket after work.
+vocab: la laverie | laundromat | lah lahv-REE
+example: La laverie est près d'ici. | The laundromat is nearby.
+vocab: le garage | garage; auto repair shop | luh gah-RAHZH
+example: La voiture est au garage. | The car is at the garage.
+vocab: le coiffeur | hairdresser; barber | luh kwah-FUHR
+example: Je vais chez le coiffeur demain. | I’m going to the hairdresser tomorrow.
+vocab: la mairie | town hall | lah mehr-EE
+example: La mairie ferme à cinq heures. | The town hall closes at five.
+vocab: le distributeur | ATM | luh dee-stree-byoo-TUHR
+example: Je retire de l'argent au distributeur. | I withdraw money at the ATM.
+vocab: le pressing | dry cleaner's | luh preh-SEENG
+example: Je récupère mon manteau au pressing. | I pick up my coat at the dry cleaner's.
+
+[grammar]
+grammar: À + le becomes au | In French, à (to or at) combines with le (the, masculine singular) to make au. Use au before a masculine singular place introduced by le. Before a masculine singular place beginning with a vowel or mute h, use à l’ instead.
+example: Je vais au supermarché. | I’m going to the supermarket.
+example: Je vais au garage. | I’m going to the garage.
+
+[quiz]
+quiz: What does « le pressing » mean? | the dry cleaner’s | the supermarket | the town hall | A | Le pressing is a dry cleaner’s.
+quiz: Where do you go to withdraw money? | à la laverie | au distributeur | chez le coiffeur | B | Le distributeur is an ATM.
+quiz: What does “attendre” mean? | ATM | laundromat | to wait | C | attendre means “to wait”.
+quiz: What does “le garage” mean? | town hall | supermarket | garage | C | le garage means “garage”.
+quiz: What does “la photo” mean? | passport | photo | guide | B | la photo means “photo”.
