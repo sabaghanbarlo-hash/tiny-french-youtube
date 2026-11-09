@@ -1,0 +1,47 @@
+title: Eating Well
+episode: UA32
+scene: cafe
+
+[story]
+Marinette: Tu manges des fruits tous les jours ? | Do you eat fruit every day?
+Adrien: Oui, mais je mange trop de sucre. | Yes, but I eat too much sugar.
+Marinette: Il faut manger moins de gâteaux et boire plus d'eau. | You should eat fewer cakes and drink more water.
+Adrien: Je bois deux litres d'eau par jour. | I drink two litres of water a day.
+Marinette: Très bien ! Et mange plus de légumes. | Very good! And eat more vegetables.
+Adrien: D'accord, je vais essayer ! | OK, I'll try!
+
+[vocab]
+vocab: les fruits | fruit | lay FRWEE
+example: Je mange des fruits. | I eat fruit.
+vocab: le sucre | sugar | luh SEW-kruh
+example: Je mange trop de sucre. | I eat too much sugar.
+vocab: équilibré | balanced | ay-kee-lee-BRAY
+example: Un repas équilibré. | A balanced meal.
+vocab: tous les jours | every day | too lay ZHOOR
+example: Je mange un fruit tous les jours. | I eat a piece of fruit every day.
+vocab: plus de | more | plew duh
+example: Plus de légumes. | More vegetables.
+vocab: moins de | less, fewer | mwan duh
+example: Moins de gâteaux. | Fewer cakes.
+vocab: trop de | too much, too many | troh duh
+example: Trop de sucre. | Too much sugar.
+vocab: le litre | litre | luh LEE-truh
+example: Deux litres d'eau. | Two litres of water.
+vocab: la santé | health | lah sahn-TAY
+example: C'est bon pour la santé. | It's good for your health.
+
+[grammar]
+grammar: Plus de, moins de, trop de | These quantity words are followed by de and no article: plus de légumes, moins de gâteaux, trop de sucre, assez de fruits, beaucoup de fruits. Before a vowel use d': trop d'eau, moins d'huile.
+example: Moins de gâteaux. | Fewer cakes.
+example: Plus d'eau. | More water.
+grammar: Tous les jours, chaque semaine | Tous les jours is every day. Chaque is every, used with singular: chaque matin, chaque semaine. Use them at the start or end: Je mange des fruits tous les jours.
+example: Je bois de l'eau tous les jours. | I drink water every day.
+example: Je fais du sport chaque semaine. | I do sport every week.
+
+[quiz]
+quiz: Which sentence is correct? | Trop du sucre. | Trop sucre. | Trop de sucre. | Trop des sucre. | C | No article after de.
+quiz: What does “tous les jours” mean? | some days | all week | never | every day | D | Tous les jours = every day.
+quiz: What does “équilibré” mean? | balanced | expensive | light | sweet | A | Équilibré = balanced.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
