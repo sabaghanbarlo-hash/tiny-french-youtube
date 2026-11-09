@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 39 · Verbs of communication
+episode: T1-039
+scene: classroom
+
+[story]
+Adrien: Salut Marinette, je peux te demander un service ? | Hi Marinette, can I ask you a favor?
+Marinette: Bien sûr, je réponds toujours à tes questions ! | Of course, I always answer your questions!
+Adrien: Tu peux appeler Lila ? Elle organise la sortie. | Can you call Lila? She’s organizing the outing.
+Marinette: Oui, je vais lui téléphoner après le cours. | Yes, I’m going to phone her after class.
+Adrien: Merci ! Je vais lui écrire pour expliquer notre idée. | Thanks! I’m going to write to her to explain our idea.
+Marinette: D’accord. Tu peux répéter l’heure, s’il te plaît ? | Okay. Can you repeat the time, please?
+Adrien: À six heures. Je vais raconter à Lila ce que nous avons prévu. | At six o’clock. I’m going to tell Lila what we’ve planned.
+Marinette: Parfait, puis nous allons discuter du plan avec elle et la remercier. | Perfect, then we’re going to discuss the plan with her and thank her.
+
+[vocab]
+vocab: demander | to ask | duh-mahn-DAY
+example: Je demande un café. | I ask for a coffee.
+vocab: répondre | to answer | ray-POHNDR
+example: Elle répond à ma question. | She answers my question.
+vocab: appeler | to call | ah-PLAY
+example: J'appelle mon ami. | I call my friend.
+vocab: téléphoner | to phone | tay-lay-foh-NAY
+example: Il téléphone à sa mère. | He phones his mother.
+vocab: écrire | to write | ay-KREER
+example: J'écris à mon ami. | I write to my friend.
+vocab: expliquer | to explain | ex-plee-KAY
+example: Tu expliques le problème. | You explain the problem.
+vocab: répéter | to repeat | ray-pay-TAY
+example: Tu répètes le mot. | You repeat the word.
+vocab: raconter | to tell | rah-kohn-TAY
+example: Il raconte une histoire. | He tells a story.
+vocab: discuter | to discuss | dees-kyoo-TAY
+example: Nous discutons du film après le dîner. | We discuss the movie after dinner.
+vocab: remercier | to thank | ruh-mehr-SYAY
+example: Elle remercie son père. | She thanks her father.
+
+[grammar]
+grammar: The near future | To say what someone is going to do, use a form of aller followed by an infinitive. The infinitive stays the same, even when the subject changes.
+example: Je vais lui téléphoner après le cours. | I’m going to phone her after class.
+example: Nous allons discuter avec elle. | We’re going to talk with her.
+
+[quiz]
+quiz: What does « répéter » mean? | to repeat | to call | to thank | A | « Répéter » means to say or do something again.
+quiz: In « Je vais lui téléphoner », what is the speaker going to do? | Phone her | Write to her | Thank her | A | « Téléphoner » means to phone or call.
+quiz: What does “téléphoner” mean? | to explain | to repeat | to phone | C | téléphoner means “to phone”.
+quiz: What does “écrire” mean? | to answer | to write | to phone | B | écrire means “to write”.
+quiz: What does “bientôt” mean? | immediately | soon | hour, time | B | bientôt means “soon”.
