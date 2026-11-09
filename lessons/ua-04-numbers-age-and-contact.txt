@@ -1,0 +1,57 @@
+title: Numbers, Age and Contact Details
+episode: UA4
+scene: classroom
+
+[story]
+Marinette: Bonjour ! Quel âge as-tu, Adrien ? | Hello! How old are you, Adrien?
+Adrien: J'ai vingt ans. | I'm twenty years old.
+Marinette: Et ton numéro de téléphone ? | And your phone number?
+Adrien: C'est le zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit. | It's 06 12 34 56 78.
+Marinette: Et ton e-mail ? Ça s'écrit comment ? | And your e-mail? How do you spell it?
+Adrien: A-D-R-I-E-N, arobase, mail, point, com. | A-D-R-I-E-N, at, mail, dot, com.
+Marinette: Parfait, merci ! | Perfect, thank you!
+
+[vocab]
+vocab: zéro | zero | zay-ROH
+example: Zéro six, douze… | Zero six, twelve…
+vocab: un, deux, trois | one, two, three | uhn, duh, TRWAH
+example: J'ai deux frères. | I have two brothers.
+vocab: cinq | five | SANK
+example: Il a cinq ans. | He is five years old.
+vocab: huit | eight | WEET
+example: Rendez-vous à huit heures. | Meet at eight o'clock.
+vocab: dix | ten | DEESS
+example: J'ai dix euros. | I have ten euros.
+vocab: onze | eleven | OHNZ
+example: Elle a onze ans. | She is eleven years old.
+vocab: vingt | twenty | VAN
+example: J'ai vingt ans. | I'm twenty years old.
+vocab: quel âge as-tu ? | how old are you? (friendly) | kehl AHZH ah TEW
+example: Quel âge as-tu ? | How old are you?
+vocab: l'an / les ans | year(s) of age | lahn / lay ZAHN
+example: J'ai vingt ans. | I'm twenty.
+vocab: le numéro de téléphone | phone number | luh new-may-ROH duh tay-lay-FOHN
+example: C'est mon numéro de téléphone. | That's my phone number.
+vocab: ça s'écrit comment ? | how do you spell that? | sah say-KREE koh-MAHN
+example: Votre nom, ça s'écrit comment ? | Your name, how do you spell it?
+vocab: arobase | at sign (@) | ah-roh-BAHZ
+example: Adrien arobase mail point com. | Adrien at mail dot com.
+
+[grammar]
+grammar: Age with avoir | In French you do not "are" an age, you "have" it. Say J'ai vingt ans, with avoir: j'ai, tu as, il / elle a. Never forget ans: J'ai vingt sounds unfinished.
+example: J'ai vingt ans. | I'm twenty.
+example: Elle a onze ans. | She is eleven.
+grammar: Phone numbers in pairs | French phone numbers are read in groups of two digits. Say the zero first, then each pair as a number: 06 12 34 56 78 is zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit.
+example: Zéro six, douze, trente-quatre… | 06 12 34…
+grammar: Spelling and e-mail | Ask Ça s'écrit comment ? to have a word spelled. For an e-mail, say arobase for @ and point for the dot: nom arobase mail point com.
+example: Ça s'écrit comment ? | How do you spell that?
+example: Adrien arobase mail point com | adrien@mail.com
+
+[quiz]
+quiz: How do you say “I'm twenty years old”? | Je suis vingt ans. | J'ai vingt ans. | Je suis vingt. | J'ai vingt. | B | Age uses avoir + ans.
+quiz: What does “huit” mean? | five | ten | eight | eleven | C | Huit = 8.
+quiz: How do you say the @ sign in an e-mail address? | point | tiret | virgule | arobase | D | @ = arobase.
+quiz: How is 06 12 34 read in French? | zéro six, douze, trente-quatre | zéro, six, un, deux, trois, quatre | six cent douze mille | zéro soixante-douze | A | French phone numbers are read in pairs.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
