@@ -1,0 +1,47 @@
+title: Where Is It?
+episode: UA14
+scene: home
+
+[story]
+Marinette: Où est mon sac ? | Where is my bag?
+Adrien: Il est sous la chaise. | It's under the chair.
+Marinette: Et mon téléphone ? | And my phone?
+Adrien: Il est sur la table, à côté de ton livre. | It's on the table, next to your book.
+Marinette: Et mes clés ? | And my keys?
+Adrien: Dans ton sac, bien sûr ! | In your bag, of course!
+
+[vocab]
+vocab: sur | on | SEWR
+example: Le livre est sur la table. | The book is on the table.
+vocab: sous | under | SOO
+example: Le sac est sous la chaise. | The bag is under the chair.
+vocab: dans | in | DAHN
+example: Les clés sont dans le sac. | The keys are in the bag.
+vocab: devant | in front of | duh-VAHN
+example: Le café est devant la gare. | The café is in front of the station.
+vocab: derrière | behind | deh-RYEHR
+example: Le parc est derrière l'école. | The park is behind the school.
+vocab: à côté de | next to | ah koh-TAY duh
+example: La pharmacie est à côté de la banque. | The pharmacy is next to the bank.
+vocab: entre | between | AHN-truh
+example: Le café est entre la banque et la poste. | The café is between the bank and the post office.
+vocab: la chaise | chair | lah SHEHZ
+example: Le sac est sous la chaise. | The bag is under the chair.
+vocab: la table | table | lah TAH-bluh
+example: Le téléphone est sur la table. | The phone is on the table.
+
+[grammar]
+grammar: Du and de la after à côté de | Prepositions ending in de merge with le and les: à côté du parc, à côté de la gare, près des magasins. Sur, sous, dans and entre need no de: sur la table, dans le sac.
+example: À côté du parc. | Next to the park.
+example: Devant la gare. | In front of the station.
+grammar: Où est / où sont | Use où est with a singular thing and où sont with plurals. The answer repeats the preposition: Elles sont dans ton sac.
+example: Où sont mes clés ? | Where are my keys?
+example: Elles sont dans ton sac. | They're in your bag.
+
+[quiz]
+quiz: Which preposition means “under”? | sous | sur | dans | entre | A | Sous = under.
+quiz: What does “derrière” mean? | in front of | behind | between | on | B | Derrière = behind.
+quiz: Which question uses the right verb? | Où est mes clés ? | Où es mes clés ? | Où sont mes clés ? | Où sommes mes clés ? | C | Plural uses sont.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
