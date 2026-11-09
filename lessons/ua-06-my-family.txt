@@ -1,0 +1,47 @@
+title: My Family
+episode: UA6
+scene: home
+
+[story]
+Marinette: C'est qui sur la photo ? | Who is that in the photo?
+Adrien: C'est ma famille. Voici mon père, ma mère et ma sœur. | That's my family. Here are my father, my mother and my sister.
+Marinette: Elle a quel âge, ta sœur ? | How old is your sister?
+Adrien: Elle a quinze ans. Elle s'appelle Chloé. | She's fifteen. Her name is Chloé.
+Marinette: Tu as des frères ? | Do you have any brothers?
+Adrien: Non, je n'ai pas de frère. Mais j'ai mes grands-parents à Lyon. | No, I don't have a brother. But I have my grandparents in Lyon.
+
+[vocab]
+vocab: le père | father | luh PEHR
+example: Mon père est professeur. | My father is a teacher.
+vocab: la mère | mother | lah MEHR
+example: Ma mère habite à Lyon. | My mother lives in Lyon.
+vocab: le frère | brother | luh FREHR
+example: J'ai un frère. | I have a brother.
+vocab: la sœur | sister | lah SUHR
+example: Ma sœur a quinze ans. | My sister is fifteen.
+vocab: les parents | parents | lay pah-RAHN
+example: Mes parents sont gentils. | My parents are kind.
+vocab: le grand-père | grandfather | luh grahn-PEHR
+example: Mon grand-père habite à Lyon. | My grandfather lives in Lyon.
+vocab: la grand-mère | grandmother | lah grahn-MEHR
+example: Ma grand-mère fait des gâteaux. | My grandmother makes cakes.
+vocab: le fils / la fille | son / daughter | luh FEES / lah FEE
+example: Elle a une fille. | She has a daughter.
+vocab: quel âge ? | how old? | kehl AHZH
+example: Il a quel âge ? | How old is he?
+
+[grammar]
+grammar: Mon, ma, mes | My changes with the noun: mon plus masculine, ma plus feminine, mes plus plural. Before a vowel use mon even for feminine words: mon amie, mon école. For "your" use ton, ta, tes in the same way.
+example: Mon frère s'appelle Paul. | My brother is called Paul.
+example: Ma sœur a quinze ans. | My sister is fifteen.
+grammar: Pas de after the negative | Avoir becomes pas de in a negative sentence, as with il n'y a pas de: J'ai un frère becomes Je n'ai pas de frère. Do not use un, une or des after pas.
+example: Je n'ai pas de frère. | I don't have a brother.
+example: Elle n'a pas de sœur. | She has no sister.
+
+[quiz]
+quiz: Which is correct? | ma mère | mon mère | mes mère | ma père | A | Mère is feminine, so ma.
+quiz: How do you say “my parents”? | mon parents | mes parents | ma parents | me parents | B | Plural = mes.
+quiz: Which is correct for “my friend” (a girl)? | ma amie | mes amie | mon amie | mon amis | C | Before a vowel, use mon.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
