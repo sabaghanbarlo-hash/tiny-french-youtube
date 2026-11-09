@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 99 · Verbs 11
+episode: T1-099
+scene: classroom
+
+[story]
+Adrien: Tu peux garder mon sac, s’il te plaît ? | Can you keep my bag, please?
+Marinette: Oui. Je vais te montrer la cuisine. | Yes. I’ll show you the kitchen.
+Adrien: Merci ! Je m’assois ici ? | Thanks! Shall I sit down here?
+Marinette: Oui, puis nous allons cuisiner. | Yes, then we’re going to cook.
+Adrien: Après, je vais nettoyer la table et essuyer les verres. | Afterward, I’ll clean the table and wipe the glasses.
+Marinette: D’accord. Je promets de t’aider, puis on va s’amuser. | Okay. I promise to help you, then we’ll have fun.
+Adrien: Super ! Après le repas, je vais m’allonger un peu. | Great! After the meal, I’ll lie down for a bit.
+Marinette: Et moi, je vais sauter de joie ! | And I’ll jump for joy!
+
+[vocab]
+vocab: garder | to keep | gar-DAY
+example: Je garde les clés. | I keep the keys.
+vocab: montrer | to show | mohn-TRAY
+example: Tu me montres la photo. | You show me the photo.
+vocab: s'asseoir | to sit down | sah-SWAHR
+example: Je m'assois ici. | I sit here.
+vocab: nettoyer | to clean | neh-twah-YAY
+example: Je nettoie la table. | I clean the table.
+vocab: cuisiner | to cook | kwee-zee-NAY
+example: Elle cuisine ce soir. | She cooks tonight.
+vocab: s'allonger | to lie down | sah-lohn-ZHAY
+example: Il s'allonge sur le canapé. | He lies down on the couch.
+vocab: promettre | to promise | proh-METR
+example: Je te promets de venir demain. | I promise to come tomorrow.
+vocab: essuyer | to wipe | eh-swee-YAY
+example: Tu peux essuyer la table ? | Can you wipe the table?
+vocab: s'amuser | to have fun | sah-moo-ZAY
+example: Les enfants s'amusent dans le jardin. | The children are having fun in the garden.
+vocab: sauter | to jump | soh-TAY
+example: Je saute par-dessus la flaque. | I jump over the puddle.
+
+[grammar]
+grammar: Reflexive verbs | Some French verbs are reflexive: the pronoun changes with the subject and comes before the verb. With je, the pronoun is me, or m’ before a vowel.
+example: Je m’assois ici. | I sit down here.
+example: Tu t’allonges. | You lie down.
+
+[quiz]
+quiz: What does nettoyer mean? | to clean | to cook | to jump | A | Nettoyer means “to clean.”
+quiz: Which verb means “to have fun”? | s’allonger | s’amuser | essuyer | B | S’amuser means “to have fun.”
+quiz: What does “promettre” mean? | to have fun | to jump | to promise | C | promettre means “to promise”.
+quiz: What does “sauter” mean? | to sit down | to keep | to jump | C | sauter means “to jump”.
+quiz: What does “se dépêcher” mean? | to continue | to hurry | to park | B | se dépêcher means “to hurry”.
