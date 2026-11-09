@@ -1,0 +1,39 @@
+1
+00:00:14,592 --> 00:00:20,036
+Salut, Marinette ! Tu veux jouer au football ?
+Hi, Marinette! Do you want to play soccer?
+
+2
+00:00:20,136 --> 00:00:25,508
+Oui, avec plaisir. Tu as un ballon ?
+Yes, with pleasure. Do you have a ball?
+
+3
+00:00:25,608 --> 00:00:31,268
+Oui. Après, on peut jouer un match de tennis ?
+Yes. Afterward, can we play a tennis match?
+
+4
+00:00:31,368 --> 00:00:36,164
+D’accord ! Mon équipe veut gagner.
+Okay! My team wants to win.
+
+5
+00:00:36,264 --> 00:00:40,988
+Super ! Mais je ne veux pas perdre.
+Great! But I don’t want to lose.
+
+6
+00:00:41,088 --> 00:00:44,804
+Alors, il faut courir vite !
+Then, you have to run fast!
+
+7
+00:00:44,904 --> 00:00:48,860
+Et après, on peut nager à la piscine ?
+And afterward, can we swim at the pool?
+
+8
+00:00:48,960 --> 00:00:53,972
+Bonne idée ! J’aime les jeux et le sport.
+Good idea! I like games and sports.

@@ -1,0 +1,39 @@
+1
+00:00:15,240 --> 00:00:19,652
+Marinette, il y a une urgence près du café !
+Marinette, there’s an emergency near the café!
+
+2
+00:00:19,752 --> 00:00:24,884
+Un homme est blessé. J'appelle les secours.
+A man is injured. I’m calling emergency services.
+
+3
+00:00:24,984 --> 00:00:29,684
+Oui, appelle aussi la police, s'il te plaît.
+Yes, call the police too, please.
+
+4
+00:00:29,784 --> 00:00:35,300
+Au secours ! Une ambulance, s'il vous plaît !
+Help! An ambulance, please!
+
+5
+00:00:35,400 --> 00:00:39,236
+Les pompiers arrivent pour éteindre l'incendie.
+The firefighters are coming to put out the fire.
+
+6
+00:00:39,336 --> 00:00:42,740
+Un pompier peut aider cet homme ?
+Can a firefighter help this man?
+
+7
+00:00:42,840 --> 00:00:47,996
+Oui, il va le sauver. Restons ici.
+Yes, he’s going to save him. Let’s stay here.
+
+8
+00:00:48,096 --> 00:00:53,708
+Merci, Adrien. Nous pouvons aussi aider.
+Thanks, Adrien. We can help too.

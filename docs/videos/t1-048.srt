@@ -1,0 +1,39 @@
+1
+00:00:14,688 --> 00:00:18,668
+Bonjour, nous avons une réservation.
+Hello, we have a reservation.
+
+2
+00:00:18,768 --> 00:00:21,956
+Oui, voici le menu.
+Yes, here is the menu.
+
+3
+00:00:22,056 --> 00:00:25,676
+Nous allons commander une entrée et un plat.
+We’re going to order a starter and a main course.
+
+4
+00:00:25,776 --> 00:00:28,844
+Tu veux aussi une boisson ?
+Do you also want a drink?
+
+5
+00:00:28,944 --> 00:00:33,404
+Oui. Est-ce que le plat est épicé ?
+Yes. Is the dish spicy?
+
+6
+00:00:33,504 --> 00:00:38,444
+Non. Je prendrai aussi un dessert.
+No. I’ll also have a dessert.
+
+7
+00:00:38,544 --> 00:00:43,508
+Parfait. L’addition, s’il vous plaît.
+Perfect. The bill, please.
+
+8
+00:00:43,608 --> 00:00:48,452
+D’accord. N’oublie pas le pourboire !
+Okay. Don’t forget the tip!

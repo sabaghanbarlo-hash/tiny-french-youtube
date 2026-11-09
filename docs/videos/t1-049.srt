@@ -1,0 +1,39 @@
+1
+00:00:15,288 --> 00:00:17,900
+Tu attends un colis ?
+Are you waiting for a parcel?
+
+2
+00:00:18,000 --> 00:00:21,620
+Oui, puis je vais au supermarché.
+Yes, then I’m going to the supermarket.
+
+3
+00:00:21,720 --> 00:00:25,940
+Je dois retirer de l’argent au distributeur.
+I have to withdraw some money at the ATM.
+
+4
+00:00:26,040 --> 00:00:30,380
+Moi, je passe à la laverie et au pressing.
+I’m stopping by the laundromat and the dry cleaner’s.
+
+5
+00:00:30,480 --> 00:00:34,796
+Ensuite, je vais au garage pour ma voiture.
+Then I’m going to the garage for my car.
+
+6
+00:00:34,896 --> 00:00:39,236
+Je vais chez le coiffeur, puis à la mairie.
+I’m going to the hairdresser’s, then to the town hall.
+
+7
+00:00:39,336 --> 00:00:43,940
+D’accord. On se retrouve après ?
+Okay. Shall we meet up afterward?
+
+8
+00:00:44,040 --> 00:00:47,588
+Oui, j’attends ton message !
+Yes, I’ll wait for your message!

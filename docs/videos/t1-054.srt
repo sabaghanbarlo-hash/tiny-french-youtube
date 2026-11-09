@@ -1,0 +1,39 @@
+1
+00:00:15,744 --> 00:00:21,692
+Salut, Marinette ! Tu veux regarder un film ce soir ?
+Hi, Marinette! Do you want to watch a film tonight?
+
+2
+00:00:21,792 --> 00:00:26,588
+Oui, mais j’aime aussi la série que tu m’as conseillée.
+Yes, but I also like the series you recommended to me.
+
+3
+00:00:26,688 --> 00:00:32,516
+D’accord. On peut regarder la télé ou écouter la radio.
+All right. We can watch TV or listen to the radio.
+
+4
+00:00:32,616 --> 00:00:37,100
+Je préfère écouter une chanson et chanter un peu.
+I’d rather listen to a song and sing a little.
+
+5
+00:00:37,200 --> 00:00:41,276
+Après, il y a un concert au théâtre.
+Afterward, there’s a concert at the theater.
+
+6
+00:00:41,376 --> 00:00:47,084
+Super ! Un acteur joue aussi dans le spectacle ?
+Great! Is an actor performing in the show too?
+
+7
+00:00:47,184 --> 00:00:52,676
+Oui, c’est un acteur drôle. Tu aimes le théâtre ?
+Yes, he’s a funny actor. Do you like theater?
+
+8
+00:00:52,776 --> 00:00:57,836
+Oui, j’aime le théâtre. Allons-y !
+Yes, I like theater. Let’s go!

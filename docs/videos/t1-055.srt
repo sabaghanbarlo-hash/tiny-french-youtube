@@ -1,0 +1,39 @@
+1
+00:00:14,784 --> 00:00:17,180
+Tu as la clé ?
+Do you have the key?
+
+2
+00:00:17,280 --> 00:00:20,612
+Oui, elle est sous le papier.
+Yes, it’s under the paper.
+
+3
+00:00:20,712 --> 00:00:23,612
+Et le verre et la tasse ?
+And the glass and the cup?
+
+4
+00:00:23,712 --> 00:00:28,268
+Le verre est ici, et la tasse est sur la table.
+The glass is here, and the cup is on the table.
+
+5
+00:00:28,368 --> 00:00:30,764
+Où est la lampe ?
+Where is the lamp?
+
+6
+00:00:30,864 --> 00:00:35,852
+À côté du couteau, de la fourchette et de la cuillère.
+Beside the knife, the fork, and the spoon.
+
+7
+00:00:35,952 --> 00:00:38,468
+Tu as un peigne ?
+Do you have a comb?
+
+8
+00:00:38,568 --> 00:00:41,948
+Oui, et une éponge aussi.
+Yes, and a sponge too.
