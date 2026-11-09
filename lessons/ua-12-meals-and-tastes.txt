@@ -1,0 +1,47 @@
+title: Meals and Tastes
+episode: UA12
+scene: cafe
+
+[story]
+Adrien: Qu'est-ce que tu manges au petit-déjeuner ? | What do you eat for breakfast?
+Marinette: Je mange du pain avec de la confiture et je bois du thé. Et toi ? | I eat bread with jam and drink tea. And you?
+Adrien: Je ne mange pas le matin. Je bois seulement du café. | I don't eat in the morning. I only drink coffee.
+Marinette: Et au déjeuner ? | And for lunch?
+Adrien: J'adore les pâtes, mais je déteste le poisson. | I love pasta, but I hate fish.
+Marinette: Moi, j'aime tout, sauf les oignons ! | I like everything except onions!
+
+[vocab]
+vocab: le petit-déjeuner | breakfast | luh puh-tee day-zhuh-NAY
+example: Le petit-déjeuner est à sept heures. | Breakfast is at seven.
+vocab: le déjeuner | lunch | luh day-zhuh-NAY
+example: Le déjeuner est à midi. | Lunch is at noon.
+vocab: le dîner | dinner | luh dee-NAY
+example: Le dîner est à huit heures. | Dinner is at eight.
+vocab: manger | to eat | mahn-ZHAY
+example: Je mange du pain. | I eat bread.
+vocab: boire | to drink | BWAHR
+example: Je bois du thé. | I drink tea.
+vocab: j'adore | I love | zhah-DOHR
+example: J'adore les pâtes. | I love pasta.
+vocab: je déteste | I hate | zhuh day-TEHST
+example: Je déteste le poisson. | I hate fish.
+vocab: la confiture | jam | lah kohn-fee-TEWR
+example: Du pain avec de la confiture. | Bread with jam.
+vocab: le thé | tea | luh TAY
+example: Je bois du thé. | I drink tea.
+
+[grammar]
+grammar: Likes use le, la, les | To talk about what you like in general, use the definite article: j'aime le café, j'adore les pâtes, je déteste le poisson. To say what you actually eat or drink, use du, de la, des: je bois du café.
+example: J'aime le café. | I like coffee.
+example: Je bois du café. | I drink coffee.
+grammar: Manger and boire | Manger is regular but nous mangeons keeps the e: je mange, tu manges, il mange, nous mangeons. Boire is irregular: je bois, tu bois, il boit, nous buvons, vous buvez, ils boivent. Use ne pas for no: je ne mange pas le matin.
+example: Je bois du thé. | I drink tea.
+example: Nous mangeons à midi. | We eat at noon.
+
+[quiz]
+quiz: Which sentence says you like coffee in general? | J'aime du café. | J'aime de café. | J'aime le café. | J'aime café. | C | Likes use le, la, les.
+quiz: What does “je déteste” mean? | I love | I prefer | I eat | I hate | D | Déteste = hate.
+quiz: Which meal is “le déjeuner”? | lunch | breakfast | dinner | a snack | A | Déjeuner = lunch.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
