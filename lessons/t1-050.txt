@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 50 · Emergencies and asking for help
+episode: T1-050
+scene: classroom
+
+[story]
+Adrien: Marinette, il y a une urgence près du café ! | Marinette, there’s an emergency near the café!
+Marinette: Un homme est blessé. J'appelle les secours. | A man is injured. I’m calling emergency services.
+Adrien: Oui, appelle aussi la police, s'il te plaît. | Yes, call the police too, please.
+Marinette: Au secours ! Une ambulance, s'il vous plaît ! | Help! An ambulance, please!
+Adrien: Les pompiers arrivent pour éteindre l'incendie. | The firefighters are coming to put out the fire.
+Marinette: Un pompier peut aider cet homme ? | Can a firefighter help this man?
+Adrien: Oui, il va le sauver. Restons ici. | Yes, he’s going to save him. Let’s stay here.
+Marinette: Merci, Adrien. Nous pouvons aussi aider. | Thanks, Adrien. We can help too.
+
+[vocab]
+vocab: aider | to help | ay-DAY
+example: Elle aide le blessé. | She helps the injured person.
+vocab: une urgence | an emergency | oon oor-ZHAHNS
+example: C'est une urgence. | It's an emergency.
+vocab: les secours | emergency services | lay suh-KOOR
+example: Les secours sont ici. | Emergency services are here.
+vocab: la police | the police | lah poh-LEES
+example: La police arrive vite. | The police are arriving quickly.
+vocab: blessé | injured | bleh-SAY
+example: Le blessé demande un médecin. | The injured person asks for a doctor.
+vocab: au secours | help! | oh suh-KOOR
+example: Au secours, aidez-moi ! | Help, help me!
+vocab: une ambulance | an ambulance | ewn ahn-bew-LAHNS
+example: L’ambulance arrive très vite. | The ambulance is arriving very quickly.
+vocab: un incendie | a fire | uhn an-sahn-DEE
+example: Il y a un incendie dans la maison. | There is a fire in the house.
+vocab: un pompier | a firefighter | uhn pohn-PYAY
+example: Un pompier arrive pour aider. | A firefighter is coming to help.
+vocab: sauver | to rescue; to save | soh-VAY
+example: Les pompiers sauvent le chat. | The firefighters rescue the cat.
+
+[grammar]
+grammar: Il y a | Il y a means “there is” or “there are” and is followed by a noun. The phrase stays the same whether the noun is singular or plural.
+example: Il y a une urgence. | There is an emergency.
+example: Il y a des pompiers. | There are firefighters.
+
+[quiz]
+quiz: What does “Au secours !” mean? | Help! | Good morning! | See you soon! | A | Au secours is a French expression used to call for help.
+quiz: Which French verb means “to rescue” or “to save”? | aider | sauver | appeler | B | Sauver means “to rescue” or “to save.”
+quiz: What does “un incendie” mean? | an emergency | a fire | an ambulance | B | un incendie means “a fire”.
+quiz: What does “blessé” mean? | injured | the police | an emergency | A | blessé means “injured”.
+quiz: What does “le rhume” mean? | to vomit | common cold | cough | B | le rhume means “common cold”.
