@@ -1,0 +1,47 @@
+title: Describing People
+episode: UA7
+scene: park
+
+[story]
+Adrien: Comment est ton amie Léa ? | What is your friend Léa like?
+Marinette: Elle est grande et brune, et elle a les yeux verts. Elle est très sympa. | She is tall and dark-haired, and she has green eyes. She is very nice.
+Adrien: Et son frère ? | And her brother?
+Marinette: Il est petit, blond et un peu timide. | He's short, blond and a bit shy.
+Adrien: Ils sont drôles ? | Are they funny?
+Marinette: Oui, ils sont drôles et gentils. | Yes, they're funny and kind.
+
+[vocab]
+vocab: grand / grande | tall, big | GRAHN / GRAHND
+example: Elle est grande. | She is tall.
+vocab: petit / petite | short, small | puh-TEE / puh-TEET
+example: Il est petit. | He is short.
+vocab: brun / brune | dark-haired | BRUHN / BREWN
+example: Elle est brune. | She has dark hair.
+vocab: blond / blonde | blond | BLOHN / BLOHND
+example: Il est blond. | He is blond.
+vocab: les yeux | eyes | lay ZYUH
+example: Elle a les yeux verts. | She has green eyes.
+vocab: sympa | nice, friendly | san-PAH
+example: Marie est très sympa. | Marie is very nice.
+vocab: gentil / gentille | kind | zhahn-TEE / zhahn-TEEY
+example: Ils sont gentils. | They are kind.
+vocab: drôle | funny | DROHL
+example: Il est drôle. | He is funny.
+vocab: timide | shy | tee-MEED
+example: Elle est un peu timide. | She is a bit shy.
+
+[grammar]
+grammar: Adjectives agree with the noun | Add -e for the feminine and -s for the plural. If the adjective already ends in -e, nothing changes for the feminine: il est drôle, elle est drôle. In the feminine you hear the final consonant: grand sounds like "grahn", grande like "grahnd".
+example: Il est grand. | He is tall.
+example: Elles sont grandes. | They are tall.
+grammar: Where does the adjective go? | Most adjectives come after the noun: un ami sympa, une fille brune. A few short, common ones come before: un petit chat, une grande maison. Describe someone with être or with avoir for features.
+example: Elle a les yeux verts. | She has green eyes.
+example: C'est un garçon gentil. | He is a kind boy.
+
+[quiz]
+quiz: Which sentence is right for a woman? | Elle est grand. | Elle est grands. | Elle grande. | Elle est grande. | D | Add -e for feminine.
+quiz: What does “les yeux” mean? | eyes | hair | hands | ears | A | Les yeux = eyes.
+quiz: What does “Comment est ton amie ?” ask? | Where is your friend? | What is your friend like? | How old is your friend? | Who is your friend? | B | Comment est… describes.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
