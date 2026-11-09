@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 21 · Shopping and money
+episode: T1-021
+scene: classroom
+
+[story]
+Adrien: Tu veux acheter ce livre ? | Do you want to buy this book?
+Marinette: Oui. Combien coûte ce livre ? | Yes. How much does this book cost?
+Adrien: Le prix est de dix euros. | The price is ten euros.
+Marinette: C'est un peu cher. J'ai de l'argent. Je peux payer par carte ? | It's a little expensive. I have money. Can I pay by card?
+Adrien: Oui, le paiement par carte est possible. | Yes, payment by card is possible.
+Marinette: Alors, je paie par carte. Et ce stylo ? | Then, I'll pay by card. And this pen?
+Adrien: Il coûte un euro. | It costs one euro.
+Marinette: Parfait, je prends les deux. Merci ! | Perfect, I'll take both. Thanks!
+
+[vocab]
+vocab: acheter | to buy | ahsh-TAY
+example: J'achète du pain. | I buy bread.
+vocab: payer | to pay | pay-YAY
+example: Je paie par carte. | I pay by card.
+vocab: coûter | to cost | koo-TAY
+example: Ça coûte dix euros. | It costs ten euros.
+vocab: le prix | price | luh PREE
+example: Le prix est bon. | The price is good.
+vocab: l'argent | money | lar-ZHAHN
+example: Je n'ai pas d'argent. | I don't have any money.
+vocab: la carte | card | lah KART
+example: Je paie avec ma carte. | I pay with my card.
+vocab: un euro | euro | uhn uh-ROH
+example: Ça coûte un euro. | It costs one euro.
+vocab: cher | expensive | SHEHR
+example: Ce sac est cher. | This bag is expensive.
+vocab: combien | how much | kohm-BYEN
+example: Combien coûte ce livre ? | How much does this book cost?
+vocab: le paiement | payment | pèh-MAHN
+example: Le paiement par carte est possible. | Payment by card is possible.
+
+[grammar]
+grammar: Vouloir + an infinitive | After vouloir (to want), use the next verb in its infinitive form. The infinitive stays the same, even when the subject changes.
+example: Je veux acheter ce livre. | I want to buy this book.
+example: Tu veux payer par carte ? | Do you want to pay by card?
+
+[quiz]
+quiz: What does cher mean? | expensive | cheap | money | A | Cher means expensive.
+quiz: Which phrase means “to pay by card”? | payer par carte | acheter un euro | coûter cher | A | Payer means to pay, and par carte means by card.
+quiz: What does “coûter” mean? | to buy | to cost | how much | B | coûter means “to cost”.
+quiz: What does “un euro” mean? | price | euro | how much | B | un euro means “euro”.
+quiz: What does “l'huile” mean? | cheese | oil | egg | B | l'huile means “oil”.
