@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 87 · Verbs 8
+episode: T1-087
+scene: classroom
+
+[story]
+Adrien: On va passer l’après-midi au parc. | We’re going to spend the afternoon at the park.
+Marinette: D’accord. Tiens le panier, s’il te plaît. | Okay. Hold the basket, please.
+Adrien: Merci. J’utilise cette carte pour suivre le chemin. | Thanks. I’m using this map to follow the path.
+Marinette: Ajoute deux pommes et remplis la bouteille d’eau. | Add two apples and fill the water bottle.
+Adrien: Bien sûr. Où est le pain ? | Of course. Where is the bread?
+Marinette: Je cache le pain dans le sac. | I’m hiding the bread in the bag.
+Adrien: Range les serviettes, s’il te plaît, et ne bouge pas le panier. | Put the napkins away, please, and don’t move the basket.
+Marinette: Voilà. Je vérifie tout avant de partir. | There. I’m checking everything before we leave.
+
+[vocab]
+vocab: passer | to pass; to spend (time) | pah-SAY
+example: Je passe la journée ici. | I’m spending the day here.
+vocab: tenir | to hold; to keep | tuh-NEER
+example: Elle tient mon sac. | She’s holding my bag.
+vocab: utiliser | to use | oo-tee-lee-ZAY
+example: J’utilise mon téléphone. | I’m using my phone.
+vocab: suivre | to follow | SWEEVR
+example: Je suis cette rue. | I’m following this street.
+vocab: ajouter | to add | ah-zhoo-TAY
+example: J'ajoute du sucre au café. | I add sugar to the coffee.
+vocab: bouger | to move | boo-ZHAY
+example: Ne bouge pas ! | Don't move!
+vocab: cacher | to hide | kah-SHAY
+example: Elle cache la clé. | She hides the key.
+vocab: ranger | to put away; to tidy | rahn-ZHAY
+example: Je range ma chambre. | I tidy my room.
+vocab: remplir | to fill | rahn-PLEER
+example: Remplis la bouteille d'eau. | Fill the water bottle.
+vocab: vérifier | to check | vay-ree-fee-AY
+example: Je vérifie l'adresse. | I check the address.
+
+[grammar]
+grammar: Giving informal commands | To give a command to someone you know, use the tu form of the verb without saying tu. For regular -er verbs, drop the final -s in the command, as in ajoute and range.
+example: Ajoute deux pommes. | Add two apples.
+example: Range les serviettes. | Put the napkins away.
+
+[quiz]
+quiz: What can tenir mean? | to hold; to keep | to hide | to check | A | Tenir means “to hold” or “to keep.”
+quiz: Which verb means “to check”? | bouger | vérifier | remplir | B | Vérifier means “to check.”
+quiz: What does “utiliser” mean? | to use | to fill | to pass | A | utiliser means “to use”.
+quiz: What does “suivre” mean? | to follow | to hold | to check | A | suivre means “to follow”.
+quiz: What does “postuler” mean? | task | to apply for a job | to resign | B | postuler means “to apply for a job”.
