@@ -1,0 +1,47 @@
+title: Sizes and Prices
+episode: UA19
+scene: store
+
+[story]
+Adrien: Bonjour, vous avez ce pull en taille M ? | Hello, do you have this jumper in size M?
+Marinette: Oui, il coûte quarante-neuf euros. | Yes, it costs forty-nine euros.
+Adrien: C'est un peu cher. Vous l'avez en promotion ? | That's a bit expensive. Is it on sale?
+Marinette: Oui, moins vingt pour cent. Il fait trente-neuf euros vingt. | Yes, twenty percent off. It comes to 39.20.
+Adrien: Parfait, je le prends. Je paie par carte. | Perfect, I'll take it. I'll pay by card.
+Marinette: Très bien. Voici votre ticket. | Very good. Here is your receipt.
+
+[vocab]
+vocab: la taille | size (clothes) | lah TAHY
+example: Quelle est votre taille ? | What's your size?
+vocab: coûter | to cost | koo-TAY
+example: Ça coûte cent euros. | It costs a hundred euros.
+vocab: cher / chère | expensive | SHEHR
+example: C'est un peu cher. | It's a bit expensive.
+vocab: pas cher | cheap | pah SHEHR
+example: Ce pull n'est pas cher. | This jumper isn't expensive.
+vocab: en promotion | on sale | ahn proh-moh-SYOHN
+example: La veste est en promotion. | The jacket is on sale.
+vocab: par carte | by card | pahr KART
+example: Je paie par carte. | I pay by card.
+vocab: en espèces | in cash | ahn ehs-PEHSS
+example: Vous payez en espèces ? | Are you paying in cash?
+vocab: cent, mille | one hundred, one thousand | SAHN, MEEL
+example: Ça coûte mille euros. | It costs a thousand euros.
+vocab: deux cents | two hundred | duh SAHN
+example: J'ai deux cents euros. | I have two hundred euros.
+
+[grammar]
+grammar: Hundreds and thousands | Cent takes an s when it is multiplied and ends the number: deux cents, trois cents. It loses the s when another number follows: deux cent cinquante. Mille never takes an s: deux mille. Say prices with euros and centimes: trente-neuf euros vingt.
+example: Deux cents euros. | Two hundred euros.
+example: Deux cent cinquante euros. | Two hundred and fifty euros.
+grammar: Le, la, les as an object | To avoid repeating the noun, replace it with le, la or les placed before the verb: Je prends ce pull becomes Je le prends. Vous avez la veste ? Oui, nous l'avons. Il is for the subject; le, la, les is for the thing you take.
+example: Je le prends. | I'll take it.
+example: Nous les cherchons. | We're looking for them.
+
+[quiz]
+quiz: How do you say 200? | deux cent | deux centes | deux mille | deux cents | D | Deux cents (no number after).
+quiz: What does “en promotion” mean? | on sale | in stock | new | last size | A | Promotion = sale.
+quiz: How do you say “I'll take it” (a jumper, masculine)? | Je la prends. | Je le prends. | Je lui prends. | Je prends le. | B | Le replaces a masculine noun.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
