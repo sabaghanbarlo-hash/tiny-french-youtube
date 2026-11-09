@@ -1,0 +1,47 @@
+title: My Work Week
+episode: UA38
+scene: classroom
+
+[story]
+Marinette: Tu travailles du lundi au vendredi ? | Do you work Monday to Friday?
+Adrien: Oui, de neuf heures à dix-sept heures. Mercredi matin, j'ai une réunion. | Yes, from nine to five. On Wednesday morning, I have a meeting.
+Marinette: Tu es libre jeudi après-midi ? | Are you free on Thursday afternoon?
+Adrien: Jeudi, j'ai rendez-vous chez le dentiste à quinze heures. | Thursday, I have an appointment at the dentist's at three p.m.
+Marinette: Alors vendredi ? | Then Friday?
+Adrien: Vendredi matin, c'est parfait. On déjeune ensemble ? | Friday morning is perfect. Shall we have lunch together?
+
+[vocab]
+vocab: du lundi au vendredi | Monday to Friday | dew lun-DEE oh vahn-druh-DEE
+example: Je travaille du lundi au vendredi. | I work Monday to Friday.
+vocab: le matin / l'après-midi | morning / afternoon | luh mah-TAN / lah-preh-mee-DEE
+example: Le matin, je travaille. | In the morning I work.
+vocab: le rendez-vous | appointment, meeting | luh rahn-day-VOO
+example: J'ai rendez-vous à quinze heures. | I have an appointment at three.
+vocab: l'emploi du temps | schedule, timetable | lahm-plwah dew TAHN
+example: Mon emploi du temps est chargé. | My schedule is full.
+vocab: libre | free | LEE-bruh
+example: Je suis libre jeudi. | I'm free on Thursday.
+vocab: occupé / occupée | busy | oh-kew-PAY
+example: Je suis occupé demain. | I'm busy tomorrow.
+vocab: la pause | break | lah POHZ
+example: Je fais une pause à midi. | I take a break at noon.
+vocab: ensemble | together | ahn-SAHM-bluh
+example: On déjeune ensemble ? | Shall we have lunch together?
+vocab: le dentiste | dentist | luh dahn-TEEST
+example: J'ai rendez-vous chez le dentiste. | I have an appointment at the dentist's.
+
+[grammar]
+grammar: Days and periods of the day | Use du au for from to: du lundi au vendredi. With a single day, use no article for this coming day, and add le for every week: le lundi means every Monday. For the part of the day, add matin, après-midi or soir: jeudi après-midi, vendredi matin.
+example: Du lundi au vendredi. | Monday to Friday.
+example: Le lundi, je travaille. | On Mondays I work.
+grammar: Avoir rendez-vous | Avoir rendez-vous means to have an appointment: j'ai rendez-vous, tu as rendez-vous, il a rendez-vous. Use chez for a person and à plus time for when. To say you are free or busy, use libre or occupé.
+example: J'ai rendez-vous à quinze heures. | I have an appointment at three.
+example: Je suis libre jeudi matin. | I'm free on Thursday morning.
+
+[quiz]
+quiz: How do you say “Monday to Friday”? | du lundi au vendredi | de lundi à vendredi | lundi à vendredi | du lundi à vendredi | A | Du… au…
+quiz: What does “le lundi” (with le) mean? | last Monday | every Monday | next Monday | this Monday | B | Le + day = every week.
+quiz: What does “occupé” mean? | free | late | busy | tired | C | Occupé = busy.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
