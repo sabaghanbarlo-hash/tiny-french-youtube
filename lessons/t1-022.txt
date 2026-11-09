@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 22 · Clothes and accessories
+episode: T1-022
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu cherches des vêtements ? | Hi, Marinette! Are you looking for clothes?
+Marinette: Oui. J'aime le pantalon bleu et le T-shirt blanc. | Yes. I like the blue pants and the white T-shirt.
+Adrien: Essaie aussi cette chemise et cette jupe. | Try on this shirt and this skirt too.
+Marinette: Merci ! J'aime cette robe, mais il me faut un pull. | Thanks! I like this dress, but I need a sweater.
+Adrien: Il fait frais dehors ; prends ta veste ou ton manteau. | It's cool outside; take your jacket or your coat.
+Marinette: Bonne idée. Ces chaussures sont confortables. | Good idea. These shoes are comfortable.
+Adrien: Et ce sac ? Il va bien avec ta robe. | And this bag? It goes well with your dress.
+Marinette: Oui, je prends le sac. Merci, Adrien ! | Yes, I'll take the bag. Thanks, Adrien!
+
+[vocab]
+vocab: le pantalon | pants | pahn-tah-LOHN
+example: Je porte un pantalon bleu. | I wear blue pants.
+vocab: le T-shirt | T-shirt | tee-SHURT
+example: Je porte un T-shirt blanc. | I wear a white T-shirt.
+vocab: la chemise | shirt | shuh-MEEZ
+example: Il porte une chemise blanche. | He wears a white shirt.
+vocab: les chaussures | shoes | shoh-SOOR
+example: Elle porte des chaussures noires. | She wears black shoes.
+vocab: la veste | jacket | VEST
+example: Je mets ma veste. | I put on my jacket.
+vocab: le manteau | coat | mahn-TOH
+example: Il porte un manteau chaud. | He wears a warm coat.
+vocab: la robe | dress | ROHB
+example: Elle porte une robe rouge. | She wears a red dress.
+vocab: le pull | sweater | PEWL
+example: Je porte un pull gris. | I wear a gray sweater.
+vocab: la jupe | skirt | ZHEWP
+example: Elle porte une jupe noire. | She wears a black skirt.
+vocab: le sac | bag | SACK
+example: Je prends mon sac. | I take my bag.
+
+[grammar]
+grammar: French articles | French nouns use articles that match their grammatical gender and number. Use le with masculine singular nouns, la with feminine singular nouns, and les with plural nouns.
+example: Le pantalon est bleu. | The pants are blue.
+example: Les chaussures sont confortables. | The shoes are comfortable.
+
+[quiz]
+quiz: What does la jupe mean? | a jacket | a skirt | a bag | B | La jupe means “the skirt.”
+quiz: Which French word means “shoes”? | les chaussures | le manteau | la chemise | A | Les chaussures means “the shoes.”
+quiz: What does “la chemise” mean? | shirt | sweater | jacket | A | la chemise means “shirt”.
+quiz: What does “les chaussures” mean? | T-shirt | sweater | shoes | C | les chaussures means “shoes”.
+quiz: What does “le thé” mean? | a plate | a bowl | tea | C | le thé means “tea”.
