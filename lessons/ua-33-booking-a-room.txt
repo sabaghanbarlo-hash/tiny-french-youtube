@@ -1,0 +1,47 @@
+title: Booking a Room
+episode: UA33
+scene: home
+
+[story]
+Adrien: Bonjour, j'ai réservé une chambre au nom de Martin. | Hello, I booked a room under the name Martin.
+Marinette: Oui, une chambre double pour trois nuits ? | Yes, a double room for three nights?
+Adrien: C'est ça. Le petit-déjeuner est compris ? | That's right. Is breakfast included?
+Marinette: Oui, de sept heures à dix heures. Voici votre clé, chambre douze. | Yes, from seven to ten. Here is your key, room twelve.
+Adrien: Il y a une connexion Wi-Fi ? | Is there a Wi-Fi connection?
+Marinette: Oui, le code est sur la carte. | Yes, the code is on the card.
+
+[vocab]
+vocab: réserver | to book | ray-zehr-VAY
+example: Je voudrais réserver une chambre. | I'd like to book a room.
+vocab: la chambre double | double room | lah SHAHN-bruh DOO-bluh
+example: Une chambre double, s'il vous plaît. | A double room, please.
+vocab: la nuit | night | lah NWEE
+example: Pour trois nuits. | For three nights.
+vocab: compris | included | kohn-PREE
+example: Le petit-déjeuner est compris. | Breakfast is included.
+vocab: la clé | key | lah KLAY
+example: Voici votre clé. | Here is your key.
+vocab: au nom de | in the name of | oh NOHM duh
+example: Une réservation au nom de Martin. | A reservation in the name of Martin.
+vocab: le passeport | passport | luh pahs-POHR
+example: Votre passeport, s'il vous plaît. | Your passport, please.
+vocab: l'hôtel | hotel | loh-TEHL
+example: L'hôtel est près de la gare. | The hotel is near the station.
+vocab: disponible | available | dees-poh-NEE-bluh
+example: Il y a une chambre disponible. | There's a room available.
+
+[grammar]
+grammar: J'ai réservé: the past with avoir | To say you booked something, use j'ai réservé. This is the passé composé, built with avoir plus a past form of the verb: j'ai réservé, il a réservé. For -er verbs, change the ending to -é: réserver becomes réservé. The next lesson explains it fully.
+example: J'ai réservé une chambre. | I booked a room.
+example: Elle a réservé deux nuits. | She booked two nights.
+grammar: From … to … | Say from to with de à: de sept heures à dix heures, du lundi au vendredi. Use pour for how long: pour trois nuits.
+example: De sept heures à dix heures. | From seven to ten.
+example: Pour trois nuits. | For three nights.
+
+[quiz]
+quiz: How do you say “I booked a room”? | Je réserve une chambre hier. | J'ai réservé une chambre. | J'ai réserver une chambre. | Je suis réservé une chambre. | B | Passé composé: j'ai réservé.
+quiz: What does “compris” mean? | extra | free | included | missing | C | Compris = included.
+quiz: What does “au nom de Martin” mean? | near Martin | next to Martin | for Martin's friends | under the name Martin | D | Au nom de = in the name of.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
