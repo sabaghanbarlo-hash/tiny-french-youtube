@@ -1,0 +1,47 @@
+title: Ordering a Meal
+episode: UA10
+scene: restaurant
+
+[story]
+Adrien: Qu'est-ce que tu prends ? | What are you having?
+Marinette: Je vais prendre le poulet avec des frites. Et toi ? | I'm going to have the chicken with fries. And you?
+Adrien: Moi, je prends le poisson et une salade. | I'm having the fish and a salad.
+Marinette: Et comme boisson ? Une carafe d'eau ? | And to drink? A jug of water?
+Adrien: Oui, et un café pour finir. | Yes, and a coffee to finish.
+Marinette: L'addition, s'il vous plaît ! | The bill, please!
+
+[vocab]
+vocab: la carte | menu | lah KART
+example: La carte, s'il vous plaît. | The menu, please.
+vocab: le poulet | chicken | luh poo-LEH
+example: Le poulet est très bon. | The chicken is very good.
+vocab: le poisson | fish | luh pwah-SOHN
+example: Je prends le poisson. | I'm having the fish.
+vocab: les frites | fries | lay FREET
+example: Du poulet avec des frites. | Chicken with fries.
+vocab: la boisson | drink | lah bwah-SOHN
+example: Comme boisson, de l'eau. | To drink, water.
+vocab: le dessert | dessert | luh deh-SEHR
+example: Comme dessert, une glace. | For dessert, an ice cream.
+vocab: l'addition | the bill | lah-dee-SYOHN
+example: L'addition, s'il vous plaît ! | The bill, please!
+vocab: je vais prendre | I'm going to have | zhuh veh PRAHN-druh
+example: Je vais prendre un café. | I'll have a coffee.
+vocab: qu'est-ce que tu prends ? | what are you having? | kehs-kuh too PRAHN
+example: Qu'est-ce que tu prends ? | What are you having?
+
+[grammar]
+grammar: Je vais prendre… | Aller plus infinitive says what you are going to do, and it is the natural way to order: Je vais prendre le poisson. Aller: je vais, tu vas, il / elle va, nous allons, vous allez, ils / elles vont. A set menu has three parts: l'entrée, le plat and le dessert.
+example: Je vais prendre le poulet. | I'm going to have the chicken.
+example: Il va prendre un café. | He's going to have a coffee.
+grammar: Asking and asking for the bill | To ask a friend, say Qu'est-ce que tu prends ? In a restaurant, to a waiter, use vous: Qu'est-ce que vous prenez ? To pay, ask L'addition, s'il vous plaît.
+example: Qu'est-ce que vous prenez ? | What will you have? (formal)
+example: L'addition, s'il vous plaît. | The bill, please.
+
+[quiz]
+quiz: How do you say “I'm going to have the fish”? | Je vais prendre le poisson. | Je prends vais le poisson. | Je vais le poisson prendre. | Je suis prendre le poisson. | A | Je vais + infinitive.
+quiz: What does “l'addition” mean? | the menu | the bill | the drink | the dessert | B | L'addition = the bill.
+quiz: A waiter asks you a question politely. Which form does he use? | Qu'est-ce que tu prends ? | Tu prends quoi ? | Qu'est-ce que vous prenez ? | Qu'est-ce que je prends ? | C | Waiters say vous.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
