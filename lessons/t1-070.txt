@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 70 · Comparison and degree words
+episode: T1-070
+scene: classroom
+
+[story]
+Adrien: Tu te sens mieux aujourd’hui, Marinette ? | Are you feeling better today, Marinette?
+Marinette: Oui, merci. Ce café est meilleur que l’autre. | Yes, thanks. This café is better than the other one.
+Adrien: Les deux portions sont égales ? | Are the two portions equal?
+Marinette: Oui, elles sont pareilles, mais les recettes sont différentes. | Yes, they are alike, but the recipes are different.
+Adrien: Ces deux menus sont identiques ? | Are these two menus identical?
+Marinette: Non, ils sont similaires, mais le prix de celui-ci est supérieur à celui de l’autre. | No, they are similar, but the price of this one is higher.
+Adrien: Et le prix de l’autre est inférieur ? Son dessert est pire ? | And is the other one’s price lower? Is its dessert worse?
+Marinette: Oui, mais ici, le dessert est le meilleur ! | Yes, but here, the dessert is the best!
+
+[vocab]
+vocab: mieux | better | MYUH
+example: Tu cuisines mieux que moi. | You cook better than I do.
+vocab: meilleur | better; best | meh-YUHR
+example: Ce café est meilleur que l’autre. | This coffee is better than the other one.
+vocab: pire | worse; worst | peer
+example: Le résultat est pire aujourd’hui. | The result is worse today.
+vocab: pareil | the same; alike | pah-RAY
+example: Mon sac est pareil au tien. | My bag is the same as yours.
+vocab: différent | different | dee-fay-RAHN
+example: Son avis est différent du mien. | His opinion is different from mine.
+vocab: égal | equal | ay-GAHL
+example: Le prix reste égal dans les deux magasins. | The price stays the same in both stores.
+vocab: identique | identical | ee-dahn-TEEK
+example: Le modèle est identique au mien. | The model is identical to mine.
+vocab: similaire | similar | see-mee-LAIR
+example: Le résultat est similaire au précédent. | The result is similar to the previous one.
+vocab: supérieur | superior; higher | syoo-peh-RYUHR
+example: Ce modèle est supérieur à l’ancien. | This model is better than the old one.
+vocab: inférieur | inferior; lower | ehn-feh-RYUHR
+example: Ce modèle est inférieur au mien. | This model is inferior to mine.
+
+[grammar]
+grammar: Mieux ou meilleur ? | Use meilleur(e)(s) as an adjective to compare or describe nouns, and mieux as an adverb to describe how someone does or feels. To say “the best,” use le, la, or les meilleur(e)(s), agreeing with the noun.
+example: Ce café est meilleur que l’autre. | This café is better than the other one.
+example: Je me sens mieux aujourd’hui. | I feel better today.
+
+[quiz]
+quiz: Which word means “similar”? | similaire | supérieur | pire | A | Similaire means “similar.”
+quiz: Which phrase means “the best dessert”? | le dessert inférieur | le meilleur dessert | un dessert semblable | B | Meilleur means “better” or “best” when describing a noun.
+quiz: What does “meilleur” mean? | similar | identical | better | C | meilleur means “better”.
+quiz: What does “différent” mean? | different | equal | inferior | A | différent means “different”.
+quiz: What does “le mot” mean? | word | exercise | answer | A | le mot means “word”.
