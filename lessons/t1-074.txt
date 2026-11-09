@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 74 · Housing and neighborhood
+episode: T1-074
+scene: classroom
+
+[story]
+Adrien: Tu habites dans cet immeuble ? | Do you live in this building?
+Marinette: Oui, j’habite au troisième étage, dans un appartement. | Yes, I live on the third floor, in an apartment.
+Adrien: Il y a un ascenseur ? | Is there an elevator?
+Marinette: Oui, et j’ai aussi un petit balcon. | Yes, and I also have a small balcony.
+Adrien: Ton voisin est gentil ? | Is your neighbor nice?
+Marinette: Oui, il est gentil. Je loue cet appartement, et le loyer est raisonnable. | Yes, he is nice. I rent this apartment, and the rent is reasonable.
+Adrien: Tu vas déménager bientôt ? | Are you going to move soon?
+Marinette: Non, je reste ici ! | No, I’m staying here!
+
+[vocab]
+vocab: un appartement | an apartment | ewn ah-par-tuh-MAHN
+example: J'habite dans un appartement. | I live in an apartment.
+vocab: un immeuble | a building | ee-MUHB-l
+example: Cet immeuble est très grand. | This building is very big.
+vocab: un voisin | a neighbor | ewn vwah-ZAN
+example: Mon voisin habite ici. | My neighbor lives here.
+vocab: un étage | a floor; a story | ewn ay-TAHZH
+example: J'habite au deuxième étage. | I live on the second floor.
+vocab: un ascenseur | an elevator | ewn ah-sahn-SUHR
+example: L'ascenseur est très rapide. | The elevator is very fast.
+vocab: un balcon | a balcony | ewn bal-KOHN
+example: Il y a un balcon. | There is a balcony.
+vocab: un loyer | rent | lwah-YAY
+example: Le loyer est cher. | The rent is expensive.
+vocab: habiter | to live; to reside | ah-bee-TAY
+example: J'habite à Paris. | I live in Paris.
+vocab: louer | to rent; to lease | LWAY
+example: Je loue un appartement. | I rent an apartment.
+vocab: déménager | to move house | day-may-nah-ZHAY
+example: Nous déménageons demain. | We're moving tomorrow.
+
+[grammar]
+grammar: Using au | Au is a contraction of à + le, meaning “at” or “on the” before a masculine singular noun. Use it in expressions such as au troisième étage.
+example: J’habite au troisième étage. | I live on the third floor.
+example: Il y a un ascenseur au troisième étage. | There is an elevator on the third floor.
+
+[quiz]
+quiz: What does un loyer mean? | rent | a balcony | a neighbor | A | Un loyer is the money paid to rent a home.
+quiz: Which word means “to move house”? | habiter | déménager | louer | B | Déménager means to move to a different home.
+quiz: What does “déménager” mean? | to live | to move house | rent | B | déménager means “to move house”.
+quiz: What does “louer” mean? | an apartment | a balcony | to rent | C | louer means “to rent”.
+quiz: What does “un portefeuille” mean? | change | bill | wallet | C | un portefeuille means “wallet”.
