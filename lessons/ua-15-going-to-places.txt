@@ -1,0 +1,47 @@
+title: Going to Places
+episode: UA15
+scene: town
+
+[story]
+Adrien: Où est-ce que tu vas ce matin ? | Where are you going this morning?
+Marinette: Je vais à la banque, puis au marché. | I'm going to the bank, then to the market.
+Adrien: Tu ne vas pas à l'université ? | Aren't you going to university?
+Marinette: Si, mais cet après-midi. Et toi ? | Yes, but this afternoon. And you?
+Adrien: Je vais à la bibliothèque, puis chez le coiffeur. | I'm going to the library, then to the hairdresser's.
+Marinette: Très bien. On se retrouve ce soir ? | Great. Shall we meet this evening?
+
+[vocab]
+vocab: aller | to go | ah-LAY
+example: Je vais au marché. | I go to the market.
+vocab: la bibliothèque | library | lah bee-blee-oh-TEHK
+example: Je vais à la bibliothèque. | I'm going to the library.
+vocab: l'université | university | lew-nee-vehr-see-TAY
+example: Elle va à l'université. | She goes to university.
+vocab: chez | at / to someone's place | SHAY
+example: Je vais chez Adrien. | I'm going to Adrien's.
+vocab: le coiffeur | hairdresser | luh kwah-FUHR
+example: Je vais chez le coiffeur. | I'm going to the hairdresser.
+vocab: ce matin | this morning | suh mah-TAN
+example: Ce matin, je travaille. | This morning I'm working.
+vocab: cet après-midi | this afternoon | seh-tah-preh-mee-DEE
+example: Cet après-midi, je suis libre. | This afternoon I'm free.
+vocab: ce soir | this evening | suh SWAHR
+example: On se voit ce soir ? | Shall we meet tonight?
+vocab: si | yes (to a negative question) | SEE
+example: Tu ne viens pas ? Si ! | Aren't you coming? Yes I am!
+
+[grammar]
+grammar: Aller and à / au / à la / aux | Aller: je vais, tu vas, il / elle va, nous allons, vous allez, ils / elles vont. After aller use à: à la banque, à l'université. With le it becomes au: au marché. With les it becomes aux: aux magasins.
+example: Je vais au marché. | I'm going to the market.
+example: Elle va à la bibliothèque. | She is going to the library.
+grammar: Chez and si | Use chez plus a person: chez Adrien, chez le coiffeur, chez moi. To contradict a negative question, French uses si instead of oui: Tu ne vas pas à l'université ? Si !
+example: Je vais chez moi. | I'm going home.
+example: Tu ne viens pas ? Si ! | You're not coming? Yes I am!
+
+[quiz]
+quiz: Which is correct? | Je vais à le marché. | Je vais à marché. | Je vais en marché. | Je vais au marché. | D | À + le = au.
+quiz: What does “chez Adrien” mean? | at Adrien's place | with Adrien's friends | after Adrien | near Adrien's school | A | Chez + person = at someone's place.
+quiz: Someone asks “Tu ne viens pas ?” and you want to say yes. You say… | Oui ! | Si ! | Non ! | Pas si ! | B | Si contradicts a negative question.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
