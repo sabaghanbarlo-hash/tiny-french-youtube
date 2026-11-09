@@ -1,0 +1,55 @@
+title: Hello, My Name Is…
+episode: UA1
+scene: classroom
+
+[story]
+Marinette: Bonjour ! Comment tu t'appelles ? | Hello! What's your name?
+Adrien: Je m'appelle Adrien. Et toi ? | My name is Adrien. And you?
+Marinette: Moi, c'est Marinette. Enchantée ! | I'm Marinette. Nice to meet you!
+Adrien: Enchanté, Marinette ! | Nice to meet you, Marinette!
+Marinette: Bonjour, monsieur. Comment vous appelez-vous ? | Hello, sir. What is your name?
+Adrien: Je m'appelle Adrien Martin. Et vous, madame ? | My name is Adrien Martin. And you, madam?
+Marinette: Je m'appelle Marinette Dupont. Enchantée. | My name is Marinette Dupont. Pleased to meet you.
+Adrien: Enchanté, madame. | Pleased to meet you, madam.
+
+[vocab]
+vocab: je m'appelle | my name is | zhuh mah-PEHL
+example: Je m'appelle Adrien. | My name is Adrien.
+vocab: comment tu t'appelles ? | what's your name? (friendly) | koh-mahn too mah-PEHL
+example: Salut ! Comment tu t'appelles ? | Hi! What's your name?
+vocab: comment vous appelez-vous ? | what is your name? (formal) | koh-mahn voo zah-play-VOO
+example: Bonjour, comment vous appelez-vous ? | Hello, what is your name?
+vocab: moi, c'est… | I'm… (informal) | mwah SEH
+example: Moi, c'est Marinette. | I'm Marinette.
+vocab: enchanté | nice to meet you (said by a man) | ahn-shahn-TAY
+example: Enchanté, madame. | Pleased to meet you, madam.
+vocab: enchantée | nice to meet you (said by a woman) | ahn-shahn-TAY
+example: Enchantée, Adrien ! | Nice to meet you, Adrien!
+vocab: et toi ? | and you? (friendly) | ay TWAH
+example: Je m'appelle Léa. Et toi ? | My name is Léa. And you?
+vocab: et vous ? | and you? (formal) | ay VOO
+example: Je vais bien. Et vous ? | I'm well. And you?
+vocab: le prénom | first name | luh pray-NOHM
+example: Mon prénom, c'est Adrien. | My first name is Adrien.
+vocab: le nom de famille | last name | luh NOHM duh fah-MEE
+example: Mon nom de famille, c'est Martin. | My last name is Martin.
+
+[grammar]
+grammar: Tu or vous? | Use tu with friends, family, children and people your age. Use vous with someone you do not know, someone older, or in a formal place like an office or a shop. Vous is also the plural: it means "you all". When in doubt, start with vous.
+example: Comment tu t'appelles ? | What's your name? (to a friend)
+example: Comment vous appelez-vous ? | What is your name? (to a stranger)
+grammar: The verb s'appeler | To say your name, use a reflexive verb: je m'appelle, tu t'appelles, il / elle s'appelle. Notice the double l. You can also say simply Moi, c'est in a relaxed conversation.
+example: Je m'appelle Marinette. | My name is Marinette.
+example: Il s'appelle Adrien. | His name is Adrien.
+grammar: Enchanté or enchantée? | Enchanté has an extra e when a woman says it, but the two forms sound exactly the same. A man writes enchanté, a woman writes enchantée.
+example: Enchanté, Marinette ! | Nice to meet you, Marinette! (a man speaking)
+example: Enchantée, Adrien ! | Nice to meet you, Adrien! (a woman speaking)
+
+[quiz]
+quiz: Which sentence means “My name is Adrien”? | Tu t'appelles Adrien. | Je m'appelle Adrien. | Il s'appelle Adrien. | Vous appelez Adrien. | B | Je m'appelle = my name is.
+quiz: You meet your new boss. How do you ask her name? | Comment tu t'appelles ? | Et toi ? | Comment vous appelez-vous ? | Moi, c'est… | C | Use vous with a boss or a stranger.
+quiz: Marinette writes “Enchantée”. Why the extra e? | Because it is formal | Because it is plural | Because it is a question | Because she is a woman | D | A woman adds an e, but the sound does not change.
+quiz: Which is the friendly way to say “And you?” | Et toi ? | Et vous ? | Et moi ? | Et elle ? | A | Toi is for a friend, vous is formal.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
