@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 18 · Basic foods
+episode: T1-018
+scene: classroom
+
+[story]
+Adrien: Salut, Marinette ! Qu'est-ce qu'on achète pour le dîner ? | Hi, Marinette! What are we buying for dinner?
+Marinette: Du lait, du fromage, du riz et des pâtes, s'il te plaît. | Milk, cheese, rice, and pasta, please.
+Adrien: D'accord. On prend aussi une pomme et un œuf ? | All right. Shall we get an apple and an egg too?
+Marinette: Oui, merci ! Et de la viande ou du poisson ? | Yes, thanks! And meat or fish?
+Adrien: Du poisson, s'il te plaît. Il nous faut de la farine ? | Fish, please. Do we need flour?
+Marinette: Oui, et de l'huile pour cuisiner. | Yes, and oil for cooking.
+Adrien: Très bien. Je vais au marché avec toi. | Great. I'll go to the market with you.
+Marinette: Merci, Adrien ! À tout à l'heure ! | Thanks, Adrien! See you later!
+
+[vocab]
+vocab: le lait | milk | luh LEH
+example: Je bois du lait. | I drink milk.
+vocab: le fromage | cheese | luh froh-MAHZH
+example: J'aime le fromage. | I like cheese.
+vocab: le riz | rice | luh REE
+example: Je mange du riz. | I eat rice.
+vocab: les pâtes | pasta | lay PAHT
+example: Je mange des pâtes. | I eat pasta.
+vocab: la pomme | apple | lah POM
+example: Je mange une pomme. | I eat an apple.
+vocab: l'œuf | egg | LUHF
+example: Je mange un œuf. | I eat an egg.
+vocab: la viande | meat | lah VYAHND
+example: Je mange de la viande. | I eat meat.
+vocab: le poisson | fish | luh pwah-SOHN
+example: Je mange du poisson. | I eat fish.
+vocab: la farine | flour | fah-REEN
+example: La farine est dans le placard. | The flour is in the cupboard.
+vocab: l'huile | oil | WEEL
+example: Ajoute un peu d'huile. | Add a little oil.
+
+[grammar]
+grammar: Articles for food | For an unspecified amount of food, French uses du with masculine singular nouns, de la with feminine singular nouns, de l' before a vowel sound, and des with plural nouns. These forms appear in the shopping list.
+example: Je voudrais du fromage. | I would like some cheese.
+example: Nous achetons de l'huile. | We are buying some oil.
+
+[quiz]
+quiz: What does « le fromage » mean? | cheese | rice | flour | A | « Le fromage » means cheese.
+quiz: Which phrase means “oil”? | de la farine | de l'huile | du poisson | B | « L'huile » means oil.
+quiz: What does “le riz” mean? | pasta | rice | oil | B | le riz means “rice”.
+quiz: What does “le fromage” mean? | oil | cheese | rice | B | le fromage means “cheese”.
+quiz: What does “le nez” mean? | nose | eyes | leg | A | le nez means “nose”.
