@@ -1,0 +1,39 @@
+1
+00:00:12,408 --> 00:00:17,036
+Bonjour ! Comment tu t'appelles ?
+Hello! What's your name?
+
+2
+00:00:17,136 --> 00:00:21,404
+Je m'appelle Adrien. Et toi ?
+My name is Adrien. And you?
+
+3
+00:00:21,504 --> 00:00:26,660
+Moi, c'est Marinette. Enchantée !
+I'm Marinette. Nice to meet you!
+
+4
+00:00:26,760 --> 00:00:30,140
+Enchanté, Marinette !
+Nice to meet you, Marinette!
+
+5
+00:00:30,240 --> 00:00:35,564
+Bonjour, monsieur. Comment vous appelez-vous ?
+Hello, sir. What is your name?
+
+6
+00:00:35,664 --> 00:00:41,012
+Je m'appelle Adrien Martin. Et vous, madame ?
+My name is Adrien Martin. And you, madam?
+
+7
+00:00:41,112 --> 00:00:46,412
+Je m'appelle Marinette Dupont. Enchantée.
+My name is Marinette Dupont. Pleased to meet you.
+
+8
+00:00:46,512 --> 00:00:49,724
+Enchanté, madame.
+Pleased to meet you, madam.
