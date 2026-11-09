@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 36 · Time expressions
+episode: T1-036
+scene: classroom
+
+[story]
+Adrien: Tu connais l'heure du rendez-vous ? | Do you know the time of the appointment?
+Marinette: Oui, à six heures. On se voit bientôt ? | Yes, at six. Will we see each other soon?
+Adrien: Je me lève tôt, mais je rentre tard. | I get up early, but I come home late.
+Marinette: Moi aussi. J'étudie le français pendant une heure chaque soir. | Me too. I study French for an hour every evening.
+Adrien: J'ai visité Lyon récemment. C'était très joli. | I visited Lyon recently. It was very beautiful.
+Marinette: Le mois prochain, on peut y retourner. | Next month, we can go back there.
+Adrien: Cette année, je veux aussi voir Paris la nuit. | This year, I also want to see Paris at night.
+Marinette: Bonne idée ! Appelle-moi aussitôt que tu arrives. | Great idea! Call me as soon as you arrive.
+
+[vocab]
+vocab: l'heure | hour, time | LUHR
+example: Quelle heure est-il ? | What time is it?
+vocab: la nuit | night | lah NWEE
+example: La nuit, la ville dort. | At night, the city sleeps.
+vocab: le mois | month | luh MWAH
+example: Le mois commence lundi. | The month starts on Monday.
+vocab: l'année | year | lah-NAY
+example: L'année commence en janvier. | The year starts in January.
+vocab: tôt | early | TOH
+example: Elle arrive tôt. | She arrives early.
+vocab: tard | late | TAR
+example: Je rentre tard. | I come home late.
+vocab: bientôt | soon | byen-TOH
+example: Il revient bientôt. | He is coming back soon.
+vocab: pendant | during, for | pahn-DAHN
+example: Il travaille pendant deux heures. | He works for two hours.
+vocab: récemment | recently | ray-sah-MAHN
+example: Nous sommes arrivés récemment. | We arrived recently.
+vocab: aussitôt | immediately | oh-see-TOH
+example: Il répond aussitôt. | He answers immediately.
+
+[grammar]
+grammar: Using « pendant » | Use « pendant » before a length of time to say how long something lasts. It can mean “for” or “during.”
+example: J'étudie le français pendant une heure. | I study French for an hour.
+example: Nous avons parlé pendant dix minutes. | We talked for ten minutes.
+
+[quiz]
+quiz: What does « bientôt » mean? | early | soon | late | B | « Bientôt » means “soon.”
+quiz: In « pendant une heure », what does « pendant » mean? | for / during | recently | immediately | A | « Pendant » introduces a period of time.
+quiz: What does “tard” mean? | month | year | late | C | tard means “late”.
+quiz: What does “l'heure” mean? | immediately | hour, time | year | B | l'heure means “hour, time”.
+quiz: What does “lent” mean? | slow | open | empty | A | lent means “slow”.
