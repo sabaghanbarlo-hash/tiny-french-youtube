@@ -1,0 +1,47 @@
+title: Inviting a Friend
+episode: UA23
+scene: terrace
+
+[story]
+Adrien: Qu'est-ce qu'on fait samedi ? | What are we doing on Saturday?
+Marinette: Je ne sais pas. Tu veux aller au cinéma ? | I don't know. Do you want to go to the cinema?
+Adrien: Bonne idée ! Il y a un film à vingt heures. | Good idea! There's a film at eight p.m.
+Marinette: D'accord. On se retrouve devant le cinéma à dix-neuf heures trente ? | OK. Shall we meet in front of the cinema at 7:30 p.m.?
+Adrien: Parfait. Mais je ne peux pas rester après le film. | Perfect. But I can't stay after the film.
+Marinette: Pas de problème. À samedi ! | No problem. See you Saturday!
+
+[vocab]
+vocab: qu'est-ce qu'on fait ? | what are we doing? | kehs-kohn FEH
+example: Qu'est-ce qu'on fait ce soir ? | What are we doing tonight?
+vocab: tu veux… ? | do you want…? | tew VUH
+example: Tu veux venir ? | Do you want to come?
+vocab: bonne idée | good idea | bohn ee-DAY
+example: Oui, bonne idée ! | Yes, good idea!
+vocab: d'accord | OK, agreed | dah-KOHR
+example: D'accord, à demain. | OK, see you tomorrow.
+vocab: on se retrouve | we'll meet up | ohn suh ruh-TROOV
+example: On se retrouve à huit heures. | We'll meet at eight.
+vocab: je ne peux pas | I can't | zhuh nuh PUH pah
+example: Je ne peux pas venir. | I can't come.
+vocab: désolé / désolée | sorry | day-zoh-LAY
+example: Désolé, je ne peux pas. | Sorry, I can't.
+vocab: je ne sais pas | I don't know | zhuh nuh say PAH
+example: Je ne sais pas. | I don't know.
+vocab: un film | film, movie | uhn FEELM
+example: Il y a un film à vingt heures. | There's a film at eight p.m.
+
+[grammar]
+grammar: Vouloir and pouvoir | Vouloir: je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent. Pouvoir: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. Both are followed by an infinitive: tu veux venir ? je peux venir.
+example: Tu veux aller au cinéma ? | Do you want to go to the cinema?
+example: Je peux venir à huit heures. | I can come at eight.
+grammar: On = nous | In daily speech, on replaces nous and takes the il / elle form: on va au cinéma, on se retrouve. Use it to suggest something: On y va ? Shall we go?
+example: On va au cinéma. | We're going to the cinema.
+example: On se retrouve devant la gare. | We'll meet in front of the station.
+
+[quiz]
+quiz: How do you invite a friend to the cinema? | Tu veut aller au cinéma ? | Tu veux allez au cinéma ? | Veux tu cinéma ? | Tu veux aller au cinéma ? | D | Tu veux + infinitive.
+quiz: What does “D'accord” mean? | OK | No way | Maybe | See you | A | D'accord = OK.
+quiz: What does “On se retrouve” mean? | We lost it | We'll meet up | We're leaving | We're resting | B | Se retrouver = to meet.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
