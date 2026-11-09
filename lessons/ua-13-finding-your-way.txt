@@ -1,0 +1,47 @@
+title: Finding Your Way
+episode: UA13
+scene: street
+
+[story]
+Adrien: Excusez-moi, la poste, c'est où ? | Excuse me, where is the post office?
+Marinette: Vous allez tout droit, puis vous tournez à gauche. | You go straight ahead, then you turn left.
+Adrien: C'est loin ? | Is it far?
+Marinette: Non, c'est à deux minutes. Elle est en face de la banque. | No, it's two minutes away. It's opposite the bank.
+Adrien: Merci beaucoup ! | Thank you very much!
+Marinette: Je vous en prie. Bonne journée ! | You're welcome. Have a nice day!
+
+[vocab]
+vocab: tout droit | straight ahead | too DRWAH
+example: Allez tout droit. | Go straight ahead.
+vocab: à gauche | to the left | ah GOHSH
+example: Tournez à gauche. | Turn left.
+vocab: à droite | to the right | ah DRWAHT
+example: Tournez à droite. | Turn right.
+vocab: tourner | to turn | toor-NAY
+example: Tournez à la rue. | Turn at the street.
+vocab: en face de | opposite | ahn FAHSS duh
+example: La poste est en face de la banque. | The post office is opposite the bank.
+vocab: c'est loin ? | is it far? | seh LWAN
+example: La gare, c'est loin ? | Is the station far?
+vocab: la poste | post office | lah POHST
+example: La poste est ouverte. | The post office is open.
+vocab: la banque | bank | lah BAHNK
+example: La banque est fermée. | The bank is closed.
+vocab: excusez-moi | excuse me | ehk-skew-zay-MWAH
+example: Excusez-moi, madame. | Excuse me, madam.
+
+[grammar]
+grammar: Où est… ? and C'est où ? | There are two common ways to ask where something is: Où est la poste ? and La poste, c'est où ? Start with Excusez-moi to be polite and use vous with a stranger.
+example: Où est la gare ? | Where is the station?
+example: La banque, c'est où ? | Where is the bank?
+grammar: Giving directions with vous | The vous form of the verb gives directions: vous allez tout droit, vous tournez à gauche, vous traversez la rue. Short commands sound the same: tournez, continuez, traversez.
+example: Vous tournez à droite. | You turn right.
+example: Continuez tout droit. | Keep going straight.
+
+[quiz]
+quiz: Which question asks where the station is? | Quand est la gare ? | Où est la gare ? | Qui est la gare ? | Comment est la gare ? | B | Où = where.
+quiz: What does “à gauche” mean? | to the right | straight on | to the left | behind | C | Gauche = left.
+quiz: What does “C'est loin ?” ask? | Is it open? | Is it free? | Is it new? | Is it far? | D | Loin = far.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
