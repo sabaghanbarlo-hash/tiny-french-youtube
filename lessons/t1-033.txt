@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 33 · Opposite adjectives
+episode: T1-033
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Le trajet est long. | Hello, Marinette! The trip is long.
+Marinette: Oui, mais le bus est rapide, pas lent. | Yes, but the bus is fast, not slow.
+Adrien: La rue est propre, mais le trottoir est sale. | The street is clean, but the sidewalk is dirty.
+Marinette: Le café est ouvert ? La porte est ouverte. | Is the café open? The door is open.
+Adrien: Oui. Cette file est courte, heureusement ! | Yes. This line is short, thankfully!
+Marinette: La salle est pleine, mais la rue est vide. | The room is full, but the street is empty.
+Adrien: Le magasin est fermé maintenant ? | Is the shop closed now?
+Marinette: Oui, désolée. | Yes, sorry.
+
+[vocab]
+vocab: long | long | LOHN
+example: Le texte est long. | The text is long.
+vocab: court | short | KOOR
+example: Le film est court. | The film is short.
+vocab: rapide | fast | rah-PEED
+example: Le rythme est rapide. | The pace is fast.
+vocab: lent | slow | LAHN
+example: Le service est lent. | The service is slow.
+vocab: propre | clean | proh-PRUH
+example: Le sol est propre. | The floor is clean.
+vocab: sale | dirty | SAL
+example: Le sol est sale. | The floor is dirty.
+vocab: ouvert | open | oo-VAIR
+example: Le musée est ouvert. | The museum is open.
+vocab: fermé | closed | fair-MAY
+example: Le musée est fermé. | The museum is closed.
+vocab: plein | full | PLAHN
+example: Le verre est plein. | The glass is full.
+vocab: vide | empty | VEED
+example: Le verre est vide. | The glass is empty.
+
+[grammar]
+grammar: Adjective agreement | In French, many adjectives change to match the gender and number of the noun they describe. For a feminine singular noun, a final -e is often added, as in courte, pleine, and ouverte.
+example: Cette file est courte. | This line is short.
+example: La porte est ouverte. | The door is open.
+
+[quiz]
+quiz: What does rapide mean? | fast | slow | short | A | Rapide means fast.
+quiz: Which word means empty? | propre | vide | plein | B | Vide means empty; plein means full.
+quiz: What does “vide” mean? | long | open | empty | C | vide means “empty”.
+quiz: What does “rapide” mean? | empty | clean | fast | C | rapide means “fast”.
+quiz: What does “peu” mean? | little | a slice | all | A | peu means “little”.
