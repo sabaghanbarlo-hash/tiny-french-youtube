@@ -1,0 +1,39 @@
+1
+00:00:14,856 --> 00:00:17,852
+Tu habites dans cet immeuble ?
+Do you live in this building?
+
+2
+00:00:17,952 --> 00:00:23,252
+Oui, j’habite au troisième étage, dans un appartement.
+Yes, I live on the third floor, in an apartment.
+
+3
+00:00:23,352 --> 00:00:26,252
+Il y a un ascenseur ?
+Is there an elevator?
+
+4
+00:00:26,352 --> 00:00:30,428
+Oui, et j’ai aussi un petit balcon.
+Yes, and I also have a small balcony.
+
+5
+00:00:30,528 --> 00:00:33,332
+Ton voisin est gentil ?
+Is your neighbor nice?
+
+6
+00:00:33,432 --> 00:00:40,964
+Oui, il est gentil. Je loue cet appartement, et le loyer est raisonnable.
+Yes, he is nice. I rent this apartment, and the rent is reasonable.
+
+7
+00:00:41,064 --> 00:00:44,108
+Tu vas déménager bientôt ?
+Are you going to move soon?
+
+8
+00:00:44,208 --> 00:00:47,420
+Non, je reste ici !
+No, I’m staying here!

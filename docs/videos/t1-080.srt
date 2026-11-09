@@ -1,0 +1,39 @@
+1
+00:00:17,640 --> 00:00:23,348
+Tu peux patienter une minute ? Je vais rappeler le livreur.
+Can you wait a minute? I’m going to call the delivery person back.
+
+2
+00:00:23,448 --> 00:00:29,732
+Oui. Si tu n’arrives pas à le joindre, je peux le contacter.
+Sure. If you can’t reach him, I can contact him.
+
+3
+00:00:29,832 --> 00:00:36,404
+Merci ! Il doit livrer un colis, puis je dois retourner au magasin.
+Thanks! He has to deliver a package, then I have to go back to the store.
+
+4
+00:00:36,504 --> 00:00:41,108
+Tu peux aussi récupérer le livre que je t’ai prêté.
+You can also pick up the book I lent you.
+
+5
+00:00:41,208 --> 00:00:46,748
+Parfait. Je vais envoyer ton paquet après mon appel.
+Perfect. I’m going to send your package after my call.
+
+6
+00:00:46,848 --> 00:00:52,364
+D’accord. Tu peux aussi me rembourser le café ?
+Okay. Can you also pay me back for the coffee?
+
+7
+00:00:52,464 --> 00:00:56,636
+Bien sûr, je te rembourse ce soir.
+Of course, I’ll pay you back tonight.
+
+8
+00:00:56,736 --> 00:01:01,076
+Merci ! À tout à l’heure !
+Thanks! See you later!

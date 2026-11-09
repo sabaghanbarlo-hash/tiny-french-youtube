@@ -1,0 +1,39 @@
+1
+00:00:16,152 --> 00:00:21,620
+Salut Marinette, tu acceptes mon invitation à dîner ce soir ?
+Hi Marinette, will you accept my invitation to dinner tonight?
+
+2
+00:00:21,720 --> 00:00:27,644
+Volontiers ! Je vais demander la permission à mes parents.
+Gladly! I'll ask my parents for permission.
+
+3
+00:00:27,744 --> 00:00:33,236
+Bien sûr. Je te propose un film après le dîner.
+Of course. I suggest a movie after dinner.
+
+4
+00:00:33,336 --> 00:00:38,252
+Bonne idée ! Tu peux me prêter ton vélo ?
+Good idea! Can you lend me your bike?
+
+5
+00:00:38,352 --> 00:00:42,332
+Oui, et je peux te laisser mon casque.
+Yes, and I can let you use my helmet.
+
+6
+00:00:42,432 --> 00:00:47,924
+Merci ! Je vais emprunter un panier à ma sœur.
+Thanks! I'm going to borrow a basket from my sister.
+
+7
+00:00:48,024 --> 00:00:54,140
+Tu peux refuser, bien sûr. C'était juste une demande.
+You can refuse, of course. It was just a request.
+
+8
+00:00:54,240 --> 00:00:58,868
+Je ne veux pas refuser : je viens avec plaisir !
+I don't want to refuse: I'm happy to come!

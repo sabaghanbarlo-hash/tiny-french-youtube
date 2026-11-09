@@ -1,0 +1,39 @@
+1
+00:00:14,832 --> 00:00:18,836
+J'ai un souci : mon vélo est en panne.
+I have a problem: my bike has broken down.
+
+2
+00:00:18,936 --> 00:00:23,372
+Oh non ! Tu as eu un accident ?
+Oh no! Did you have an accident?
+
+3
+00:00:23,472 --> 00:00:26,852
+Non, mais j'ai cassé la roue.
+No, but I broke the wheel.
+
+4
+00:00:26,952 --> 00:00:30,548
+Je peux t'aider à réparer le vélo.
+I can help you repair the bike.
+
+5
+00:00:30,648 --> 00:00:36,500
+Merci. J'ai fait une erreur, je me suis trompé de rue.
+Thanks. I made a mistake; I went down the wrong street.
+
+6
+00:00:36,600 --> 00:00:41,780
+Ce n'est pas grave. Mais il manque une clé.
+It's not serious. But a wrench is missing.
+
+7
+00:00:41,880 --> 00:00:45,428
+Oui, c'est difficile sans clé.
+Yes, it's difficult without a wrench.
+
+8
+00:00:45,528 --> 00:00:48,860
+J'en ai une chez moi ; viens !
+I have one at my place; come over!

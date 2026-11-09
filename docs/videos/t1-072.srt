@@ -1,0 +1,39 @@
+1
+00:00:14,760 --> 00:00:19,796
+Salut, Marinette ! Tu aimes la mode ?
+Hi, Marinette! Do you like fashion?
+
+2
+00:00:19,896 --> 00:00:23,660
+Oui, j'aime la mode et les vêtements.
+Yes, I like fashion and clothes.
+
+3
+00:00:23,760 --> 00:00:27,884
+Ton chapeau est joli, et tes lunettes aussi.
+Your hat is pretty, and your glasses too.
+
+4
+00:00:27,984 --> 00:00:33,836
+Merci ! Je porte un jean et des baskets aujourd'hui.
+Thanks! I'm wearing jeans and sneakers today.
+
+5
+00:00:33,936 --> 00:00:37,964
+Pour la fête, je mets un costume élégant.
+For the party, I'm putting on an elegant suit.
+
+6
+00:00:38,064 --> 00:00:42,476
+Très bien ! Tu es élégante.
+Very good! You look elegant.
+
+7
+00:00:42,576 --> 00:00:45,812
+Et ton maquillage est très joli.
+And your makeup is very pretty.
+
+8
+00:00:45,912 --> 00:00:50,684
+Merci, Adrien. On y va ?
+Thanks, Adrien. Shall we go?

@@ -1,0 +1,39 @@
+1
+00:00:14,904 --> 00:00:18,692
+À la caisse, le total est correct ?
+At the checkout, is the total correct?
+
+2
+00:00:18,792 --> 00:00:23,108
+Oui, et tu as une réduction de cinq euros.
+Yes, and you have a five-euro discount.
+
+3
+00:00:23,208 --> 00:00:27,956
+Super ! Je paie en espèces.
+Great! I’ll pay in cash.
+
+4
+00:00:28,056 --> 00:00:32,852
+Tu as de la monnaie ? J’ai une pièce.
+Do you have any change? I have a coin.
+
+5
+00:00:32,952 --> 00:00:36,644
+Oui, elle est dans mon portefeuille.
+Yes, it’s in my wallet.
+
+6
+00:00:36,744 --> 00:00:41,204
+N’oublie pas : le sac est gratuit aujourd’hui.
+Don’t forget: the bag is free today.
+
+7
+00:00:41,304 --> 00:00:45,836
+Parfait, je vais moins dépenser pour économiser.
+Perfect, I’m going to spend less to save money.
+
+8
+00:00:45,936 --> 00:00:48,308
+Bonne idée !
+Good idea!
