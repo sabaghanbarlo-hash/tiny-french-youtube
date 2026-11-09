@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 91 · Verbs 9
+episode: T1-091
+scene: classroom
+
+[story]
+Adrien: Tu veux vivre près de la mer un jour ? | Do you want to live near the sea one day?
+Marinette: Oui, j’aime entendre les vagues et rêver du soleil. | Yes, I like hearing the waves and dreaming about the sun.
+Adrien: Tu souris déjà ! Ta blague me fait rire. | You’re already smiling! Your joke makes me laugh.
+Marinette: Et cette chanson me plaît beaucoup. | And I like this song a lot.
+Adrien: Appuie sur ce bouton, s’il te plaît. | Press this button, please.
+Marinette: D’accord. Une minute suffit ? | Okay. Is one minute enough?
+Adrien: Oui, et après, on s’amuse au parc. | Yes, and afterward, we’ll have fun at the park.
+Marinette: Super ! La fête dure jusqu’à huit heures. | Great! The party lasts until eight o’clock.
+
+[vocab]
+vocab: vivre | to live | VEEVR
+example: Je vis près du centre. | I live near the center.
+vocab: entendre | to hear | ahn-TAHN-dr
+example: J'entends la musique. | I hear the music.
+vocab: rire | to laugh | REER
+example: Nous rions beaucoup ensemble. | We laugh a lot together.
+vocab: sourire | to smile | soo-REER
+example: Elle sourit à son ami. | She smiles at her friend.
+vocab: appuyer | to press | ah-pwee-YAY
+example: Appuie sur le bouton. | Press the button.
+vocab: suffire | to be enough | sü-FEER
+example: Ça suffit pour deux personnes. | That's enough for two people.
+vocab: plaire | to please; to appeal to | PLEHR
+example: Ce livre me plaît beaucoup. | I really like this book.
+vocab: rêver | to dream | reh-VAY
+example: Je rêve souvent de vacances. | I often dream about vacation.
+vocab: s’amuser | to have fun | sah-mü-ZAY
+example: Les enfants s’amusent dans le jardin. | The children are having fun in the garden.
+vocab: durer | to last | dü-RAY
+example: Le film dure deux heures. | The movie lasts two hours.
+
+[grammar]
+grammar: The verb s’amuser | S’amuser is a pronominal verb, so it uses a small pronoun that matches the subject. With on, the pronoun se becomes s’ before a vowel, and the verb takes a singular form: on s’amuse.
+example: On s’amuse au parc. | We have fun at the park.
+example: Je m’amuse avec mes amis. | I have fun with my friends.
+
+[quiz]
+quiz: What does entendre mean? | to hear | to laugh | to last | A | Entendre means “to hear.”
+quiz: In “Cette chanson me plaît,” what does plaît mean? | is enough | pleases; appeals to | presses | B | Plaire means “to please” or “to appeal to.”
+quiz: What does “entendre” mean? | to last | to hear | to live | B | entendre means “to hear”.
+quiz: What does “rire” mean? | to smile | to last | to laugh | C | rire means “to laugh”.
+quiz: What does “sûr” mean? | sure, certain | possible | ready | A | sûr means “sure, certain”.
