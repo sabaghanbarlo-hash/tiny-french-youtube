@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 78 · Requests, permission and invitations
+episode: T1-078
+scene: classroom
+
+[story]
+Adrien: Salut Marinette, tu acceptes mon invitation à dîner ce soir ? | Hi Marinette, will you accept my invitation to dinner tonight?
+Marinette: Volontiers ! Je vais demander la permission à mes parents. | Gladly! I'll ask my parents for permission.
+Adrien: Bien sûr. Je te propose un film après le dîner. | Of course. I suggest a movie after dinner.
+Marinette: Bonne idée ! Tu peux me prêter ton vélo ? | Good idea! Can you lend me your bike?
+Adrien: Oui, et je peux te laisser mon casque. | Yes, and I can let you use my helmet.
+Marinette: Merci ! Je vais emprunter un panier à ma sœur. | Thanks! I'm going to borrow a basket from my sister.
+Adrien: Tu peux refuser, bien sûr. C'était juste une demande. | You can refuse, of course. It was just a request.
+Marinette: Je ne veux pas refuser : je viens avec plaisir ! | I don't want to refuse: I'm happy to come!
+
+[vocab]
+vocab: accepter | to accept | ak-sep-TAY
+example: J’accepte ton invitation. | I accept your invitation.
+vocab: refuser | to refuse | ruh-fyoo-ZAY
+example: Elle refuse cette invitation. | She refuses this invitation.
+vocab: proposer | to suggest, offer | pro-po-ZAY
+example: Je propose un café. | I suggest a coffee.
+vocab: laisser | to let, leave | leh-SAY
+example: Je laisse la fenêtre ouverte. | I leave the window open.
+vocab: prêter | to lend | pray-TAY
+example: Je te prête mon stylo. | I'm lending you my pen.
+vocab: emprunter | to borrow | ahm-prun-TAY
+example: J’emprunte un livre à Léa. | I borrow a book from Léa.
+vocab: la permission | permission | lah pair-mee-SYOHN
+example: J’ai la permission de partir. | I have permission to leave.
+vocab: une invitation | an invitation | ewn ehn-vee-tah-SYOHN
+example: J’accepte ton invitation. | I accept your invitation.
+vocab: volontiers | gladly | voh-lon-TYAY
+example: Volontiers ! | Gladly!
+vocab: la demande | request | lah duh-MAHND
+example: J’ai une demande à vous faire. | I have a request to make of you.
+
+[grammar]
+grammar: Pouvoir for polite requests | Use pouvoir (to be able to/can) followed by an infinitive to ask politely if someone can do something. In everyday French, Tu peux…? is a friendly way to make a request.
+example: Tu peux me prêter ton vélo ? | Can you lend me your bike?
+example: Tu peux m'aider ? | Can you help me?
+
+[quiz]
+quiz: What does « emprunter » mean? | to borrow | to lend | to refuse | A | Emprunter means to borrow something from someone.
+quiz: Which phrase means “Gladly!”? | Avec plaisir | Volontiers | La permission | B | Volontiers means gladly or willingly.
+quiz: What does “laisser” mean? | an invitation | gladly | to let, leave | C | laisser means “to let, leave”.
+quiz: What does “refuser” mean? | permission | to refuse | to let, leave | B | refuser means “to refuse”.
+quiz: What does “le divorce” mean? | a move | divorce | to get married | B | le divorce means “divorce”.
