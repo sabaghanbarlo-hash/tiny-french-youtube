@@ -1,0 +1,47 @@
+title: What's the Weather Like?
+episode: UA35
+scene: park
+
+[story]
+Adrien: Quel temps fait-il à Nice ? | What's the weather like in Nice?
+Marinette: Il fait beau et chaud : vingt-huit degrés. | It's sunny and warm: twenty-eight degrees.
+Adrien: Et à Paris ? | And in Paris?
+Marinette: Il pleut et il fait froid. | It's raining and it's cold.
+Adrien: Alors j'emporte un parapluie et un pull ! | Then I'll bring an umbrella and a jumper!
+Marinette: Et de la crème solaire pour Nice. | And sun cream for Nice.
+
+[vocab]
+vocab: il fait beau | the weather is nice | eel feh BOH
+example: Aujourd'hui, il fait beau. | Today the weather is nice.
+vocab: il pleut | it's raining | eel PLUH
+example: À Paris, il pleut. | In Paris it's raining.
+vocab: il neige | it's snowing | eel NEHZH
+example: En hiver, il neige. | In winter it snows.
+vocab: il fait chaud | it's hot | eel feh SHOH
+example: En été, il fait chaud. | In summer it's hot.
+vocab: il fait froid | it's cold | eel feh FRWAH
+example: En hiver, il fait froid. | In winter it's cold.
+vocab: le soleil | sun | luh soh-LEHY
+example: Il y a du soleil. | It's sunny.
+vocab: le parapluie | umbrella | luh pah-rah-PLWEE
+example: J'ai un parapluie. | I have an umbrella.
+vocab: l'été, l'hiver | summer, winter | lay-TAY, lee-VEHR
+example: L'été est chaud. | Summer is hot.
+vocab: les degrés | degrees | lay duh-GRAY
+example: Il fait vingt degrés. | It's twenty degrees.
+
+[grammar]
+grammar: Il fait… and impersonal verbs | Weather uses il as a subject that means nothing: il fait beau, il fait chaud, il fait froid, il pleut, il neige, il y a du vent. Ask Quel temps fait-il ? and give the temperature with il fait vingt degrés. For bad weather say il fait mauvais.
+example: Il fait beau. | The weather is nice.
+example: Il pleut. | It's raining.
+grammar: Seasons: en or au? | Use en before été, automne and hiver: en été, en automne, en hiver. Use au before printemps: au printemps. All the seasons are masculine and written with a small letter.
+example: En hiver, il fait froid. | In winter it's cold.
+example: Au printemps, il pleut. | In spring it rains.
+
+[quiz]
+quiz: How do you ask about the weather? | Quand fait-il ? | Comment est-il ? | Qui fait le temps ? | Quel temps fait-il ? | D | Quel temps fait-il ?
+quiz: Which preposition goes with “printemps”? | au | en | dans | à le | A | Au printemps.
+quiz: What does “il fait froid” mean? | it's hot | it's cold | it's snowing | it's windy | B | Froid = cold.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
