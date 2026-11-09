@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 77 · Problems and trouble
+episode: T1-077
+scene: classroom
+
+[story]
+Adrien: J'ai un souci : mon vélo est en panne. | I have a problem: my bike has broken down.
+Marinette: Oh non ! Tu as eu un accident ? | Oh no! Did you have an accident?
+Adrien: Non, mais j'ai cassé la roue. | No, but I broke the wheel.
+Marinette: Je peux t'aider à réparer le vélo. | I can help you repair the bike.
+Adrien: Merci. J'ai fait une erreur, je me suis trompé de rue. | Thanks. I made a mistake; I went down the wrong street.
+Marinette: Ce n'est pas grave. Mais il manque une clé. | It's not serious. But a wrench is missing.
+Adrien: Oui, c'est difficile sans clé. | Yes, it's difficult without a wrench.
+Marinette: J'en ai une chez moi ; viens ! | I have one at my place; come over!
+
+[vocab]
+vocab: un souci | a problem | uhn soo-SEE
+example: J'ai un souci avec mon téléphone. | I have a problem with my phone.
+vocab: une erreur | a mistake | oon eh-RUHR
+example: Il y a une erreur dans le texte. | There is a mistake in the text.
+vocab: une panne | a breakdown | oon PAHN
+example: Ma voiture est en panne. | My car has broken down.
+vocab: un accident | an accident | uhn ak-see-DAHN
+example: Un accident bloque la route. | An accident is blocking the road.
+vocab: casser | to break | kah-SAY
+example: Il casse un verre. | He breaks a glass.
+vocab: réparer | to repair | ray-pah-RAY
+example: Je répare mon vélo. | I am repairing my bike.
+vocab: se tromper | to be mistaken | suh trohn-PAY
+example: Je me trompe souvent. | I am often mistaken.
+vocab: manquer | to be missing | mahn-KAY
+example: Il manque une pièce. | A piece is missing.
+vocab: difficile | difficult | dee-fee-SEEL
+example: Cet exercice est difficile. | This exercise is difficult.
+vocab: grave | serious | GRAHV
+example: Ce n'est pas grave. | It's not serious.
+
+[grammar]
+grammar: C'est + adjective | Use c'est + an adjective to give a general description or evaluation, often of a situation or thing. To make it negative, put ne and pas around est: ce n'est pas grave means “it's not serious.”
+example: C'est difficile. | It's difficult.
+example: Ce n'est pas grave. | It's not serious.
+
+[quiz]
+quiz: What does un souci mean? | a problem | a repair | a street | A | Un souci means a problem or concern.
+quiz: Which verb means “to repair”? | casser | réparer | manquer | B | Réparer means to repair or fix.
+quiz: What does “casser” mean? | to be mistaken | to break | to be missing | B | casser means “to break”.
+quiz: What does “réparer” mean? | to repair | to be mistaken | difficult | A | réparer means “to repair”.
+quiz: What does “un balcon” mean? | rent | a balcony | to rent | B | un balcon means “a balcony”.
