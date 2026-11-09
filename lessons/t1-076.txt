@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 76 · News and information
+episode: T1-076
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu as vu l'information dans le journal ? | Hi, Marinette. Did you see the information in the newspaper?
+Marinette: Oui, un journaliste a écrit un article sur le nouveau parc. | Yes, a journalist wrote an article about the new park.
+Adrien: La presse en parle beaucoup. | The press is talking about it a lot.
+Marinette: J'ai regardé un reportage sur une chaîne locale. | I watched a news report on a local channel.
+Adrien: Le titre était intéressant, non ? | The title was interesting, wasn't it?
+Marinette: Oui, le reportage avait pour but d'informer les habitants. | Yes, the report aimed to inform the residents.
+Adrien: La mairie va annoncer la date demain. | The town hall is going to announce the date tomorrow.
+Marinette: Merci, Adrien. C'est une bonne nouvelle ! | Thanks, Adrien. That's good news!
+
+[vocab]
+vocab: l'information | information | lan-for-ma-SYON
+example: Cette information est importante. | This information is important.
+vocab: un journal | newspaper | zhoor-NAHL
+example: Je lis le journal chaque matin. | I read the newspaper every morning.
+vocab: un journaliste | journalist | zhoor-na-LEEST
+example: Le journaliste parle à la radio. | The journalist speaks on the radio.
+vocab: un article | article | ar-TEEKL
+example: Cet article donne des détails. | This article gives details.
+vocab: la presse | the press | la PRESS
+example: La presse parle de politique. | The press talks about politics.
+vocab: une chaîne | chain | ewn SHEN
+example: Cette chaîne diffuse le journal. | This TV channel broadcasts the news.
+vocab: un reportage | news report | uhn ruh-por-TAZH
+example: Un reportage montre la vie locale. | A report shows local life.
+vocab: un titre | title | uhn TEETR
+example: Le titre résume l'article. | The title summarizes the article.
+vocab: informer | to inform | an-for-MAY
+example: J'informe mes amis du résultat. | I inform my friends of the result.
+vocab: annoncer | to announce | ah-non-SAY
+example: Le journal annonce une grève. | The newspaper announces a strike.
+
+[grammar]
+grammar: The passé composé | Use the passé composé to talk about completed actions in the past. For many verbs, form it with the present tense of avoir followed by the past participle.
+example: Un journaliste a écrit un article. | A journalist wrote an article.
+example: J'ai regardé un reportage. | I watched a news report.
+
+[quiz]
+quiz: What does “un journaliste” mean? | a journalist | a title | a channel | A | “Un journaliste” means “a journalist.”
+quiz: Which French phrase means “The press is talking about it a lot”? | La presse en parle beaucoup. | Le titre était intéressant. | La mairie va annoncer la date. | A | “La presse” means “the press,” and “en parle beaucoup” means “talks about it a lot.”
+quiz: What does “une chaîne” mean? | news report | chain | to announce | B | une chaîne means “chain”.
+quiz: What does “un titre” mean? | title | information | the press | A | un titre means “title”.
+quiz: What does “le parking” mean? | to cross | parking lot | traffic jam | B | le parking means “parking lot”.
