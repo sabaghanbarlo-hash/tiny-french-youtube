@@ -1,0 +1,47 @@
+title: Staying Active
+episode: UA31
+scene: park
+
+[story]
+Adrien: Je suis fatigué en ce moment. | I'm tired at the moment.
+Marinette: Il faut dormir huit heures par nuit. Et tu dois faire plus de sport. | You need to sleep eight hours a night. And you should do more sport.
+Adrien: Je marche trente minutes par jour. | I walk thirty minutes a day.
+Marinette: C'est bien, mais il vaut mieux courir deux fois par semaine. | That's good, but it's better to run twice a week.
+Adrien: Tu cours souvent, toi ? | Do you run often?
+Marinette: Oui, trois fois par semaine. Je suis en pleine forme ! | Yes, three times a week. I'm in great shape!
+
+[vocab]
+vocab: il faut | you need to, one must | eel FOH
+example: Il faut dormir. | You need to sleep.
+vocab: dormir | to sleep | dohr-MEER
+example: Je dors huit heures. | I sleep eight hours.
+vocab: marcher | to walk | mar-SHAY
+example: Je marche trente minutes. | I walk thirty minutes.
+vocab: courir | to run | koo-REER
+example: Je cours deux fois par semaine. | I run twice a week.
+vocab: en forme | in good shape | ahn FOHRM
+example: Je suis en forme. | I'm in good shape.
+vocab: par semaine | per week | pahr suh-MEHN
+example: Trois fois par semaine. | Three times a week.
+vocab: souvent | often | soo-VAHN
+example: Je cours souvent. | I run often.
+vocab: rarement | rarely | rahr-MAHN
+example: Je mange rarement des frites. | I rarely eat fries.
+vocab: il vaut mieux | it's better to | eel voh MYUH
+example: Il vaut mieux dormir. | It's better to sleep.
+
+[grammar]
+grammar: Il faut + infinitive | Il faut means "you must, one needs to" and stays the same for everyone: il faut dormir, il faut boire de l'eau. For a negative "you must not", say il ne faut pas: il ne faut pas manger trop de sucre. Compare with devoir, which changes with the subject.
+example: Il faut boire de l'eau. | You need to drink water.
+example: Il ne faut pas manger trop de sucre. | You shouldn't eat too much sugar.
+grammar: Frequency words | Use these words to say how often: toujours, souvent, parfois, rarement, jamais. Put them after the verb: je cours souvent, je ne cours jamais. Use fois par semaine for numbers: trois fois par semaine.
+example: Je cours souvent. | I run often.
+example: Je ne mange jamais de poisson. | I never eat fish.
+
+[quiz]
+quiz: Which sentence means “You need to sleep”? | Il faut dormez. | Il faut dort. | Tu faut dormir. | Il faut dormir. | D | Il faut + infinitive.
+quiz: What does “il ne faut pas” mean? | you must not | you may | you can | you need to | A | Il ne faut pas = must not.
+quiz: What does “rarement” mean? | often | rarely | always | sometimes | B | Rarement = rarely.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
