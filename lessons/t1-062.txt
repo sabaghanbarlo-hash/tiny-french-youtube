@@ -1,0 +1,47 @@
+title: Tiny French 1000 · Lesson 62 · Abstract nouns
+episode: T1-062
+scene: classroom
+
+[story]
+Adrien: La vie en France est belle, tu ne trouves pas ? | Life in France is beautiful, don't you think?
+Marinette: Oui ! Je ressens de la joie, mais je suis un peu fatiguée aujourd'hui. | Yes! I feel joy, but I'm a little tired today.
+Adrien: Tu as un problème ? Tu sembles inquiète. | Do you have a problem? You seem worried.
+Marinette: Ma mémoire me joue des tours : j'ai oublié mon rendez-vous. Quelle honte ! | My memory is playing tricks on me: I forgot my appointment. How embarrassing!
+Adrien: Ce n'est pas grave ; tu as de la chance, il est encore temps. | It's okay; you're in luck, there's still time.
+Marinette: Oui, l'amour de mes amis me donne du courage. | Yes, the love of my friends gives me courage.
+Adrien: La vérité, c'est que la liberté et la joie sont importantes. | The truth is that freedom and joy are important.
+Marinette: C'est vrai. Allons-y ensemble ! | That's true. Let's go together!
+
+[vocab]
+vocab: la vie | life | lah VEE
+example: La vie change. | Life changes.
+vocab: l'amour | love | lah-MOOR
+example: L'amour existe. | Love exists.
+vocab: le problème | problem | luh proh-BLEM
+example: Le problème continue. | The problem continues.
+vocab: la chance | luck | lah SHAHNS
+example: La chance sourit. | Luck smiles.
+vocab: la joie | joy | lah ZHWAH
+example: La joie grandit. | Joy grows.
+vocab: la vérité | truth | lah vay-ree-TAY
+example: La vérité compte. | Truth matters.
+vocab: la liberté | freedom | lah lee-behr-TAY
+example: La liberté existe. | Freedom exists.
+vocab: la honte | shame | lah OHNT
+example: Il cache sa honte. | He hides his shame.
+vocab: la mémoire | memory | lah may-MWAHR
+example: J’ai une bonne mémoire. | I have a good memory.
+vocab: la fatigue | tiredness | lah fah-TEEG
+example: La fatigue arrive après une longue journée. | Tiredness comes after a long day.
+
+[grammar]
+grammar: Articles with nouns | French nouns are usually learned with an article, such as la or le. Before a vowel or a silent h, le or la is elided to l', as in l'amour.
+example: La vie est belle. | Life is beautiful.
+example: L'amour de mes amis me donne du courage. | The love of my friends gives me courage.
+
+[quiz]
+quiz: What does la honte mean? | shame | luck | joy | A | La honte means shame or embarrassment.
+quiz: Which phrase means “You’re in luck”? | Tu as de la chance. | Tu as de la joie. | Tu as de la fatigue. | A | La chance means luck.
+quiz: What does “la fatigue” mean? | life | tiredness | freedom | B | la fatigue means “tiredness”.
+quiz: What does “le problème” mean? | problem | memory | tiredness | A | le problème means “problem”.
+quiz: What does “le centre” mean? | roundabout | center | corner | B | le centre means “center”.
