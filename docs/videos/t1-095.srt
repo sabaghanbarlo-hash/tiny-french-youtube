@@ -1,0 +1,39 @@
+1
+00:00:15,288 --> 00:00:18,860
+On pique-nique au parc après les cours ?
+Shall we have a picnic in the park after class?
+
+2
+00:00:18,960 --> 00:00:23,852
+Bien sûr ! Ça dépend de la météo.
+Of course! It depends on the weather.
+
+3
+00:00:23,952 --> 00:00:27,404
+Il fait beau, alors ça roule ?
+The weather is nice, so does that sound good?
+
+4
+00:00:27,504 --> 00:00:32,396
+Tant mieux ! J'apporte des sandwiches.
+That's good! I'll bring sandwiches.
+
+5
+00:00:32,496 --> 00:00:38,372
+Bien entendu, je prends des boissons. Tu veux dix bouteilles ?
+Of course, I'll bring drinks. Do you want ten bottles?
+
+6
+00:00:38,472 --> 00:00:46,652
+N'importe quoi ! Ça suffit, merci. Par contre, prends de l'eau.
+That's nonsense! That's enough, thanks. However, bring some water.
+
+7
+00:00:46,752 --> 00:00:51,836
+Il va pleuvoir. On annule le pique-nique ?
+It's going to rain. Shall we cancel the picnic?
+
+8
+00:00:51,936 --> 00:00:58,508
+Tant pis pour le parc ! Au contraire, faisons le pique-nique chez moi.
+Too bad about the park! On the contrary, let's have the picnic at my place.

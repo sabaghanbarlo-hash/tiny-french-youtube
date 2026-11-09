@@ -1,0 +1,39 @@
+1
+00:00:14,568 --> 00:00:17,660
+Le miroir est sur le mur.
+The mirror is on the wall.
+
+2
+00:00:17,760 --> 00:00:22,148
+Oui, le plafond est blanc et le sol est propre.
+Yes, the ceiling is white and the floor is clean.
+
+3
+00:00:22,248 --> 00:00:25,820
+Où sont le savon et le dentifrice ?
+Where are the soap and toothpaste?
+
+4
+00:00:25,920 --> 00:00:30,404
+Ils sont dans le tiroir, près de la serviette.
+They are in the drawer, near the towel.
+
+5
+00:00:30,504 --> 00:00:35,180
+Merci ! Je prends aussi mon cadeau.
+Thanks! I’ll take my gift too.
+
+6
+00:00:35,280 --> 00:00:38,588
+Et la page de ton devoir ?
+And your homework page?
+
+7
+00:00:38,688 --> 00:00:41,468
+Elle est dans mon sac.
+It’s in my bag.
+
+8
+00:00:41,568 --> 00:00:45,812
+Parfait ! À tout à l’heure !
+Perfect! See you later!

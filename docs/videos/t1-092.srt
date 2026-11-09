@@ -1,0 +1,39 @@
+1
+00:00:14,592 --> 00:00:19,220
+Marinette, tu es disponible pour le pique-nique ?
+Marinette, are you available for the picnic?
+
+2
+00:00:19,320 --> 00:00:24,860
+Oui, c’est parfait ! Le parc est agréable.
+Yes, it’s perfect! The park is pleasant.
+
+3
+00:00:24,960 --> 00:00:28,268
+Est-ce nécessaire d’apporter de l’eau ?
+Is it necessary to bring water?
+
+4
+00:00:28,368 --> 00:00:34,388
+Oui, le sentier est dangereux. Ne marche pas seul.
+Yes, the path is dangerous. Don’t walk alone.
+
+5
+00:00:34,488 --> 00:00:39,308
+D’accord. Ce gâteau est délicieux.
+Okay. This cake is delicious.
+
+6
+00:00:39,408 --> 00:00:44,324
+Merci ! Le banc est confortable.
+Thanks! The bench is comfortable.
+
+7
+00:00:44,424 --> 00:00:48,644
+Ce jeu est amusant, mais un peu bizarre.
+This game is fun, but a little strange.
+
+8
+00:00:48,744 --> 00:00:53,492
+Ha ha, je ne suis pas seule, alors tout va bien.
+Ha ha, I’m not alone, so everything is fine.

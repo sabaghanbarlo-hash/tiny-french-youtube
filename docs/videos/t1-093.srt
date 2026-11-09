@@ -1,0 +1,39 @@
+1
+00:00:14,376 --> 00:00:19,676
+Bonjour, Marinette ! Quelle belle journée !
+Hello, Marinette! What a lovely day!
+
+2
+00:00:19,776 --> 00:00:24,212
+Oui, mais j'entends du bruit dans le couloir.
+Yes, but I hear a noise in the hallway.
+
+3
+00:00:24,312 --> 00:00:28,748
+Ça vient de la douche : le robinet goutte encore.
+It's coming from the shower: the tap is still dripping.
+
+4
+00:00:28,848 --> 00:00:35,780
+Je vais le fermer. Le frigo est dans la cuisine, près du placard.
+I'll turn it off. The fridge is in the kitchen, near the cupboard.
+
+5
+00:00:35,880 --> 00:00:40,892
+Merci. Où est l'escalier pour monter au toit ?
+Thanks. Where is the staircase to the roof?
+
+6
+00:00:40,992 --> 00:00:47,324
+Au fond du couloir. Le rideau de la fenêtre bouge avec le vent.
+At the end of the hallway. The window curtain is moving in the wind.
+
+7
+00:00:47,424 --> 00:00:52,868
+D'accord, je vais vérifier le toit. Tu viens ?
+Okay, I'll check the roof. Are you coming?
+
+8
+00:00:52,968 --> 00:00:55,988
+Oui, j'arrive !
+Yes, I'm coming!
