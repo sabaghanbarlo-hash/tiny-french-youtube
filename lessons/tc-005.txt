@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 5 · What Languages Do You Speak?
+episode: TC-005
+scene: classroom
+
+[story]
+Adrien: Bonjour, je m'appelle Adrien. Tu parles français ? | Hello, my name is Adrien. Do you speak French?
+Marinette: Bonjour, Adrien. Oui, je parle français. Et toi ? | Hello, Adrien. Yes, I speak French. And you?
+Adrien: Je parle français. | I speak French.
+Marinette: Tu veux pratiquer avec moi ? | Would you like to practice with me?
+Adrien: Oui, avec plaisir. Nous parlons français maintenant ? | Yes, gladly. Shall we speak French now?
+Marinette: D'accord. Tu peux répéter, s'il te plaît ? | All right. Can you repeat, please?
+Adrien: Oui, bien sûr. Je peux répéter. | Yes, of course. I can repeat.
+Marinette: Merci, Adrien. Je veux aussi apprendre avec toi. | Thank you, Adrien. I also want to learn with you.
+Adrien: Avec plaisir. À bientôt, Marinette ! | Gladly. See you soon, Marinette!
+
+[vocab]
+vocab: Bonjour. | Hello. | bohn-ZHOOR
+example: Bonjour, Adrien. | Hello, Adrien.
+vocab: Tu parles français ? | Do you speak French? | tyoo parl frahn-SAY
+example: Tu parles français ? | Do you speak French?
+vocab: Je parle français. | I speak French. | zhuh parl frahn-SAY
+example: Je parle français. | I speak French.
+vocab: Tu veux pratiquer avec moi ? | Would you like to practice with me? | tyoo vuh prahk-tee-KAY ah-vek MWAH
+example: Tu veux pratiquer avec moi ? | Would you like to practice with me?
+vocab: Avec plaisir. | Gladly. | ah-vek pleh-ZEER
+example: Oui, avec plaisir. | Yes, gladly.
+
+[grammar]
+grammar: Speaking a language | Use parler followed directly by the language name, without an article. For a question, you can keep the same word order and raise your voice at the end.
+example: Je parle français. | I speak French.
+example: Tu parles français ? | Do you speak French?
+
+[quiz]
+quiz: Which language does Marinette say she speaks? | French | English | Spanish | A | Marinette says, “Je parle français.”
+quiz: Which language does Adrien say he speaks? | French | English | Spanish | A | Adrien says, “Je parle français.”
+quiz: What does “Avec plaisir.” mean? | Stay here; I’m with you. | I'll return it to you tomorrow morning. | Gladly. | C | Avec plaisir. means “Gladly.”.
+quiz: What does “Bonjour.” mean? | Stay here; I’m with you. | Hello. | I'll return it to you tomorrow morning. | B | Bonjour. means “Hello.”.
