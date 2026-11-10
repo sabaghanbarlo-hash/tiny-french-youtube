@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 29 · Breakfast at the Café
+episode: TC-029
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu veux du café ? | Hello, Marinette. Do you want coffee?
+Marinette: Bonjour, Adrien. Oui, s'il te plaît. Et du pain. | Hello, Adrien. Yes, please. And some bread.
+Adrien: Tu prends aussi un œuf ? | Are you also having an egg?
+Marinette: Oui, merci. Et un verre d'eau, s'il te plaît. | Yes, thanks. And a glass of water, please.
+Adrien: Bien sûr. Tu veux du lait avec le café ? | Of course. Do you want milk with the coffee?
+Marinette: Je ne veux pas de lait, merci. Je préfère le thé. | I don't want milk, thanks. I prefer tea.
+Adrien: D'accord. Je prends du café et du pain. | All right. I'll have coffee and bread.
+Marinette: Nous pouvons commander maintenant ? | Can we order now?
+Adrien: Oui. Bonjour, monsieur. Un café, un thé, du pain et un œuf, s'il vous plaît. | Yes. Hello, sir. One coffee, one tea, bread, and an egg, please.
+
+[vocab]
+vocab: Tu veux du café ? | Do you want coffee? | tü vuh dü kah-FAY
+example: Tu veux du lait avec le café ? | Do you want milk with the coffee?
+vocab: Et du pain. | And some bread. | eh dü PEHN
+example: Je prends du café et du pain. | I'll have coffee and bread.
+vocab: Un verre d'eau, s'il te plaît. | A glass of water, please. | uhn VEHR doh, seel tuh PLEH
+example: Un verre d'eau, s'il te plaît. | A glass of water, please.
+vocab: Je préfère le thé. | I prefer tea. | zhuh pray-FEHR luh TAY
+example: Je préfère le thé, merci. | I prefer tea, thanks.
+vocab: S'il vous plaît. | Please. | seel voo PLEH
+example: Un café, s'il vous plaît. | A coffee, please.
+
+[grammar]
+grammar: Asking what someone wants | Use « Tu veux… ? » to ask a friend what they want. The verb « vouloir » becomes « veux » with « tu ».
+example: Tu veux du café ? | Do you want coffee?
+example: Tu veux du lait avec le café ? | Do you want milk with the coffee?
+
+[quiz]
+quiz: What does Marinette prefer? | Tea | Coffee | Milk | A | She says, « Je préfère le thé » (I prefer tea).
+quiz: What does Marinette ask for with her drink? | A glass of water | An egg | Some bread | A | She asks for « un verre d'eau ».
+quiz: What does “Un verre d'eau, s'il te plaît.” mean? | A glass of water, please. | I prefer tea. | Are you free tomorrow? | A | Un verre d'eau, s'il te plaît. means “A glass of water, please.”.
+quiz: What does “Tu veux du café ?” mean? | I can’t find the key. | Do you want coffee? | I prefer tea. | B | Tu veux du café ? means “Do you want coffee?”.
