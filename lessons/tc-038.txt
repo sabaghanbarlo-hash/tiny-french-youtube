@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 38 · Paying by Card
+episode: TC-038
+scene: classroom
+
+[story]
+Adrien: Bonjour, vous acceptez la carte, s'il vous plaît ? | Hello, do you accept cards, please?
+Marinette: Bonjour, oui, bien sûr. | Hello, yes, of course.
+Adrien: Je peux payer avec la carte ? | Can I pay by card?
+Marinette: Oui, le paiement est possible. | Yes, payment is possible.
+Adrien: Merci. Combien coûte le pain ? | Thank you. How much is the bread?
+Marinette: Un euro, s'il vous plaît. | One euro, please.
+Adrien: Voilà. Je paie avec la carte. | Here you go. I’m paying by card.
+Marinette: D'accord. Vous pouvez appuyer ici. | All right. You can press here.
+Adrien: Merci, au revoir. | Thank you, goodbye.
+
+[vocab]
+vocab: Bonjour, vous acceptez la carte, s'il vous plaît ? | Hello, do you accept cards, please? | bohn-ZHOOR, voo-zak-sep-TAY la KART, seel voo PLEH
+example: Bonjour, vous acceptez la carte, s'il vous plaît ? | Hello, do you accept cards, please?
+vocab: Oui, bien sûr. | Yes, of course. | wee, byehn SEWR
+example: Oui, bien sûr. | Yes, of course.
+vocab: Je peux payer avec la carte ? | Can I pay by card? | zhuh puh pay-YAY ah-VEK la KART
+example: Je peux payer avec la carte ? | Can I pay by card?
+vocab: Combien coûte le pain ? | How much is the bread? | kohm-BYEH kooht luh PEHN
+example: Combien coûte le pain ? | How much is the bread?
+vocab: Vous pouvez appuyer ici. | You can press here. | voo poo-VAY ah-pwee-YAY ee-SEE
+example: Vous pouvez appuyer ici. | You can press here.
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir followed by an infinitive to ask whether someone can do something or to say that they can. The form changes to match the subject: je peux, vous pouvez.
+example: Je peux payer avec la carte ? | Can I pay by card?
+example: Vous pouvez appuyer ici. | You can press here.
+
+[quiz]
+quiz: What does Adrien ask Marinette at the start? | Whether she accepts cards | How much the bread costs | Where he can sit | A | He asks, « vous acceptez la carte ? »
+quiz: How much does the bread cost? | One euro | Two euros | It is free | A | Marinette says, « Un euro, s'il vous plaît. »
+quiz: What does “Bonjour, vous acceptez la carte, s'il vous plaît ?” mean? | Go straight. | You can press here. | Hello, do you accept cards, please? | C | Bonjour, vous acceptez la carte, s'il vous plaît ? means “Hello, do you accept cards, please?”.
+quiz: What does “Je peux payer avec la carte ?” mean? | To the train station, please. | Hello, do you accept cards, please? | Can I pay by card? | C | Je peux payer avec la carte ? means “Can I pay by card?”.
