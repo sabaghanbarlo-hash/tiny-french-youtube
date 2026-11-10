@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 73 · Picking Up Medicine
+episode: TC-073
+scene: classroom
+
+[story]
+Adrien: Bonjour, madame. Je cherche un médicament pour la toux, s'il vous plaît. | Hello, ma’am. I’m looking for cough medicine, please.
+Marinette: Bonjour. Vous avez une toux ou de la fièvre ? | Hello. Do you have a cough or a fever?
+Adrien: J'ai une toux, mais je n'ai pas de fièvre. | I have a cough, but I don’t have a fever.
+Marinette: Quand avez-vous commencé à tousser ? | When did you start coughing?
+Adrien: Hier. | Yesterday.
+Marinette: Vous pouvez prendre un médicament avec de l'eau. | You can take a medicine with water.
+Adrien: Comment le prendre ? | How should I take it?
+Marinette: Prenez-le le matin et le soir, s'il vous plaît. | Take it in the morning and in the evening, please.
+Adrien: Merci beaucoup. Au revoir. | Thank you very much. Goodbye.
+
+[vocab]
+vocab: Bonjour, madame. | Hello, ma’am. | bohn-ZHOOR mah-DAM
+example: Bonjour, madame. | Hello, ma’am.
+vocab: Je cherche un médicament pour la toux, s'il vous plaît. | I’m looking for cough medicine, please. | zhuh SHERSH uhn may-dee-kah-MAHN poor lah TOO, seel voo PLEH
+example: Je cherche un médicament pour la toux, s'il vous plaît. | I’m looking for cough medicine, please.
+vocab: Vous avez une toux ou de la fièvre ? | Do you have a cough or a fever? | voo zah-VAY ewn TOO oo duh lah FYEVR
+example: Vous avez une toux ou de la fièvre ? | Do you have a cough or a fever?
+vocab: Comment le prendre ? | How should I take it? | koh-MAHN luh PRAHN-druh
+example: Comment le prendre ? | How should I take it?
+vocab: Prenez-le le matin et le soir, s'il vous plaît. | Take it in the morning and in the evening, please. | pruh-NAY-luh luh mah-TAN ay luh SWAHR, seel voo PLEH
+example: Prenez-le le matin et le soir, s'il vous plaît. | Take it in the morning and in the evening, please.
+
+[grammar]
+grammar: Pouvoir + infinitive | Use a form of pouvoir followed by an infinitive to say that someone can do something. In the dialogue, vous pouvez prendre means “you can take.”
+example: Vous pouvez prendre un médicament. | You can take a medicine.
+example: Vous pouvez boire de l'eau. | You can drink water.
+
+[quiz]
+quiz: What symptom does Adrien have? | A cough | A fever | A headache | A | Adrien says, “J'ai une toux” (I have a cough).
+quiz: When should Adrien take the medicine? | In the morning and evening | At noon | Only at night | A | Marinette says, “le matin et le soir.”
+quiz: What does “Comment le prendre ?” mean? | How should I take it? | Hello, ma’am. | Do you have a cough or a fever? | A | Comment le prendre ? means “How should I take it?”.
+quiz: What does “Vous avez une toux ou de la fièvre ?” mean? | I’m looking for cough medicine, please. | Do you have a cough or a fever? | I see it under the cushion! | B | Vous avez une toux ou de la fièvre ? means “Do you have a cough or a fever?”.
