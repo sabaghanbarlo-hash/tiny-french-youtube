@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 9 · Saying Goodbye
+episode: TC-009
+scene: classroom
+
+[story]
+Adrien: Au revoir, Marinette. Enchanté. | Goodbye, Marinette. Nice to meet you.
+Marinette: Au revoir, Adrien. Enchantée. | Goodbye, Adrien. Nice to meet you.
+Adrien: C'était un plaisir de parler avec vous. | It was a pleasure talking with you.
+Marinette: Merci, c'était un plaisir. | Thank you, it was a pleasure.
+Adrien: Vous rentrez à la maison maintenant ? | Are you going home now?
+Marinette: Oui, je rentre à la maison. | Yes, I’m going home.
+Adrien: À bientôt, alors. | See you soon, then.
+Marinette: À demain, peut-être. | See you tomorrow, maybe.
+Adrien: Bonne journée, Marinette. | Have a nice day, Marinette.
+
+[vocab]
+vocab: Au revoir | Goodbye | oh ruh-VWAR
+example: Au revoir, Adrien. | Goodbye, Adrien.
+vocab: Enchanté | Nice to meet you (said by a man) | ahn-shahn-TAY
+example: Enchantée, Adrien. | Nice to meet you, Adrien. (said by a woman)
+vocab: C'était un plaisir | It was a pleasure | say-TAY uhn pleh-ZEER
+example: C'était un plaisir de parler avec vous. | It was a pleasure talking with you.
+vocab: À bientôt, alors | See you soon, then | ah byan-TOH ah-LOR
+example: À bientôt, alors. | See you soon, then.
+vocab: À demain, peut-être | See you tomorrow, maybe | ah duh-MAN puh-TETR
+example: À demain, peut-être. | See you tomorrow, maybe.
+
+[grammar]
+grammar: À + a time expression | Use à before a time expression to say when you expect to meet again. In these farewells, bientôt means “soon” and demain means “tomorrow.”
+example: À bientôt, alors. | See you soon, then.
+example: À demain, peut-être. | See you tomorrow, maybe.
+
+[quiz]
+quiz: Where is Marinette going? | Home | To the store | To work | A | She says, « Je rentre à la maison. »
+quiz: What does Adrien say to wish Marinette well? | Bonne journée | À demain | Enchanté | A | Bonne journée means “Have a nice day.”
+quiz: What does “Au revoir” mean? | Goodbye | Hello | See you tomorrow, maybe | A | Au revoir means “Goodbye”.
+quiz: What does “C'était un plaisir” mean? | See you tomorrow, maybe | I don’t know. | It was a pleasure | C | C'était un plaisir means “It was a pleasure”.
