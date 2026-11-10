@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 58 · Where Is the Remote?
+episode: TC-058
+scene: classroom
+
+[story]
+Adrien: Où est la chose ? | Where is the thing?
+Marinette: Je ne sais pas. Elle est dans le salon ? | I don’t know. Is it in the living room?
+Adrien: Oui, je cherche dans le salon. | Yes, I’m looking in the living room.
+Marinette: Regarde sur la table, s'il te plaît. | Look on the table, please.
+Adrien: Il n’y a rien sur la table. | There’s nothing on the table.
+Marinette: Peut-être sous le coussin ? | Maybe under the cushion?
+Adrien: Ah, je la vois sous le coussin ! | Ah, I see it under the cushion!
+Marinette: Voilà ! Tu peux allumer la télévision ? | There it is! Can you turn on the TV?
+Adrien: Oui, merci. | Yes, thanks.
+
+[vocab]
+vocab: Où est la chose ? | Where is the thing? | oo eh lah SHOHZ
+example: Où est la chose ? | Where is the thing?
+vocab: Je ne sais pas. | I don’t know. | zhuh nuh say PAH
+example: Je ne sais pas. | I don’t know.
+vocab: Regarde sur la table, s'il te plaît. | Look on the table, please. | ruh-GARD sur lah TAH-bluh, seel tuh PLEH
+example: Regarde sur la table, s'il te plaît. | Look on the table, please.
+vocab: Je la vois sous le coussin ! | I see it under the cushion! | zhuh lah vwah soo luh koo-SAN
+example: Je la vois sous le coussin ! | I see it under the cushion!
+vocab: Tu peux allumer la télévision ? | Can you turn on the TV? | tyuh puh ah-lyoo-MAY lah tay-lay-vih-ZYON
+example: Tu peux allumer la télévision ? | Can you turn on the TV?
+
+[grammar]
+grammar: Saying “I don’t know” | To say that you do not do something, French often places ne before the verb and pas after it. In everyday speech, ne is sometimes dropped, but this dialogue uses the full form.
+example: Je ne sais pas. | I don’t know.
+example: Je ne vois pas la chose. | I don’t see the thing.
+
+[quiz]
+quiz: Where does Marinette suggest looking first? | On the table | Under the cushion | In the kitchen | A | She says, “Regarde sur la table.”
+quiz: Where does Adrien find the thing? | On the table | Under the cushion | In the living room window | B | Adrien says he sees it under the cushion.
+quiz: What does “Je ne sais pas.” mean? | I don’t know. | Where is the thing? | Look on the table, please. | A | Je ne sais pas. means “I don’t know.”.
+quiz: What does “Où est la chose ?” mean? | Look on the table, please. | Where is the thing? | I would like a coffee, please. | B | Où est la chose ? means “Where is the thing?”.
