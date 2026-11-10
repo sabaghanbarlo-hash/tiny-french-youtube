@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 62 · Planning a Meeting
+episode: TC-062
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu es libre demain ? | Hello, Marinette. Are you free tomorrow?
+Marinette: Bonjour, Adrien. Oui, je suis libre demain. | Hello, Adrien. Yes, I’m free tomorrow.
+Adrien: Nous avons une réunion. | We have a meeting.
+Marinette: Quand ? | When?
+Adrien: Demain, à dix heures. Tu peux venir ? | Tomorrow, at ten. Can you come?
+Marinette: Oui, je peux venir à dix heures. | Yes, I can come at ten.
+Adrien: Au bureau ? | At the office?
+Marinette: Oui, au bureau. Merci ! | Yes, at the office. Thank you!
+Adrien: À demain, alors. | See you tomorrow, then.
+
+[vocab]
+vocab: Bonjour, Marinette. | Hello, Marinette. | bohn-ZHOOR, mah-ree-NET
+example: Bonjour, Adrien. | Hello, Adrien.
+vocab: Tu es libre demain ? | Are you free tomorrow? | ty eh LEE-bruh duh-MAN
+example: Tu es libre demain ? | Are you free tomorrow?
+vocab: Nous avons une réunion. | We have a meeting. | noo zah-VOHN ewn ray-oo-NYOHN
+example: Nous avons une réunion. | We have a meeting.
+vocab: Tu peux venir ? | Can you come? | ty puh vuh-NEER
+example: Tu peux venir ? | Can you come?
+vocab: Au bureau ? | At the office? | oh byoo-ROH
+example: Au bureau ? | At the office?
+
+[grammar]
+grammar: Using être to describe availability | Use être (to be) with libre (free/available) to ask or say whether someone is available. The form for tu is es, and the form for je is suis.
+example: Tu es libre demain ? | Are you free tomorrow?
+example: Je suis libre demain. | I’m free tomorrow.
+
+[quiz]
+quiz: When is the meeting? | Tomorrow at ten | Today at ten | Tomorrow at nine | A | Adrien says, « Demain, à dix heures. »
+quiz: Where will they meet? | At the office | At home | At the station | A | Marinette confirms, « Oui, au bureau. »
+quiz: What does “Tu es libre demain ?” mean? | At the office? | Are you free tomorrow? | Come in, please. | B | Tu es libre demain ? means “Are you free tomorrow?”.
+quiz: What does “Tu peux venir ?” mean? | Are you out for a walk too? | At the office? | Can you come? | C | Tu peux venir ? means “Can you come?”.
