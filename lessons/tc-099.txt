@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 99 · Learning Something New
+episode: TC-099
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Que veux-tu apprendre ? | Hello, Marinette. What do you want to learn?
+Marinette: Bonjour, Adrien. Je veux apprendre le français. | Hello, Adrien. I want to learn French.
+Adrien: Je veux aussi apprendre à parler français. | I also want to learn to speak French.
+Marinette: C'est bien. Tu veux apprendre avec un livre ? | That's good. Do you want to learn with a book?
+Adrien: Mais je veux apprendre dans la classe. | But I want to learn in the classroom.
+Marinette: Tu veux aussi apprendre à écrire ? | Do you also want to learn to write?
+Adrien: Oui, et je veux lire un livre. | Yes, and I want to read a book.
+Marinette: Très bien ! Nous pouvons étudier ensemble. | Very good! We can study together.
+Adrien: Merci, Marinette. À demain ! | Thanks, Marinette. See you tomorrow!
+
+[vocab]
+vocab: Je veux apprendre le français. | I want to learn French. | zhuh vuh ah-prahn-DRUH luh frahn-SEH
+example: Je veux apprendre le français. | I want to learn French.
+vocab: Que veux-tu apprendre ? | What do you want to learn? | kuh vuh-tew ah-prahn-DRUH
+example: Que veux-tu apprendre ? | What do you want to learn?
+vocab: Tu veux apprendre avec un livre ? | Do you want to learn with a book? | tew vuh ah-prahn-DRUH ah-VEK uhn LEEVR
+example: Tu veux apprendre avec un livre ? | Do you want to learn with a book?
+vocab: Nous pouvons étudier ensemble. | We can study together. | noo poo-VOHN-zay-tew-DYAY ahn-SAHMBL
+example: Nous pouvons étudier ensemble. | We can study together.
+vocab: À demain ! | See you tomorrow! | ah duh-MAN
+example: Merci, Marinette. À demain ! | Thanks, Marinette. See you tomorrow!
+
+[grammar]
+grammar: Vouloir + another verb | Use vouloir (to want) followed by an infinitive to say what someone wants to do. With je, vouloir becomes veux; the next verb stays in its infinitive form.
+example: Je veux apprendre le français. | I want to learn French.
+example: Je veux lire un livre. | I want to read a book.
+
+[quiz]
+quiz: What does Marinette want to learn? | French | How to read | How to write | A | She says, “Je veux apprendre le français.”
+quiz: Where does Adrien want to learn? | In the classroom | With a book | At home | A | He says, “Mais je veux apprendre dans la classe.”
+quiz: What does “Que veux-tu apprendre ?” mean? | What do you want to learn? | For tomorrow evening, at seven, please. | See you tomorrow! | A | Que veux-tu apprendre ? means “What do you want to learn?”.
+quiz: What does “À demain !” mean? | Do you want to learn with a book? | I want to learn French. | See you tomorrow! | C | À demain ! means “See you tomorrow!”.
