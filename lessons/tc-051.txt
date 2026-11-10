@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 51 · Welcome to My Home
+episode: TC-051
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette, bienvenue chez moi ! | Hello, Marinette, welcome to my home!
+Marinette: Bonjour, Adrien ! Merci ! | Hello, Adrien! Thank you!
+Adrien: Entre, s'il te plaît. Voici le salon. | Come in, please. Here is the living room.
+Marinette: Merci. Le salon est très beau. | Thank you. The living room is very beautiful.
+Adrien: Tu veux t'asseoir ? | Would you like to sit down?
+Marinette: Oui, avec plaisir. | Yes, gladly.
+Adrien: Tu veux de l'eau ou du thé ? | Would you like water or tea?
+Marinette: De l'eau, s'il te plaît. | Water, please.
+Adrien: Voilà. Le salon est calme et confortable. | There you go. The living room is quiet and comfortable.
+
+[vocab]
+vocab: Bienvenue chez moi ! | Welcome to my home! | byeh(n)-vuh-nü sheh-MWAH
+example: Bonjour, bienvenue chez moi ! | Hello, welcome to my home!
+vocab: Merci ! | Thank you! | mehr-SEE
+example: Merci, Adrien ! | Thank you, Adrien!
+vocab: Entre, s'il te plaît. | Come in, please. | ahntr, seel tuh PLEH
+example: Entre, s'il te plaît. | Come in, please.
+vocab: Tu veux t'asseoir ? | Would you like to sit down? | tyuh vuh tah-SWAHR
+example: Tu veux t'asseoir ? | Would you like to sit down?
+vocab: De l'eau, s'il te plaît. | Water, please. | duh loh, seel tuh PLEH
+example: De l'eau, s'il te plaît. | Water, please.
+
+[grammar]
+grammar: Tu veux… ? | Use tu veux… ? to ask someone informally what they want or would like. Follow it with an infinitive for an activity or a noun for a thing.
+example: Tu veux t'asseoir ? | Would you like to sit down?
+example: Tu veux de l'eau ou du thé ? | Would you like water or tea?
+
+[quiz]
+quiz: What drink does Marinette ask for? | Water | Tea | Milk | A | She says, « De l'eau, s'il te plaît. »
+quiz: What room does Adrien show Marinette? | In the living room | At the station | In the kitchen | A | Adrien shows her « le salon », the living room.
+quiz: What does “Merci !” mean? | Welcome to my home! | Thank you! | Come in, please. | B | Merci ! means “Thank you!”.
+quiz: What does “Entre, s'il te plaît.” mean? | The concert starts soon. | Come in, please. | Water, please. | B | Entre, s'il te plaît. means “Come in, please.”.
