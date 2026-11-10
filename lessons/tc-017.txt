@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 17 · Finding an ATM
+episode: TC-017
+scene: classroom
+
+[story]
+Adrien: Bonjour, pardon, où est le distributeur, s'il vous plaît ? | Hello, excuse me, where is the ATM, please?
+Marinette: Bonjour. Il y a un distributeur près de la banque. | Hello. There’s an ATM near the bank.
+Adrien: C'est loin d'ici ? | Is it far from here?
+Marinette: Non, c'est tout près. Allez tout droit. | No, it’s very close. Go straight.
+Adrien: Puis, je tourne à gauche ? | Then, do I turn left?
+Marinette: Oui, au coin, tournez à gauche. | Yes, at the corner, turn left.
+Adrien: Merci beaucoup. Je peux retirer de l'argent là-bas ? | Thank you very much. Can I withdraw money there?
+Marinette: Oui, bien sûr. Le distributeur est devant la banque. | Yes, of course. The ATM is in front of the bank.
+Adrien: Parfait, merci beaucoup. | Perfect, thank you very much.
+
+[vocab]
+vocab: Bonjour, pardon, où est le distributeur, s'il vous plaît ? | Hello, excuse me, where is the ATM, please? | bohn-ZHOOR, par-DOHN, oo eh luh dis-tree-bu-TUHR, seel voo PLEH
+example: Bonjour, pardon, où est le distributeur, s'il vous plaît ? | Hello, excuse me, where is the ATM, please?
+vocab: Il y a un distributeur près de la banque. | There’s an ATM near the bank. | eel ee ah uhn dis-tree-bu-TUHR preh duh lah BAHNK
+example: Il y a un distributeur près de la banque. | There’s an ATM near the bank.
+vocab: C'est loin d'ici ? | Is it far from here? | seh lwahn dee-SEE
+example: C'est loin d'ici ? | Is it far from here?
+vocab: Allez tout droit. | Go straight. | ah-LAY too DRWAH
+example: Allez tout droit. | Go straight.
+vocab: Je peux retirer de l'argent là-bas ? | Can I withdraw money there? | zhuh puh ruh-tee-RAY duh lar-ZHAHN lah-BAH
+example: Je peux retirer de l'argent là-bas ? | Can I withdraw money there?
+
+[grammar]
+grammar: Saying “there is” with il y a | Use il y a to say that something exists or is available somewhere. It stays the same whether the thing is singular or plural.
+example: Il y a un distributeur près de la banque. | There’s an ATM near the bank.
+example: Il y a une banque dans la ville. | There’s a bank in the city.
+
+[quiz]
+quiz: Where is the ATM? | Near the bank | At the train station | In the house | A | Marinette says the ATM is near the bank.
+quiz: Which way should Adrien turn at the corner? | Left | Right | Straight ahead | A | Marinette says, “tournez à gauche,” meaning “turn left.”
+quiz: What does “C'est loin d'ici ?” mean? | We can see the photos together. | Go straight. | Is it far from here? | C | C'est loin d'ici ? means “Is it far from here?”.
+quiz: What does “Il y a un distributeur près de la banque.” mean? | Can I try on the shoes, please? | Can I pay by card? | There’s an ATM near the bank. | C | Il y a un distributeur près de la banque. means “There’s an ATM near the bank.”.
