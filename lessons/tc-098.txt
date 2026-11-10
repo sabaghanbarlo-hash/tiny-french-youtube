@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 98 · Phones and Technology
+episode: TC-098
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, tu as un nouveau portable ? | Hello, Marinette. Do you have a new phone?
+Marinette: Bonjour Adrien. Oui, il est nouveau. | Hello, Adrien. Yes, it is new.
+Adrien: Il est grand, et l’écran est très beau. | It is big, and the screen is very beautiful.
+Marinette: Le portable est petit, mais pratique. | The phone is small, but practical.
+Adrien: Oui, il est petit et très léger. | Yes, it is small and very light.
+Marinette: Tu peux me montrer l’écran, s’il te plaît ? | Can you show me the screen, please?
+Adrien: Oui, regarde : l’écran est plus grand. | Yes, look: the screen is bigger.
+Marinette: Oui, ils sont différents, mais pratiques. | Yes, they are different, but practical.
+Adrien: Oui, les deux sont très pratiques. | Yes, both are very practical.
+
+[vocab]
+vocab: Tu as un nouveau portable ? | Do you have a new phone? | ty ah uhn noo-VOH por-TAHBL
+example: Tu as un nouveau portable ? | Do you have a new phone?
+vocab: Il est nouveau. | It is new. | eel eh noo-VOH
+example: Il est nouveau. | It is new.
+vocab: Il est grand. | It is big. | eel eh GRAHN
+example: Il est grand. | It is big.
+vocab: Tu peux me montrer l’écran, s’il te plaît ? | Can you show me the screen, please? | ty puh muh mohn-TRAY lay-KRAHN seel tuh PLEH
+example: Tu peux me montrer l’écran, s’il te plaît ? | Can you show me the screen, please?
+vocab: Les deux sont très pratiques. | Both are very practical. | lay duh sohn tray prah-TEEK
+example: Les deux sont très pratiques. | Both are very practical.
+
+[grammar]
+grammar: Describing things with être | Use être (to be) followed by an adjective to describe a phone or screen. Adjectives agree in number with the noun or pronoun they describe. In the plural, they often add -s, as in différents and pratiques.
+example: Il est nouveau. | It is new.
+example: Ils sont différents, mais pratiques. | They are different, but practical.
+
+[quiz]
+quiz: Whose screen is bigger? | Adrien’s | Marinette’s | They are the same size | A | Adrien says, “l’écran est plus grand” (the screen is bigger).
+quiz: How does Marinette describe the two phones? | Different but practical | Small and old | Big and heavy | A | She says they are different, but practical.
+quiz: What does “Tu as un nouveau portable ?” mean? | The room is there, on the left. | Do you have a new phone? | Can you show me the screen, please? | B | Tu as un nouveau portable ? means “Do you have a new phone?”.
+quiz: What does “Tu peux me montrer l’écran, s’il te plaît ?” mean? | Can you show me the screen, please? | I’m looking for a jacket. | The room is there, on the left. | A | Tu peux me montrer l’écran, s’il te plaît ? means “Can you show me the screen, please?”.
