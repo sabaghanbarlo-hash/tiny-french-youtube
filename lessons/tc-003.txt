@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 3 · Meet My Friend
+episode: TC-003
+scene: classroom
+
+[story]
+Adrien: Bonjour ! Voici Marinette, une amie. | Hello! This is Marinette, a friend.
+Marinette: Bonjour, enchantée. Je suis nouvelle ici. | Hello, pleased to meet you. I’m new here.
+Adrien: Tu veux un café ? | Would you like a coffee?
+Marinette: Oui, merci. Et toi ? | Yes, thank you. And you?
+Adrien: Je prends un café aussi. | I’ll have a coffee too.
+Marinette: Tu viens souvent ici ? | Do you come here often?
+Adrien: Oui, je viens souvent ici. | Yes, I come here often.
+Marinette: C'est très agréable ici ! | It’s very nice here!
+Adrien: Bienvenue au café, Marinette ! | Welcome to the café, Marinette!
+
+[vocab]
+vocab: Voici Marinette, une amie. | This is Marinette, a friend. | vwah-SEE ma-ree-NET, oon-na-MEE
+example: Voici Marinette, une amie. | This is Marinette, a friend.
+vocab: Enchantée. | Pleased to meet you. | ahn-shahn-TAY
+example: Bonjour, enchantée. | Hello, pleased to meet you.
+vocab: Tu veux un café ? | Would you like a coffee? | too vuh uhn kah-FAY
+example: Tu veux un café ? | Would you like a coffee?
+vocab: Je prends un café aussi. | I’ll have a coffee too. | zhuh prahn uhn kah-FAY oh-SEE
+example: Je prends un café aussi. | I’ll have a coffee too.
+vocab: Tu viens souvent ici ? | Do you come here often? | too vyen soo-VAHN ee-SEE
+example: Tu viens souvent ici ? | Do you come here often?
+
+[grammar]
+grammar: Offering with « Tu veux… ? » | Use « Tu veux » followed by a noun to offer something informally. The verb vouloir changes to « veux » with « tu ».
+example: Tu veux un café ? | Would you like a coffee?
+example: Tu veux un thé ? | Would you like a tea?
+
+[quiz]
+quiz: Where is Marinette new? | At the café | At Adrien’s house | At the school | A | Marinette says, « Je suis nouvelle ici », and Adrien welcomes her to the café.
+quiz: What does Adrien order too? | A coffee | A tea | Water | A | He says, « Je prends un café aussi. »
+quiz: What does “Tu viens souvent ici ?” mean? | Do you have a dish with fish? | I work with you. | Do you come here often? | C | Tu viens souvent ici ? means “Do you come here often?”.
+quiz: What does “Je prends un café aussi.” mean? | This is Marinette, a friend. | Do you want to watch the film again with me? | I’ll have a coffee too. | C | Je prends un café aussi. means “I’ll have a coffee too.”.
