@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 54 · Who Does the Dishes?
+episode: TC-054
+scene: classroom
+
+[story]
+Adrien: Après le dîner, qui nettoie les assiettes ? | After dinner, who cleans the plates?
+Marinette: Je peux les nettoyer, mais tu peux les essuyer ? | I can clean them, but can you dry them?
+Adrien: D'accord. Je nettoie les assiettes, et tu les essuies. | Okay. I’ll clean the plates, and you dry them.
+Marinette: Oui. Et demain, tu ranges la cuisine ? | Yes. And tomorrow, will you tidy the kitchen?
+Adrien: Bien sûr. Tu mets la table ce soir ? | Of course. Will you set the table tonight?
+Marinette: Oui, je mets la table. Nous faisons ça ensemble. | Yes, I’ll set the table. We’ll do it together.
+Adrien: Merci, c'est simple et juste. | Thanks, that’s simple and fair.
+Marinette: De rien. Après, nous pouvons nous reposer. | You’re welcome. Afterward, we can rest.
+Adrien: D'accord, à demain ! | Okay, see you tomorrow!
+
+[vocab]
+vocab: Je peux les nettoyer. | I can clean them. | zhuh puh lay neh-twah-YAY
+example: Je peux les nettoyer après le dîner. | I can clean them after dinner.
+vocab: Tu peux les essuyer ? | Can you dry them? | ty puh lay zeh-swee-YAY
+example: Vous pouvez les essuyer, s'il vous plaît ? | Can you dry them, please?
+vocab: Tu ranges la cuisine ? | Will you tidy the kitchen? | ty rahnj lah kwee-ZEEN
+example: Demain, tu ranges la cuisine ? | Tomorrow, will you tidy the kitchen?
+vocab: Nous faisons ça ensemble. | We do it together. | noo fuh-ZOHN sah ahn-SAHMBL
+example: Nous faisons ça ensemble ce soir. | We’ll do it together tonight.
+vocab: À demain ! | See you tomorrow! | ah duh-MAN
+example: D'accord, à demain ! | Okay, see you tomorrow!
+
+[grammar]
+grammar: Pouvoir + infinitive | Pouvoir (to be able to/can) followed by an infinitive expresses ability or possibility. In a question, with a polite tone, this pattern can soften a request.
+example: Je peux les nettoyer. | I can clean them.
+example: Tu peux les essuyer ? | Can you dry them?
+
+[quiz]
+quiz: Who cleans the plates? | Adrien | Marinette | They both clean them | A | Adrien says, « Je nettoie les assiettes. »
+quiz: What does Marinette agree to do tonight? | Set the table | Tidy the kitchen | Dry the plates | A | She says, « Je mets la table. »
+quiz: What does “Nous faisons ça ensemble.” mean? | We do it together. | I can clean them. | Here is the ticket. | A | Nous faisons ça ensemble. means “We do it together.”.
+quiz: What does “À demain !” mean? | We do it together. | I can clean them. | See you tomorrow! | C | À demain ! means “See you tomorrow!”.
