@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 74 · Calling for Help
+episode: TC-074
+scene: classroom
+
+[story]
+Adrien: Allô, bonjour, je demande une ambulance, s'il vous plaît. | Hello, good morning. I am asking for an ambulance, please.
+Marinette: Bonjour. Où êtes-vous ? | Hello. Where are you?
+Adrien: Je suis à la maison avec un enfant malade. | I am at home with a sick child.
+Marinette: Est-ce qu'il respire ? | Is he breathing?
+Adrien: Oui, mais il est très malade. | Yes, but he is very sick.
+Marinette: D'accord. Restez avec lui, s'il vous plaît. | All right. Stay with him, please.
+Adrien: Oui. Les secours arrivent quand ? | Yes. When are the emergency services arriving?
+Marinette: Maintenant. Ne bougez pas, s'il vous plaît. | Now. Please don't move.
+Adrien: Merci, j'attends ici. | Thank you. I'm waiting here.
+
+[vocab]
+vocab: Je demande une ambulance, s'il vous plaît. | I am asking for an ambulance, please. | zhuh duh-mahnd ün ahm-bü-lahnss seel voo PLEH
+example: Je demande une ambulance, s'il vous plaît. | I am asking for an ambulance, please.
+vocab: Où êtes-vous ? | Where are you? | oo eht VOO
+example: Où êtes-vous ? | Where are you?
+vocab: Est-ce qu'il respire ? | Is he breathing? | ess keel reh-SPEER
+example: Est-ce qu'il respire ? | Is he breathing?
+vocab: Restez avec lui, s'il vous plaît. | Stay with him, please. | ress-tay ah-vek lwee seel voo PLEH
+example: Restez avec lui, s'il vous plaît. | Stay with him, please.
+vocab: Les secours arrivent quand ? | When are the emergency services arriving? | lay suh-koor ah-reev KAHN
+example: Les secours arrivent quand ? | When are the emergency services arriving?
+
+[grammar]
+grammar: Asking yes-or-no questions with est-ce que | Put est-ce que before a statement to make a yes-or-no question. Before il, que contracts to qu'.
+example: Est-ce qu'il respire ? | Is he breathing?
+example: Est-ce que vous êtes à la maison ? | Are you at home?
+
+[quiz]
+quiz: What does Adrien ask for? | An ambulance | A taxi | A doctor at the house | A | Adrien says, “Je demande une ambulance.”
+quiz: What does Marinette ask Adrien to do? | Wait outside | Stay with the child | Go to the hospital | B | She says, “Restez avec lui.”
+quiz: What does “Je demande une ambulance, s'il vous plaît.” mean? | It's raining a lot today. | I am asking for an ambulance, please. | Where are they? | B | Je demande une ambulance, s'il vous plaît. means “I am asking for an ambulance, please.”.
+quiz: What does “Est-ce qu'il respire ?” mean? | Is he breathing? | It's raining a lot today. | I'm going to make the tea. | A | Est-ce qu'il respire ? means “Is he breathing?”.
