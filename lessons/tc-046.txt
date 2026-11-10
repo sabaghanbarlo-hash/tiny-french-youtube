@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 46 · A Delayed Train
+episode: TC-046
+scene: classroom
+
+[story]
+Adrien: Bonjour, vous attendez le train ? | Hello, are you waiting for the train?
+Marinette: Oui, mais il n'arrive pas. | Yes, but it isn't arriving.
+Adrien: Vous savez pourquoi ? | Do you know why?
+Marinette: Je ne sais pas. Et vous ? | I don't know. And you?
+Adrien: Oui. Il est déjà tard. | Yes. It's already late.
+Marinette: Peut-être une panne ? | Maybe a breakdown?
+Adrien: C'est possible. Nous pouvons attendre ici. | It's possible. We can wait here.
+Marinette: D'accord. Merci, c'est gentil. | All right. Thank you, that's kind.
+Adrien: Avec plaisir. Il arrive bientôt ? | You're welcome. Is it arriving soon?
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, vous attendez le train ? | Hello, are you waiting for the train?
+vocab: Vous savez pourquoi ? | Do you know why? | voo sah-VAY poor-KWAH
+example: Vous savez pourquoi ? | Do you know why?
+vocab: Je ne sais pas. | I don't know. | zhuh nuh say PAH
+example: Je ne sais pas. | I don't know.
+vocab: Peut-être une panne ? | Maybe a breakdown? | puh-TET oon PAHN
+example: Peut-être une panne ? | Maybe a breakdown?
+vocab: Avec plaisir. | You're welcome. | ah-VEK play-ZEER
+example: Avec plaisir. Il arrive bientôt ? | You're welcome. Is it arriving soon?
+
+[grammar]
+grammar: Making a negative sentence | In French, put ne before the verb and pas after it to make a sentence negative. In everyday speech, ne is often dropped, but it is used in these examples.
+example: Il n'arrive pas. | It isn't arriving.
+example: Je ne sais pas. | I don't know.
+
+[quiz]
+quiz: Why are Adrien and Marinette waiting? | The train isn't arriving. | They are waiting for a friend. | They want to go home. | A | Marinette says, “mais il n'arrive pas.”
+quiz: What might be the reason the train isn't arriving? | A breakdown. | The weather. | A busy station. | A | Marinette suggests, “Peut-être une panne ?”
+quiz: What does “Vous savez pourquoi ?” mean? | I don't know. | I prefer sunshine. | Do you know why? | C | Vous savez pourquoi ? means “Do you know why?”.
+quiz: What does “Avec plaisir.” mean? | You're welcome. | I prefer sunshine. | Hello. | A | Avec plaisir. means “You're welcome.”.
