@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 84 · Planning a Picnic
+episode: TC-084
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, tu veux manger dans le parc demain ? | Hello, Marinette. Do you want to eat in the park tomorrow?
+Marinette: Oui, bonne idée ! Nous pouvons apporter du pain, du fromage et des pommes. | Yes, good idea! We can bring bread, cheese, and apples.
+Adrien: Très bien. J’apporte une bouteille d’eau. | Very good. I’ll bring a bottle of water.
+Marinette: Quand ? | When?
+Adrien: À deux heures, si le temps est beau. | At two o’clock, if the weather is nice.
+Marinette: D’accord. Je peux aussi apporter un gâteau. | Okay. I can also bring a cake.
+Adrien: Parfait ! Nous pouvons nous rencontrer près de l’arbre ? | Perfect! Can we meet near the tree?
+Marinette: Oui, à demain ! | Yes, see you tomorrow!
+Adrien: À demain, Marinette ! | See you tomorrow, Marinette!
+
+[vocab]
+vocab: Tu veux manger dans le parc demain ? | Do you want to eat in the park tomorrow? | ty vuh mahn-zhay dahn luh park duh-MAN
+example: Tu veux manger dans le parc demain ? | Do you want to eat in the park tomorrow?
+vocab: Nous pouvons apporter du pain, du fromage et des pommes. | We can bring bread, cheese, and apples. | noo poo-VOHN ah-por-TAY dü pan, dü froh-MAHZH ay day POM
+example: Nous pouvons apporter du pain, du fromage et des pommes. | We can bring bread, cheese, and apples.
+vocab: J’apporte une bouteille d’eau. | I’ll bring a bottle of water. | zhah-PORT oon boo-TAY doh
+example: J’apporte une bouteille d’eau. | I’ll bring a bottle of water.
+vocab: À deux heures, si le temps est beau. | At two o’clock, if the weather is nice. | ah duh-ZUHR, see luh tahn ay boh
+example: À deux heures, si le temps est beau. | At two o’clock, if the weather is nice.
+vocab: Nous pouvons nous rencontrer près de l’arbre ? | Can we meet near the tree? | noo poo-VOHN noo rahn-kohn-TRAY pray duh LARBR
+example: Nous pouvons nous rencontrer près de l’arbre ? | Can we meet near the tree?
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir (“can” or “to be able to”) followed by an infinitive to say what someone can do. The verb pouvoir changes to match the subject, while the next verb stays in its infinitive form.
+example: Nous pouvons apporter du pain. | We can bring bread.
+example: Je peux aussi apporter un gâteau. | I can also bring a cake.
+
+[quiz]
+quiz: What food does Marinette suggest bringing? | Bread, cheese, and apples | Rice and fish | A cake and juice | A | She suggests bread, cheese, and apples; the cake is an extra suggestion later.
+quiz: What time do Adrien and Marinette plan to meet? | At one o’clock | At two o’clock | In the evening | B | Adrien says, “À deux heures.”
+quiz: What does “Tu veux manger dans le parc demain ?” mean? | We can bring bread, cheese, and apples. | Welcome to my home! | Do you want to eat in the park tomorrow? | C | Tu veux manger dans le parc demain ? means “Do you want to eat in the park tomorrow?”.
+quiz: What does “J’apporte une bouteille d’eau.” mean? | Open your mouth, please. | I’ll bring a bottle of water. | Welcome to my home! | B | J’apporte une bouteille d’eau. means “I’ll bring a bottle of water.”.
