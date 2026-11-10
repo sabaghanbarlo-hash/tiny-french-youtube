@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 91 · Talking About the Weather
+episode: TC-091
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Il fait beau aujourd'hui ? | Hello, Marinette. Is it nice out today?
+Marinette: Bonjour, Adrien. Oui, mais il y a du vent. | Hello, Adrien. Yes, but it's windy.
+Adrien: Vous attendez le bus aussi ? | Are you waiting for the bus too?
+Marinette: Oui, et je pense qu'il va pleuvoir bientôt. | Yes, and I think it's going to rain soon.
+Adrien: Vous aimez la pluie ? | Do you like the rain?
+Marinette: Pas vraiment. Je préfère le soleil. | Not really. I prefer sunshine.
+Adrien: Oui, le soleil est très agréable. | Yes, sunshine is very pleasant.
+Marinette: Mais le temps change vite ici. | But the weather changes quickly here.
+Adrien: Alors, nous prenons le bus ensemble ? | So, shall we take the bus together?
+
+[vocab]
+vocab: Il fait beau aujourd'hui ? | Is it nice out today? | eel feh boh oh-zhoor-DWEE
+example: Il fait beau aujourd'hui ? | Is it nice out today?
+vocab: Il y a du vent. | It's windy. | eel yah dew VAHN
+example: Oui, mais il y a du vent. | Yes, but it's windy.
+vocab: Vous attendez le bus aussi ? | Are you waiting for the bus too? | voo zah-tahn-DAY luh bus oh-SEE
+example: Vous attendez le bus aussi ? | Are you waiting for the bus too?
+vocab: Pas vraiment. | Not really. | pah vray-MAHN
+example: Pas vraiment. Je préfère le soleil. | Not really. I prefer sunshine.
+vocab: Je préfère le soleil. | I prefer sunshine. | zhuh pray-FEHR luh soh-LAY
+example: Je préfère le soleil. | I prefer sunshine.
+
+[grammar]
+grammar: Talking about the weather with « il fait » | Use the expression « il fait » to describe the weather. The « il » here does not refer to a particular person; it is part of the weather expression.
+example: Il fait beau aujourd'hui. | It's nice out today.
+example: Il fait froid. | It's cold.
+
+[quiz]
+quiz: Who thinks it will rain soon? | Adrien | Marinette | Both neighbors | B | Marinette says she thinks it will rain soon.
+quiz: What are Adrien and Marinette waiting for? | The bus | The train | The taxi | A | Adrien asks if Marinette is waiting for the bus too.
+quiz: What does “Il y a du vent.” mean? | It's windy. | Is it nice out today? | Go straight ahead. | A | Il y a du vent. means “It's windy.”.
+quiz: What does “Pas vraiment.” mean? | Pleased to meet you. (said by a woman) | Not really. | It was a pleasure | B | Pas vraiment. means “Not really.”.
