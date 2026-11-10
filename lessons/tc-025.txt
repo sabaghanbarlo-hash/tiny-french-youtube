@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 25 · Asking About the Menu
+episode: TC-025
+scene: classroom
+
+[story]
+Adrien: Bonjour, le menu, s'il vous plaît. | Hello, the menu, please.
+Marinette: Bonjour, voici le menu. | Hello, here is the menu.
+Adrien: Vous avez un plat avec du poisson ? | Do you have a dish with fish?
+Marinette: Oui, nous avons du poisson et du poulet. | Yes, we have fish and chicken.
+Adrien: Le poisson est-il épicé ? | Is the fish spicy?
+Marinette: Non, il n'est pas épicé. Il est très bon. | No, it is not spicy. It is very good.
+Adrien: Et le dessert, s'il vous plaît ? | And dessert, please?
+Marinette: Un gâteau au chocolat, ou un yaourt. | A chocolate cake, or a yogurt.
+Adrien: Je prends le gâteau, merci. | I'll have the cake, thank you.
+
+[vocab]
+vocab: Bonjour, le menu, s'il vous plaît. | Hello, the menu, please. | bohn-ZHOOR, luh muh-NEW, seel voo PLEH
+example: Bonjour, le menu, s'il vous plaît. | Hello, the menu, please.
+vocab: Vous avez un plat avec du poisson ? | Do you have a dish with fish? | voo zah-VAY uhn plah ah-VEK dew pwah-SON
+example: Vous avez un plat avec du poulet ? | Do you have a dish with chicken?
+vocab: Le poisson est-il épicé ? | Is the fish spicy? | luh pwah-SON eh-teel ay-pee-SAY
+example: Le poisson est-il épicé ? | Is the fish spicy?
+vocab: Et le dessert, s'il vous plaît ? | And dessert, please? | ay luh deh-SAIR, seel voo PLEH
+example: Et le dessert, s'il vous plaît ? | And dessert, please?
+vocab: Je prends le gâteau, merci. | I'll have the cake, thank you. | zhuh PRAHN luh gah-TOH, mehr-SEE
+example: Je prends le gâteau, merci. | I'll have the cake, thank you.
+
+[grammar]
+grammar: Polite questions with « vous avez » | In everyday French, you can ask a question by keeping the usual subject–verb order and raising your voice at the end. « Vous avez… ? » means “Do you have…?”
+example: Vous avez un plat avec du poisson ? | Do you have a dish with fish?
+example: Vous avez un plat avec du poulet ? | Do you have a dish with chicken?
+
+[quiz]
+quiz: What does Adrien ask about the fish? | Whether it is spicy | Whether it is expensive | Whether it is fresh | A | He asks, « Le poisson est-il épicé ? »
+quiz: What dessert does Adrien choose? | A yogurt | A chocolate cake | A dish with chicken | B | Adrien says, « Je prends le gâteau. »
+quiz: What does “Le poisson est-il épicé ?” mean? | near the checkout | Do you have a dish with fish? | Is the fish spicy? | C | Le poisson est-il épicé ? means “Is the fish spicy?”.
+quiz: What does “Et le dessert, s'il vous plaît ?” mean? | Hello, the menu, please. | Do you have a dish with fish? | And dessert, please? | C | Et le dessert, s'il vous plaît ? means “And dessert, please?”.
