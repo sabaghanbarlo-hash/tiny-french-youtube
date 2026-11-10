@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 6 · First Day in Class
+episode: TC-006
+scene: classroom
+
+[story]
+Adrien: Bonjour, madame. Je suis nouveau dans la classe. | Hello, ma’am. I’m new in the class.
+Marinette: Bonjour, Adrien. Bienvenue au cours de français. | Hello, Adrien. Welcome to French class.
+Adrien: Vous êtes professeur ? | Are you a teacher?
+Marinette: Oui, je suis professeur. Comment vous appelez-vous ? | Yes, I’m a teacher. What is your name?
+Adrien: Je m’appelle Adrien. Et vous ? | My name is Adrien. And you?
+Marinette: Je m’appelle Marinette. Enchantée. | My name is Marinette. Pleased to meet you.
+Adrien: Où est mon cahier, s’il vous plaît ? | Where is my notebook, please?
+Marinette: Il est sur la table, près du livre. | It’s on the table, near the book.
+Adrien: Merci, madame. Je suis prêt pour le cours. | Thank you, ma’am. I’m ready for class.
+
+[vocab]
+vocab: Bonjour, madame. | Hello, ma’am. | bohn-ZHOOR mah-DAM
+example: Bonjour, madame. Je suis Adrien. | Hello, ma’am. I’m Adrien.
+vocab: Je m’appelle Adrien. | My name is Adrien. | zhuh mah-PELL ah-dree-YEN
+example: Je m’appelle Marinette. | My name is Marinette.
+vocab: Comment vous appelez-vous ? | What is your name? | koh-MAHN voo zahp-LAY VOO
+example: Comment vous appelez-vous ? | What is your name?
+vocab: Où est mon cahier, s’il vous plaît ? | Where is my notebook, please? | OO eh mohn kah-YAY, seel voo PLEH
+example: Où est mon cahier, s’il vous plaît ? | Where is my notebook, please?
+vocab: Je suis prêt pour le cours. | I’m ready for class. | zhuh swee PREH poor luh KOOR
+example: Je suis prêt pour le cours. | I’m ready for class.
+
+[grammar]
+grammar: Using être to identify yourself | The verb être means “to be.” Use je suis for “I am” and vous êtes for “you are” when speaking politely to one person.
+example: Je suis nouveau dans la classe. | I’m new in the class.
+example: Vous êtes professeur ? | Are you a teacher?
+
+[quiz]
+quiz: Who is the teacher? | Adrien | Marinette | The student | B | Marinette says she is the teacher.
+quiz: Where is Adrien’s notebook? | On the table, near the book | In the class | Near the door | A | Marinette says it is sur la table, près du livre.
+quiz: What does “Comment vous appelez-vous ?” mean? | What is your name? | I’m ready for class. | My name is Adrien. | A | Comment vous appelez-vous ? means “What is your name?”.
+quiz: What does “Bonjour, madame.” mean? | Hello | Hello, ma’am. | My name is Adrien. | B | Bonjour, madame. means “Hello, ma’am.”.
