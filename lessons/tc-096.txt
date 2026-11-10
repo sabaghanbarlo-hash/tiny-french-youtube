@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 96 · A Good Book
+episode: TC-096
+scene: classroom
+
+[story]
+Adrien: Bonjour, vous lisez un livre dans le train ? | Hello, are you reading a book on the train?
+Marinette: Bonjour. Oui, c'est un très bon livre. | Hello. Yes, it's a very good book.
+Adrien: Euh, oui ? Le livre parle d'une famille ? | Um, yes? Is the book about a family?
+Marinette: Il parle d'une famille dans une grande ville. | It's about a family in a big city.
+Adrien: Vous aimez lire dans le train ? | Do you like reading on the train?
+Marinette: Oui, j'aime lire. Et vous ? | Yes, I like reading. And you?
+Adrien: Oui, je lis souvent. Je peux vous le prêter après. | Yes, I read often. I can lend it to you afterward.
+Marinette: Merci, c'est gentil. Je veux le lire après vous. | Thank you, that's kind. I want to read it after you.
+Adrien: Avec plaisir. À bientôt ! | My pleasure. See you soon!
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, vous lisez un livre ? | Hello, are you reading a book?
+vocab: C'est un très bon livre. | It's a very good book. | seh-tuhn treh bohn LEE-vruh
+example: Oui, c'est un très bon livre. | Yes, it's a very good book.
+vocab: Le livre parle d'une famille ? | Is the book about a family? | luh LEE-vruh parl dun fah-MEE
+example: Le livre parle d'une famille ? | Is the book about a family?
+vocab: Vous aimez lire dans le train ? | Do you like reading on the train? | voo-zem-ay leer dahn luh TRAN
+example: Vous aimez lire dans le train ? | Do you like reading on the train?
+vocab: Avec plaisir. | My pleasure. | ah-vek pleh-ZEER
+example: Avec plaisir. À bientôt ! | My pleasure. See you soon!
+
+[grammar]
+grammar: Polite questions with vous | Use vous before the verb to ask a polite question. The verb form also works when speaking to more than one person.
+example: Vous aimez lire dans le train ? | Do you like reading on the train?
+example: Vous lisez un livre dans le train ? | Are you reading a book on the train?
+
+[quiz]
+quiz: What is Marinette's book about? | A family in a big city | A train journey | A good meal | A | Marinette says the book is about a family in a big city.
+quiz: Who offers to lend the book? | Adrien | Marinette | A friend | A | Adrien says he can lend the book to Marinette.
+quiz: What does “C'est un très bon livre.” mean? | Do you want to go to the concert tomorrow? | It's a very good book. | You can press here. | B | C'est un très bon livre. means “It's a very good book.”.
+quiz: What does “Bonjour” mean? | Hello | Do you want to go to the concert tomorrow? | Can I come in? | A | Bonjour means “Hello”.
