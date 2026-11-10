@@ -1,0 +1,44 @@
+1
+00:00:15,048 --> 00:00:21,596
+Bonjour, pardon. Quand est-ce que le magasin ouvre, s'il vous plaît ?
+Hello, excuse me. When does the store open, please?
+
+2
+00:00:21,696 --> 00:00:27,020
+Bonjour. Le magasin ouvre à neuf heures.
+Hello. The store opens at nine.
+
+3
+00:00:27,120 --> 00:00:30,020
+Et quand est-ce qu'il ferme ?
+And when does it close?
+
+4
+00:00:30,120 --> 00:00:33,548
+Il ferme à six heures du soir.
+It closes at six in the evening.
+
+5
+00:00:33,648 --> 00:00:37,532
+Est-ce que le magasin est ouvert le dimanche ?
+Is the store open on Sunday?
+
+6
+00:00:37,632 --> 00:00:41,780
+Le dimanche, le magasin est fermé.
+On Sunday, the store is closed.
+
+7
+00:00:41,880 --> 00:00:45,884
+Et le samedi, le magasin est ouvert ?
+And on Saturday, is the store open?
+
+8
+00:00:45,984 --> 00:00:50,276
+Oui, il est ouvert de neuf heures à six heures.
+Yes, it is open from nine to six.
+
+9
+00:00:50,376 --> 00:00:53,996
+Merci beaucoup, au revoir.
+Thank you very much, goodbye.

@@ -1,0 +1,44 @@
+1
+00:00:14,712 --> 00:00:20,588
+Bonjour, madame. À la gare, s'il vous plaît.
+Hello, ma’am. To the train station, please.
+
+2
+00:00:20,688 --> 00:00:25,772
+Bonjour. Vous voulez aller à la gare ?
+Hello. Do you want to go to the train station?
+
+3
+00:00:25,872 --> 00:00:30,620
+Oui, merci. C'est loin d'ici ?
+Yes, thank you. Is it far from here?
+
+4
+00:00:30,720 --> 00:00:33,980
+Non, c'est près d'ici.
+No, it’s nearby.
+
+5
+00:00:34,080 --> 00:00:38,252
+Vous pouvez tourner à gauche, s'il vous plaît ?
+Can you turn left, please?
+
+6
+00:00:38,352 --> 00:00:43,676
+Oui. Je tourne à gauche, puis tout droit.
+Yes. I’ll turn left, then go straight.
+
+7
+00:00:43,776 --> 00:00:46,916
+D'accord, merci.
+All right, thank you.
+
+8
+00:00:47,016 --> 00:00:50,156
+Nous arrivons à la gare.
+We’re arriving at the train station.
+
+9
+00:00:50,256 --> 00:00:54,716
+Merci beaucoup. Au revoir.
+Thank you very much. Goodbye.

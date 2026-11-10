@@ -1,0 +1,44 @@
+1
+00:00:15,096 --> 00:00:20,612
+Bonjour, je voudrais prendre l'avion aujourd'hui, s'il vous plaît.
+Hello, I’d like to take the plane today, please.
+
+2
+00:00:20,712 --> 00:00:26,660
+Bonjour. Le billet et le passeport, s'il vous plaît.
+Hello. The ticket and passport, please.
+
+3
+00:00:26,760 --> 00:00:30,908
+Oui, voici le billet et le passeport.
+Yes, here are the ticket and passport.
+
+4
+00:00:31,008 --> 00:00:35,660
+Merci. Vous avez une valise ?
+Thank you. Do you have a suitcase?
+
+5
+00:00:35,760 --> 00:00:40,748
+Oui, une valise. Je la pose ici ?
+Yes, a suitcase. Shall I put it here?
+
+6
+00:00:40,848 --> 00:00:45,020
+Oui, posez-la ici, s'il vous plaît.
+Yes, put it here, please.
+
+7
+00:00:45,120 --> 00:00:49,244
+Merci. Où est la porte ?
+Thank you. Where is the door?
+
+8
+00:00:49,344 --> 00:00:54,596
+À gauche, puis tout droit. Au revoir.
+To the left, then straight ahead. Goodbye.
+
+9
+00:00:54,696 --> 00:00:57,980
+Merci, au revoir.
+Thank you, goodbye.

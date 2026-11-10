@@ -1,0 +1,44 @@
+1
+00:00:14,664 --> 00:00:19,388
+Bonjour, vous acceptez la carte, s'il vous plaît ?
+Hello, do you accept cards, please?
+
+2
+00:00:19,488 --> 00:00:23,396
+Bonjour, oui, bien sûr.
+Hello, yes, of course.
+
+3
+00:00:23,496 --> 00:00:26,732
+Je peux payer avec la carte ?
+Can I pay by card?
+
+4
+00:00:26,832 --> 00:00:30,380
+Oui, le paiement est possible.
+Yes, payment is possible.
+
+5
+00:00:30,480 --> 00:00:34,844
+Merci. Combien coûte le pain ?
+Thank you. How much is the bread?
+
+6
+00:00:34,944 --> 00:00:38,276
+Un euro, s'il vous plaît.
+One euro, please.
+
+7
+00:00:38,376 --> 00:00:43,004
+Voilà. Je paie avec la carte.
+Here you go. I’m paying by card.
+
+8
+00:00:43,104 --> 00:00:48,164
+D'accord. Vous pouvez appuyer ici.
+All right. You can press here.
+
+9
+00:00:48,264 --> 00:00:51,548
+Merci, au revoir.
+Thank you, goodbye.

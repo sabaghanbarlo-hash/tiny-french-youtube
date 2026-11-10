@@ -1,0 +1,44 @@
+1
+00:00:14,520 --> 00:00:18,212
+Bonjour, j’ai perdu mon livre.
+Hello, I’ve lost my book.
+
+2
+00:00:18,312 --> 00:00:22,772
+Bonjour. Où est votre livre ?
+Hello. Where is your book?
+
+3
+00:00:22,872 --> 00:00:27,548
+Je ne sais pas. Il est grand et noir.
+I don’t know. It’s big and black.
+
+4
+00:00:27,648 --> 00:00:31,484
+Vous avez une photo, s’il vous plaît ?
+Do you have a photo, please?
+
+5
+00:00:31,584 --> 00:00:34,940
+Oui, voici une photo.
+Yes, here is a photo.
+
+6
+00:00:35,040 --> 00:00:40,052
+Merci. Votre nom, s’il vous plaît ?
+Thank you. Your name, please?
+
+7
+00:00:40,152 --> 00:00:44,468
+Adrien. Le livre est dans l’avion ?
+Adrien. Is the book on the plane?
+
+8
+00:00:44,568 --> 00:00:49,964
+Peut-être. Je vais chercher votre livre maintenant.
+Maybe. I’ll look for your book now.
+
+9
+00:00:50,064 --> 00:00:54,620
+Merci beaucoup. Je suis inquiet.
+Thank you very much. I’m worried.
