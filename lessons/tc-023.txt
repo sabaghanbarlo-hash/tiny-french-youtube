@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 23 · Choosing Lunch
+episode: TC-023
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu veux manger ici ? | Hello, Marinette. Do you want to eat here?
+Marinette: Bonjour, Adrien. Oui, je prends le poisson avec du riz. | Hello, Adrien. Yes, I’ll have fish with rice.
+Adrien: Je préfère les pâtes avec du fromage. | I prefer pasta with cheese.
+Marinette: C'est bon. Tu veux une boisson ? | That’s good. Do you want a drink?
+Adrien: Oui, je voudrais de l'eau, s'il vous plaît. | Yes, I’d like some water, please.
+Marinette: Et pour le dessert, tu veux un gâteau ? | And for dessert, do you want a cake?
+Adrien: Je ne veux pas de dessert, merci. | I don’t want dessert, thank you.
+Marinette: D'accord. Alors, je prends une salade aussi. | All right. Then I’ll have a salad too.
+Adrien: Très bien. Nous pouvons commander maintenant. | Very good. We can order now.
+
+[vocab]
+vocab: Tu veux manger ici ? | Do you want to eat here? | ty vuh mahn-ZHAY ee-SEE
+example: Tu veux manger ici ? | Do you want to eat here?
+vocab: Je prends le poisson avec du riz. | I’ll have fish with rice. | zhuh prahn luh pwah-SOHN ah-VEK dew REE
+example: Je prends le poisson avec du riz. | I’ll have fish with rice.
+vocab: Je préfère les pâtes avec du fromage. | I prefer pasta with cheese. | zhuh pray-FAIR lay paht ah-VEK dew froh-MAHZH
+example: Je préfère les pâtes avec du fromage. | I prefer pasta with cheese.
+vocab: Je voudrais de l'eau, s'il vous plaît. | I’d like some water, please. | zhuh voo-DREH duh LOH seel voo PLEH
+example: Je voudrais de l'eau, s'il vous plaît. | I’d like some water, please.
+vocab: Nous pouvons commander maintenant. | We can order now. | noo poo-VOHN koh-mahn-DAY man-tuh-NAHN
+example: Nous pouvons commander maintenant. | We can order now.
+
+[grammar]
+grammar: Je prends to order | In French, je prends (literally, “I take”) is a natural way to say what you’ll have when ordering. The verb prendre is irregular: je prends, while nous takes the form prenons.
+example: Je prends le poisson avec du riz. | I’ll have fish with rice.
+example: Je prends une salade aussi. | I’ll have a salad too.
+
+[quiz]
+quiz: What does Marinette choose to eat? | Fish with rice | Pasta with cheese | A cake | A | She says, “Je prends le poisson avec du riz.”
+quiz: What does Adrien ask for to drink? | Water | Tea | Juice | A | Adrien politely asks for water.
+quiz: What does “Tu veux manger ici ?” mean? | please | Do you want to eat here? | I’ll have fish with rice. | B | Tu veux manger ici ? means “Do you want to eat here?”.
+quiz: What does “Nous pouvons commander maintenant.” mean? | I prefer pasta with cheese. | Do you want to go to the concert tomorrow? | We can order now. | C | Nous pouvons commander maintenant. means “We can order now.”.
