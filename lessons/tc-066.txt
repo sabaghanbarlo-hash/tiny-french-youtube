@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 66 · Working on a Project
+episode: TC-066
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Nous pouvons faire un plan ensemble. | Hello, Marinette. We can make a plan together.
+Marinette: Bonjour, Adrien. Oui, je veux bien. | Hello, Adrien. Yes, I’d be happy to.
+Adrien: Où pouvons-nous travailler ? | Where can we work?
+Marinette: Dans la classe, après le cours. | In the classroom, after class.
+Adrien: D'accord. Tu peux préparer un plan ? | Okay. Can you prepare a plan?
+Marinette: Oui, et tu peux écrire un message ? | Yes, and can you write a message?
+Adrien: Bien sûr. Nous pouvons commencer maintenant. | Of course. We can start now.
+Marinette: Merci ! Je suis prête. | Thanks! I’m ready.
+Adrien: Alors, au travail ! | Then, let’s get to work!
+
+[vocab]
+vocab: Bonjour, Marinette. | Hello, Marinette. | bohn-ZHOOR mah-ree-NET
+example: Bonjour, Adrien. | Hello, Adrien.
+vocab: Je veux bien. | I’d be happy to. | zhuh vuh BYEHN
+example: Oui, je veux bien. | Yes, I’d be happy to.
+vocab: Où pouvons-nous travailler ? | Where can we work? | oo poo-vohn-NOO trah-vah-YAY
+example: Où pouvons-nous travailler ? | Where can we work?
+vocab: Dans la classe, après le cours. | In the classroom, after class. | dahn lah KLASS, ah-preh luh KOOR
+example: Nous sommes dans la classe. | We are in the classroom.
+vocab: Bien sûr. | Of course. | byehn SOOR
+example: Bien sûr, nous pouvons commencer. | Of course, we can start.
+
+[grammar]
+grammar: Pouvoir + infinitive | Use a form of pouvoir followed by an infinitive to say that someone can do something. In a question, « Tu peux… ? » informally asks whether someone can do a task.
+example: Tu peux préparer un plan ? | Can you prepare a plan?
+example: Nous pouvons commencer maintenant. | We can start now.
+
+[quiz]
+quiz: Where do Adrien and Marinette plan to work? | Dans la classe | Dans la maison | Dans le magasin | A | Marinette says they can work in the classroom.
+quiz: What does Adrien ask Marinette to prepare? | Un plan | Un repas | Un message | A | Adrien asks, « Tu peux préparer un plan ? »
+quiz: What does “Dans la classe, après le cours.” mean? | Hello, Marinette. | I prefer a funny film. | In the classroom, after class. | C | Dans la classe, après le cours. means “In the classroom, after class.”.
+quiz: What does “Où pouvons-nous travailler ?” mean? | Where can we work? | I’d be happy to. | My name is Adrien. | A | Où pouvons-nous travailler ? means “Where can we work?”.
