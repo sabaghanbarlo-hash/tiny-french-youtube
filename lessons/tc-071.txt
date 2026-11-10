@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 71 · Making a Doctor’s Appointment
+episode: TC-071
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais un rendez-vous avec le médecin, s'il vous plaît. | Hello, I’d like an appointment with the doctor, please.
+Marinette: Bonjour. Vous voulez un rendez-vous aujourd'hui ? | Hello. Would you like an appointment today?
+Adrien: Non, je voudrais voir le médecin demain. | No, I’d like to see the doctor tomorrow.
+Marinette: D'accord. Vous pouvez venir demain matin ? | All right. Can you come tomorrow morning?
+Adrien: Oui, demain matin, s'il vous plaît. | Yes, tomorrow morning, please.
+Marinette: À neuf heures. Vous avez de la fièvre ? | At nine o’clock. Do you have a fever?
+Adrien: Non, mais j'ai mal à la gorge. | No, but I have a sore throat.
+Marinette: D'accord. Le nom, s'il vous plaît ? | All right. Your name, please?
+Adrien: Adrien. Merci, au revoir. | Adrien. Thank you, goodbye.
+
+[vocab]
+vocab: Je voudrais un rendez-vous avec le médecin, s'il vous plaît. | I’d like an appointment with the doctor, please. | zhuh voo-dreh uhn rahn-day-VOO ah-VEK luh mayd-SAN, seel voo PLEH
+example: Je voudrais un rendez-vous avec le médecin, s'il vous plaît. | I’d like an appointment with the doctor, please.
+vocab: Vous pouvez venir demain matin ? | Can you come tomorrow morning? | voo poo-VAY vuh-NEER duh-MAN mah-TAN
+example: Vous pouvez venir demain matin ? | Can you come tomorrow morning?
+vocab: À neuf heures, s'il vous plaît. | At nine o’clock, please. | ah nuh-VUHR, seel voo PLEH
+example: À neuf heures, s'il vous plaît. | At nine o’clock, please.
+vocab: Vous avez de la fièvre ? | Do you have a fever? | voo zah-VAY duh lah FYEH-vruh
+example: Vous avez de la fièvre ? | Do you have a fever?
+vocab: J'ai mal à la gorge. | I have a sore throat. | zhay MAL ah lah GORZH
+example: J'ai mal à la gorge. | I have a sore throat.
+
+[grammar]
+grammar: Je voudrais + infinitive | Use je voudrais, meaning “I would like,” to make a polite request. It can be followed by a noun, as in je voudrais un rendez-vous, or by an infinitive. When a verb follows voudrais, it stays in its infinitive form.
+example: Je voudrais un rendez-vous avec le médecin. | I’d like an appointment with the doctor.
+example: Je voudrais voir le médecin demain. | I’d like to see the doctor tomorrow.
+
+[quiz]
+quiz: When does Adrien want to see the doctor? | Today | Tomorrow | Yesterday | B | Adrien says, « Je voudrais voir le médecin demain. »
+quiz: What symptom does Adrien mention? | A fever | A sore throat | A cough | B | He says, « J'ai mal à la gorge. »
+quiz: What does “Vous pouvez venir demain matin ?” mean? | Can you bring a ball? | Can you set the table? | Can you come tomorrow morning? | C | Vous pouvez venir demain matin ? means “Can you come tomorrow morning?”.
+quiz: What does “J'ai mal à la gorge.” mean? | I have a sore throat. | Can you lend me one? | I would like to return the T-shirt, please. | A | J'ai mal à la gorge. means “I have a sore throat.”.
