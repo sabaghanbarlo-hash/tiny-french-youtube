@@ -1,0 +1,44 @@
+1
+00:00:14,640 --> 00:00:18,164
+Bonjour, je m'appelle Adrien.
+Hello, my name is Adrien.
+
+2
+00:00:18,264 --> 00:00:22,244
+Bonjour, je m'appelle Marinette.
+Hello, my name is Marinette.
+
+3
+00:00:22,344 --> 00:00:27,788
+Enchanté, Marinette. Vous attendez aussi ?
+Nice to meet you, Marinette. Are you waiting too?
+
+4
+00:00:27,888 --> 00:00:30,572
+Oui, et vous ?
+Yes, and you?
+
+5
+00:00:30,672 --> 00:00:35,036
+Oui. Vous habitez dans la ville ?
+Yes. Do you live in the city?
+
+6
+00:00:35,136 --> 00:00:39,956
+Oui, j'habite ici. Et vous ?
+Yes, I live here. And you?
+
+7
+00:00:40,056 --> 00:00:44,612
+Moi aussi. Je viens souvent ici.
+Me too. I come here often.
+
+8
+00:00:44,712 --> 00:00:47,924
+Vous êtes très sympathique.
+You are very nice.
+
+9
+00:00:48,024 --> 00:00:51,140
+Merci, vous aussi.
+Thank you, you too.

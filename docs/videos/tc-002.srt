@@ -1,0 +1,44 @@
+1
+00:00:13,896 --> 00:00:17,876
+Bonjour, vous êtes ma nouvelle voisine ?
+Hello, are you my new neighbor?
+
+2
+00:00:17,976 --> 00:00:23,252
+Bonjour ! Oui, je suis Marinette.
+Hello! Yes, I’m Marinette.
+
+3
+00:00:23,352 --> 00:00:26,876
+Enchanté, je suis Adrien.
+Nice to meet you, I’m Adrien.
+
+4
+00:00:26,976 --> 00:00:31,748
+Enchantée ! Vous habitez ici ?
+Nice to meet you! Do you live here?
+
+5
+00:00:31,848 --> 00:00:36,092
+Oui, dans cet immeuble, au même étage.
+Yes, in this building, on the same floor.
+
+6
+00:00:36,192 --> 00:00:39,380
+Vous voulez que je vous aide ?
+Do you want me to help you?
+
+7
+00:00:39,480 --> 00:00:42,860
+Merci, c'est très gentil.
+Thank you, that’s very kind.
+
+8
+00:00:42,960 --> 00:00:46,676
+Vous voulez prendre un café avec moi ?
+Would you like to have a coffee with me?
+
+9
+00:00:46,776 --> 00:00:51,380
+Oui, volontiers ! À bientôt !
+Yes, gladly! See you soon!

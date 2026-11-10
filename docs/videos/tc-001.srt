@@ -1,0 +1,44 @@
+1
+00:00:14,112 --> 00:00:19,124
+Bonjour, je m'appelle Adrien. Et vous ?
+Hello, my name is Adrien. And you?
+
+2
+00:00:19,224 --> 00:00:24,980
+Bonjour, je m'appelle Marinette. Enchantée.
+Hello, my name is Marinette. Nice to meet you.
+
+3
+00:00:25,080 --> 00:00:28,148
+Vous habitez dans le quartier ?
+Do you live in the neighborhood?
+
+4
+00:00:28,248 --> 00:00:32,660
+Oui, j'habite ici, près du parc.
+Yes, I live here, near the park.
+
+5
+00:00:32,760 --> 00:00:35,924
+Vous venez souvent à la fête ?
+Do you often come to the party?
+
+6
+00:00:36,024 --> 00:00:40,532
+Je viens aujourd'hui. Et vous ?
+I'm coming today. And you?
+
+7
+00:00:40,632 --> 00:00:45,932
+Je viens aussi aujourd'hui. Vous connaissez des voisins ?
+I'm coming today too. Do you know any neighbors?
+
+8
+00:00:46,032 --> 00:00:49,556
+Mais je veux rencontrer des voisins.
+But I want to meet some neighbors.
+
+9
+00:00:49,656 --> 00:00:54,788
+Alors, parlons ensemble. Enchanté !
+Then let's talk together. Nice to meet you!

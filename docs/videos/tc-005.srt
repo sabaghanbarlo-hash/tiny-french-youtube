@@ -1,0 +1,44 @@
+1
+00:00:14,808 --> 00:00:20,300
+Bonjour, je m'appelle Adrien. Tu parles français ?
+Hello, my name is Adrien. Do you speak French?
+
+2
+00:00:20,400 --> 00:00:27,956
+Bonjour, Adrien. Oui, je parle français. Et toi ?
+Hello, Adrien. Yes, I speak French. And you?
+
+3
+00:00:28,056 --> 00:00:30,764
+Je parle français.
+I speak French.
+
+4
+00:00:30,864 --> 00:00:34,076
+Tu veux pratiquer avec moi ?
+Would you like to practice with me?
+
+5
+00:00:34,176 --> 00:00:39,908
+Oui, avec plaisir. Nous parlons français maintenant ?
+Yes, gladly. Shall we speak French now?
+
+6
+00:00:40,008 --> 00:00:45,404
+D'accord. Tu peux répéter, s'il te plaît ?
+All right. Can you repeat, please?
+
+7
+00:00:45,504 --> 00:00:50,564
+Oui, bien sûr. Je peux répéter.
+Yes, of course. I can repeat.
+
+8
+00:00:50,664 --> 00:00:56,852
+Merci, Adrien. Je veux aussi apprendre avec toi.
+Thank you, Adrien. I also want to learn with you.
+
+9
+00:00:56,952 --> 00:01:02,348
+Avec plaisir. À bientôt, Marinette !
+Gladly. See you soon, Marinette!

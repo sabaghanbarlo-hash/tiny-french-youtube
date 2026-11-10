@@ -1,0 +1,44 @@
+1
+00:00:14,832 --> 00:00:20,588
+Bonjour, pardon. Où est la gare, s'il vous plaît ?
+Hello, excuse me. Where is the train station, please?
+
+2
+00:00:20,688 --> 00:00:28,316
+Bonjour. Allez tout droit. Au carrefour, tournez à gauche.
+Hello. Go straight. At the intersection, turn left.
+
+3
+00:00:28,416 --> 00:00:31,316
+La gare est loin d'ici ?
+Is the train station far from here?
+
+4
+00:00:31,416 --> 00:00:34,580
+Non, elle est près du pont.
+No, it's near the bridge.
+
+5
+00:00:34,680 --> 00:00:37,388
+Je peux aller à pied ?
+Can I go on foot?
+
+6
+00:00:37,488 --> 00:00:40,220
+Oui, c'est près.
+Yes, it's nearby.
+
+7
+00:00:40,320 --> 00:00:43,724
+Et au carrefour, à gauche ?
+And at the intersection, to the left?
+
+8
+00:00:43,824 --> 00:00:48,596
+Oui, à gauche. La gare est là.
+Yes, to the left. The train station is there.
+
+9
+00:00:48,696 --> 00:00:53,132
+Merci beaucoup. Au revoir !
+Thank you very much. Goodbye!

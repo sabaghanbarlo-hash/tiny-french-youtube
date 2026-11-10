@@ -1,0 +1,44 @@
+1
+00:00:14,376 --> 00:00:18,524
+Bonjour Marinette, tu es dans la classe ?
+Hello, Marinette. Are you in the classroom?
+
+2
+00:00:18,624 --> 00:00:22,340
+Oui, et nous sommes dans la classe.
+Yes, and we're in the classroom.
+
+3
+00:00:22,440 --> 00:00:26,204
+Tu veux me donner le numéro de téléphone ?
+Would you like to give me the phone number?
+
+4
+00:00:26,304 --> 00:00:33,212
+Oui, bien sûr. Un, deux, trois, quatre, cinq.
+Yes, of course. One, two, three, four, five.
+
+5
+00:00:33,312 --> 00:00:37,196
+Merci. Et après ?
+Thanks. And then?
+
+6
+00:00:37,296 --> 00:00:41,372
+Six, sept, huit, neuf.
+Six, seven, eight, nine.
+
+7
+00:00:41,472 --> 00:00:49,532
+Je donne le numéro : neuf, huit, sept, six, cinq, quatre, trois, deux, un.
+I'll give the number: nine, eight, seven, six, five, four, three, two, one.
+
+8
+00:00:49,632 --> 00:00:52,892
+D'accord, je l'écris.
+Okay, I'll write it down.
+
+9
+00:00:52,992 --> 00:00:56,060
+Merci, à bientôt !
+Thanks, see you soon!

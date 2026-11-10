@@ -1,0 +1,44 @@
+1
+00:00:14,352 --> 00:00:19,580
+Au revoir, Marinette. Enchanté.
+Goodbye, Marinette. Nice to meet you.
+
+2
+00:00:19,680 --> 00:00:24,668
+Au revoir, Adrien. Enchantée.
+Goodbye, Adrien. Nice to meet you.
+
+3
+00:00:24,768 --> 00:00:28,436
+C'était un plaisir de parler avec vous.
+It was a pleasure talking with you.
+
+4
+00:00:28,536 --> 00:00:32,228
+Merci, c'était un plaisir.
+Thank you, it was a pleasure.
+
+5
+00:00:32,328 --> 00:00:35,636
+Vous rentrez à la maison maintenant ?
+Are you going home now?
+
+6
+00:00:35,736 --> 00:00:39,212
+Oui, je rentre à la maison.
+Yes, I’m going home.
+
+7
+00:00:39,312 --> 00:00:42,404
+À bientôt, alors.
+See you soon, then.
+
+8
+00:00:42,504 --> 00:00:45,668
+À demain, peut-être.
+See you tomorrow, maybe.
+
+9
+00:00:45,768 --> 00:00:49,316
+Bonne journée, Marinette.
+Have a nice day, Marinette.

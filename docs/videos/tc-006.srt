@@ -1,0 +1,44 @@
+1
+00:00:14,664 --> 00:00:20,468
+Bonjour, madame. Je suis nouveau dans la classe.
+Hello, ma’am. I’m new in the class.
+
+2
+00:00:20,568 --> 00:00:26,468
+Bonjour, Adrien. Bienvenue au cours de français.
+Hello, Adrien. Welcome to French class.
+
+3
+00:00:26,568 --> 00:00:29,324
+Vous êtes professeur ?
+Are you a teacher?
+
+4
+00:00:29,424 --> 00:00:35,108
+Oui, je suis professeur. Comment vous appelez-vous ?
+Yes, I’m a teacher. What is your name?
+
+5
+00:00:35,208 --> 00:00:39,404
+Je m’appelle Adrien. Et vous ?
+My name is Adrien. And you?
+
+6
+00:00:39,504 --> 00:00:44,444
+Je m’appelle Marinette. Enchantée.
+My name is Marinette. Pleased to meet you.
+
+7
+00:00:44,544 --> 00:00:48,068
+Où est mon cahier, s’il vous plaît ?
+Where is my notebook, please?
+
+8
+00:00:48,168 --> 00:00:52,004
+Il est sur la table, près du livre.
+It’s on the table, near the book.
+
+9
+00:00:52,104 --> 00:00:57,692
+Merci, madame. Je suis prêt pour le cours.
+Thank you, ma’am. I’m ready for class.

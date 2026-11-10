@@ -1,0 +1,44 @@
+1
+00:00:14,112 --> 00:00:18,140
+Bonjour, tu es nouvelle dans la classe ?
+Hello, are you new in the class?
+
+2
+00:00:18,240 --> 00:00:23,156
+Oui, je suis nouvelle. Et toi ?
+Yes, I’m new. And you?
+
+3
+00:00:23,256 --> 00:00:27,644
+Je m'appelle Adrien. Tu viens d'où ?
+My name is Adrien. Where are you from?
+
+4
+00:00:27,744 --> 00:00:32,180
+Je viens de France. Et toi ?
+I’m from France. And you?
+
+5
+00:00:32,280 --> 00:00:35,444
+Je viens d'un petit village.
+I’m from a small village.
+
+6
+00:00:35,544 --> 00:00:38,444
+C'est près de la ville ?
+Is it near the city?
+
+7
+00:00:38,544 --> 00:00:41,900
+Oui, c'est près de la ville.
+Yes, it’s near the city.
+
+8
+00:00:42,000 --> 00:00:46,988
+Enchantée, Adrien. À bientôt !
+Nice to meet you, Adrien. See you soon!
+
+9
+00:00:47,088 --> 00:00:52,244
+Enchanté, Marinette. À bientôt !
+Nice to meet you, Marinette. See you soon!
