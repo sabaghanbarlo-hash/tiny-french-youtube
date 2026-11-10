@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 36 · Buying a Notebook
+episode: TC-036
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais un cahier, s'il vous plaît. | Hello, I would like a notebook, please.
+Marinette: Bonjour. Vous voulez un cahier bleu ou noir ? | Hello. Would you like a blue or black notebook?
+Adrien: Un cahier bleu, s'il vous plaît. Combien coûte le cahier ? | A blue notebook, please. How much does the notebook cost?
+Marinette: Il coûte deux euros. | It costs two euros.
+Adrien: Je peux payer par carte ? | Can I pay by card?
+Marinette: Oui, bien sûr. Vous pouvez payer par carte. | Yes, of course. You can pay by card.
+Adrien: Voilà la carte. Merci beaucoup. | Here's the card. Thank you very much.
+Marinette: Merci. Voici le cahier. | Thank you. Here's the notebook.
+Adrien: Au revoir, bonne journée. | Goodbye, have a nice day.
+
+[vocab]
+vocab: Je voudrais un cahier, s'il vous plaît. | I would like a notebook, please. | zhuh voo-DREH uhn kah-YAY, seel voo PLEH
+example: Je voudrais un livre, s'il vous plaît. | I would like a book, please.
+vocab: Vous voulez un cahier bleu ou noir ? | Would you like a blue or black notebook? | voo voo-LAY uhn kah-YAY bluh oo NWAHR
+example: Vous voulez un livre ? | Would you like a book?
+vocab: Combien coûte le cahier ? | How much does the notebook cost? | kohm-BYEHN koot luh kah-YAY
+example: Combien coûte le livre ? | How much does the book cost?
+vocab: Je peux payer par carte ? | Can I pay by card? | zhuh puh pay-YAY par KART
+example: Je peux payer par carte. | I can pay by card.
+vocab: Au revoir, bonne journée. | Goodbye, have a nice day. | oh ruh-VWAHR, bun zhoor-NAY
+example: Au revoir, merci. | Goodbye, thank you.
+
+[grammar]
+grammar: A polite request with « je voudrais » | « Je voudrais » means “I would like” and makes a request sound polite. Use it before the thing you want.
+example: Je voudrais un cahier, s'il vous plaît. | I would like a notebook, please.
+example: Je voudrais un livre, s'il vous plaît. | I would like a book, please.
+
+[quiz]
+quiz: What color notebook does Adrien choose? | Blue | Black | Red | A | Adrien asks for « un cahier bleu ».
+quiz: How does Adrien want to pay? | By card | With cash | By cheque | A | He asks, « Je peux payer par carte ? »
+quiz: What does “Combien coûte le cahier ?” mean? | This is Marinette, a friend. | Do you like music? | How much does the notebook cost? | C | Combien coûte le cahier ? means “How much does the notebook cost?”.
+quiz: What does “Je voudrais un cahier, s'il vous plaît.” mean? | I would like a notebook, please. | Would you like a blue or black notebook? | I’m ready for class. | A | Je voudrais un cahier, s'il vous plaît. means “I would like a notebook, please.”.
