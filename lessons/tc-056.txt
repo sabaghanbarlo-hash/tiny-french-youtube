@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 56 · Could You Turn It Down?
+episode: TC-056
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. La musique est très forte. | Hello, Marinette. The music is very loud.
+Marinette: Bonjour, Adrien. Pardon, vous entendez la musique ? | Hello, Adrien. Sorry, can you hear the music?
+Adrien: Oui, dans mon appartement, c'est très bruyant. Vous pouvez mettre la musique moins fort, s'il vous plaît ? | Yes, in my apartment, it's very noisy. Can you turn the music down, please?
+Marinette: Pardon. Je peux mettre la musique moins fort. | Sorry. I can turn the music down.
+Adrien: Merci, c'est gentil. Il est tard. | Thank you, that's kind. It's late.
+Marinette: Oui, bien sûr. Je vais mettre la musique moins fort. | Yes, of course. I'll turn the music down.
+Adrien: Merci beaucoup. Je dois me lever tôt demain. | Thank you very much. I have to get up early tomorrow.
+Marinette: D'accord. Je vais faire moins de bruit. | Okay. I'll make less noise.
+Adrien: Merci, bonne nuit. | Thank you, good night.
+
+[vocab]
+vocab: Bonjour, Marinette. | Hello, Marinette. | bohn-ZHOOR mah-ree-NET
+example: Bonjour, Adrien. | Hello, Adrien.
+vocab: Pardon, vous entendez la musique ? | Sorry, can you hear the music? | par-DOHN voo-zahn-tahn-DAY lah myoo-ZEEK
+example: Pardon, vous entendez la musique ? | Sorry, can you hear the music?
+vocab: Je peux mettre la musique moins fort. | I can turn the music down. | zhuh puh MEHTR lah myoo-ZEEK mwan FOR
+example: Je peux mettre la musique moins fort. | I can turn the music down.
+vocab: Je dois me lever tôt demain. | I have to get up early tomorrow. | zhuh dwah muh luh-VAY toh duh-MAN
+example: Je dois me lever tôt demain. | I have to get up early tomorrow.
+vocab: Merci, c'est gentil. | Thank you, that's kind. | mehr-SEE say zhahn-TEE
+example: Merci, c'est gentil. | Thank you, that's kind.
+
+[grammar]
+grammar: Aller + infinitive for the near future | Use aller followed by an infinitive to say what someone is going to do. The form changes with the subject: je vais means “I am going to.”
+example: Je vais mettre la musique moins fort. | I'm going to turn the music down.
+example: Je vais faire moins de bruit. | I'm going to make less noise.
+
+[quiz]
+quiz: Why does Adrien speak to Marinette? | The music is very loud. | He needs a book. | He is looking for the apartment. | A | Adrien says the music is very loud and noisy.
+quiz: What does Marinette agree to do? | Make less noise. | Leave tomorrow. | Call Adrien. | A | She says she will turn down the music and make less noise.
+quiz: What does “Merci, c'est gentil.” mean? | Have a good weekend! | Hello! | Thank you, that's kind. | C | Merci, c'est gentil. means “Thank you, that's kind.”.
+quiz: What does “Je peux mettre la musique moins fort.” mean? | I can turn the music down. | Hello! | Have a good weekend! | A | Je peux mettre la musique moins fort. means “I can turn the music down.”.
