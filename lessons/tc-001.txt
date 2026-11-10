@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 1 · A First Hello
+episode: TC-001
+scene: classroom
+
+[story]
+Adrien: Bonjour, je m'appelle Adrien. Et vous ? | Hello, my name is Adrien. And you?
+Marinette: Bonjour, je m'appelle Marinette. Enchantée. | Hello, my name is Marinette. Nice to meet you.
+Adrien: Vous habitez dans le quartier ? | Do you live in the neighborhood?
+Marinette: Oui, j'habite ici, près du parc. | Yes, I live here, near the park.
+Adrien: Vous venez souvent à la fête ? | Do you often come to the party?
+Marinette: Je viens aujourd'hui. Et vous ? | I'm coming today. And you?
+Adrien: Je viens aussi aujourd'hui. Vous connaissez des voisins ? | I'm coming today too. Do you know any neighbors?
+Marinette: Mais je veux rencontrer des voisins. | But I want to meet some neighbors.
+Adrien: Alors, parlons ensemble. Enchanté ! | Then let's talk together. Nice to meet you!
+
+[vocab]
+vocab: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien. | bohn-ZHOOR, zhuh mah-PELL ah-dree-EHN
+example: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien.
+vocab: Et vous ? | And you? | ay VOO
+example: Bonjour, je m'appelle Marinette. Et vous ? | Hello, my name is Marinette. And you?
+vocab: Vous habitez dans le quartier ? | Do you live in the neighborhood? | voo zah-bee-TAY dahn luh kar-TYAY
+example: Vous habitez dans le quartier ? | Do you live in the neighborhood?
+vocab: Oui, j'habite ici, près du parc. | Yes, I live here, near the park. | wee, zhah-BEET ee-SEE, preh dew PARK
+example: Oui, j'habite ici, près du parc. | Yes, I live here, near the park.
+vocab: Enchantée. | Nice to meet you. (said by a woman) | ahn-shahn-TAY
+example: Bonjour, je m'appelle Marinette. Enchantée. | Hello, my name is Marinette. Nice to meet you.
+
+[grammar]
+grammar: Saying your name with « s'appeler » | Use « Je m'appelle » to say your name. The verb changes to match the subject: « je m'appelle » means “my name is,” while « vous vous appelez » is the formal or plural form meaning “you are called” or, naturally, “your name is.”
+example: Je m'appelle Adrien. | My name is Adrien.
+example: Je m'appelle Marinette. | My name is Marinette.
+
+[quiz]
+quiz: Where does Marinette live? | Here, near the park | At the station | In the mountains | A | She says, « J'habite ici, près du parc. »
+quiz: What does Adrien ask Marinette after they exchange names? | Whether she lives in the neighborhood | Whether she likes the park | Whether she knows his friend | A | He asks, « Vous habitez dans le quartier ? »
+quiz: What does “Vous habitez dans le quartier ?” mean? | Yes, I live here, near the park. | Do you live in the neighborhood? | Are you resting? | B | Vous habitez dans le quartier ? means “Do you live in the neighborhood?”.
+quiz: What does “Bonjour, je m'appelle Adrien.” mean? | Nice to meet you. (said by a woman) | Hello, my name is Adrien. | Are you resting? | B | Bonjour, je m'appelle Adrien. means “Hello, my name is Adrien.”.
