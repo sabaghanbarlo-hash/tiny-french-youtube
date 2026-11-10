@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 88 · Talking About Hobbies
+episode: TC-088
+scene: classroom
+
+[story]
+Adrien: Bonjour, je m'appelle Adrien. Tu aimes le sport ? | Hello, my name is Adrien. Do you like sports?
+Marinette: Bonjour Adrien ! Oui, j'aime le tennis et la musique. | Hello, Adrien! Yes, I like tennis and music.
+Adrien: Moi, j'aime lire et jouer au tennis. | I like reading and playing tennis.
+Marinette: Tu joues souvent ici ? | Do you often play here?
+Adrien: Oui, le samedi. Et toi, tu dessines ? | Yes, on Saturdays. And you, do you draw?
+Marinette: Oui, je dessine parfois et j'écoute la musique. | Yes, I sometimes draw and listen to music.
+Adrien: C'est intéressant ! Tu veux jouer avec moi ? | That's interesting! Do you want to play with me?
+Marinette: Oui, volontiers. Nous pouvons jouer samedi. | Yes, gladly. We can play Saturday.
+Adrien: À samedi, Marinette. Merci ! | See you Saturday, Marinette. Thanks!
+
+[vocab]
+vocab: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien. | bohn-ZHOOR, zhuh mah-PELL ah-dree-EN
+example: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien.
+vocab: Tu aimes le sport ? | Do you like sports? | tyehm luh SPOR
+example: Tu aimes le sport ? | Do you like sports?
+vocab: J'aime lire et jouer au tennis. | I like reading and playing tennis. | zhem LEER ay zhway oh teh-NEES
+example: J'aime lire et jouer au tennis. | I like reading and playing tennis.
+vocab: Tu dessines ? | Do you draw? | tyew deh-SEEN
+example: Et toi, tu dessines ? | And you, do you draw?
+vocab: Oui, volontiers. | Yes, gladly. | wee, voh-lohn-TYEHR
+example: Oui, volontiers. | Yes, gladly.
+
+[grammar]
+grammar: Aimer + an activity | To say that you like doing an activity, use aimer followed by a verb in its infinitive form. For example, j'aime lire means “I like reading.”
+example: J'aime lire. | I like reading.
+example: J'aime jouer au tennis. | I like playing tennis.
+
+[quiz]
+quiz: What does Marinette say she likes? | Tennis and music. | Reading and tennis. | Drawing and sport. | A | She says, “J'aime le tennis et la musique.”
+quiz: When do Adrien and Marinette plan to play? | On Friday. | On Saturday. | Tomorrow morning. | B | They agree to play samedi, meaning Saturday.
+quiz: What does “Bonjour, je m'appelle Adrien.” mean? | Go straight ahead. | Hello, my name is Adrien. | I come from a small village near the mountain. | B | Bonjour, je m'appelle Adrien. means “Hello, my name is Adrien.”.
+quiz: What does “Oui, volontiers.” mean? | Yes, gladly. | Do you like sports? | I come from a small village near the mountain. | A | Oui, volontiers. means “Yes, gladly.”.
