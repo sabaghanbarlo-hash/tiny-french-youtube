@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 19 · Reading the Town Map
+episode: TC-019
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Vous avez la carte de la ville ? | Hello, Marinette. Do you have the town map?
+Marinette: Bonjour, Adrien. Oui, la voici. | Hello, Adrien. Yes, here it is.
+Adrien: Où sommes-nous ? | Where are we?
+Marinette: Nous sommes dans le centre-ville, sur la place. | We are downtown, in the square.
+Adrien: Où est le musée, s'il vous plaît ? | Where is the museum, please?
+Marinette: Il est à gauche, près du pont. | It is on the left, near the bridge.
+Adrien: Pouvons-nous marcher ? | Can we walk?
+Marinette: Oui, allez tout droit, puis tournez à droite. | Yes, go straight ahead, then turn right.
+Adrien: Merci, je comprends ! | Thank you, I understand!
+
+[vocab]
+vocab: Bonjour, Marinette. | Hello, Marinette. | bohn-ZHOOR, mah-ree-NET
+example: Bonjour, Marinette. | Hello, Marinette.
+vocab: Où sommes-nous ? | Where are we? | oo som-NOO
+example: Où sommes-nous ? | Where are we?
+vocab: Où est le musée, s'il vous plaît ? | Where is the museum, please? | oo eh luh myoo-ZAY, seel voo PLEH
+example: Où est le musée, s'il vous plaît ? | Where is the museum, please?
+vocab: Il est à gauche, près du pont. | It is on the left, near the bridge. | eel eh tah GOHSH, preh dew PON
+example: Il est à gauche, près du pont. | It is on the left, near the bridge.
+vocab: Allez tout droit. | Go straight ahead. | ah-LAY too DRWAH
+example: Allez tout droit, puis tournez à droite. | Go straight ahead, then turn right.
+
+[grammar]
+grammar: Describing a location with être | Use être followed by a location phrase to say where someone or something is. Il est means “it is” for a masculine singular place; nous sommes means “we are.”
+example: Il est à gauche. | It is on the left.
+example: Nous sommes dans le centre-ville. | We are downtown.
+
+[quiz]
+quiz: Where is the museum? | On the left, near the bridge. | On the right, near the square. | Straight ahead, near the museum. | A | Marinette says, “Il est à gauche, près du pont.”
+quiz: Where are Adrien and Marinette? | In the town square downtown. | At the museum. | Near the station. | A | Marinette says they are downtown, on the square.
+quiz: What does “Allez tout droit.” mean? | It is on the left, near the bridge. | Go straight ahead. | Can you dry them? | B | Allez tout droit. means “Go straight ahead.”.
+quiz: What does “Où sommes-nous ?” mean? | Where are we? | Do you prefer a funny or serious film? | Go straight ahead. | A | Où sommes-nous ? means “Where are we?”.
