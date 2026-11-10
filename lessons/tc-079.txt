@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 79 · Helping a Lost Child
+episode: TC-079
+scene: classroom
+
+[story]
+Adrien: Bonjour, tu cherches ta mère ? | Hello, are you looking for your mother?
+Marinette: Oui, je ne trouve pas ma mère. | Yes, I can’t find my mother.
+Adrien: Elle est dans le magasin ? | Is she in the store?
+Marinette: Oui, mais je ne la vois pas. | Yes, but I can’t see her.
+Adrien: Comment est-elle ? | What does she look like?
+Marinette: Elle est grande, avec un manteau rouge. | She is tall, with a red coat.
+Adrien: Regardons près de la caisse. | Let’s look near the checkout.
+Marinette: Voilà ma mère ! Merci ! | There’s my mother! Thank you!
+Adrien: De rien. Au revoir ! | You’re welcome. Goodbye!
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, tu cherches ta mère ? | Hello, are you looking for your mother?
+vocab: Je ne trouve pas ma mère. | I can’t find my mother. | zhuh-nuh-troov-pah-mah-MEHR
+example: Oui, je ne trouve pas ma mère. | Yes, I can’t find my mother.
+vocab: Comment est-elle ? | What does she look like? | koh-mahn-eh-TELL
+example: Comment est-elle ? | What does she look like?
+vocab: près de la caisse | near the checkout | preh-duh-lah-KESS
+example: Regardons près de la caisse. | Let’s look near the checkout.
+vocab: De rien. | You’re welcome. | duh-RYEHN
+example: De rien. Au revoir ! | You’re welcome. Goodbye!
+
+[grammar]
+grammar: Making a sentence negative with ne…pas | In French, put ne before the conjugated verb and pas after it to make a sentence negative. In everyday speech, ne is often dropped, but it is included here for clear beginner practice.
+example: Je ne trouve pas ma mère. | I can’t find my mother.
+example: Je ne la vois pas. | I can’t see her.
+
+[quiz]
+quiz: Where does Adrien suggest they look? | Near the checkout | At the house | In the street | A | Adrien says, “Regardons près de la caisse.”
+quiz: What is Marinette’s mother wearing? | A red coat | A blue shirt | A black dress | A | Marinette says her mother has a red coat.
+quiz: What does “Je ne trouve pas ma mère.” mean? | I can’t find my mother. | Hello, Marinette. | How much, please? | A | Je ne trouve pas ma mère. means “I can’t find my mother.”.
+quiz: What does “près de la caisse” mean? | How much, please? | And dessert, please? | near the checkout | C | près de la caisse means “near the checkout”.
