@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 92 · Favorite Foods
+episode: TC-092
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, tu manges pendant la pause ? | Hello, Marinette. Do you eat during the break?
+Marinette: Oui, je prends souvent du pain et du fromage. | Yes, I often have bread and cheese.
+Adrien: Tu aimes aussi les pâtes ? | Do you like pasta too?
+Marinette: Oui, j'aime beaucoup les pâtes. Et tu aimes le riz ? | Yes, I really like pasta. And do you like rice?
+Adrien: J'aime le riz, mais je préfère le poulet. | I like rice, but I prefer chicken.
+Marinette: Tu prends le déjeuner ici, au bureau ? | Do you have lunch here, at the office?
+Adrien: Oui, je mange ici avec les collègues. | Yes, I eat here with my coworkers.
+Marinette: C'est bon. Tu veux du café ? | That's good. Do you want some coffee?
+Adrien: Non, merci. Je préfère l'eau. | No, thank you. I prefer water.
+
+[vocab]
+vocab: Tu manges pendant la pause ? | Do you eat during the break? | tü MAHNZH pahn-DAHN lah POHZ
+example: Tu manges pendant la pause ? | Do you eat during the break?
+vocab: Je prends souvent du pain et du fromage. | I often have bread and cheese. | zhuh prahn soo-VAHN dyu PAHN ay dyu froh-MAHZH
+example: Je prends souvent du pain et du fromage. | I often have bread and cheese.
+vocab: Tu aimes aussi les pâtes ? | Do you like pasta too? | tü EM oh-SEE lay PAHT
+example: Tu aimes aussi les pâtes ? | Do you like pasta too?
+vocab: Je préfère le poulet. | I prefer chicken. | zhuh pray-FEHR luh poo-LEH
+example: Je préfère le poulet. | I prefer chicken.
+vocab: Tu prends le déjeuner ici, au bureau ? | Do you have lunch here, at the office? | tü prahn luh day-zhuh-NAY ee-SEE oh bew-ROH
+example: Tu prends le déjeuner ici, au bureau ? | Do you have lunch here, at the office?
+
+[grammar]
+grammar: Talking about food preferences | Use aimer or préférer with a definite article (le, la, or les) to talk about foods in general. For example, say « J'aime les pâtes » or « Je préfère le poulet ».
+example: J'aime le riz. | I like rice.
+example: Je préfère l'eau. | I prefer water.
+
+[quiz]
+quiz: What does Marinette often have during the break? | Bread and cheese | Rice and chicken | Pasta and coffee | A | She says she often has bread and cheese.
+quiz: What does Adrien prefer? | Chicken | Pasta | Coffee | A | Adrien says he prefers chicken.
+quiz: What does “Tu prends le déjeuner ici, au bureau ?” mean? | I prefer chicken. | Do you have lunch here, at the office? | Can you turn on the TV? | B | Tu prends le déjeuner ici, au bureau ? means “Do you have lunch here, at the office?”.
+quiz: What does “Tu aimes aussi les pâtes ?” mean? | Do you eat during the break? | To the train station, please. | Do you like pasta too? | C | Tu aimes aussi les pâtes ? means “Do you like pasta too?”.
