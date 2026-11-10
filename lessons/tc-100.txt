@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 100 · What Makes a Good Day?
+episode: TC-100
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Tu te promènes aussi ? | Hello, Marinette! Are you out for a walk too?
+Marinette: Bonjour, Adrien ! Oui, le soleil me rend heureuse. | Hello, Adrien! Yes, the sun makes me happy.
+Adrien: Moi, je suis content quand je marche dans le parc. | I’m happy when I walk in the park.
+Marinette: J'aime parler avec ma famille et me promener. | I like talking with my family and going for walks.
+Adrien: Un bon repas avec un ami me rend heureux. | A good meal with a friend makes me happy.
+Marinette: Et toi, qu'est-ce qui te rend heureux ? | And you, what makes you happy?
+Adrien: J'aime le calme, le soleil et marcher dans le parc. | I like the peace, the sunshine, and walking in the park.
+Marinette: Moi aussi ! J'aime marcher et parler avec les gens. | Me too! I like walking and talking with people.
+Adrien: Alors, marchons ensemble. Bonne journée, Marinette ! | Then let’s walk together. Have a nice day, Marinette!
+
+[vocab]
+vocab: Bonjour, Marinette ! | Hello, Marinette! | bohn-ZHOOR, mah-ree-NET
+example: Bonjour, Adrien ! | Hello, Adrien!
+vocab: Tu te promènes aussi ? | Are you out for a walk too? | tew tuh proh-MEN oh-SEE
+example: Tu te promènes aussi ? | Are you out for a walk too?
+vocab: J'aime parler avec ma famille. | I like talking with my family. | zhem par-LAY ah-VEK mah fah-MEE-yuh
+example: J'aime parler avec ma famille et me promener. | I like talking with my family and going for walks.
+vocab: Qu'est-ce qui te rend heureux ? | What makes you happy? | kess-kee tuh rahn uh-RUH
+example: Et toi, qu'est-ce qui te rend heureux ? | And you, what makes you happy?
+vocab: Bonne journée ! | Have a nice day! | bun zhoor-NAY
+example: Bonne journée, Marinette ! | Have a nice day, Marinette!
+
+[grammar]
+grammar: J'aime + infinitive | Use aimer followed by a verb in the infinitive to say that you like doing something. The infinitive stays the same, even when the subject changes.
+example: J'aime parler avec ma famille. | I like talking with my family.
+example: J'aime marcher dans le parc. | I like walking in the park.
+
+[quiz]
+quiz: What makes Marinette happy? | The sunshine | The rain | Her work | A | She says the sun makes her happy.
+quiz: What does Adrien like? | Walking in the park | Working at home | Riding the bus | A | Adrien says he likes walking in the park.
+quiz: What does “Qu'est-ce qui te rend heureux ?” mean? | Thank you very much! | I like talking with my family. | What makes you happy? | C | Qu'est-ce qui te rend heureux ? means “What makes you happy?”.
+quiz: What does “J'aime parler avec ma famille.” mean? | What makes you happy? | I like talking with my family. | You’re welcome. | B | J'aime parler avec ma famille. means “I like talking with my family.”.
