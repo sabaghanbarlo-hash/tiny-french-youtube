@@ -1,0 +1,44 @@
+1
+00:00:15,048 --> 00:00:22,220
+Bonjour, madame. Je cherche un médicament pour la toux, s'il vous plaît.
+Hello, ma’am. I’m looking for cough medicine, please.
+
+2
+00:00:22,320 --> 00:00:27,476
+Bonjour. Vous avez une toux ou de la fièvre ?
+Hello. Do you have a cough or a fever?
+
+3
+00:00:27,576 --> 00:00:31,532
+J'ai une toux, mais je n'ai pas de fièvre.
+I have a cough, but I don’t have a fever.
+
+4
+00:00:31,632 --> 00:00:35,156
+Quand avez-vous commencé à tousser ?
+When did you start coughing?
+
+5
+00:00:35,256 --> 00:00:37,460
+Hier.
+Yesterday.
+
+6
+00:00:37,560 --> 00:00:41,588
+Vous pouvez prendre un médicament avec de l'eau.
+You can take a medicine with water.
+
+7
+00:00:41,688 --> 00:00:44,300
+Comment le prendre ?
+How should I take it?
+
+8
+00:00:44,400 --> 00:00:48,860
+Prenez-le le matin et le soir, s'il vous plaît.
+Take it in the morning and in the evening, please.
+
+9
+00:00:48,960 --> 00:00:53,420
+Merci beaucoup. Au revoir.
+Thank you very much. Goodbye.

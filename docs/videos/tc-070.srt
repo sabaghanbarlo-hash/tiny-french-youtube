@@ -1,0 +1,44 @@
+1
+00:00:14,952 --> 00:00:18,476
+Bonjour, je m'appelle Adrien.
+Hello, my name is Adrien.
+
+2
+00:00:18,576 --> 00:00:27,452
+Bonjour, Adrien. Bienvenue au bureau. Vous êtes ici pour un entretien d'embauche ?
+Hello, Adrien. Welcome to the office. Are you here for a job interview?
+
+3
+00:00:27,552 --> 00:00:31,436
+Oui, je suis ici pour un emploi.
+Yes, I am here for a job.
+
+4
+00:00:31,536 --> 00:00:34,844
+Pourquoi voulez-vous un emploi ?
+Why do you want a job?
+
+5
+00:00:34,944 --> 00:00:38,516
+Je veux travailler dans une entreprise.
+I want to work at a company.
+
+6
+00:00:38,616 --> 00:00:41,972
+Vous avez déjà un emploi ?
+Do you already have a job?
+
+7
+00:00:42,072 --> 00:00:45,164
+Je n'ai pas d'emploi maintenant.
+I don't have a job right now.
+
+8
+00:00:45,264 --> 00:00:48,404
+Vous pouvez commencer quand ?
+When can you start?
+
+9
+00:00:48,504 --> 00:00:52,316
+Je peux commencer demain, merci.
+I can start tomorrow, thank you.

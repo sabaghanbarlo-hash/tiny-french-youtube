@@ -1,0 +1,44 @@
+1
+00:00:15,048 --> 00:00:19,892
+Bonjour. J’ai très mal à la tête.
+Hello. I have a very bad headache.
+
+2
+00:00:19,992 --> 00:00:25,556
+Bonjour. Quand votre mal de tête a-t-il commencé ?
+Hello. When did your headache start?
+
+3
+00:00:25,656 --> 00:00:29,852
+Hier soir, et j’ai encore mal aujourd’hui.
+Yesterday evening, and it still hurts today.
+
+4
+00:00:29,952 --> 00:00:32,660
+Où avez-vous mal ?
+Where does it hurt?
+
+5
+00:00:32,760 --> 00:00:37,676
+À droite. La douleur est très forte.
+On the right. The pain is very strong.
+
+6
+00:00:37,776 --> 00:00:40,796
+Avez-vous de la fièvre ?
+Do you have a fever?
+
+7
+00:00:40,896 --> 00:00:43,700
+Je n’ai pas de fièvre.
+I don’t have a fever.
+
+8
+00:00:43,800 --> 00:00:48,116
+Vous pouvez prendre un médicament et vous reposer.
+You can take some medicine and rest.
+
+9
+00:00:48,216 --> 00:00:52,292
+Merci. D’accord.
+Thank you. Okay.

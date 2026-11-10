@@ -1,0 +1,44 @@
+1
+00:00:14,640 --> 00:00:19,988
+Bonjour, Marinette. Tu es libre demain ?
+Hello, Marinette. Are you free tomorrow?
+
+2
+00:00:20,088 --> 00:00:26,084
+Bonjour, Adrien. Oui, je suis libre demain.
+Hello, Adrien. Yes, I’m free tomorrow.
+
+3
+00:00:26,184 --> 00:00:29,012
+Nous avons une réunion.
+We have a meeting.
+
+4
+00:00:29,112 --> 00:00:31,484
+Quand ?
+When?
+
+5
+00:00:31,584 --> 00:00:36,644
+Demain, à dix heures. Tu peux venir ?
+Tomorrow, at ten. Can you come?
+
+6
+00:00:36,744 --> 00:00:40,556
+Oui, je peux venir à dix heures.
+Yes, I can come at ten.
+
+7
+00:00:40,656 --> 00:00:43,028
+Au bureau ?
+At the office?
+
+8
+00:00:43,128 --> 00:00:47,660
+Oui, au bureau. Merci !
+Yes, at the office. Thank you!
+
+9
+00:00:47,760 --> 00:00:50,828
+À demain, alors.
+See you tomorrow, then.

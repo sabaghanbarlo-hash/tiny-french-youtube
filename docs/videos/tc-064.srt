@@ -1,0 +1,44 @@
+1
+00:00:14,712 --> 00:00:18,572
+Bonjour Marinette, tu as un stylo ?
+Hi Marinette, do you have a pen?
+
+2
+00:00:18,672 --> 00:00:23,468
+Oui, bien sûr. Tu en veux un ?
+Yes, of course. Do you want one?
+
+3
+00:00:23,568 --> 00:00:28,700
+Oui, s'il te plaît. Tu peux m'en prêter un ?
+Yes, please. Can you lend me one?
+
+4
+00:00:28,800 --> 00:00:32,804
+Bien sûr. Voilà.
+Of course. Here you go.
+
+5
+00:00:32,904 --> 00:00:37,580
+Merci. Je te le rends demain matin.
+Thanks. I'll return it tomorrow morning.
+
+6
+00:00:37,680 --> 00:00:42,764
+D'accord. Tu peux le garder aujourd'hui.
+All right. You can keep it today.
+
+7
+00:00:42,864 --> 00:00:46,244
+Merci, c'est très gentil.
+Thanks, that's very kind.
+
+8
+00:00:46,344 --> 00:00:51,908
+Pas de problème. Tu en as besoin pour le travail ?
+No problem. Do you need it for work?
+
+9
+00:00:52,008 --> 00:00:57,068
+Oui, merci. Je le rends demain matin.
+Yes, thanks. I'll return it tomorrow morning.

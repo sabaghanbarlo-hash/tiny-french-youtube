@@ -1,0 +1,44 @@
+1
+00:00:14,712 --> 00:00:19,412
+Bonjour Marinette, je suis nouveau dans l'entreprise.
+Hello, Marinette. I’m new at the company.
+
+2
+00:00:19,512 --> 00:00:24,524
+Bonjour Adrien. Bienvenue au bureau.
+Hello, Adrien. Welcome to the office.
+
+3
+00:00:24,624 --> 00:00:27,860
+Peux-tu m'aider avec une tâche ?
+Can you help me with a task?
+
+4
+00:00:27,960 --> 00:00:34,316
+Oui, bien sûr. Explique le problème, s'il te plaît.
+Yes, of course. Explain the problem, please.
+
+5
+00:00:34,416 --> 00:00:37,820
+Je ne sais pas remplir le document.
+I don’t know how to fill out the document.
+
+6
+00:00:37,920 --> 00:00:44,348
+D'accord. Je peux t'expliquer, puis tu vérifies le document.
+Okay. I can explain it to you, then you check the document.
+
+7
+00:00:44,448 --> 00:00:50,252
+Merci. Tu peux me montrer où signer, s'il te plaît ?
+Thanks. Can you show me where to sign, please?
+
+8
+00:00:50,352 --> 00:00:55,916
+Oui. Signe ici, puis donne-moi le document.
+Yes. Sign here, then give me the document.
+
+9
+00:00:56,016 --> 00:00:59,876
+Merci beaucoup, c'est très utile.
+Thanks a lot, that’s very helpful.

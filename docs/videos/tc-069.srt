@@ -1,0 +1,44 @@
+1
+00:00:15,000 --> 00:00:21,428
+Bonjour, pardon. Où est la classe de français, s'il vous plaît ?
+Hello, excuse me. Where is the French classroom, please?
+
+2
+00:00:21,528 --> 00:00:27,020
+Bonjour. Elle est à gauche, près du bureau.
+Hello. It is on the left, near the office.
+
+3
+00:00:27,120 --> 00:00:29,948
+Je tourne à gauche ?
+Do I turn left?
+
+4
+00:00:30,048 --> 00:00:33,068
+Oui, puis tout droit.
+Yes, then straight ahead.
+
+5
+00:00:33,168 --> 00:00:35,756
+C'est loin d'ici ?
+Is it far from here?
+
+6
+00:00:35,856 --> 00:00:40,988
+Non, c'est près. La porte est ouverte.
+No, it's nearby. The door is open.
+
+7
+00:00:41,088 --> 00:00:43,604
+Je peux entrer ?
+Can I come in?
+
+8
+00:00:43,704 --> 00:00:46,652
+Oui, bien sûr.
+Yes, of course.
+
+9
+00:00:46,752 --> 00:00:50,372
+Merci beaucoup, au revoir.
+Thank you very much, goodbye.
