@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 10 · Exchanging Numbers
+episode: TC-010
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, tu es dans la classe ? | Hello, Marinette. Are you in the classroom?
+Marinette: Oui, et nous sommes dans la classe. | Yes, and we're in the classroom.
+Adrien: Tu veux me donner le numéro de téléphone ? | Would you like to give me the phone number?
+Marinette: Oui, bien sûr. Un, deux, trois, quatre, cinq. | Yes, of course. One, two, three, four, five.
+Adrien: Merci. Et après ? | Thanks. And then?
+Marinette: Six, sept, huit, neuf. | Six, seven, eight, nine.
+Adrien: Je donne le numéro : neuf, huit, sept, six, cinq, quatre, trois, deux, un. | I'll give the number: nine, eight, seven, six, five, four, three, two, one.
+Marinette: D'accord, je l'écris. | Okay, I'll write it down.
+Adrien: Merci, à bientôt ! | Thanks, see you soon!
+
+[vocab]
+vocab: Bonjour Marinette. | Hello, Marinette. | bohn-ZHOOR mah-ree-NET
+example: Bonjour Marinette, tu es dans la classe ? | Hello, Marinette. Are you in the classroom?
+vocab: Tu veux me donner le numéro de téléphone ? | Would you like to give me the phone number? | tyuh vuh muh doh-NAY luh noo-may-ROH duh tay-lay-FOHN
+example: Tu veux me donner le numéro de téléphone ? | Would you like to give me the phone number?
+vocab: Le numéro | The number | luh noo-may-ROH
+example: Je donne le numéro : neuf, huit, sept, six, cinq, quatre, trois, deux, un. | I'll give the number: nine, eight, seven, six, five, four, three, two, one.
+vocab: Et après ? | And then? | ay ah-PRAY
+example: Merci. Et après ? | Thanks. And then?
+vocab: À bientôt ! | See you soon! | ah byehn-TOH
+example: Merci, à bientôt ! | Thanks, see you soon!
+
+[grammar]
+grammar: Tu veux + infinitive | Use tu veux followed by an infinitive to ask someone if they want to do something. The verb after veux stays in its infinitive form.
+example: Tu veux donner le numéro ? | Do you want to give the number?
+example: Tu veux parler ? | Do you want to talk?
+
+[quiz]
+quiz: Where are Adrien and Marinette talking? | In the classroom | At the store | At home | A | Marinette says they are in the classroom.
+quiz: What does Adrien ask Marinette to give? | The phone number | The books | The food | A | He asks her to give him the phone number.
+quiz: What does “Tu veux me donner le numéro de téléphone ?” mean? | The number | Where are you from? | Would you like to give me the phone number? | C | Tu veux me donner le numéro de téléphone ? means “Would you like to give me the phone number?”.
+quiz: What does “Et après ?” mean? | And then? | Do you live here? | Where are you from? | A | Et après ? means “And then?”.
