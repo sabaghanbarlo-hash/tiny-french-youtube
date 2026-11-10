@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 87 · Weekend Plans
+episode: TC-087
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. Tu as un plan pour le week-end ? | Hello, Marinette. Do you have a plan for the weekend?
+Marinette: Bonjour, Adrien. Je vais à la mer samedi. | Hello, Adrien. I’m going to the seaside on Saturday.
+Adrien: Tu pars avec un ami ? | Are you leaving with a friend?
+Marinette: Oui, avec un ami. Nous nageons à la plage. | Yes, with a friend. We’re swimming at the beach.
+Adrien: Moi, je vais au parc avec un copain. | I’m going to the park with a friend.
+Marinette: Tu joues au tennis, ou tu te reposes ? | Are you playing tennis, or are you resting?
+Adrien: Je joue au tennis samedi, puis je me repose dimanche. | I’m playing tennis on Saturday, then I’m resting on Sunday.
+Marinette: Très bien. Bon week-end, Adrien ! | Very good. Have a good weekend, Adrien!
+Adrien: Merci, Marinette. À lundi ! | Thanks, Marinette. See you Monday!
+
+[vocab]
+vocab: Tu as un plan pour le week-end ? | Do you have a plan for the weekend? | tyu ah uhn plahn poor luh week-END
+example: Tu as un plan pour le week-end ? | Do you have a plan for the weekend?
+vocab: Je vais à la mer samedi. | I’m going to the seaside on Saturday. | zhuh vay ah lah mehr sahm-DEE
+example: Je vais à la mer samedi. | I’m going to the seaside on Saturday.
+vocab: Tu pars avec un ami ? | Are you leaving with a friend? | tyu pahr ah-VEHK uhn-nah-MEE
+example: Tu pars avec un ami ? | Are you leaving with a friend?
+vocab: Tu te reposes ? | Are you resting? | tyu tuh ruh-POHZ
+example: Tu te reposes dimanche ? | Are you resting on Sunday?
+vocab: Bon week-end ! | Have a good weekend! | bohn week-END
+example: Bon week-end, Adrien ! | Have a good weekend, Adrien!
+
+[grammar]
+grammar: Aller à a place | Use aller + à to say that you are going to a place. Before a masculine noun with le, à + le becomes au, as in au parc.
+example: Je vais à la mer samedi. | I’m going to the seaside on Saturday.
+example: Je vais au parc avec un copain. | I’m going to the park with a friend.
+
+[quiz]
+quiz: Where is Marinette going on Saturday? | To the seaside | To the park | To the office | A | Marinette says, “Je vais à la mer samedi.”
+quiz: What is Adrien doing on Saturday? | Playing tennis | Swimming at the beach | Resting | A | Adrien says he plays tennis on Saturday and rests on Sunday.
+quiz: What does “Bon week-end !” mean? | Have a good weekend! | We can bring bread, cheese, and apples. | Are you resting? | A | Bon week-end ! means “Have a good weekend!”.
+quiz: What does “Tu as un plan pour le week-end ?” mean? | Where is the station? | Do you want to start? | Do you have a plan for the weekend? | C | Tu as un plan pour le week-end ? means “Do you have a plan for the weekend?”.
