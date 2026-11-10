@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 33 · Paying at the Checkout
+episode: TC-033
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais payer, s'il vous plaît. | Hello, I’d like to pay, please.
+Marinette: Bonjour. Vous payez avec la carte ? | Hello. Are you paying by card?
+Adrien: Oui, avec la carte, s'il vous plaît. | Yes, by card, please.
+Marinette: Le prix est de dix euros. | The price is ten euros.
+Adrien: D'accord. Je peux payer ici ? | Okay. Can I pay here?
+Marinette: Oui, bien sûr. | Yes, of course.
+Adrien: Voilà. | There you go.
+Marinette: Merci. Au revoir ! | Thank you. Goodbye!
+Adrien: Merci, au revoir ! | Thank you, goodbye!
+
+[vocab]
+vocab: Je voudrais payer, s'il vous plaît. | I would like to pay, please. | zhuh voo-DRAY pay-YAY, seel voo PLAY
+example: Je voudrais payer, s'il vous plaît. | I would like to pay, please.
+vocab: Vous payez avec la carte ? | Are you paying by card? | voo pay-YAY ah-VEK lah KART
+example: Vous payez avec la carte ? | Are you paying by card?
+vocab: Le prix est de dix euros. | The price is ten euros. | luh PREE ay duh DEEZ uh-ROH
+example: Le prix est de dix euros. | The price is ten euros.
+vocab: Je peux payer ici ? | Can I pay here? | zhuh puh pay-YAY ee-SEE
+example: Je peux payer ici ? | Can I pay here?
+vocab: Au revoir ! | Goodbye! | oh ruh-VWAHR
+example: Merci, au revoir ! | Thank you, goodbye!
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir followed by an infinitive to ask if you can do something. This pattern makes a polite question; the infinitive stays unchanged.
+example: Je peux payer ici ? | Can I pay here?
+example: Vous pouvez payer ici. | You can pay here.
+
+[quiz]
+quiz: How does Adrien choose to pay? | By card | In cash | With a cheque | A | He says, « avec la carte ».
+quiz: How much is the price? | Eight euros | Ten euros | Nine euros | B | Marinette says, « dix euros ».
+quiz: What does “Le prix est de dix euros.” mean? | I would like to pay, please. | The price is ten euros. | Are you paying by card? | B | Le prix est de dix euros. means “The price is ten euros.”.
+quiz: What does “Je peux payer ici ?” mean? | Where is the bathroom, please? | Can I pay here? | Do you have a plan for the weekend? | B | Je peux payer ici ? means “Can I pay here?”.
