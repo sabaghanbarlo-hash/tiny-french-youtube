@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 60 · Getting Ready for Bed
+episode: TC-060
+scene: classroom
+
+[story]
+Adrien: Il est tard, Marinette. Tu te brosses les dents ? | It’s late, Marinette. Are you brushing your teeth?
+Marinette: Oui, je me brosse les dents maintenant. | Yes, I’m brushing my teeth now.
+Adrien: Et après, tu te couches ? | And after that, are you going to bed?
+Marinette: Oui, mais je veux lire un peu. | Yes, but I want to read a little.
+Adrien: D'accord. Tu peux lire un livre, puis dormir. | All right. You can read a book, then sleep.
+Marinette: Tu viens me dire bonsoir, s'il te plaît ? | Will you come say good night to me, please?
+Adrien: Bien sûr. Je viens dans la chambre. | Of course. I’m coming into the bedroom.
+Marinette: Merci. Tu éteins la lampe ? | Thanks. Will you turn off the lamp?
+Adrien: Oui. Dors bien, Marinette. | Yes. Sleep well, Marinette.
+
+[vocab]
+vocab: Il est tard. | It’s late. | eel eh TAR
+example: Il est tard, je me couche. | It’s late; I’m going to bed.
+vocab: Tu te brosses les dents ? | Are you brushing your teeth? | tyoo tuh bross lay DAHN
+example: Tu te brosses les dents maintenant ? | Are you brushing your teeth now?
+vocab: Je veux lire un peu. | I want to read a little. | zhuh vuh leer uhn PUH
+example: Je veux lire un livre. | I want to read a book.
+vocab: Tu viens me dire bonsoir, s'il te plaît ? | Will you come say good night to me, please? | tyoo vyehn muh deer bon-SWAHR, seel tuh PLEH
+example: Tu viens me dire bonsoir ? | Will you come say good night to me?
+vocab: Dors bien. | Sleep well. | dor BYEHN
+example: Dors bien, Marinette. | Sleep well, Marinette.
+
+[grammar]
+grammar: Reflexive verbs for routines | French often uses a reflexive pronoun with verbs for actions you do to yourself. The pronoun changes with the subject: je me brosse, while tu te couches.
+example: Je me brosse les dents. | I brush my teeth.
+example: Tu te couches ? | Are you going to bed?
+
+[quiz]
+quiz: What does Marinette want to do before sleeping? | Read a little | Go to the store | Eat dinner | A | She says, “Je veux lire un peu.”
+quiz: What does Marinette ask Adrien to turn off? | The lamp | The television | The phone | A | She asks, “Tu éteins la lampe ?”
+quiz: What does “Tu viens me dire bonsoir, s'il te plaît ?” mean? | I want to read a little. | They’re pretty, but a little small. | Will you come say good night to me, please? | C | Tu viens me dire bonsoir, s'il te plaît ? means “Will you come say good night to me, please?”.
+quiz: What does “Dors bien.” mean? | Sleep well. | Would you like some tea? | Will you come say good night to me, please? | A | Dors bien. means “Sleep well.”.
