@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 8 · A Friendly Introduction
+episode: TC-008
+scene: classroom
+
+[story]
+Adrien: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien.
+Marinette: Bonjour, je m'appelle Marinette. | Hello, my name is Marinette.
+Adrien: Enchanté, Marinette. Vous attendez aussi ? | Nice to meet you, Marinette. Are you waiting too?
+Marinette: Oui, et vous ? | Yes, and you?
+Adrien: Oui. Vous habitez dans la ville ? | Yes. Do you live in the city?
+Marinette: Oui, j'habite ici. Et vous ? | Yes, I live here. And you?
+Adrien: Moi aussi. Je viens souvent ici. | Me too. I come here often.
+Marinette: Vous êtes très sympathique. | You are very nice.
+Adrien: Merci, vous aussi. | Thank you, you too.
+
+[vocab]
+vocab: Bonjour. | Hello. | bohn-ZHOOR
+example: Bonjour, je m'appelle Marinette. | Hello, my name is Marinette.
+vocab: Je m'appelle Adrien. | My name is Adrien. | zhuh mah-PELL ah-dree-YEN
+example: Bonjour, je m'appelle Adrien. | Hello, my name is Adrien.
+vocab: Enchanté, Marinette. | Nice to meet you, Marinette. | ahn-shahn-TAY mah-ree-NET
+example: Enchanté, Marinette. | Nice to meet you, Marinette.
+vocab: Vous attendez aussi ? | Are you waiting too? | voo zah-tahn-DAY oh-SEE
+example: Enchanté, Marinette. Vous attendez aussi ? | Nice to meet you, Marinette. Are you waiting too?
+vocab: J'habite ici. | I live here. | zhah-beet ee-SEE
+example: Oui, j'habite ici. | Yes, I live here.
+
+[grammar]
+grammar: Saying your name with « s'appeler » | Use « je m'appelle » to say your name. The verb is reflexive, so « me » becomes « m' » before a vowel.
+example: Je m'appelle Adrien. | My name is Adrien.
+example: Je m'appelle Marinette. | My name is Marinette.
+
+[quiz]
+quiz: Where does Marinette say she lives? | In the city | Near the center | In the country | A | She says, « J'habite ici », after Adrien asks if she lives in the city.
+quiz: What does Adrien say he does often? | He comes here | He works here | He waits here | A | He says, « Je viens souvent ici »—I come here often.
+quiz: What does “Bonjour.” mean? | When would you like to reserve? | Hello. | Is it far from here? | B | Bonjour. means “Hello.”.
+quiz: What does “J'habite ici.” mean? | You can press here. | When would you like to reserve? | I live here. | C | J'habite ici. means “I live here.”.
