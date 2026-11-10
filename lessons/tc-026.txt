@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 26 · Paying the Bill
+episode: TC-026
+scene: classroom
+
+[story]
+Adrien: Pardon, l’addition, s’il vous plaît. | Excuse me, the bill, please.
+Marinette: Oui, l’addition, s’il vous plaît. | Yes, the bill, please.
+Adrien: Vous pouvez apporter l’addition, s’il vous plaît ? | Could you bring the bill, please?
+Marinette: Nous payons ensemble ? | Are we paying together?
+Adrien: Oui, je peux payer avec la carte. | Yes, I can pay by card.
+Marinette: Et moi, je paie avec des espèces. | And I’ll pay in cash.
+Adrien: Le pourboire est compris dans le prix ? | Is the tip included in the price?
+Marinette: Peut-être, je ne sais pas. | Maybe, I don’t know.
+Adrien: Merci, au revoir. | Thank you, goodbye.
+
+[vocab]
+vocab: L’addition, s’il vous plaît. | The bill, please. | lah-dee-SYOHN, seel voo PLEH
+example: Pardon, l’addition, s’il vous plaît. | Excuse me, the bill, please.
+vocab: Vous pouvez apporter l’addition, s’il vous plaît ? | Could you bring the bill, please? | voo poo-VAY-zah-por-TAY lah-dee-SYOHN, seel voo PLEH
+example: Vous pouvez apporter l’addition, s’il vous plaît ? | Could you bring the bill, please?
+vocab: Nous payons ensemble ? | Are we paying together? | noo peh-YOHN ahn-SAHMBL
+example: Nous payons ensemble ? | Are we paying together?
+vocab: Je peux payer avec la carte. | I can pay by card. | zhuh puh pay-YAY ah-VEHK lah KART
+example: Oui, je peux payer avec la carte. | Yes, I can pay by card.
+vocab: Le pourboire est compris dans le prix ? | Is the tip included in the price? | luh poor-BWAR eh kom-PREE dahn luh PREE
+example: Le pourboire est compris dans le prix ? | Is the tip included in the price?
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir followed by an infinitive to ask politely if someone can do something, or to say what you can do. The verb pouvoir changes form, while the next verb stays in the infinitive.
+example: Vous pouvez apporter l’addition, s’il vous plaît ? | Could you bring the bill, please?
+example: Je peux payer avec la carte. | I can pay by card.
+
+[quiz]
+quiz: What does Marinette say about paying? | She can pay by card. | She will pay in cash. | She does not know the price. | B | Marinette says, « je paie avec des espèces »—“I’ll pay in cash.”
+quiz: What does Adrien ask about the tip? | Whether it is included in the price. | Whether it is paid by card. | How much the meal costs. | A | He asks if the tip is included in the price.
+quiz: What does “Le pourboire est compris dans le prix ?” mean? | Is the tip included in the price? | I can pay by card. | Hello | A | Le pourboire est compris dans le prix ? means “Is the tip included in the price?”.
+quiz: What does “L’addition, s’il vous plaît.” mean? | I can pay by card. | The bill, please. | Hello | B | L’addition, s’il vous plaît. means “The bill, please.”.
