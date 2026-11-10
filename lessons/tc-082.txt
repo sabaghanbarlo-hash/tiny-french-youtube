@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 82 · Playing Tennis
+episode: TC-082
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, tu veux jouer au football demain ? | Hi, Marinette. Do you want to play football tomorrow?
+Marinette: Oui, d'accord ! Quand ? | Yes, okay! When?
+Adrien: À trois heures, au parc. | At three o’clock, at the park.
+Marinette: D'accord. Je viens avec un sac. | Okay. I’ll come with a bag.
+Adrien: Tu peux apporter un ballon ? | Can you bring a ball?
+Marinette: Oui, et je prends une bouteille d'eau. | Yes, and I’ll bring a bottle of water.
+Adrien: Très bien ! Nous jouons un match, alors. | Great! Then we’ll play a match.
+Marinette: Ça roule. À demain, Adrien ! | Sounds good. See you tomorrow, Adrien!
+Adrien: Merci, à demain, Marinette ! | Thanks, see you tomorrow, Marinette!
+
+[vocab]
+vocab: Tu veux jouer au football demain ? | Do you want to play football tomorrow? | ty vuh zhoo-AY oh foot-BALL duh-MAN
+example: Tu veux jouer au football demain ? | Do you want to play football tomorrow?
+vocab: Quand ? | When? | KAHN
+example: Quand ? | When?
+vocab: À trois heures, au parc. | At three o’clock, at the park. | ah twah-ZUHR oh PARK
+example: À trois heures, au parc. | At three o’clock, at the park.
+vocab: Tu peux apporter un ballon ? | Can you bring a ball? | ty puh ah-por-TAY uhn bah-LOHN
+example: Tu peux apporter un ballon ? | Can you bring a ball?
+vocab: À demain ! | See you tomorrow! | ah duh-MAN
+example: À demain, Marinette ! | See you tomorrow, Marinette!
+
+[grammar]
+grammar: Using au | Au is a contraction of à + le, meaning “at the” or “to the.” Use it before a masculine singular noun, as in au parc. It also appears in jouer au football, meaning “to play football.”
+example: À trois heures, au parc. | At three o’clock, at the park.
+example: Tu veux jouer au football demain ? | Do you want to play football tomorrow?
+
+[quiz]
+quiz: When do Adrien and Marinette plan to meet? | At two o’clock | At three o’clock | At four o’clock | B | Adrien says, “À trois heures.”
+quiz: What does Marinette agree to bring? | A ball and a bottle of water | A football and a bag | A book and some water | A | Adrien asks her to bring a ball, and she says she’ll bring water.
+quiz: What does “Quand ?” mean? | At three o’clock, at the park. | The tea is very good. | When? | C | Quand ? means “When?”.
+quiz: What does “À demain !” mean? | The tea is very good. | See you tomorrow! | How much, please? | B | À demain ! means “See you tomorrow!”.
