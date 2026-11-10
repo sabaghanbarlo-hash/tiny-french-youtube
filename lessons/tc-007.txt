@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 7 · Meeting the Host
+episode: TC-007
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! | Hello, Marinette!
+Marinette: Bonjour, Adrien ! Bienvenue chez moi. | Hello, Adrien! Welcome to my home.
+Adrien: Merci. Je peux entrer ? | Thank you. May I come in?
+Marinette: Oui, bien sûr. Entrez, s'il vous plaît. | Yes, of course. Come in, please.
+Adrien: Voici un petit cadeau pour vous. | Here is a small gift for you.
+Marinette: Merci, c'est très gentil. | Thank you, that's very kind.
+Adrien: La maison est très belle. | The house is very beautiful.
+Marinette: Vous voulez entrer dans le salon ? | Would you like to come into the living room?
+Adrien: Oui, volontiers. | Yes, gladly.
+
+[vocab]
+vocab: Bonjour ! | Hello! | bohn-ZHOOR
+example: Bonjour, Marinette ! | Hello, Marinette!
+vocab: Bienvenue chez moi. | Welcome to my home. | byehn-vuh-NEW shay MWA
+example: Bienvenue chez moi. | Welcome to my home.
+vocab: Je peux entrer ? | May I come in? | zhuh puh ahn-TRAY
+example: Je peux entrer ? | May I come in?
+vocab: Entrez, s'il vous plaît. | Come in, please. | ahn-TRAY seel voo PLEH
+example: Entrez, s'il vous plaît. | Come in, please.
+vocab: Oui, volontiers. | Yes, gladly. | wee voh-lohn-TYAY
+example: Oui, volontiers. | Yes, gladly.
+
+[grammar]
+grammar: A conjugated verb plus an infinitive | In French, a conjugated verb can be followed directly by an infinitive, with no word for “to.” In the dialogue, pouvoir and vouloir are followed by entrer.
+example: Je peux entrer ? | May I come in?
+example: Vous voulez entrer dans le salon ? | Would you like to come into the living room?
+
+[quiz]
+quiz: What does Adrien ask before coming in? | May I come in? | Where is the house? | Would you like a gift? | A | Adrien asks, “Je peux entrer ?”
+quiz: What does Marinette invite Adrien to do? | Enter the living room | Go to the store | Take a train | A | She asks if he wants to enter the salon.
+quiz: What does “Bonjour !” mean? | Hello! | Come in, please. | May I come in? | A | Bonjour ! means “Hello!”.
+quiz: What does “Oui, volontiers.” mean? | Please let me know. | Yes, gladly. | When does the train leave? | B | Oui, volontiers. means “Yes, gladly.”.
