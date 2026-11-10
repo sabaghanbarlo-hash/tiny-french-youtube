@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 4 · Where Are You From?
+episode: TC-004
+scene: classroom
+
+[story]
+Adrien: Bonjour, tu es nouvelle dans la classe ? | Hello, are you new in the class?
+Marinette: Oui, je suis nouvelle. Et toi ? | Yes, I’m new. And you?
+Adrien: Je m'appelle Adrien. Tu viens d'où ? | My name is Adrien. Where are you from?
+Marinette: Je viens de France. Et toi ? | I’m from France. And you?
+Adrien: Je viens d'un petit village. | I’m from a small village.
+Marinette: C'est près de la ville ? | Is it near the city?
+Adrien: Oui, c'est près de la ville. | Yes, it’s near the city.
+Marinette: Enchantée, Adrien. À bientôt ! | Nice to meet you, Adrien. See you soon!
+Adrien: Enchanté, Marinette. À bientôt ! | Nice to meet you, Marinette. See you soon!
+
+[vocab]
+vocab: Bonjour. | Hello. | bohn-ZHOOR
+example: Bonjour, tu es nouvelle ? | Hello, are you new?
+vocab: Tu viens d'où ? | Where are you from? | tyoo vyen DOO
+example: Tu viens d'où ? | Where are you from?
+vocab: Je viens de France. | I’m from France. | zhuh vyen duh FRAHNS
+example: Je viens de France. | I’m from France.
+vocab: Et toi ? | And you? | ay TWAH
+example: Je viens de France. Et toi ? | I’m from France. And you?
+vocab: À bientôt ! | See you soon! | ah byen-TOH
+example: Enchantée. À bientôt ! | Nice to meet you. See you soon!
+
+[grammar]
+grammar: Using venir de for origin | Use venir de + a place to say where someone is from. The form used with a country depends on the country’s gender and its first sound: for example, de France, du Canada, and d’Italie.
+example: Je viens de France. | I’m from France.
+example: Tu viens d'où ? | Where are you from?
+
+[quiz]
+quiz: Where is Marinette from? | France | A small village | The city | A | Marinette says, “Je viens de France.”
+quiz: Where is Adrien from? | A small village | France | The city | A | Adrien says, “Je viens d'un petit village.”
+quiz: What does “Tu viens d'où ?” mean? | Where are you from? | When are the emergency services arriving? | See you soon! | A | Tu viens d'où ? means “Where are you from?”.
+quiz: What does “Bonjour.” mean? | Hello, ma’am. | Hello. | When are the emergency services arriving? | B | Bonjour. means “Hello.”.
