@@ -1,0 +1,44 @@
+1
+00:00:14,760 --> 00:00:19,844
+Bonjour, je peux essayer les chaussures, s'il vous plaît ?
+Hello, can I try on the shoes, please?
+
+2
+00:00:19,944 --> 00:00:25,124
+Oui, bien sûr. Voici les chaussures.
+Yes, of course. Here are the shoes.
+
+3
+00:00:25,224 --> 00:00:29,900
+Merci. Je peux les essayer ici ?
+Thank you. Can I try them on here?
+
+4
+00:00:30,000 --> 00:00:33,932
+Oui, vous pouvez vous asseoir ici.
+Yes, you can sit down here.
+
+5
+00:00:34,032 --> 00:00:37,916
+Elles sont jolies, mais un peu petites.
+They’re pretty, but a little small.
+
+6
+00:00:38,016 --> 00:00:41,636
+Vous voulez des chaussures plus grandes ?
+Would you like larger shoes?
+
+7
+00:00:41,736 --> 00:00:45,980
+Oui, je préfère les chaussures plus grandes.
+Yes, I prefer the larger shoes.
+
+8
+00:00:46,080 --> 00:00:50,084
+Voilà. Elles sont mieux ?
+Here you are. Are they better?
+
+9
+00:00:50,184 --> 00:00:54,260
+Oui, elles sont parfaites, merci.
+Yes, they’re perfect, thank you.

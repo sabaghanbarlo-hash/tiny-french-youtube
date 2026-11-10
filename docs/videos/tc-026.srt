@@ -1,0 +1,44 @@
+1
+00:00:14,544 --> 00:00:18,668
+Pardon, l’addition, s’il vous plaît.
+Excuse me, the bill, please.
+
+2
+00:00:18,768 --> 00:00:22,748
+Oui, l’addition, s’il vous plaît.
+Yes, the bill, please.
+
+3
+00:00:22,848 --> 00:00:27,140
+Vous pouvez apporter l’addition, s’il vous plaît ?
+Could you bring the bill, please?
+
+4
+00:00:27,240 --> 00:00:30,284
+Nous payons ensemble ?
+Are we paying together?
+
+5
+00:00:30,384 --> 00:00:34,292
+Oui, je peux payer avec la carte.
+Yes, I can pay by card.
+
+6
+00:00:34,392 --> 00:00:38,444
+Et moi, je paie avec des espèces.
+And I’ll pay in cash.
+
+7
+00:00:38,544 --> 00:00:41,948
+Le pourboire est compris dans le prix ?
+Is the tip included in the price?
+
+8
+00:00:42,048 --> 00:00:45,188
+Peut-être, je ne sais pas.
+Maybe, I don’t know.
+
+9
+00:00:45,288 --> 00:00:48,572
+Merci, au revoir.
+Thank you, goodbye.

@@ -1,0 +1,44 @@
+1
+00:00:14,952 --> 00:00:19,052
+Bonjour, le menu, s'il vous plaît.
+Hello, the menu, please.
+
+2
+00:00:19,152 --> 00:00:22,796
+Bonjour, voici le menu.
+Hello, here is the menu.
+
+3
+00:00:22,896 --> 00:00:26,156
+Vous avez un plat avec du poisson ?
+Do you have a dish with fish?
+
+4
+00:00:26,256 --> 00:00:30,404
+Oui, nous avons du poisson et du poulet.
+Yes, we have fish and chicken.
+
+5
+00:00:30,504 --> 00:00:33,668
+Le poisson est-il épicé ?
+Is the fish spicy?
+
+6
+00:00:33,768 --> 00:00:39,020
+Non, il n'est pas épicé. Il est très bon.
+No, it is not spicy. It is very good.
+
+7
+00:00:39,120 --> 00:00:42,620
+Et le dessert, s'il vous plaît ?
+And dessert, please?
+
+8
+00:00:42,720 --> 00:00:46,940
+Un gâteau au chocolat, ou un yaourt.
+A chocolate cake, or a yogurt.
+
+9
+00:00:47,040 --> 00:00:50,564
+Je prends le gâteau, merci.
+I'll have the cake, thank you.

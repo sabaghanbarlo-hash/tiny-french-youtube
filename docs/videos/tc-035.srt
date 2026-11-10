@@ -1,0 +1,44 @@
+1
+00:00:14,664 --> 00:00:19,700
+Bonjour, je cherche un cadeau pour l’anniversaire d’un ami.
+Hello, I’m looking for a gift for a friend’s birthday.
+
+2
+00:00:19,800 --> 00:00:25,484
+Bonjour ! C'est pour un homme, une femme ou un enfant ?
+Hello! Is it for a man, a woman, or a child?
+
+3
+00:00:25,584 --> 00:00:30,044
+C'est pour un homme. Il aime lire.
+It’s for a man. He likes to read.
+
+4
+00:00:30,144 --> 00:00:35,396
+Un livre, alors ? C'est un beau cadeau.
+A book, then? It’s a nice gift.
+
+5
+00:00:35,496 --> 00:00:40,796
+Oui, bonne idée. Il aime aussi le chocolat.
+Yes, good idea. He also likes chocolate.
+
+6
+00:00:40,896 --> 00:00:44,636
+Vous préférez un livre ou du chocolat ?
+Do you prefer a book or chocolate?
+
+7
+00:00:44,736 --> 00:00:50,324
+Un livre, s'il vous plaît. Combien coûte le livre ?
+A book, please. How much does the book cost?
+
+8
+00:00:50,424 --> 00:00:53,612
+Le livre coûte dix euros.
+The book costs ten euros.
+
+9
+00:00:53,712 --> 00:00:56,996
+Merci, au revoir.
+Thank you, goodbye.

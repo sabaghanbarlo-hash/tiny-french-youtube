@@ -1,0 +1,44 @@
+1
+00:00:14,232 --> 00:00:19,484
+Bonjour, Marinette. Vous voulez du thé ?
+Hello, Marinette. Would you like some tea?
+
+2
+00:00:19,584 --> 00:00:24,596
+Oui, merci. C'est très gentil.
+Yes, thank you. That's very kind.
+
+3
+00:00:24,696 --> 00:00:27,764
+Vous voulez du thé avec du lait ?
+Would you like tea with milk?
+
+4
+00:00:27,864 --> 00:00:31,916
+Oui, avec du lait, s'il vous plaît.
+Yes, with milk, please.
+
+5
+00:00:32,016 --> 00:00:36,548
+Bien sûr. Je prépare le thé.
+Of course. I'll prepare the tea.
+
+6
+00:00:36,648 --> 00:00:41,780
+Merci. La cuisine est très agréable.
+Thank you. The kitchen is very pleasant.
+
+7
+00:00:41,880 --> 00:00:44,876
+Vous voulez aussi du sucre ?
+Would you also like sugar?
+
+8
+00:00:44,976 --> 00:00:50,420
+Pas de sucre, merci. Le thé est très bon.
+No sugar, thank you. The tea is very good.
+
+9
+00:00:50,520 --> 00:00:54,668
+Voilà. Le thé est prêt.
+There you are. The tea is ready.

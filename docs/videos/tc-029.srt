@@ -1,0 +1,44 @@
+1
+00:00:15,000 --> 00:00:20,300
+Bonjour, Marinette. Tu veux du café ?
+Hello, Marinette. Do you want coffee?
+
+2
+00:00:20,400 --> 00:00:27,548
+Bonjour, Adrien. Oui, s'il te plaît. Et du pain.
+Hello, Adrien. Yes, please. And some bread.
+
+3
+00:00:27,648 --> 00:00:30,620
+Tu prends aussi un œuf ?
+Are you also having an egg?
+
+4
+00:00:30,720 --> 00:00:36,500
+Oui, merci. Et un verre d'eau, s'il te plaît.
+Yes, thanks. And a glass of water, please.
+
+5
+00:00:36,600 --> 00:00:41,516
+Bien sûr. Tu veux du lait avec le café ?
+Of course. Do you want milk with the coffee?
+
+6
+00:00:41,616 --> 00:00:47,564
+Je ne veux pas de lait, merci. Je préfère le thé.
+I don't want milk, thanks. I prefer tea.
+
+7
+00:00:47,664 --> 00:00:52,628
+D'accord. Je prends du café et du pain.
+All right. I'll have coffee and bread.
+
+8
+00:00:52,728 --> 00:00:56,108
+Nous pouvons commander maintenant ?
+Can we order now?
+
+9
+00:00:56,208 --> 00:01:05,348
+Oui. Bonjour, monsieur. Un café, un thé, du pain et un œuf, s'il vous plaît.
+Yes. Hello, sir. One coffee, one tea, bread, and an egg, please.
