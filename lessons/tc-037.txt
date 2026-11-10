@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 37 · Looking at Jackets
+episode: TC-037
+scene: classroom
+
+[story]
+Adrien: Bonjour, je cherche une veste. | Hello, I’m looking for a jacket.
+Marinette: Bonjour. Vous voulez une veste ou un manteau ? | Hello. Would you like a jacket or a coat?
+Adrien: Une veste, s'il vous plaît. Elle coûte combien ? | A jacket, please. How much does it cost?
+Marinette: Elle coûte cinq euros. | It costs five euros.
+Adrien: C'est cher. Vous avez une veste moins chère ? | That’s expensive. Do you have a less expensive jacket?
+Marinette: Oui. Elle est moins chère et très pratique. | Yes. It’s less expensive and very practical.
+Adrien: Je peux essayer la veste bleue ? | Can I try on the blue jacket?
+Marinette: Bien sûr. Elle est très belle. | Of course. It’s very beautiful.
+Adrien: Merci, mais elle est un peu grande. | Thank you, but it’s a little big.
+
+[vocab]
+vocab: Je cherche une veste. | I’m looking for a jacket. | zhuh shersh ün VEST
+example: Je cherche une veste. | I’m looking for a jacket.
+vocab: Elle coûte combien ? | How much does it cost? | el koot kom-BYAN
+example: Elle coûte combien ? | How much does it cost?
+vocab: Vous avez une veste moins chère ? | Do you have a less expensive jacket? | voo zah-VAY ün vest mwan SHAIR
+example: Vous avez une veste moins chère ? | Do you have a less expensive jacket?
+vocab: Je peux essayer la veste bleue ? | Can I try on the blue jacket? | zhuh puh eh-say-YAY la vest BLUH
+example: Je peux essayer la veste bleue ? | Can I try on the blue jacket?
+vocab: Elle est un peu grande. | It’s a little big. | el eh tun puh GRAND
+example: Elle est un peu grande. | It’s a little big.
+
+[grammar]
+grammar: Elle est + chère | Use elle est followed by an adjective to describe a feminine noun, such as une veste. The adjective usually takes a feminine form, often ending in -e.
+example: Elle est moins chère. | It is less expensive.
+example: Elle est très belle. | It is very beautiful.
+
+[quiz]
+quiz: How much does the jacket cost? | Twenty euros | Five euros | One hundred euros | B | Marinette says, “Elle coûte cinq euros.”
+quiz: What does Adrien think of the jacket after trying it on? | It is a little big. | It is too expensive. | It is very small. | A | Adrien says, “Elle est un peu grande.”
+quiz: What does “Elle est un peu grande.” mean? | It’s a little big. | I’m looking for a jacket. | Would you like to give me the phone number? | A | Elle est un peu grande. means “It’s a little big.”.
+quiz: What does “Je cherche une veste.” mean? | Do you like reading on the train? | Please. | I’m looking for a jacket. | C | Je cherche une veste. means “I’m looking for a jacket.”.
