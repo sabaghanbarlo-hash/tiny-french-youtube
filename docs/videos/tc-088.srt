@@ -1,0 +1,44 @@
+1
+00:00:14,856 --> 00:00:20,372
+Bonjour, je m'appelle Adrien. Tu aimes le sport ?
+Hello, my name is Adrien. Do you like sports?
+
+2
+00:00:20,472 --> 00:00:26,564
+Bonjour Adrien ! Oui, j'aime le tennis et la musique.
+Hello, Adrien! Yes, I like tennis and music.
+
+3
+00:00:26,664 --> 00:00:30,692
+Moi, j'aime lire et jouer au tennis.
+I like reading and playing tennis.
+
+4
+00:00:30,792 --> 00:00:33,740
+Tu joues souvent ici ?
+Do you often play here?
+
+5
+00:00:33,840 --> 00:00:39,332
+Oui, le samedi. Et toi, tu dessines ?
+Yes, on Saturdays. And you, do you draw?
+
+6
+00:00:39,432 --> 00:00:44,060
+Oui, je dessine parfois et j'écoute la musique.
+Yes, I sometimes draw and listen to music.
+
+7
+00:00:44,160 --> 00:00:49,028
+C'est intéressant ! Tu veux jouer avec moi ?
+That's interesting! Do you want to play with me?
+
+8
+00:00:49,128 --> 00:00:54,788
+Oui, volontiers. Nous pouvons jouer samedi.
+Yes, gladly. We can play Saturday.
+
+9
+00:00:54,888 --> 00:00:59,900
+À samedi, Marinette. Merci !
+See you Saturday, Marinette. Thanks!

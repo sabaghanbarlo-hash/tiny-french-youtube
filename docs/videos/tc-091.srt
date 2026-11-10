@@ -1,0 +1,44 @@
+1
+00:00:14,904 --> 00:00:20,396
+Bonjour, Marinette. Il fait beau aujourd'hui ?
+Hello, Marinette. Is it nice out today?
+
+2
+00:00:20,496 --> 00:00:26,372
+Bonjour, Adrien. Oui, mais il y a du vent.
+Hello, Adrien. Yes, but it's windy.
+
+3
+00:00:26,472 --> 00:00:29,492
+Vous attendez le bus aussi ?
+Are you waiting for the bus too?
+
+4
+00:00:29,592 --> 00:00:33,884
+Oui, et je pense qu'il va pleuvoir bientôt.
+Yes, and I think it's going to rain soon.
+
+5
+00:00:33,984 --> 00:00:36,572
+Vous aimez la pluie ?
+Do you like the rain?
+
+6
+00:00:36,672 --> 00:00:41,516
+Pas vraiment. Je préfère le soleil.
+Not really. I prefer sunshine.
+
+7
+00:00:41,616 --> 00:00:45,524
+Oui, le soleil est très agréable.
+Yes, sunshine is very pleasant.
+
+8
+00:00:45,624 --> 00:00:49,076
+Mais le temps change vite ici.
+But the weather changes quickly here.
+
+9
+00:00:49,176 --> 00:00:53,108
+Alors, nous prenons le bus ensemble ?
+So, shall we take the bus together?

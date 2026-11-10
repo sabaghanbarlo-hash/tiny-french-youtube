@@ -1,0 +1,44 @@
+1
+00:00:14,856 --> 00:00:20,300
+Bonjour, Marinette. Que veux-tu apprendre ?
+Hello, Marinette. What do you want to learn?
+
+2
+00:00:20,400 --> 00:00:26,324
+Bonjour, Adrien. Je veux apprendre le français.
+Hello, Adrien. I want to learn French.
+
+3
+00:00:26,424 --> 00:00:30,188
+Je veux aussi apprendre à parler français.
+I also want to learn to speak French.
+
+4
+00:00:30,288 --> 00:00:35,468
+C'est bien. Tu veux apprendre avec un livre ?
+That's good. Do you want to learn with a book?
+
+5
+00:00:35,568 --> 00:00:39,116
+Mais je veux apprendre dans la classe.
+But I want to learn in the classroom.
+
+6
+00:00:39,216 --> 00:00:42,788
+Tu veux aussi apprendre à écrire ?
+Do you also want to learn to write?
+
+7
+00:00:42,888 --> 00:00:46,364
+Oui, et je veux lire un livre.
+Yes, and I want to read a book.
+
+8
+00:00:46,464 --> 00:00:51,716
+Très bien ! Nous pouvons étudier ensemble.
+Very good! We can study together.
+
+9
+00:00:51,816 --> 00:00:56,756
+Merci, Marinette. À demain !
+Thanks, Marinette. See you tomorrow!

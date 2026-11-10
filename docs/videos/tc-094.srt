@@ -1,0 +1,44 @@
+1
+00:00:14,640 --> 00:00:20,252
+Bonjour, Marinette. Tu as vu le film hier ?
+Hello, Marinette. Did you see the film yesterday?
+
+2
+00:00:20,352 --> 00:00:24,236
+Oui, je l’ai vu avec une copine.
+Yes, I saw it with a friend.
+
+3
+00:00:24,336 --> 00:00:27,164
+Tu as aimé le film ?
+Did you like the film?
+
+4
+00:00:27,264 --> 00:00:32,708
+Oui, beaucoup. Le film est vraiment drôle.
+Yes, a lot. The film is really funny.
+
+5
+00:00:32,808 --> 00:00:37,292
+Moi aussi. L’acteur est très bon.
+Me too. The actor is very good.
+
+6
+00:00:37,392 --> 00:00:39,932
+Et la musique ?
+And the music?
+
+7
+00:00:40,032 --> 00:00:43,628
+Elle est belle, et le film est très bon.
+It’s beautiful, and the film is very good.
+
+8
+00:00:43,728 --> 00:00:49,004
+D’accord. Tu veux revoir le film avec moi ?
+Okay. Do you want to watch the film again with me?
+
+9
+00:00:49,104 --> 00:00:52,292
+Oui, avec plaisir.
+Yes, gladly.

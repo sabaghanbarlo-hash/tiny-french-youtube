@@ -1,0 +1,44 @@
+1
+00:00:14,952 --> 00:00:18,140
+Bonsoir, vous venez d'où ?
+Good evening, where are you from?
+
+2
+00:00:18,240 --> 00:00:22,916
+Je viens d'une grande ville. Et vous ?
+I come from a big city. And you?
+
+3
+00:00:23,016 --> 00:00:27,500
+Je viens d'un petit village, près de la montagne.
+I come from a small village near the mountain.
+
+4
+00:00:27,600 --> 00:00:32,108
+La ville est bruyante, mais le centre est très beau.
+The city is noisy, but the center is very beautiful.
+
+5
+00:00:32,208 --> 00:00:36,452
+Le village est calme, avec un grand parc.
+The village is quiet, with a big park.
+
+6
+00:00:36,552 --> 00:00:40,244
+Un grand parc est aussi dans la ville.
+A big park is also in the city.
+
+7
+00:00:40,344 --> 00:00:43,004
+Vous aimez la ville ?
+Do you like the city?
+
+8
+00:00:43,104 --> 00:00:47,420
+Oui, beaucoup. Et vous ?
+Yes, very much. And you?
+
+9
+00:00:47,520 --> 00:00:52,436
+Oui, j'aime le village. Merci !
+Yes, I like the village. Thank you!

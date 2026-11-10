@@ -1,0 +1,44 @@
+1
+00:00:14,640 --> 00:00:19,820
+Salut, Marinette ! Tu aimes la musique ?
+Hi, Marinette! Do you like music?
+
+2
+00:00:19,920 --> 00:00:26,228
+Oui, beaucoup ! Et toi, tu écoutes souvent la radio ?
+Yes, a lot! And you, do you often listen to the radio?
+
+3
+00:00:26,328 --> 00:00:31,004
+Oui, j’écoute la radio, surtout le soir.
+Yes, I listen to the radio, especially in the evening.
+
+4
+00:00:31,104 --> 00:00:34,124
+Tu aimes la musique aussi ?
+Do you like music too?
+
+5
+00:00:34,224 --> 00:00:38,972
+Oui, et j’aime chanter. Et toi ?
+Yes, and I like to sing. And you?
+
+6
+00:00:39,072 --> 00:00:43,604
+Moi, j’aime danser, mais je chante peu.
+I like to dance, but I don’t sing much.
+
+7
+00:00:43,704 --> 00:00:46,772
+Tu veux aller au concert demain ?
+Do you want to go to the concert tomorrow?
+
+8
+00:00:46,872 --> 00:00:51,500
+Oui, avec plaisir ! Quand ?
+Yes, gladly! When?
+
+9
+00:00:51,600 --> 00:00:54,908
+À sept heures, si tu veux.
+At seven o’clock, if you like.

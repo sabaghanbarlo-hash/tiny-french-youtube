@@ -1,0 +1,44 @@
+1
+00:00:14,976 --> 00:00:19,268
+Bonjour Marinette, tu as un nouveau portable ?
+Hello, Marinette. Do you have a new phone?
+
+2
+00:00:19,368 --> 00:00:24,548
+Bonjour Adrien. Oui, il est nouveau.
+Hello, Adrien. Yes, it is new.
+
+3
+00:00:24,648 --> 00:00:28,268
+Il est grand, et l’écran est très beau.
+It is big, and the screen is very beautiful.
+
+4
+00:00:28,368 --> 00:00:32,468
+Le portable est petit, mais pratique.
+The phone is small, but practical.
+
+5
+00:00:32,568 --> 00:00:36,236
+Oui, il est petit et très léger.
+Yes, it is small and very light.
+
+6
+00:00:36,336 --> 00:00:40,316
+Tu peux me montrer l’écran, s’il te plaît ?
+Can you show me the screen, please?
+
+7
+00:00:40,416 --> 00:00:44,420
+Oui, regarde : l’écran est plus grand.
+Yes, look: the screen is bigger.
+
+8
+00:00:44,520 --> 00:00:48,836
+Oui, ils sont différents, mais pratiques.
+Yes, they are different, but practical.
+
+9
+00:00:48,936 --> 00:00:52,724
+Oui, les deux sont très pratiques.
+Yes, both are very practical.

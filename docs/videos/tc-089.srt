@@ -1,0 +1,44 @@
+1
+00:00:14,736 --> 00:00:20,492
+Bonjour, Marinette. Il pleut beaucoup aujourd'hui.
+Hello, Marinette. It's raining a lot today.
+
+2
+00:00:20,592 --> 00:00:24,044
+Oui, restons à la maison.
+Yes, let's stay at home.
+
+3
+00:00:24,144 --> 00:00:27,188
+Que veux-tu faire dans le salon ?
+What do you want to do in the living room?
+
+4
+00:00:27,288 --> 00:00:31,580
+Nous pouvons regarder un film ou lire un livre.
+We can watch a film or read a book.
+
+5
+00:00:31,680 --> 00:00:36,308
+Bonne idée. Tu préfères le film ?
+Good idea. Do you prefer the film?
+
+6
+00:00:36,408 --> 00:00:40,292
+Oui, mais préparons du thé aussi.
+Yes, but let's make some tea too.
+
+7
+00:00:40,392 --> 00:00:45,188
+D'accord. Je vais préparer le thé.
+All right. I'm going to make the tea.
+
+8
+00:00:45,288 --> 00:00:50,372
+Merci ! Je prends un livre pour après.
+Thanks! I'll take a book for later.
+
+9
+00:00:50,472 --> 00:00:54,932
+Parfait, alors nous allons regarder le film.
+Perfect, then we're going to watch the film.
