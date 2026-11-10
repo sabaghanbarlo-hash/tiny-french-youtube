@@ -1,0 +1,44 @@
+1
+00:00:14,544 --> 00:00:20,372
+Bonjour, Marinette. Merci pour l'invitation.
+Hello, Marinette. Thank you for the invitation.
+
+2
+00:00:20,472 --> 00:00:26,540
+Bienvenue chez nous, Adrien. Entrez, s'il vous plaît.
+Welcome to our home, Adrien. Come in, please.
+
+3
+00:00:26,640 --> 00:00:31,604
+Merci. Je peux rencontrer la famille ?
+Thank you. May I meet the family?
+
+4
+00:00:31,704 --> 00:00:36,716
+Oui, voici la famille : les parents et la sœur.
+Yes, here is the family: the parents and the sister.
+
+5
+00:00:36,816 --> 00:00:41,300
+Enchanté. Vous êtes très gentils.
+Pleased to meet you. You are very kind.
+
+6
+00:00:41,400 --> 00:00:46,052
+Merci. Vous voulez du thé ou de l'eau ?
+Thank you. Would you like tea or water?
+
+7
+00:00:46,152 --> 00:00:51,692
+De l'eau, s'il vous plaît. La maison est très belle.
+Water, please. The house is very beautiful.
+
+8
+00:00:51,792 --> 00:00:56,852
+Merci. Vous êtes chez nous, maintenant.
+Thank you. You’re at our home now.
+
+9
+00:00:56,952 --> 00:01:01,940
+Merci. Je suis très content d'être ici.
+Thank you. I’m very happy to be here.

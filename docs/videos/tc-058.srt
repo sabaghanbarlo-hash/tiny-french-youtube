@@ -1,0 +1,44 @@
+1
+00:00:14,544 --> 00:00:17,060
+Où est la chose ?
+Where is the thing?
+
+2
+00:00:17,160 --> 00:00:21,740
+Je ne sais pas. Elle est dans le salon ?
+I don’t know. Is it in the living room?
+
+3
+00:00:21,840 --> 00:00:25,388
+Oui, je cherche dans le salon.
+Yes, I’m looking in the living room.
+
+4
+00:00:25,488 --> 00:00:29,660
+Regarde sur la table, s'il te plaît.
+Look on the table, please.
+
+5
+00:00:29,760 --> 00:00:32,852
+Il n’y a rien sur la table.
+There’s nothing on the table.
+
+6
+00:00:32,952 --> 00:00:36,044
+Peut-être sous le coussin ?
+Maybe under the cushion?
+
+7
+00:00:36,144 --> 00:00:39,548
+Ah, je la vois sous le coussin !
+Ah, I see it under the cushion!
+
+8
+00:00:39,648 --> 00:00:44,684
+Voilà ! Tu peux allumer la télévision ?
+There it is! Can you turn on the TV?
+
+9
+00:00:44,784 --> 00:00:47,564
+Oui, merci.
+Yes, thanks.

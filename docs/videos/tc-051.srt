@@ -1,0 +1,44 @@
+1
+00:00:14,784 --> 00:00:19,388
+Bonjour, Marinette, bienvenue chez moi !
+Hello, Marinette, welcome to my home!
+
+2
+00:00:19,488 --> 00:00:24,332
+Bonjour, Adrien ! Merci !
+Hello, Adrien! Thank you!
+
+3
+00:00:24,432 --> 00:00:29,612
+Entre, s'il te plaît. Voici le salon.
+Come in, please. Here is the living room.
+
+4
+00:00:29,712 --> 00:00:34,220
+Merci. Le salon est très beau.
+Thank you. The living room is very beautiful.
+
+5
+00:00:34,320 --> 00:00:36,908
+Tu veux t'asseoir ?
+Would you like to sit down?
+
+6
+00:00:37,008 --> 00:00:40,268
+Oui, avec plaisir.
+Yes, gladly.
+
+7
+00:00:40,368 --> 00:00:43,148
+Tu veux de l'eau ou du thé ?
+Would you like water or tea?
+
+8
+00:00:43,248 --> 00:00:46,388
+De l'eau, s'il te plaît.
+Water, please.
+
+9
+00:00:46,488 --> 00:00:51,644
+Voilà. Le salon est calme et confortable.
+There you go. The living room is quiet and comfortable.
