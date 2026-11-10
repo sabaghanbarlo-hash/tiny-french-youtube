@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 78 · Filling in a Form
+episode: TC-078
+scene: classroom
+
+[story]
+Adrien: Bonjour, je dois remplir un document, s'il vous plaît. | Hello, I need to fill in a document, please.
+Marinette: Bonjour. Bien sûr, je peux vous aider. | Hello. Of course, I can help you.
+Adrien: Où écrire le nom et le numéro ? | Where should I write the name and number?
+Marinette: Écrivez le nom ici, et le numéro là. | Write the name here, and the number there.
+Adrien: Et la date, s'il vous plaît ? | And the date, please?
+Marinette: Écrivez la date ici, puis signez le document. | Write the date here, then sign the document.
+Adrien: Je signe aussi le dossier ? | Do I sign the file too?
+Marinette: Oui, vous signez le document et le dossier. | Yes, you sign the document and the file.
+Adrien: Merci, vous êtes très gentille. | Thank you, you are very kind.
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, je peux vous aider. | Hello, I can help you.
+vocab: Je peux vous aider | I can help you | zhuh puh voo eh-DAY
+example: Je peux vous aider avec le document. | I can help you with the document.
+vocab: Où écrire le nom et le numéro ? | Where should I write the name and number? | oo ay-KREER luh nohm ay luh new-may-ROH
+example: Où écrire le nom et le numéro ? | Where should I write the name and number?
+vocab: S'il vous plaît | Please | seel voo-PLAY
+example: La date, s'il vous plaît. | The date, please.
+vocab: Je signe aussi le dossier ? | Do I sign the file too? | zhuh seen oh-see luh doh-SYAY
+example: Je signe aussi le dossier ? | Do I sign the file too?
+
+[grammar]
+grammar: Polite instructions with vous | To give a polite instruction to one person, French often uses the vous form of the verb. In the dialogue, Écrivez means “write” and signez means “sign.”
+example: Écrivez le nom ici. | Write the name here.
+example: Signez le document. | Sign the document.
+
+[quiz]
+quiz: Where should Adrien write the name? | Here | There | On the document | A | Marinette says, « Écrivez le nom ici. »
+quiz: What does Marinette tell Adrien to sign? | The date | The document | The number | B | She says, « Signez le document. »
+quiz: What does “Où écrire le nom et le numéro ?” mean? | Where is the French classroom, please? | Where should I write the name and number? | Do you want to go to the concert tomorrow? | B | Où écrire le nom et le numéro ? means “Where should I write the name and number?”.
+quiz: What does “S'il vous plaît” mean? | Where should I write the name and number? | Please | Hello | B | S'il vous plaît means “Please”.
