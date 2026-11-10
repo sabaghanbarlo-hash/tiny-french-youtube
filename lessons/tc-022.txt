@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 22 · Buying Bread
+episode: TC-022
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais un pain, s'il vous plaît. | Hello, I would like a loaf of bread, please.
+Marinette: Bonjour. Un pain, oui. | Hello. A loaf of bread, yes.
+Adrien: Il est frais ? | Is it fresh?
+Marinette: Oui, il est frais aujourd'hui. | Yes, it's fresh today.
+Adrien: Combien coûte le pain ? | How much does the bread cost?
+Marinette: Un euro, s'il vous plaît. | One euro, please.
+Adrien: Voilà. Merci beaucoup. | There you are. Thank you very much.
+Marinette: Merci. Bonne journée ! | Thank you. Have a nice day!
+Adrien: Au revoir, madame. | Goodbye, ma'am.
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, Marinette. | Hello, Marinette.
+vocab: Je voudrais un pain, s'il vous plaît. | I would like a loaf of bread, please. | zhuh voo-DREH uhn PAHN, seel voo PLEH
+example: Je voudrais un pain, s'il vous plaît. | I would like a loaf of bread, please.
+vocab: Il est frais ? | Is it fresh? | eel eh FREH
+example: Il est frais aujourd'hui. | It's fresh today.
+vocab: Combien coûte le pain ? | How much does the bread cost? | kohm-BYAN koot luh PAHN
+example: Combien coûte le pain ? | How much does the bread cost?
+vocab: Merci beaucoup. | Thank you very much. | mehr-SEE boh-KOO
+example: Merci beaucoup. | Thank you very much.
+
+[grammar]
+grammar: A polite request with voudrais | Use “Je voudrais” followed by a noun to make a polite request. It means “I would like”; add “s'il vous plaît” to say “please.”
+example: Je voudrais un pain, s'il vous plaît. | I would like a loaf of bread, please.
+example: Je voudrais un livre. | I would like a book.
+
+[quiz]
+quiz: What does Adrien ask for? | A loaf of bread | A coffee | A book | A | Adrien says, “Je voudrais un pain.”
+quiz: How much does the bread cost? | One euro | Two euros | Ten euros | A | Marinette says, “Un euro.”
+quiz: What does “Combien coûte le pain ?” mean? | I would like to send a package, please. | I want to learn French. | How much does the bread cost? | C | Combien coûte le pain ? means “How much does the bread cost?”.
+quiz: What does “Je voudrais un pain, s'il vous plaît.” mean? | Yes, very much. And you? | I would like to send a package, please. | I would like a loaf of bread, please. | C | Je voudrais un pain, s'il vous plaît. means “I would like a loaf of bread, please.”.
