@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 85 · A Birthday Invitation
+episode: TC-085
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Je t'invite à une fête d'anniversaire chez moi samedi. | Hello, Marinette! I’m inviting you to a birthday party at my place on Saturday.
+Marinette: Merci ! Quand commence la fête ? | Thanks! When does the party start?
+Adrien: La fête commence à six heures, chez moi. | The party starts at six, at my place.
+Marinette: Je peux venir avec un cadeau ? | Can I come with a gift?
+Adrien: Oui, bien sûr ! Tu peux apporter un gâteau. | Yes, of course! You can bring a cake.
+Marinette: D'accord, je viens avec un gâteau. | Okay, I’ll come with a cake.
+Adrien: Merci ! Nous allons manger et danser ensemble. | Thanks! We’re going to eat and dance together.
+Marinette: À samedi, Adrien ! Je suis très contente. | See you Saturday, Adrien! I’m very happy.
+Adrien: À samedi, Marinette. Bonne journée ! | See you Saturday, Marinette. Have a nice day!
+
+[vocab]
+vocab: Je t'invite à une fête d'anniversaire. | I’m inviting you to a birthday party. | zhuh tan-VEET ah ewn fet dah-nee-vair-SAIR
+example: Je t'invite à une fête d'anniversaire chez moi samedi. | I’m inviting you to a birthday party at my place on Saturday.
+vocab: Quand commence la fête ? | When does the party start? | kahn koh-mahns lah FET
+example: Quand commence la fête ? | When does the party start?
+vocab: Je peux venir avec un cadeau ? | Can I come with a gift? | zhuh puh vuh-neer ah-vek uhn kah-DOH
+example: Je peux venir avec un cadeau ? | Can I come with a gift?
+vocab: Tu peux apporter un gâteau. | You can bring a cake. | tew puh ah-por-tay uhn gah-TOH
+example: Tu peux apporter un gâteau. | You can bring a cake.
+vocab: Bien sûr ! | Of course! | byeh(n) SEWR
+example: Oui, bien sûr ! Tu peux apporter un gâteau. | Yes, of course! You can bring a cake.
+
+[grammar]
+grammar: Je peux + infinitive | Use pouvoir (to be able to, can) followed by an infinitive to say what someone can do. Je peux means “I can,” and tu peux means “you can.”
+example: Je peux venir avec un cadeau ? | Can I come with a gift?
+example: Tu peux apporter un gâteau. | You can bring a cake.
+
+[quiz]
+quiz: Where is Adrien’s birthday party? | At Adrien’s home | At the school | At the restaurant | A | Adrien says the party is chez moi, meaning at my place.
+quiz: What does Marinette offer to bring? | A cake | A book | A drink | A | She says she will come avec un gâteau, with a cake.
+quiz: What does “Quand commence la fête ?” mean? | I’m inviting you to a birthday party. | Sign here, then give me the document. | When does the party start? | C | Quand commence la fête ? means “When does the party start?”.
+quiz: What does “Bien sûr !” mean? | Thank you very much. | Can I come with a gift? | Of course! | C | Bien sûr ! means “Of course!”.
