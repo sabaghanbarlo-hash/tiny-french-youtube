@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 15 · At the Post Office
+episode: TC-015
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais envoyer un colis, s'il vous plaît. | Hello, I would like to send a package, please.
+Marinette: Bonjour. Où voulez-vous envoyer le colis ? | Hello. Where would you like to send the package?
+Adrien: Pour la France, s'il vous plaît. | To France, please.
+Marinette: Vous pouvez poster le colis ici. | You can post the package here.
+Adrien: Combien, s'il vous plaît ? | How much, please?
+Marinette: Deux euros, s'il vous plaît. | Two euros, please.
+Adrien: Je peux payer avec la carte ? | Can I pay by card?
+Marinette: Oui, bien sûr. | Yes, of course.
+Adrien: Merci, au revoir. | Thank you, goodbye.
+
+[vocab]
+vocab: Bonjour. | Hello. | bohn-ZHOOR
+example: Bonjour, Marinette. | Hello, Marinette.
+vocab: Je voudrais envoyer un colis, s'il vous plaît. | I would like to send a package, please. | zhuh voo-DRAY ahn-vwah-YAY uhn koh-LEE, seel voo PLEH
+example: Je voudrais envoyer un colis, s'il vous plaît. | I would like to send a package, please.
+vocab: Où voulez-vous envoyer le colis ? | Where would you like to send the package? | oo voo-LAY voo ahn-vwah-YAY luh koh-LEE
+example: Où voulez-vous envoyer le colis ? | Where would you like to send the package?
+vocab: Vous pouvez poster le colis ici. | You can post the package here. | voo poo-VAY poh-STAY luh koh-LEE ee-SEE
+example: Vous pouvez poster le colis ici. | You can post the package here.
+vocab: Combien, s'il vous plaît ? | How much, please? | kohm-BYEHN, seel voo PLEH
+example: Combien, s'il vous plaît ? | How much, please?
+
+[grammar]
+grammar: Vouloir + infinitive for polite requests | Use vouloir followed by an infinitive to say what someone wants to do. Je voudrais is the conditional form and a polite way to say “I would like”; voulez-vous literally asks “do you want,” and can be used politely as “would you like.”
+example: Je voudrais envoyer un colis. | I would like to send a package.
+example: Où voulez-vous envoyer le colis ? | Where would you like to send the package?
+
+[quiz]
+quiz: Where does Adrien want to send the package? | To France | To the post office | To the city | A | Adrien says, “Pour la France, s'il vous plaît.”
+quiz: How does Adrien ask to pay? | By card | With euros | By phone | A | He asks, “Je peux payer avec la carte ?”
+quiz: What does “Je voudrais envoyer un colis, s'il vous plaît.” mean? | See you tomorrow! | I would like to send a package, please. | How much, please? | B | Je voudrais envoyer un colis, s'il vous plaît. means “I would like to send a package, please.”.
+quiz: What does “Combien, s'il vous plaît ?” mean? | You can post the package here. | How much, please? | Hello. | B | Combien, s'il vous plaît ? means “How much, please?”.
