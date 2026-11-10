@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 47 · Renting a Car
+episode: TC-047
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais louer une voiture, s'il vous plaît. | Hello, I’d like to rent a car, please.
+Marinette: Bonjour. Vous avez une réservation ? | Hello. Do you have a reservation?
+Adrien: Oui, pour aujourd'hui. Où est la voiture ? | Yes, for today. Where is the car?
+Marinette: Elle est ici, devant le bureau. | It’s here, in front of the office.
+Adrien: La voiture est petite ? | Is the car small?
+Marinette: Oui, elle est disponible et pratique. | Yes, it’s available and practical.
+Adrien: Combien coûte la voiture pour une journée ? | How much does the car cost for one day?
+Marinette: Dix euros. Voici la clé. | Ten euros. Here is the key.
+Adrien: Merci. | Thank you.
+
+[vocab]
+vocab: Bonjour | Hello | bohn-ZHOOR
+example: Bonjour, Marinette. | Hello, Marinette.
+vocab: Je voudrais louer une voiture | I would like to rent a car | zhuh voo-DREH loo-AY oon vwah-TOOR
+example: Je voudrais louer une voiture aujourd'hui. | I would like to rent a car today.
+vocab: Où est la voiture ? | Where is the car? | oo eh lah vwah-TOOR
+example: Où est la voiture ? | Where is the car?
+vocab: Combien coûte la voiture pour une journée ? | How much does the car cost for one day? | kohm-BYEH KOOT lah vwah-TOOR poor oon zhoor-NAY
+example: Combien coûte la voiture ? | How much does the car cost?
+vocab: Voici la clé. | Here is the key. | vwah-SEE lah KLAY
+example: Voici la clé de la voiture. | Here is the car key.
+
+[grammar]
+grammar: Polite requests with « je voudrais » | Use « je voudrais » followed by an infinitive to make a polite request. The infinitive names the action you would like to do.
+example: Je voudrais louer une voiture. | I would like to rent a car.
+example: Je voudrais voir la voiture. | I would like to see the car.
+
+[quiz]
+quiz: Where is the car? | In front of the office | At the hotel | In the city | A | Marinette says the car is here, in front of the office.
+quiz: How much does the car cost for one day? | Ten euros | Two euros | It is free | A | Marinette says, “Dix euros.”
+quiz: What does “Où est la voiture ?” mean? | May I come in? | Where is the car? | I would like to rent a car | B | Où est la voiture ? means “Where is the car?”.
+quiz: What does “Voici la clé.” mean? | I would like to rent a car | May I come in? | Here is the key. | C | Voici la clé. means “Here is the key.”.
