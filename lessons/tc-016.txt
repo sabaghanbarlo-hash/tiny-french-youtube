@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 16 · Joining the Library
+episode: TC-016
+scene: classroom
+
+[story]
+Adrien: Bonjour, comment avoir une carte, s'il vous plaît ? | Hello, how can I get a card, please?
+Marinette: Bonjour. Il faut remplir un document. | Hello. You have to fill out a form.
+Adrien: Je peux remplir le document ici ? | Can I fill out the form here?
+Marinette: Oui, vous pouvez le remplir ici. | Yes, you can fill it out here.
+Adrien: C'est gratuit ? | Is it free?
+Marinette: Oui, c'est gratuit. | Yes, it's free.
+Adrien: Je peux avoir la carte aujourd'hui ? | Can I get the card today?
+Marinette: Oui, voici la carte. | Yes, here is the card.
+Adrien: Merci beaucoup ! | Thank you very much!
+
+[vocab]
+vocab: Comment avoir une carte, s'il vous plaît ? | How can I get a card, please? | kuh-MAHN ah-VWAHR ewn KART, seel voo PLEH
+example: Comment avoir une carte, s'il vous plaît ? | How can I get a card, please?
+vocab: Il faut remplir un document. | You have to fill out a form. | eel FOH rahn-PLEER uhn doh-kyoo-MAHN
+example: Il faut remplir un document. | You have to fill out a form.
+vocab: Vous pouvez le remplir ici. | You can fill it out here. | voo poo-VAY luh rahn-PLEER ee-SEE
+example: Oui, vous pouvez le remplir ici. | Yes, you can fill it out here.
+vocab: C'est gratuit ? | Is it free? | say grah-TWEE
+example: C'est gratuit ? | Is it free?
+vocab: Merci beaucoup ! | Thank you very much! | mehr-SEE boh-KOO
+example: Merci beaucoup ! | Thank you very much!
+
+[grammar]
+grammar: Il faut + infinitive | Use “il faut” followed by an infinitive to say that something is necessary. The infinitive stays the same, even when speaking politely to “vous.”
+example: Il faut remplir un document. | You have to fill out a form.
+example: Il faut avoir une carte. | You have to have a card.
+
+[quiz]
+quiz: What does Adrien want to get? | A card | A document | A book | A | He asks how to get a card.
+quiz: Is the card free? | Yes | No | Marinette doesn't say | A | Marinette says, “Oui, c'est gratuit.”
+quiz: What does “C'est gratuit ?” mean? | Would you like some tea? | Where is the room? | Is it free? | C | C'est gratuit ? means “Is it free?”.
+quiz: What does “Comment avoir une carte, s'il vous plaît ?” mean? | Thank you very much! | I’d like to change the reservation, please. | How can I get a card, please? | C | Comment avoir une carte, s'il vous plaît ? means “How can I get a card, please?”.
