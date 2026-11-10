@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 41 · Buying a Train Ticket
+episode: TC-041
+scene: classroom
+
+[story]
+Adrien: Bonjour, un billet pour la ville, s'il vous plaît. | Hello, one ticket to the city, please.
+Marinette: Bonjour. Pour aujourd'hui ou demain ? | Hello. For today or tomorrow?
+Adrien: Aujourd'hui. Quand part le train ? | Today. When does the train leave?
+Marinette: Le train part à dix heures. | The train leaves at ten o’clock.
+Adrien: Oui. Combien ça coûte ? | Yes. How much does it cost?
+Marinette: Ça coûte dix euros. | It costs ten euros.
+Adrien: Je peux payer par carte ? | Can I pay by card?
+Marinette: Oui, bien sûr. Voici le billet. | Yes, of course. Here is the ticket.
+Adrien: Merci, au revoir. | Thank you, goodbye.
+
+[vocab]
+vocab: Un billet pour la ville, s'il vous plaît. | One ticket to the city, please. | uhn bee-YEH poor lah VEEL, seel voo PLEH
+example: Un billet pour la ville, s'il vous plaît. | One ticket to the city, please.
+vocab: Pour aujourd'hui ou demain ? | For today or tomorrow? | poor oh-zhoor-DWEE oo duh-MAN
+example: Pour aujourd'hui ou demain ? | For today or tomorrow?
+vocab: Quand part le train ? | When does the train leave? | kahn par luh TRAN
+example: Quand part le train ? | When does the train leave?
+vocab: Combien ça coûte ? | How much does it cost? | kom-BYEN sah KOOT
+example: Combien ça coûte ? | How much does it cost?
+vocab: Je peux payer par carte ? | Can I pay by card? | zhuh puh pay-YAY par KART
+example: Je peux payer par carte ? | Can I pay by card?
+
+[grammar]
+grammar: Demander « Quand… ? » | Use « Quand » to ask when something happens. Add the event or action after it; in this dialogue, « part » means “leaves.”
+example: Quand part le train ? | When does the train leave?
+example: Quand arrive le train ? | When does the train arrive?
+
+[quiz]
+quiz: Where is Adrien going? | The city | The station | The village | A | Adrien asks for a ticket to the city.
+quiz: What time does the train leave? | At nine o’clock | At ten o’clock | At eleven o’clock | B | Marinette says the train leaves at ten.
+quiz: What does “Combien ça coûte ?” mean? | How much does it cost? | For today or tomorrow? | When does the train leave? | A | Combien ça coûte ? means “How much does it cost?”.
+quiz: What does “Quand part le train ?” mean? | For today or tomorrow? | When does the train leave? | Do you have a table near the window? | B | Quand part le train ? means “When does the train leave?”.
