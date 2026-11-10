@@ -1,0 +1,44 @@
+1
+00:00:14,880 --> 00:00:21,956
+Bonjour, Marinette ! Je t'invite à une fête d'anniversaire chez moi samedi.
+Hello, Marinette! I’m inviting you to a birthday party at my place on Saturday.
+
+2
+00:00:22,056 --> 00:00:26,684
+Merci ! Quand commence la fête ?
+Thanks! When does the party start?
+
+3
+00:00:26,784 --> 00:00:30,884
+La fête commence à six heures, chez moi.
+The party starts at six, at my place.
+
+4
+00:00:30,984 --> 00:00:34,412
+Je peux venir avec un cadeau ?
+Can I come with a gift?
+
+5
+00:00:34,512 --> 00:00:39,980
+Oui, bien sûr ! Tu peux apporter un gâteau.
+Yes, of course! You can bring a cake.
+
+6
+00:00:40,080 --> 00:00:43,988
+D'accord, je viens avec un gâteau.
+Okay, I’ll come with a cake.
+
+7
+00:00:44,088 --> 00:00:49,292
+Merci ! Nous allons manger et danser ensemble.
+Thanks! We’re going to eat and dance together.
+
+8
+00:00:49,392 --> 00:00:55,004
+À samedi, Adrien ! Je suis très contente.
+See you Saturday, Adrien! I’m very happy.
+
+9
+00:00:55,104 --> 00:01:00,404
+À samedi, Marinette. Bonne journée !
+See you Saturday, Marinette. Have a nice day!

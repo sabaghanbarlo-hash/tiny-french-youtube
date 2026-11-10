@@ -1,0 +1,44 @@
+1
+00:00:14,520 --> 00:00:19,124
+Bonjour Marinette, tu veux jouer au football demain ?
+Hi, Marinette. Do you want to play football tomorrow?
+
+2
+00:00:19,224 --> 00:00:23,540
+Oui, d'accord ! Quand ?
+Yes, okay! When?
+
+3
+00:00:23,640 --> 00:00:27,044
+À trois heures, au parc.
+At three o’clock, at the park.
+
+4
+00:00:27,144 --> 00:00:32,012
+D'accord. Je viens avec un sac.
+Okay. I’ll come with a bag.
+
+5
+00:00:32,112 --> 00:00:35,036
+Tu peux apporter un ballon ?
+Can you bring a ball?
+
+6
+00:00:35,136 --> 00:00:38,684
+Oui, et je prends une bouteille d'eau.
+Yes, and I’ll bring a bottle of water.
+
+7
+00:00:38,784 --> 00:00:43,820
+Très bien ! Nous jouons un match, alors.
+Great! Then we’ll play a match.
+
+8
+00:00:43,920 --> 00:00:48,860
+Ça roule. À demain, Adrien !
+Sounds good. See you tomorrow, Adrien!
+
+9
+00:00:48,960 --> 00:00:52,964
+Merci, à demain, Marinette !
+Thanks, see you tomorrow, Marinette!

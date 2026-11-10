@@ -1,0 +1,44 @@
+1
+00:00:14,664 --> 00:00:19,268
+Bonjour Marinette, tu veux manger dans le parc demain ?
+Hello, Marinette. Do you want to eat in the park tomorrow?
+
+2
+00:00:19,368 --> 00:00:26,612
+Oui, bonne idée ! Nous pouvons apporter du pain, du fromage et des pommes.
+Yes, good idea! We can bring bread, cheese, and apples.
+
+3
+00:00:26,712 --> 00:00:31,316
+Très bien. J’apporte une bouteille d’eau.
+Very good. I’ll bring a bottle of water.
+
+4
+00:00:31,416 --> 00:00:33,788
+Quand ?
+When?
+
+5
+00:00:33,888 --> 00:00:37,508
+À deux heures, si le temps est beau.
+At two o’clock, if the weather is nice.
+
+6
+00:00:37,608 --> 00:00:42,860
+D’accord. Je peux aussi apporter un gâteau.
+Okay. I can also bring a cake.
+
+7
+00:00:42,960 --> 00:00:48,140
+Parfait ! Nous pouvons nous rencontrer près de l’arbre ?
+Perfect! Can we meet near the tree?
+
+8
+00:00:48,240 --> 00:00:51,092
+Oui, à demain !
+Yes, see you tomorrow!
+
+9
+00:00:51,192 --> 00:00:54,452
+À demain, Marinette !
+See you tomorrow, Marinette!

@@ -1,0 +1,44 @@
+1
+00:00:14,568 --> 00:00:20,036
+Bonjour, Marinette. Tu veux voir un film ?
+Hello, Marinette. Do you want to see a film?
+
+2
+00:00:20,136 --> 00:00:26,276
+Bonjour, oui. Tu préfères un film drôle ou sérieux ?
+Hello, yes. Do you prefer a funny or serious film?
+
+3
+00:00:26,376 --> 00:00:31,148
+Je préfère un film drôle. Et toi ?
+I prefer a funny film. And you?
+
+4
+00:00:31,248 --> 00:00:34,892
+Oui, le film drôle est nouveau.
+Yes, the funny film is new.
+
+5
+00:00:34,992 --> 00:00:38,804
+Le film sérieux est aussi intéressant.
+The serious film is interesting too.
+
+6
+00:00:38,904 --> 00:00:43,004
+Oui, mais je préfère le film drôle.
+Yes, but I prefer the funny film.
+
+7
+00:00:43,104 --> 00:00:48,044
+D'accord. Tu veux voir le film maintenant ?
+All right. Do you want to see the film now?
+
+8
+00:00:48,144 --> 00:00:53,708
+Oui, merci. Nous pouvons prendre deux billets ?
+Yes, thanks. Can we get two tickets?
+
+9
+00:00:53,808 --> 00:00:56,996
+Oui, prenons deux billets.
+Yes, let's get two tickets.

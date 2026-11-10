@@ -1,0 +1,44 @@
+1
+00:00:14,784 --> 00:00:19,796
+Bonjour, je dois remplir un document, s'il vous plaît.
+Hello, I need to fill in a document, please.
+
+2
+00:00:19,896 --> 00:00:25,268
+Bonjour. Bien sûr, je peux vous aider.
+Hello. Of course, I can help you.
+
+3
+00:00:25,368 --> 00:00:28,628
+Où écrire le nom et le numéro ?
+Where should I write the name and number?
+
+4
+00:00:28,728 --> 00:00:33,020
+Écrivez le nom ici, et le numéro là.
+Write the name here, and the number there.
+
+5
+00:00:33,120 --> 00:00:36,428
+Et la date, s'il vous plaît ?
+And the date, please?
+
+6
+00:00:36,528 --> 00:00:41,060
+Écrivez la date ici, puis signez le document.
+Write the date here, then sign the document.
+
+7
+00:00:41,160 --> 00:00:44,228
+Je signe aussi le dossier ?
+Do I sign the file too?
+
+8
+00:00:44,328 --> 00:00:48,692
+Oui, vous signez le document et le dossier.
+Yes, you sign the document and the file.
+
+9
+00:00:48,792 --> 00:00:52,484
+Merci, vous êtes très gentille.
+Thank you, you are very kind.

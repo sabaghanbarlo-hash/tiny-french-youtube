@@ -1,0 +1,44 @@
+1
+00:00:15,120 --> 00:00:19,052
+Bonjour, j'ai un problème avec le lait.
+Hello, I have a problem with milk.
+
+2
+00:00:19,152 --> 00:00:23,012
+Bonjour, je suis votre médecin.
+Hello, I’m your doctor.
+
+3
+00:00:23,112 --> 00:00:27,092
+Je ne peux pas boire de lait, s'il vous plaît.
+I can’t drink milk, please.
+
+4
+00:00:27,192 --> 00:00:32,204
+D'accord. Vous avez un autre problème ?
+All right. Do you have another problem?
+
+5
+00:00:32,304 --> 00:00:35,660
+Non, seulement avec le lait.
+No, only with milk.
+
+6
+00:00:35,760 --> 00:00:39,716
+Vous avez un médicament pour ce problème ?
+Do you have medicine for this problem?
+
+7
+00:00:39,816 --> 00:00:43,964
+Oui, j'ai un médicament dans mon sac.
+Yes, I have medicine in my bag.
+
+8
+00:00:44,064 --> 00:00:48,236
+Je vais écrire le problème dans votre dossier.
+I’m going to write the problem in your file.
+
+9
+00:00:48,336 --> 00:00:52,028
+Merci, vous êtes très gentille.
+Thank you, you’re very kind.

@@ -1,0 +1,44 @@
+1
+00:00:14,712 --> 00:00:20,396
+Bonjour, Marinette. Tu veux visiter le musée ?
+Hello, Marinette. Do you want to visit the museum?
+
+2
+00:00:20,496 --> 00:00:26,108
+Bonjour, Adrien. Je veux voir les photos.
+Hello, Adrien. I want to see the photos.
+
+3
+00:00:26,208 --> 00:00:29,636
+Tu veux voir le château ou les photos ?
+Do you want to see the castle or the photos?
+
+4
+00:00:29,736 --> 00:00:34,628
+Je préfère voir les photos. Et toi ?
+I prefer to see the photos. And you?
+
+5
+00:00:34,728 --> 00:00:39,068
+Je veux voir le château, mais je peux attendre.
+I want to see the castle, but I can wait.
+
+6
+00:00:39,168 --> 00:00:44,660
+Merci. Nous pouvons voir les photos ensemble.
+Thanks. We can see the photos together.
+
+7
+00:00:44,760 --> 00:00:49,676
+Bonne idée. Le château est très ancien.
+Good idea. The castle is very old.
+
+8
+00:00:49,776 --> 00:00:53,876
+Alors, allons voir les photos d'abord.
+Then, let's see the photos first.
+
+9
+00:00:53,976 --> 00:00:57,740
+Oui, puis nous allons voir le château.
+Yes, then we'll see the castle.
