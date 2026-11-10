@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 34 · Returning a Shirt
+episode: TC-034
+scene: classroom
+
+[story]
+Adrien: Bonjour, je voudrais rendre le T-shirt, s'il vous plaît. | Hello, I would like to return the T-shirt, please.
+Marinette: Bonjour. Bien sûr. Il est trop petit ? | Hello. Of course. Is it too small?
+Adrien: Oui, il est trop petit. | Yes, it is too small.
+Marinette: Vous voulez un autre T-shirt ? | Would you like another T-shirt?
+Adrien: Non, merci, je préfère récupérer l'argent. | No, thank you. I prefer to get my money back.
+Marinette: D'accord. Vous avez payé par carte ? | All right. Did you pay by card?
+Adrien: Oui, par carte. | Yes, by card.
+Marinette: Voilà l'argent. | Here is the money.
+Adrien: Merci beaucoup. Au revoir. | Thank you very much. Goodbye.
+
+[vocab]
+vocab: Je voudrais rendre le T-shirt, s'il vous plaît. | I would like to return the T-shirt, please. | zhuh voo-DRAY rahn-DRUH luh tee-SHURT, seel voo PLEH
+example: Je voudrais rendre le T-shirt, s'il vous plaît. | I would like to return the T-shirt, please.
+vocab: Il est trop petit ? | Is it too small? | eel eh troh puh-TEE
+example: Il est trop petit ? | Is it too small?
+vocab: Vous voulez un autre T-shirt ? | Would you like another T-shirt? | voo voo-LAY uhn-NOH-truh tee-SHURT
+example: Vous voulez un autre T-shirt ? | Would you like another T-shirt?
+vocab: Je préfère récupérer l'argent. | I prefer to get my money back. | zhuh pray-FAIR ray-koo-pay-RAY lar-ZHAHN
+example: Je préfère récupérer l'argent. | I prefer to get my money back.
+vocab: Vous avez payé par carte ? | Did you pay by card? | voo zah-VAY pay-YAY par KART
+example: Vous avez payé par carte ? | Did you pay by card?
+
+[grammar]
+grammar: Yes-or-no questions with rising intonation | In everyday French, you can ask a yes-or-no question by keeping the usual word order and raising your voice at the end. This is common in conversation and sounds natural and direct.
+example: Il est trop petit ? | Is it too small?
+example: Vous avez payé par carte ? | Did you pay by card?
+
+[quiz]
+quiz: Why does Adrien want to return the T-shirt? | It is too small. | It is too expensive. | It is the wrong color. | A | Adrien says, « Oui, il est trop petit. »
+quiz: How did Adrien pay? | By card. | In cash. | He has not paid yet. | A | Adrien answers, « Oui, par carte. »
+quiz: What does “Je voudrais rendre le T-shirt, s'il vous plaît.” mean? | I would like to return the T-shirt, please. | For tomorrow evening, at seven, please. | Did you pay by card? | A | Je voudrais rendre le T-shirt, s'il vous plaît. means “I would like to return the T-shirt, please.”.
+quiz: What does “Je préfère récupérer l'argent.” mean? | I prefer to get my money back. | Do you come here often? | Do you have a less expensive jacket? | A | Je préfère récupérer l'argent. means “I prefer to get my money back.”.
