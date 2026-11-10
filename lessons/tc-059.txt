@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 59 · A Family Visit
+episode: TC-059
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette ! Bienvenue chez nous. | Hello, Marinette! Welcome to our home.
+Marinette: Bonjour, Adrien. Merci, la maison est très belle. | Hello, Adrien. Thank you, the house is very beautiful.
+Adrien: Tu veux un thé ou un café ? | Would you like tea or coffee?
+Marinette: Un thé, merci. Où sont les parents ? | Tea, thank you. Where are the parents?
+Adrien: Ils sont dans le salon avec la grand-mère. | They’re in the living room with Grandma.
+Marinette: Très bien. Je peux aider pour le repas ? | Very good. Can I help with the meal?
+Adrien: Oui, merci. Tu peux mettre la table ? | Yes, thank you. Can you set the table?
+Marinette: Bien sûr. Le dîner est bientôt prêt ? | Of course. Is dinner almost ready?
+Adrien: Oui, et nous mangeons ensemble. Merci ! | Yes, and we’re eating together. Thank you!
+
+[vocab]
+vocab: Bienvenue chez nous. | Welcome to our home. | byehn-vuh-NEW shay NOO
+example: Bienvenue chez nous, Marinette ! | Welcome to our home, Marinette!
+vocab: Tu veux un thé ou un café ? | Would you like tea or coffee? | tyoo vuh uh(n) TAY oo uh(n) kah-FAY
+example: Tu veux un thé ? | Would you like tea?
+vocab: Où sont les parents ? | Where are the parents? | OOH sohn lay pah-RAHN
+example: Où sont les parents ? | Where are the parents?
+vocab: Je peux aider pour le repas ? | Can I help with the meal? | zhuh puh ay-DAY poor luh ruh-PAH
+example: Je peux aider pour le repas ? | Can I help with the meal?
+vocab: Tu peux mettre la table ? | Can you set the table? | tyoo puh MEHTR lah TAHBL
+example: Tu peux mettre la table ? | Can you set the table?
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir followed by an infinitive to ask if someone can do something. Je peux means “I can,” and tu peux means “you can” when speaking to one person informally.
+example: Je peux aider pour le repas ? | Can I help with the meal?
+example: Tu peux mettre la table ? | Can you set the table?
+
+[quiz]
+quiz: What does Marinette ask for to drink? | Tea | Coffee | Water | A | She says, “Un thé, merci” (Tea, thank you).
+quiz: Where are the parents? | In the living room | In the kitchen | In the garden | A | Adrien says they are in the salon, or living room.
+quiz: What does “Bienvenue chez nous.” mean? | Welcome to our home. | Where are the parents? | Please let me know. | A | Bienvenue chez nous. means “Welcome to our home.”.
+quiz: What does “Tu veux un thé ou un café ?” mean? | We can order now. | Would you like tea or coffee? | Can you set the table? | B | Tu veux un thé ou un café ? means “Would you like tea or coffee?”.
