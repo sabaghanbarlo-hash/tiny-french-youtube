@@ -1,0 +1,44 @@
+1
+00:00:14,496 --> 00:00:19,124
+Bonjour, où est la salle de bains, s'il vous plaît ?
+Hello, where is the bathroom, please?
+
+2
+00:00:19,224 --> 00:00:24,788
+Bonjour. Elle est à droite, près de la porte.
+Hello. It’s on the right, near the door.
+
+3
+00:00:24,888 --> 00:00:27,356
+Je peux y aller ?
+Can I go there?
+
+4
+00:00:27,456 --> 00:00:32,372
+Oui, bien sûr. Allez tout droit.
+Yes, of course. Go straight ahead.
+
+5
+00:00:32,472 --> 00:00:35,324
+Puis, à droite ?
+Then, to the right?
+
+6
+00:00:35,424 --> 00:00:38,612
+Oui, près de la porte.
+Yes, near the door.
+
+7
+00:00:38,712 --> 00:00:41,564
+Elle est derrière la porte ?
+Is it behind the door?
+
+8
+00:00:41,664 --> 00:00:45,380
+Oui, juste derrière la porte.
+Yes, just behind the door.
+
+9
+00:00:45,480 --> 00:00:48,092
+Merci beaucoup !
+Thank you very much!

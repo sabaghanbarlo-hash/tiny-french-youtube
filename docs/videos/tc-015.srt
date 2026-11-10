@@ -1,0 +1,44 @@
+1
+00:00:14,544 --> 00:00:19,628
+Bonjour, je voudrais envoyer un colis, s'il vous plaît.
+Hello, I would like to send a package, please.
+
+2
+00:00:19,728 --> 00:00:24,860
+Bonjour. Où voulez-vous envoyer le colis ?
+Hello. Where would you like to send the package?
+
+3
+00:00:24,960 --> 00:00:28,508
+Pour la France, s'il vous plaît.
+To France, please.
+
+4
+00:00:28,608 --> 00:00:32,372
+Vous pouvez poster le colis ici.
+You can post the package here.
+
+5
+00:00:32,472 --> 00:00:35,660
+Combien, s'il vous plaît ?
+How much, please?
+
+6
+00:00:35,760 --> 00:00:39,140
+Deux euros, s'il vous plaît.
+Two euros, please.
+
+7
+00:00:39,240 --> 00:00:42,476
+Je peux payer avec la carte ?
+Can I pay by card?
+
+8
+00:00:42,576 --> 00:00:45,524
+Oui, bien sûr.
+Yes, of course.
+
+9
+00:00:45,624 --> 00:00:48,908
+Merci, au revoir.
+Thank you, goodbye.

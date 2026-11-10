@@ -1,0 +1,44 @@
+1
+00:00:14,544 --> 00:00:21,716
+Allô, bonsoir. Je voudrais réserver une table pour deux, s'il vous plaît.
+Hello, good evening. I’d like to reserve a table for two, please.
+
+2
+00:00:21,816 --> 00:00:26,804
+Bonsoir. Quand souhaitez-vous réserver ?
+Good evening. When would you like to reserve?
+
+3
+00:00:26,904 --> 00:00:31,532
+Pour demain soir, à sept heures, s'il vous plaît.
+For tomorrow evening, at seven, please.
+
+4
+00:00:31,632 --> 00:00:36,308
+Oui, demain à sept heures, pour deux personnes ?
+Yes, tomorrow at seven, for two people?
+
+5
+00:00:36,408 --> 00:00:42,164
+Oui, merci. Vous avez une table près de la fenêtre ?
+Yes, thank you. Do you have a table near the window?
+
+6
+00:00:42,264 --> 00:00:48,812
+Oui, bien sûr. Je vous réserve une table près de la fenêtre.
+Yes, of course. I’ll reserve you a table near the window.
+
+7
+00:00:48,912 --> 00:00:54,356
+Parfait, merci beaucoup. À demain soir.
+Perfect, thank you very much. See you tomorrow evening.
+
+8
+00:00:54,456 --> 00:00:59,708
+Avec plaisir, monsieur. Au revoir !
+My pleasure, sir. Goodbye!
+
+9
+00:00:59,808 --> 00:01:02,276
+Au revoir !
+Goodbye!

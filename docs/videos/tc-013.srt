@@ -1,0 +1,44 @@
+1
+00:00:14,496 --> 00:00:18,500
+Bonjour, pardon, où est la gare ?
+Hello, excuse me, where is the station?
+
+2
+00:00:18,600 --> 00:00:24,380
+Bonjour. La gare est là, dans le centre-ville.
+Hello. The station is there, downtown.
+
+3
+00:00:24,480 --> 00:00:29,804
+Merci. Le bus pour le centre-ville passe ici ?
+Thank you. Does the bus to the city center come here?
+
+4
+00:00:29,904 --> 00:00:34,244
+Oui, le bus passe ici et arrive bientôt.
+Yes, the bus comes here and will arrive soon.
+
+5
+00:00:34,344 --> 00:00:37,316
+Quand, s’il vous plaît ?
+When, please?
+
+6
+00:00:37,416 --> 00:00:40,676
+Je ne sais pas, pardon.
+I don’t know, sorry.
+
+7
+00:00:40,776 --> 00:00:45,404
+D’accord. Je peux attendre ici ?
+All right. Can I wait here?
+
+8
+00:00:45,504 --> 00:00:50,612
+Oui, bien sûr. Il arrive bientôt.
+Yes, of course. It will arrive soon.
+
+9
+00:00:50,712 --> 00:00:55,172
+Merci beaucoup. Au revoir.
+Thank you very much. Goodbye.

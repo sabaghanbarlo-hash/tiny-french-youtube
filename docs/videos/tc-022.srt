@@ -1,0 +1,44 @@
+1
+00:00:14,376 --> 00:00:18,932
+Bonjour, je voudrais un pain, s'il vous plaît.
+Hello, I would like a loaf of bread, please.
+
+2
+00:00:19,032 --> 00:00:23,660
+Bonjour. Un pain, oui.
+Hello. A loaf of bread, yes.
+
+3
+00:00:23,760 --> 00:00:26,132
+Il est frais ?
+Is it fresh?
+
+4
+00:00:26,232 --> 00:00:29,636
+Oui, il est frais aujourd'hui.
+Yes, it's fresh today.
+
+5
+00:00:29,736 --> 00:00:32,444
+Combien coûte le pain ?
+How much does the bread cost?
+
+6
+00:00:32,544 --> 00:00:35,876
+Un euro, s'il vous plaît.
+One euro, please.
+
+7
+00:00:35,976 --> 00:00:40,172
+Voilà. Merci beaucoup.
+There you are. Thank you very much.
+
+8
+00:00:40,272 --> 00:00:44,420
+Merci. Bonne journée !
+Thank you. Have a nice day!
+
+9
+00:00:44,520 --> 00:00:47,804
+Au revoir, madame.
+Goodbye, ma'am.

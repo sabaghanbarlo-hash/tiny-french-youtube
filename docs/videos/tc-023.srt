@@ -1,0 +1,44 @@
+1
+00:00:14,520 --> 00:00:19,916
+Bonjour, Marinette. Tu veux manger ici ?
+Hello, Marinette. Do you want to eat here?
+
+2
+00:00:20,016 --> 00:00:26,636
+Bonjour, Adrien. Oui, je prends le poisson avec du riz.
+Hello, Adrien. Yes, I’ll have fish with rice.
+
+3
+00:00:26,736 --> 00:00:30,524
+Je préfère les pâtes avec du fromage.
+I prefer pasta with cheese.
+
+4
+00:00:30,624 --> 00:00:34,988
+C'est bon. Tu veux une boisson ?
+That’s good. Do you want a drink?
+
+5
+00:00:35,088 --> 00:00:39,332
+Oui, je voudrais de l'eau, s'il vous plaît.
+Yes, I’d like some water, please.
+
+6
+00:00:39,432 --> 00:00:43,412
+Et pour le dessert, tu veux un gâteau ?
+And for dessert, do you want a cake?
+
+7
+00:00:43,512 --> 00:00:47,396
+Je ne veux pas de dessert, merci.
+I don’t want dessert, thank you.
+
+8
+00:00:47,496 --> 00:00:53,156
+D'accord. Alors, je prends une salade aussi.
+All right. Then I’ll have a salad too.
+
+9
+00:00:53,256 --> 00:00:58,052
+Très bien. Nous pouvons commander maintenant.
+Very good. We can order now.
