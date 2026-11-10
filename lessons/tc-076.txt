@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 76 · A Fall in the Park
+episode: TC-076
+scene: classroom
+
+[story]
+Adrien: Bonjour, madame. Vous êtes blessée ? | Hello, ma’am. Are you injured?
+Marinette: Je suis tombée sur le chemin. | I fell on the path.
+Adrien: Vous avez mal à la jambe ? | Does your leg hurt?
+Marinette: Oui, j'ai mal, mais je peux marcher. | Yes, I’m in pain, but I can walk.
+Adrien: Vous voulez une ambulance ? | Would you like an ambulance?
+Marinette: Non, merci. Appelez les secours, s'il vous plaît. | No, thank you. Please call emergency services.
+Adrien: Oui. Je vais appeler les secours maintenant. | Yes. I’m going to call emergency services now.
+Marinette: Merci, monsieur. Je suis inquiète. | Thank you, sir. I’m worried.
+Adrien: Restez ici, je suis avec vous. | Stay here; I’m with you.
+
+[vocab]
+vocab: Bonjour, madame. | Hello, ma’am. | bohn-ZHOOR mah-DAM
+example: Bonjour, madame. | Hello, ma’am.
+vocab: Vous êtes blessée ? | Are you injured? | voo zet bleh-SAY
+example: Vous êtes blessée ? | Are you injured?
+vocab: Vous avez mal à la jambe ? | Does your leg hurt? | voo zah-VAY mal ah lah ZHAHMB
+example: Vous avez mal à la jambe ? | Does your leg hurt?
+vocab: Appelez les secours, s'il vous plaît. | Please call emergency services. | ahp-uh-LAY lay suh-KOOR seel voo PLEH
+example: Appelez les secours, s'il vous plaît. | Please call emergency services.
+vocab: Restez ici, je suis avec vous. | Stay here; I’m with you. | res-TAY ee-SEE, zhuh swee ah-VEK VOO
+example: Restez ici, je suis avec vous. | Stay here; I’m with you.
+
+[grammar]
+grammar: Talking about pain with avoir mal à | Use avoir mal à to say that a part of your body hurts. With a feminine singular body part, use à la; with a masculine singular body part, use au (à + le).
+example: Vous avez mal à la jambe ? | Does your leg hurt?
+example: J'ai mal. | I’m in pain.
+
+[quiz]
+quiz: Where did Marinette fall? | On the path | In the house | At the hospital | A | She says, « Je suis tombée sur le chemin. »
+quiz: What does Marinette ask Adrien to do? | Call emergency services | Bring her water | Go to the park | A | She says, « Appelez les secours, s'il vous plaît. »
+quiz: What does “Vous avez mal à la jambe ?” mean? | Does your leg hurt? | Did you see the film yesterday? | It closes at six in the evening. | A | Vous avez mal à la jambe ? means “Does your leg hurt?”.
+quiz: What does “Bonjour, madame.” mean? | Does your leg hurt? | Hello, ma’am. | It is new. | B | Bonjour, madame. means “Hello, ma’am.”.
