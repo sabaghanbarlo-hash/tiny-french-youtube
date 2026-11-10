@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 2 · New Neighbor
+episode: TC-002
+scene: classroom
+
+[story]
+Adrien: Bonjour, vous êtes ma nouvelle voisine ? | Hello, are you my new neighbor?
+Marinette: Bonjour ! Oui, je suis Marinette. | Hello! Yes, I’m Marinette.
+Adrien: Enchanté, je suis Adrien. | Nice to meet you, I’m Adrien.
+Marinette: Enchantée ! Vous habitez ici ? | Nice to meet you! Do you live here?
+Adrien: Oui, dans cet immeuble, au même étage. | Yes, in this building, on the same floor.
+Marinette: Vous voulez que je vous aide ? | Do you want me to help you?
+Adrien: Merci, c'est très gentil. | Thank you, that’s very kind.
+Marinette: Vous voulez prendre un café avec moi ? | Would you like to have a coffee with me?
+Adrien: Oui, volontiers ! À bientôt ! | Yes, gladly! See you soon!
+
+[vocab]
+vocab: Bonjour ! | Hello! | bon-ZHOOR
+example: Bonjour, Adrien ! | Hello, Adrien!
+vocab: Je suis Marinette. | I’m Marinette. | zhuh swee mah-ree-NET
+example: Je suis Adrien. | I’m Adrien.
+vocab: Vous habitez ici ? | Do you live here? | voo zah-bee-TAY ee-SEE
+example: Vous habitez dans cet immeuble ? | Do you live in this building?
+vocab: Vous voulez que je vous aide ? | Do you want me to help you? | voo voo-LAY kuh zhuh voo-ZED
+example: Vous voulez que je vous aide ? | Do you want me to help you?
+vocab: Vous voulez prendre un café avec moi ? | Would you like to have a coffee with me? | voo voo-LAY prahndr un kah-FAY ah-vek MWAH
+example: Vous voulez prendre un café avec moi ? | Would you like to have a coffee with me?
+
+[grammar]
+grammar: Polite questions with vous | Use vous plus a verb to address someone politely, even if you are speaking to just one person. For a simple yes-or-no question, you can keep the usual word order and raise your voice at the end.
+example: Vous habitez ici ? | Do you live here?
+example: Vous voulez que je vous aide ? | Do you want me to help you?
+
+[quiz]
+quiz: Where does Adrien live? | In the same building and on the same floor | In another city | In Marinette’s apartment | A | Adrien says he lives in the building, on the same floor.
+quiz: What does Marinette invite Adrien to have? | A coffee | A meal | A book | A | She asks if he would like to have a coffee with her.
+quiz: What does “Bonjour !” mean? | Let's stay at home. | Hello! | Would you like to have a coffee with me? | B | Bonjour ! means “Hello!”.
+quiz: What does “Vous habitez ici ?” mean? | Would you like to have a coffee with me? | Do you live here? | Would you like to give me the phone number? | B | Vous habitez ici ? means “Do you live here?”.
