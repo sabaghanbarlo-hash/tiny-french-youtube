@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 63 · Help with a Task
+episode: TC-063
+scene: classroom
+
+[story]
+Adrien: Bonjour Marinette, je suis nouveau dans l'entreprise. | Hello, Marinette. I’m new at the company.
+Marinette: Bonjour Adrien. Bienvenue au bureau. | Hello, Adrien. Welcome to the office.
+Adrien: Peux-tu m'aider avec une tâche ? | Can you help me with a task?
+Marinette: Oui, bien sûr. Explique le problème, s'il te plaît. | Yes, of course. Explain the problem, please.
+Adrien: Je ne sais pas remplir le document. | I don’t know how to fill out the document.
+Marinette: D'accord. Je peux t'expliquer, puis tu vérifies le document. | Okay. I can explain it to you, then you check the document.
+Adrien: Merci. Tu peux me montrer où signer, s'il te plaît ? | Thanks. Can you show me where to sign, please?
+Marinette: Oui. Signe ici, puis donne-moi le document. | Yes. Sign here, then give me the document.
+Adrien: Merci beaucoup, c'est très utile. | Thanks a lot, that’s very helpful.
+
+[vocab]
+vocab: Peux-tu m'aider avec une tâche ? | Can you help me with a task? | puh-TY meh-DAY ah-VEK ewn TASH
+example: Peux-tu m'aider avec une tâche ? | Can you help me with a task?
+vocab: Explique le problème, s'il te plaît. | Explain the problem, please. | ehks-PLEEK luh proh-BLEM, seel tuh PLEH
+example: Explique le problème, s'il te plaît. | Explain the problem, please.
+vocab: Je ne sais pas remplir le document. | I don't know how to fill out the document. | zhuh nuh SAY pah rahn-PLEER luh doh-kyoo-MAHN
+example: Je ne sais pas remplir le document. | I don't know how to fill out the document.
+vocab: Tu peux me montrer où signer, s'il te plaît ? | Can you show me where to sign, please? | tew puh muh mohn-TRAY oo seen-YAY, seel tuh PLEH
+example: Tu peux me montrer où signer, s'il te plaît ? | Can you show me where to sign, please?
+vocab: Signe ici, puis donne-moi le document. | Sign here, then give me the document. | seen-y ee-SEE, pwee dun-MWAH luh doh-kyoo-MAHN
+example: Signe ici, puis donne-moi le document. | Sign here, then give me the document.
+
+[grammar]
+grammar: Pouvoir + infinitive | Use pouvoir (to be able to/can) followed by an infinitive to ask if someone can do something. A question with “peux-tu” is a familiar, direct request.
+example: Peux-tu m'aider ? | Can you help me?
+example: Tu peux me montrer où signer ? | Can you show me where to sign?
+
+[quiz]
+quiz: What does Adrien need help with? | A document | A train ticket | A meal | A | Adrien says he does not know how to fill out the document.
+quiz: What does Marinette ask Adrien to do after she explains? | Check the document | Call a coworker | Leave the office | A | She says, “puis tu vérifies le document” (then you check the document).
+quiz: What does “Peux-tu m'aider avec une tâche ?” mean? | Can you help me with a task? | Is the tip included in the price? | I don't know. | A | Peux-tu m'aider avec une tâche ? means “Can you help me with a task?”.
+quiz: What does “Tu peux me montrer où signer, s'il te plaît ?” mean? | Did you see the film yesterday? | Can you show me where to sign, please? | Sign here, then give me the document. | B | Tu peux me montrer où signer, s'il te plaît ? means “Can you show me where to sign, please?”.
