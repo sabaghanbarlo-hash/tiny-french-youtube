@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 61 · Meeting a Coworker
+episode: TC-061
+scene: classroom
+
+[story]
+Adrien: Bonjour, je suis Adrien. Vous êtes nouvelle ? | Hello, I’m Adrien. Are you new?
+Marinette: Bonjour, oui. Je suis Marinette. Enchantée. | Hello, yes. I’m Marinette. Pleased to meet you.
+Adrien: Enchanté. Vous travaillez dans le bureau ? | Pleased to meet you. Do you work in the office?
+Marinette: Oui, je travaille dans le bureau. Et vous ? | Yes, I work in the office. And you?
+Adrien: Je suis un collègue. Je travaille avec vous. | I’m a coworker. I work with you.
+Marinette: Vous êtes dans la même entreprise ? | Are you in the same company?
+Adrien: Oui, et dans le même bureau. | Yes, and in the same office.
+Marinette: Très bien. Vous voulez un café ? | Very good. Would you like a coffee?
+Adrien: Oui, merci. À bientôt, Marinette. | Yes, thank you. See you soon, Marinette.
+
+[vocab]
+vocab: Bonjour, je suis Adrien. | Hello, I’m Adrien. | bon-ZHOOR, zhuh swee ah-dree-EN
+example: Bonjour, je suis Adrien. | Hello, I’m Adrien.
+vocab: Je suis Marinette. | I’m Marinette. | zhuh swee mah-ree-NET
+example: Je suis Marinette. | I’m Marinette.
+vocab: Enchantée. | Pleased to meet you. (said by a woman) | ahn-shahn-TAY
+example: Je suis Marinette. Enchantée. | I’m Marinette. Pleased to meet you.
+vocab: Je travaille avec vous. | I work with you. | zhuh trah-VYE ah-vek voo
+example: Je travaille avec vous. | I work with you.
+vocab: Vous voulez un café ? | Would you like a coffee? | voo voo-LAY uhn kah-FAY
+example: Vous voulez un café ? | Would you like a coffee?
+
+[grammar]
+grammar: Introducing yourself with être | Use être (to be) with a name to introduce yourself: Je suis Adrien means “I’m Adrien.” Use vous êtes to ask or say “you are” politely.
+example: Je suis Marinette. | I’m Marinette.
+example: Vous êtes nouvelle ? | Are you new?
+
+[quiz]
+quiz: Where does Marinette work? | In the office | At a school | At a restaurant | A | She says, « Je travaille dans le bureau. »
+quiz: What does Marinette offer Adrien? | A book | A coffee | A meeting | B | She asks, « Vous voulez un café ? »
+quiz: What does “Enchantée.” mean? | Pleased to meet you. (said by a woman) | Yes, very much. And you? | Would you like to sit down? | A | Enchantée. means “Pleased to meet you. (said by a woman)”.
+quiz: What does “Vous voulez un café ?” mean? | Would you like a coffee? | I work with you. | Would you like to sit down? | A | Vous voulez un café ? means “Would you like a coffee?”.
