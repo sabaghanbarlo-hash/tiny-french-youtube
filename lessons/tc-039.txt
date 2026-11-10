@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 39 · A Broken Toy
+episode: TC-039
+scene: classroom
+
+[story]
+Adrien: Bonjour, madame. J'ai un problème avec un article. | Hello, ma’am. I have a problem with an item.
+Marinette: Bonjour, monsieur. Qu'est-ce qui ne va pas ? | Hello, sir. What’s wrong?
+Adrien: L'article ne marche pas. | The item doesn’t work.
+Marinette: Il est cassé ? | Is it broken?
+Adrien: Oui, il est tombé hier. | Yes, it fell yesterday.
+Marinette: Vous voulez le remplacer ? | Would you like to replace it?
+Adrien: Oui, s'il vous plaît. Je n'ai pas la boîte. | Yes, please. I don’t have the box.
+Marinette: D'accord. Je peux vous aider. | All right. I can help you.
+Adrien: Merci beaucoup. | Thank you very much.
+
+[vocab]
+vocab: J'ai un problème avec un article. | I have a problem with an item. | zhay uhn proh-BLEM ah-vek uhn ar-TEEKL
+example: J'ai un problème avec un article. | I have a problem with an item.
+vocab: Qu'est-ce qui ne va pas ? | What's wrong? | kess kee nuh vah PAH
+example: Qu'est-ce qui ne va pas ? | What's wrong?
+vocab: L'article ne marche pas. | The item doesn't work. | lar-TEEKL nuh marsh PAH
+example: L'article ne marche pas. | The item doesn't work.
+vocab: Vous voulez le remplacer ? | Would you like to replace it? | voo voo-LAY luh rahm-plah-SAY
+example: Vous voulez le remplacer ? | Would you like to replace it?
+vocab: Oui, s'il vous plaît. | Yes, please. | wee seel voo PLEH
+example: Oui, s'il vous plaît. | Yes, please.
+
+[grammar]
+grammar: Making a sentence negative with ne...pas | In a simple present-tense sentence, put ne before the conjugated verb and pas after it to say that something does not happen or is not true. Before a vowel sound, ne becomes n'.
+example: L'article ne marche pas. | The item doesn't work.
+example: Je n'ai pas la boîte. | I don't have the box.
+
+[quiz]
+quiz: What is wrong with Adrien's item? | It doesn't work. | It is too small. | It is not new. | A | Adrien says, « L'article ne marche pas. »
+quiz: What does Marinette offer to do? | Help him. | Buy the item. | Take the box. | A | She says, « Je peux vous aider. »
+quiz: What does “Vous voulez le remplacer ?” mean? | Would you like to replace it? | Yes, please. | I prefer pasta with cheese. | A | Vous voulez le remplacer ? means “Would you like to replace it?”.
+quiz: What does “J'ai un problème avec un article.” mean? | I prefer pasta with cheese. | I have a problem with an item. | What's wrong? | B | J'ai un problème avec un article. means “I have a problem with an item.”.
