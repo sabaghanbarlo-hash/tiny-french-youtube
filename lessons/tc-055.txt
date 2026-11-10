@@ -1,0 +1,37 @@
+title: Tiny French Conversations · Lesson 55 · The Leaky Tap
+episode: TC-055
+scene: classroom
+
+[story]
+Adrien: Bonjour, Marinette. L'eau tombe du robinet dans la salle de bains. | Hello, Marinette. Water is dripping from the tap in the bathroom.
+Marinette: Bonjour, Adrien. C'est un problème ? | Hello, Adrien. Is there a problem?
+Adrien: Oui, l'eau tombe toujours. Pouvez-vous venir, s'il vous plaît ? | Yes, the water keeps dripping. Could you come, please?
+Marinette: Bien sûr. Je peux venir maintenant. | Of course. I can come now.
+Adrien: Merci. L'eau est déjà sur le sol. | Thank you. The water is already on the floor.
+Marinette: D'accord. Je vais regarder le robinet. | Okay. I’ll look at the tap.
+Adrien: Vous pouvez le réparer aujourd'hui ? | Can you repair it today?
+Marinette: Oui, je vais le réparer tout de suite. | Yes, I’ll repair it right away.
+Adrien: Merci beaucoup. C'est très gentil. | Thank you very much. That’s very kind.
+
+[vocab]
+vocab: Bonjour, Adrien. | Hello, Adrien. | bohn-ZHOOR ah-dree-EHN
+example: Bonjour, Adrien. | Hello, Adrien.
+vocab: L'eau tombe du robinet. | Water is dripping from the tap. | loh tohmb duh roh-bee-NAY
+example: L'eau tombe du robinet. | Water is dripping from the tap.
+vocab: Pouvez-vous venir, s'il vous plaît ? | Could you come, please? | poo-VAY voo vuh-NEER, seel voo PLEH
+example: Pouvez-vous venir, s'il vous plaît ? | Could you come, please?
+vocab: Je peux venir maintenant. | I can come now. | zhuh puh vuh-NEER man-tuh-NAHN
+example: Je peux venir maintenant. | I can come now.
+vocab: Je vais le réparer tout de suite. | I’ll repair it right away. | zhuh vay luh ray-pah-RAY too duh SWEET
+example: Je vais le réparer tout de suite. | I’ll repair it right away.
+
+[grammar]
+grammar: Pouvoir + infinitive | Use a form of pouvoir (to be able to) followed by an infinitive to talk about what someone can do. In a question, this pattern can make a polite request.
+example: Je peux venir maintenant. | I can come now.
+example: Pouvez-vous venir, s'il vous plaît ? | Could you come, please?
+
+[quiz]
+quiz: Who reports the dripping tap? | Adrien | Marinette | A neighbor | A | Adrien tells Marinette that water is dripping from the tap.
+quiz: When can Marinette come? | Now | Tomorrow | Next week | A | She says, « Je peux venir maintenant. »
+quiz: What does “Bonjour, Adrien.” mean? | Water is dripping from the tap. | Hello, Adrien. | I can come now. | B | Bonjour, Adrien. means “Hello, Adrien.”.
+quiz: What does “L'eau tombe du robinet.” mean? | It is new. | Water is dripping from the tap. | I’ll repair it right away. | B | L'eau tombe du robinet. means “Water is dripping from the tap.”.
