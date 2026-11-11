@@ -30,10 +30,10 @@ GREEN = (60, 150, 100)
 SPRITE_W, SPRITE_H = int(560 * CHAR_SCALE), int(760 * CHAR_SCALE)
 
 CHARS = {
-    "Marinette": dict(voice="fr-FR-DeniseNeural", hair=(50, 68, 122), skin=(253, 227, 203), top=(84, 74, 80),
-                      accent=(228, 140, 152), long_hair=False, fr=True, trouser=(60, 66, 104), shoe=(245, 240, 236), x=150),
-    "Adrien": dict(voice="fr-FR-HenriNeural", hair=(247, 208, 120), skin=(253, 227, 203), top=(244, 238, 238),
-                   accent=(95, 158, 134), long_hair=False, fr=True, trouser=(78, 92, 128), shoe=(255, 255, 255), x=W - 150 - SPRITE_W),
+    "Marinette": dict(voice="fr-FR-DeniseNeural", hair=(50, 68, 122), skin=(253, 227, 203), top=(88, 130, 182),
+                      accent=(228, 140, 152), long_hair=False, fr=True, trouser=(236, 228, 212), shoe=(214, 64, 70), x=150),
+    "Adrien": dict(voice="fr-FR-HenriNeural", hair=(247, 208, 120), skin=(253, 227, 203), top=(44, 58, 104),
+                   accent=(95, 158, 134), long_hair=False, fr=True, trouser=(196, 160, 112), shoe=(110, 70, 48), x=W - 150 - SPRITE_W),
 }
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # shared modules live in the repo root
 import characters as CH
