@@ -1,0 +1,44 @@
+1
+00:00:14,504 --> 00:00:19,252
+Regarde ! C'est la tour Eiffel !
+Look! It's the Eiffel Tower!
+
+2
+00:00:23,036 --> 00:00:26,344
+Waouh, elle est très grande !
+Wow, it's very big!
+
+3
+00:00:28,873 --> 00:00:31,725
+Asseyons-nous un moment.
+Let's sit for a moment.
+
+4
+00:00:45,246 --> 00:00:51,074
+Bonjour ! Je voudrais du fromage, s'il vous plaît.
+Hello! I would like some cheese, please.
+
+5
+00:00:52,474 --> 00:00:55,974
+Moi, je voudrais des pommes.
+I would like some apples.
+
+6
+00:01:08,788 --> 00:01:12,480
+Un chocolat chaud, s'il vous plaît.
+A hot chocolate, please.
+
+7
+00:01:12,580 --> 00:01:15,792
+Et pour moi, un café.
+And for me, a coffee.
+
+8
+00:01:17,614 --> 00:01:20,298
+Quelle belle soirée !
+What a beautiful evening!
+
+9
+00:01:21,298 --> 00:01:24,750
+Oui, Paris est magnifique.
+Yes, Paris is wonderful.
