@@ -1,0 +1,49 @@
+1
+00:00:12,336 --> 00:00:17,636
+Bonjour ! C'est combien, les pommes ?
+Hello! How much are the apples?
+
+2
+00:00:17,736 --> 00:00:20,564
+Deux euros le kilo.
+Two euros a kilo.
+
+3
+00:00:20,664 --> 00:00:23,180
+Et les fraises ?
+And the strawberries?
+
+4
+00:00:23,280 --> 00:00:26,348
+Quatre euros la barquette.
+Four euros a punnet.
+
+5
+00:00:26,448 --> 00:00:31,940
+Je prends deux kilos de pommes et une barquette de fraises, s'il vous plaît.
+I'll take two kilos of apples and a punnet of strawberries, please.
+
+6
+00:00:32,040 --> 00:00:36,332
+Très bien. Ça fait huit euros.
+Very good. That comes to eight euros.
+
+7
+00:00:36,432 --> 00:00:39,188
+Voilà dix euros.
+Here's ten euros.
+
+8
+00:00:39,288 --> 00:00:44,612
+Merci. Et voilà votre monnaie : deux euros.
+Thank you. And here's your change: two euros.
+
+9
+00:00:44,712 --> 00:00:48,020
+Merci, bonne journée !
+Thanks, have a nice day!
+
+10
+00:00:48,120 --> 00:00:50,492
+Vous aussi !
+You too!
