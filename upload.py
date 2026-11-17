@@ -123,7 +123,8 @@ def main():
         fail(f"YT_PRIVACY must be private, unlisted or public (got '{privacy}')")
     token = access_token()
     snippet = {"title": title, "description": description, "tags": TAGS,
-               "categoryId": os.environ.get("YT_CATEGORY") or "27"}
+               "categoryId": os.environ.get("YT_CATEGORY") or "27",
+               "defaultLanguage": "en", "defaultAudioLanguage": "en"}
     status = {"privacyStatus": privacy, "selfDeclaredMadeForKids": False}
     publish_at = (os.environ.get("PUBLISH_AT") or "").strip()   # e.g. 2026-11-03T15:00:00Z: stays private until then
     if publish_at:

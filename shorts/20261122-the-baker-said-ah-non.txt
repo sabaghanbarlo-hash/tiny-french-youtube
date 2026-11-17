@@ -1,0 +1,13 @@
+title: The Baker Said "Ah Non!" What Did Adrien Forget?
+scene: bakery
+cast: marinette, adrien
+
+[hook]
+Marinette: Why did the baker look angry?
+[story]
+Adrien: Une baguette ! | A baguette!
+Marinette: Ah non ! On dit bonjour d'abord. | Ah no! First we say hello.
+Adrien: Bonjour madame ! Une baguette, s'il vous plaît. | Hello madam! A baguette, please.
+Marinette: Voilà ! Merci, bonne journée ! | Here you go! Thanks, have a nice day!
+[ending]
+Adrien: In a French shop, always say hello first!

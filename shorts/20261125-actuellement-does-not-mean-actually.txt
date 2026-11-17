@@ -1,0 +1,14 @@
+title: "Actuellement" Does NOT Mean "Actually" in French
+scene: park
+cast: marinette, adrien
+
+[hook]
+Marinette: Careful! «Actuellement» does NOT mean actually.
+[story]
+Adrien: Actuellement, j'habite à Paris. | Right now, I live in Paris.
+Marinette: Oui ! Actuellement veut dire « en ce moment ». | Yes! Actuellement means "right now."
+Adrien: Et pour « actually » ? | And for "actually"?
+Marinette: On dit « en fait ». | We say "en fait".
+Adrien: En fait, c'est facile ! | Actually, it's easy!
+[ending]
+Marinette: Did you know that one? Comment yes or no!

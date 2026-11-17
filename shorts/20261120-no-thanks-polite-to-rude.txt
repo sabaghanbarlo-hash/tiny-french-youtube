@@ -1,0 +1,17 @@
+title: Say "No Thanks" in French: From Polite to Rude
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Four ways to say no thanks in French!
+[story]
+Marinette: This one is very polite.
+Adrien: Non merci, c'est très gentil. | No thank you, that's very kind.
+Marinette: This one is normal.
+Adrien: Non merci. | No thank you.
+Marinette: This one is casual.
+Adrien: Non, ça ira. | No, I'm fine.
+Marinette: And this one is rude!
+Adrien: Laisse tomber ! | Drop it!
+[ending]
+Adrien: Which one do you use? Comment 1, 2, 3 or 4!

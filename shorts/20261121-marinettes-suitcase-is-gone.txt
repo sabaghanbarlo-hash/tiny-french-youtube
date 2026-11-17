@@ -1,0 +1,15 @@
+title: Marinette's Suitcase Is Gone at the Airport!
+scene: airport
+cast: marinette, adrien
+
+[hook]
+Marinette: Oh no, my suitcase is gone!
+[story]
+Marinette: Excusez-moi, où est ma valise ? | Excuse me, where is my suitcase?
+Adrien: Elle est comment ? | What does it look like?
+Marinette: Elle est rouge et grande. | It is red and big.
+Adrien: Regarde, elle est là-bas ! | Look, it's over there!
+Marinette: Oh, ce n'est pas la mienne ! | Oh, it's not mine!
+Adrien: Alors, où est la tienne ? | So where is yours?
+[ending]
+Marinette: Do you know the word for suitcase? Comment it!

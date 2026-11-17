@@ -1,0 +1,17 @@
+title: Ask for the Bill in French: From Polite to Rude
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Adrien: Four ways to ask for the bill in French!
+[story]
+Adrien: This one is very polite.
+Marinette: Je voudrais payer, s'il vous plaît. | I would like to pay, please.
+Adrien: This one is normal.
+Marinette: L'addition, s'il vous plaît. | The bill, please.
+Adrien: This one is casual.
+Marinette: On peut payer ? | Can we pay?
+Adrien: And this one is a bit rude!
+Marinette: L'addition ! | The bill!
+[ending]
+Adrien: Which one would you say? Comment 1, 2, 3 or 4!

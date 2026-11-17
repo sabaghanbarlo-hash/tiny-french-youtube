@@ -1,1 +1,341 @@
-{"paused": false, "lookahead_hours": 120, "min_lead_minutes": 20, "timezone_note": "All times are UTC. 15:00Z = 10:00 US Eastern (EST); 23:00Z = 18:00 EST; 22:00Z = 17:00 EST; 16:00Z = 11:00 EST.", "already_uploaded_private": [{"video_id": "4JEhdNZebeY", "title": "Ep.1 A Rainy Day in Paris", "publish_at": "2026-11-01T15:00:00Z"}, {"video_id": "E9asTQqOZxc", "title": "3 French Phrases for the Bakery", "publish_at": "2026-11-02T23:00:00Z"}], "items": [{"kind": "lesson", "file": "20261103-greetings-through-the-day.txt", "publish_at": "2026-11-03T15:00:00Z", "title": "Greetings Through the Day"}, {"kind": "short", "file": "20261104-stop-saying-just-merci.txt", "publish_at": "2026-11-04T23:00:00Z", "title": "Stop Saying Just \u201cMerci\u201d! 3 Ways to Say Thank You in French"}, {"kind": "short", "file": "20261105-how-to-say-i-dont-understand.txt", "publish_at": "2026-11-05T23:00:00Z", "title": "How to Say \u201cI Don't Understand\u201d in French (3 Useful Phrases)"}, {"kind": "short", "file": "20261106-polite-vs-rude-i-want.txt", "publish_at": "2026-11-06T22:00:00Z", "title": "Polite vs Rude: How to Say \u201cI Want\u201d in French (Not Je Veux!)"}, {"kind": "short", "file": "20261107-bonjour-or-salut.txt", "publish_at": "2026-11-07T16:00:00Z", "title": "Bonjour or Salut? Don't Say the Wrong Hello in French"}, {"kind": "story", "file": "20261108-a-day-at-the-fun-fair.txt", "publish_at": "2026-11-08T15:00:00Z", "title": "A Day at the Fun Fair"}, {"kind": "short", "file": "20261109-how-to-say-no.txt", "publish_at": "2026-11-09T23:00:00Z", "title": "How to Say \u201cNo\u201d in French Without Sounding Rude"}, {"kind": "lesson", "file": "20261110-introducing-yourself.txt", "publish_at": "2026-11-10T15:00:00Z", "title": "Introducing Yourself"}, {"kind": "short", "file": "20261111-french-you-hear-at-cafes.txt", "publish_at": "2026-11-11T23:00:00Z", "title": "3 French Phrases You'll Hear at Every Caf\u00e9 (Understand Them!)"}, {"kind": "short", "file": "20261112-count-to-ten.txt", "publish_at": "2026-11-12T23:00:00Z", "title": "Count to 10 in French in 20 Seconds"}, {"kind": "short", "file": "20261113-dont-say-je-suis-chaud.txt", "publish_at": "2026-11-13T22:00:00Z", "title": "Don't Say \u201cJe Suis Chaud\u201d! Say This Instead in French"}, {"kind": "short", "file": "20261114-youre-welcome.txt", "publish_at": "2026-11-14T16:00:00Z", "title": "3 Ways to Say \u201cYou're Welcome\u201d in French (Not Just De Rien)"}, {"kind": "story", "file": "20261115-a-walk-in-paris.txt", "publish_at": "2026-11-15T15:00:00Z", "title": "A Walk in Paris"}, {"kind": "short", "file": "20261116-excuse-me.txt", "publish_at": "2026-11-16T23:00:00Z", "title": "3 Ways to Say \u201cExcuse Me\u201d in French (Pardon, Excusez-moi\u2026)"}, {"kind": "lesson", "file": "20261117-numbers-and-prices.txt", "publish_at": "2026-11-17T15:00:00Z", "title": "Numbers and Prices"}, {"kind": "short", "file": "20261118-where-is-the-toilet.txt", "publish_at": "2026-11-18T23:00:00Z", "title": "How to Ask \u201cWhere Is the Toilet?\u201d in French (You'll Need It!)"}, {"kind": "short", "file": "20261119-introduce-yourself.txt", "publish_at": "2026-11-19T23:00:00Z", "title": "Introduce Yourself in French in 20 Seconds (Beginner Script)"}, {"kind": "short", "file": "20261120-its-delicious.txt", "publish_at": "2026-11-20T22:00:00Z", "title": "How to Compliment Food in French: \u201cC'est D\u00e9licieux !\u201d and More"}, {"kind": "short", "file": "20261121-better-goodbyes.txt", "publish_at": "2026-11-21T16:00:00Z", "title": "Don't Just Say \u201cAu Revoir\u201d! 3 Better Goodbyes in French"}, {"kind": "story", "file": "20261122-a-saturday-in-town.txt", "publish_at": "2026-11-22T15:00:00Z", "title": "A Saturday in Town"}, {"kind": "short", "file": "20261123-bonsoir-or-bonne-nuit.txt", "publish_at": "2026-11-23T23:00:00Z", "title": "Bonsoir or Bonne Nuit? Don't Say Good Night Too Early in French"}, {"kind": "lesson", "file": "20261124-ordering-at-the-cafe.txt", "publish_at": "2026-11-24T15:00:00Z", "title": "Ordering at the Caf\u00e9"}, {"kind": "short", "file": "20261125-tu-or-vous.txt", "publish_at": "2026-11-25T23:00:00Z", "title": "Tu or Vous? The Easy Rule for Saying \u201cYou\u201d in French"}, {"kind": "short", "file": "20261126-do-you-speak-english.txt", "publish_at": "2026-11-26T23:00:00Z", "title": "How to Ask \u201cDo You Speak English?\u201d in French (Politely!)"}, {"kind": "short", "file": "20261127-how-much-is-it.txt", "publish_at": "2026-11-27T22:00:00Z", "title": "How to Ask \u201cHow Much Is It?\u201d in French (Too Expensive!)"}, {"kind": "short", "file": "20261128-cheers-in-french.txt", "publish_at": "2026-11-28T16:00:00Z", "title": "How to Say \u201cCheers!\u201d in French (Sant\u00e9!) and More"}, {"kind": "lesson", "file": "fs-01-accents-and-the-alphabet.txt", "publish_at": "2026-11-29T15:00:00Z", "title": "Accents and the Alphabet"}, {"kind": "lesson", "file": "fs-02-silent-letters-and-liaison.txt", "publish_at": "2026-11-30T15:00:00Z", "title": "Silent Letters and Liaison"}, {"kind": "lesson", "file": "ef-01-days-and-today.txt", "publish_at": "2026-12-01T15:00:00Z", "title": "Days of the Week"}, {"kind": "lesson", "file": "ef-02-telling-the-time.txt", "publish_at": "2026-12-02T15:00:00Z", "title": "Telling the Time"}, {"kind": "lesson", "file": "fg-02-the-verb-avoir.txt", "publish_at": "2026-12-03T15:00:00Z", "title": "The Verb Avoir (to have)"}, {"kind": "lesson", "file": "t1-009.txt", "publish_at": "2026-12-04T15:00:00Z", "title": "Numbers 1 to 10"}, {"kind": "lesson", "file": "t1-010.txt", "publish_at": "2026-12-05T15:00:00Z", "title": "Degree Words and Connectors"}, {"kind": "lesson", "file": "tc-001.txt", "publish_at": "2026-12-06T15:00:00Z", "title": "A First Hello"}, {"kind": "lesson", "file": "tc-002.txt", "publish_at": "2026-12-07T15:00:00Z", "title": "New Neighbor"}, {"kind": "lesson", "file": "tc-003.txt", "publish_at": "2026-12-08T15:00:00Z", "title": "Meet My Friend"}, {"kind": "lesson", "file": "tc-004.txt", "publish_at": "2026-12-09T15:00:00Z", "title": "Where Are You From?"}, {"kind": "lesson", "file": "tc-005.txt", "publish_at": "2026-12-10T15:00:00Z", "title": "What Languages Do You Speak?"}, {"kind": "lesson", "file": "tc-006.txt", "publish_at": "2026-12-11T15:00:00Z", "title": "First Day in Class"}, {"kind": "lesson", "file": "tc-007.txt", "publish_at": "2026-12-12T15:00:00Z", "title": "Meeting the Host"}, {"kind": "lesson", "file": "tc-008.txt", "publish_at": "2026-12-13T15:00:00Z", "title": "A Friendly Introduction"}, {"kind": "lesson", "file": "tc-009.txt", "publish_at": "2026-12-14T15:00:00Z", "title": "Saying Goodbye"}, {"kind": "lesson", "file": "tc-010.txt", "publish_at": "2026-12-15T15:00:00Z", "title": "Exchanging Numbers"}, {"kind": "lesson", "file": "ua-01-my-name-is.txt", "publish_at": "2026-12-16T15:00:00Z", "title": "Hello, My Name Is\u2026"}, {"kind": "lesson", "file": "ua-02-nationality-and-home.txt", "publish_at": "2026-12-17T15:00:00Z", "title": "Where Are You From?"}]}
+{
+  "paused": false,
+  "lookahead_hours": 48,
+  "min_lead_minutes": 20,
+  "timezone_note": "All times are UTC. 15:00Z = 10:00 US Eastern (EST); 23:00Z = 18:00 EST; 22:00Z = 17:00 EST; 16:00Z = 11:00 EST.",
+  "already_uploaded_private": [
+    {
+      "video_id": "4JEhdNZebeY",
+      "title": "Ep.1 A Rainy Day in Paris",
+      "publish_at": "2026-11-01T15:00:00Z"
+    },
+    {
+      "video_id": "E9asTQqOZxc",
+      "title": "3 French Phrases for the Bakery",
+      "publish_at": "2026-11-02T23:00:00Z"
+    }
+  ],
+  "items": [
+    {
+      "kind": "lesson",
+      "file": "20261103-greetings-through-the-day.txt",
+      "publish_at": "2026-11-03T15:00:00Z",
+      "title": "Greetings Through the Day"
+    },
+    {
+      "kind": "short",
+      "file": "20261104-stop-saying-just-merci.txt",
+      "publish_at": "2026-11-04T23:00:00Z",
+      "title": "Stop Saying Just “Merci”! 3 Ways to Say Thank You in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261105-how-to-say-i-dont-understand.txt",
+      "publish_at": "2026-11-05T23:00:00Z",
+      "title": "How to Say “I Don't Understand” in French (3 Useful Phrases)"
+    },
+    {
+      "kind": "short",
+      "file": "20261106-polite-vs-rude-i-want.txt",
+      "publish_at": "2026-11-06T22:00:00Z",
+      "title": "Polite vs Rude: How to Say “I Want” in French (Not Je Veux!)"
+    },
+    {
+      "kind": "short",
+      "file": "20261107-bonjour-or-salut.txt",
+      "publish_at": "2026-11-07T16:00:00Z",
+      "title": "Bonjour or Salut? Don't Say the Wrong Hello in French"
+    },
+    {
+      "kind": "story",
+      "file": "20261108-a-day-at-the-fun-fair.txt",
+      "publish_at": "2026-11-08T15:00:00Z",
+      "title": "A Day at the Fun Fair"
+    },
+    {
+      "kind": "short",
+      "file": "20261109-how-to-say-no.txt",
+      "publish_at": "2026-11-09T23:00:00Z",
+      "title": "How to Say “No” in French Without Sounding Rude"
+    },
+    {
+      "kind": "lesson",
+      "file": "20261110-introducing-yourself.txt",
+      "publish_at": "2026-11-10T15:00:00Z",
+      "title": "Introducing Yourself"
+    },
+    {
+      "kind": "short",
+      "file": "20261111-french-you-hear-at-cafes.txt",
+      "publish_at": "2026-11-11T23:00:00Z",
+      "title": "3 French Phrases You'll Hear at Every Café (Understand Them!)"
+    },
+    {
+      "kind": "short",
+      "file": "20261112-count-to-ten.txt",
+      "publish_at": "2026-11-12T23:00:00Z",
+      "title": "Count to 10 in French in 20 Seconds"
+    },
+    {
+      "kind": "short",
+      "file": "20261113-dont-say-je-suis-chaud.txt",
+      "publish_at": "2026-11-13T22:00:00Z",
+      "title": "Don't Say “Je Suis Chaud”! Say This Instead in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261114-youre-welcome.txt",
+      "publish_at": "2026-11-14T16:00:00Z",
+      "title": "3 Ways to Say “You're Welcome” in French (Not Just De Rien)"
+    },
+    {
+      "kind": "story",
+      "file": "20261115-a-walk-in-paris.txt",
+      "publish_at": "2026-11-15T15:00:00Z",
+      "title": "A Walk in Paris"
+    },
+    {
+      "kind": "short",
+      "file": "20261116-excuse-me.txt",
+      "publish_at": "2026-11-16T23:00:00Z",
+      "title": "3 Ways to Say “Excuse Me” in French (Pardon, Excusez-moi…)"
+    },
+    {
+      "kind": "lesson",
+      "file": "20261117-numbers-and-prices.txt",
+      "publish_at": "2026-11-17T15:00:00Z",
+      "title": "Numbers and Prices"
+    },
+    {
+      "kind": "short",
+      "file": "20261118-i-dont-care-polite-to-rude.txt",
+      "publish_at": "2026-11-18T15:00:00Z",
+      "title": "\"I Don't Care\" in French: From Polite to Rude"
+    },
+    {
+      "kind": "short",
+      "file": "20261118-where-is-the-toilet.txt",
+      "publish_at": "2026-11-18T23:00:00Z",
+      "title": "How to Ask “Where Is the Toilet?” in French (You'll Need It!)"
+    },
+    {
+      "kind": "short",
+      "file": "20261119-ask-for-the-bill-polite-to-rude.txt",
+      "publish_at": "2026-11-19T15:00:00Z",
+      "title": "Ask for the Bill in French: From Polite to Rude"
+    },
+    {
+      "kind": "short",
+      "file": "20261119-introduce-yourself.txt",
+      "publish_at": "2026-11-19T23:00:00Z",
+      "title": "Introduce Yourself in French in 20 Seconds (Beginner Script)"
+    },
+    {
+      "kind": "short",
+      "file": "20261120-no-thanks-polite-to-rude.txt",
+      "publish_at": "2026-11-20T15:00:00Z",
+      "title": "Say \"No Thanks\" in French: From Polite to Rude"
+    },
+    {
+      "kind": "short",
+      "file": "20261120-its-delicious.txt",
+      "publish_at": "2026-11-20T22:00:00Z",
+      "title": "How to Compliment Food in French: “C'est Délicieux !” and More"
+    },
+    {
+      "kind": "short",
+      "file": "20261121-marinettes-suitcase-is-gone.txt",
+      "publish_at": "2026-11-21T15:00:00Z",
+      "title": "Marinette's Suitcase Is Gone at the Airport!"
+    },
+    {
+      "kind": "short",
+      "file": "20261121-better-goodbyes.txt",
+      "publish_at": "2026-11-21T16:00:00Z",
+      "title": "Don't Just Say “Au Revoir”! 3 Better Goodbyes in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261122-the-baker-said-ah-non.txt",
+      "publish_at": "2026-11-22T15:00:00Z",
+      "title": "The Baker Said \"Ah Non!\" What Did Adrien Forget?"
+    },
+    {
+      "kind": "short",
+      "file": "20261123-je-suis-faim-the-waiter-laughed.txt",
+      "publish_at": "2026-11-23T15:00:00Z",
+      "title": "Adrien Said \"Je Suis Faim\" and the Waiter Laughed. Why?"
+    },
+    {
+      "kind": "short",
+      "file": "20261123-bonsoir-or-bonne-nuit.txt",
+      "publish_at": "2026-11-23T23:00:00Z",
+      "title": "Bonsoir or Bonne Nuit? Don't Say Good Night Too Early in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261124-checking-in-at-a-paris-hotel.txt",
+      "publish_at": "2026-11-24T15:00:00Z",
+      "title": "Checking In at a Paris Hotel: French Dialogue for Beginners"
+    },
+    {
+      "kind": "short",
+      "file": "20261125-actuellement-does-not-mean-actually.txt",
+      "publish_at": "2026-11-25T15:00:00Z",
+      "title": "\"Actuellement\" Does NOT Mean \"Actually\" in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261125-tu-or-vous.txt",
+      "publish_at": "2026-11-25T23:00:00Z",
+      "title": "Tu or Vous? The Easy Rule for Saying “You” in French"
+    },
+    {
+      "kind": "short",
+      "file": "20261126-do-you-speak-english.txt",
+      "publish_at": "2026-11-26T23:00:00Z",
+      "title": "How to Ask “Do You Speak English?” in French (Politely!)"
+    },
+    {
+      "kind": "short",
+      "file": "20261127-how-much-is-it.txt",
+      "publish_at": "2026-11-27T22:00:00Z",
+      "title": "How to Ask “How Much Is It?” in French (Too Expensive!)"
+    },
+    {
+      "kind": "short",
+      "file": "20261128-cheers-in-french.txt",
+      "publish_at": "2026-11-28T16:00:00Z",
+      "title": "How to Say “Cheers!” in French (Santé!) and More"
+    }
+  ],
+  "held_items": [
+    {
+      "kind": "story",
+      "file": "20261122-a-saturday-in-town.txt",
+      "publish_at": "2026-11-22T15:00:00Z",
+      "title": "A Saturday in Town"
+    },
+    {
+      "kind": "lesson",
+      "file": "20261124-ordering-at-the-cafe.txt",
+      "publish_at": "2026-11-24T15:00:00Z",
+      "title": "Ordering at the Café"
+    },
+    {
+      "kind": "lesson",
+      "file": "fs-01-accents-and-the-alphabet.txt",
+      "publish_at": "2026-11-29T15:00:00Z",
+      "title": "Accents and the Alphabet"
+    },
+    {
+      "kind": "lesson",
+      "file": "fs-02-silent-letters-and-liaison.txt",
+      "publish_at": "2026-11-30T15:00:00Z",
+      "title": "Silent Letters and Liaison"
+    },
+    {
+      "kind": "lesson",
+      "file": "ef-01-days-and-today.txt",
+      "publish_at": "2026-12-01T15:00:00Z",
+      "title": "Days of the Week"
+    },
+    {
+      "kind": "lesson",
+      "file": "ef-02-telling-the-time.txt",
+      "publish_at": "2026-12-02T15:00:00Z",
+      "title": "Telling the Time"
+    },
+    {
+      "kind": "lesson",
+      "file": "fg-02-the-verb-avoir.txt",
+      "publish_at": "2026-12-03T15:00:00Z",
+      "title": "The Verb Avoir (to have)"
+    },
+    {
+      "kind": "lesson",
+      "file": "t1-009.txt",
+      "publish_at": "2026-12-04T15:00:00Z",
+      "title": "Numbers 1 to 10"
+    },
+    {
+      "kind": "lesson",
+      "file": "t1-010.txt",
+      "publish_at": "2026-12-05T15:00:00Z",
+      "title": "Degree Words and Connectors"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-001.txt",
+      "publish_at": "2026-12-06T15:00:00Z",
+      "title": "A First Hello"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-002.txt",
+      "publish_at": "2026-12-07T15:00:00Z",
+      "title": "New Neighbor"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-003.txt",
+      "publish_at": "2026-12-08T15:00:00Z",
+      "title": "Meet My Friend"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-004.txt",
+      "publish_at": "2026-12-09T15:00:00Z",
+      "title": "Where Are You From?"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-005.txt",
+      "publish_at": "2026-12-10T15:00:00Z",
+      "title": "What Languages Do You Speak?"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-006.txt",
+      "publish_at": "2026-12-11T15:00:00Z",
+      "title": "First Day in Class"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-007.txt",
+      "publish_at": "2026-12-12T15:00:00Z",
+      "title": "Meeting the Host"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-008.txt",
+      "publish_at": "2026-12-13T15:00:00Z",
+      "title": "A Friendly Introduction"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-009.txt",
+      "publish_at": "2026-12-14T15:00:00Z",
+      "title": "Saying Goodbye"
+    },
+    {
+      "kind": "lesson",
+      "file": "tc-010.txt",
+      "publish_at": "2026-12-15T15:00:00Z",
+      "title": "Exchanging Numbers"
+    },
+    {
+      "kind": "lesson",
+      "file": "ua-01-my-name-is.txt",
+      "publish_at": "2026-12-16T15:00:00Z",
+      "title": "Hello, My Name Is…"
+    },
+    {
+      "kind": "lesson",
+      "file": "ua-02-nationality-and-home.txt",
+      "publish_at": "2026-12-17T15:00:00Z",
+      "title": "Where Are You From?"
+    }
+  ],
+  "held_note": "Held on 17 Nov 2026 for the growth test (see PLAN.md). scheduler.py ignores this list. To publish one again, move it back into items and set a new publish_at."
+}

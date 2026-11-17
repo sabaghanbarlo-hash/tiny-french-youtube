@@ -1,0 +1,16 @@
+title: Checking In at a Paris Hotel: French Dialogue for Beginners
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: Let's check in at a hotel in Paris!
+[story]
+Adrien: Bonjour, j'ai une réservation. | Hello, I have a reservation.
+Marinette: Votre nom, s'il vous plaît ? | Your name, please?
+Adrien: Adrien Martin. | Adrien Martin.
+Marinette: Voilà votre clé. Chambre douze. | Here is your key. Room twelve.
+Adrien: Le petit déjeuner est à quelle heure ? | What time is breakfast?
+Marinette: À sept heures. | At seven o'clock.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Do you know the word for key? Comment it!
