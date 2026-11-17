@@ -1,0 +1,13 @@
+title: Adrien Said "Je Suis Faim" and the Waiter Laughed. Why?
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Adrien made a funny mistake at the restaurant!
+[story]
+Adrien: Bonjour ! Je suis faim ! | Hello! I am hungry!
+Marinette: Ha ha ! On dit « j'ai faim ». | Ha ha! We say "I have hunger."
+Adrien: J'ai faim ! | I'm hungry!
+Marinette: Parfait ! | Perfect!
+[ending]
+Adrien: In French you have hunger. You are not hunger!

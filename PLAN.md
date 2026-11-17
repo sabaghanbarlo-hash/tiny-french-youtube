@@ -92,3 +92,22 @@ Weeks 1-4 are all written. Weeks 5+ (December): see "Next" below.
 - Two videos were uploaded before the scheduler existed and are still plain private: **Ep.1 A Rainy Day in Paris** and **3 French Phrases for the Bakery**. In YouTube Studio > Content, open each one > Visibility > Schedule, and pick Sun Nov 1 10:00 ET (Ep.1) and Mon Nov 2 18:00 ET (bakery Short).
 - The channel also holds three older private guided-meditation videos from Oct 26. They are private so they do no harm; delete them if you do not want them on a French channel.
 - The scheduler uploads new videos private with a publish time, so you do not need to touch the YT_PRIVACY setting.
+
+## Growth update (17 Nov 2026): English-first test and two Shorts a day
+
+Why: Tiny French grows slowly next to Instagram. What the data showed:
+- Shorts are 99% of all views (1,517 of about 1,524); the 4 public long videos got 9 views in total; the one "Polite vs Rude" Short is 74% of all views. Check Studio > Analytics > Audience > Geography for the country split.
+- In the niche, the Shorts that broke out run 12-40 seconds around one situation or contrast and have English titles. Ours run 59-88 seconds.
+
+What this change does:
+- Adds 8 test Shorts (`shorts/20261118-...` to `shorts/20261125-...`), one a day at 15:00 UTC (10:00 ET), as a second daily Short next to the existing 23:00 UTC slot.
+- Each opens with an English hook (the narrator voice speaks the English parts), runs about 20-40 seconds and ends with a comment question.
+- Sets the upload language to English (`defaultLanguage` and `defaultAudioLanguage` in `upload.py`).
+- 21 unpublished long videos moved from `items` to `held_items` in schedule.json (nothing deleted): 20261122-a-saturday-in-town.txt, 20261124-ordering-at-the-cafe.txt, fs-01-accents-and-the-alphabet.txt, fs-02-silent-letters-and-liaison.txt, ef-01-days-and-today.txt, ef-02-telling-the-time.txt .... Move one back into `items` with a new `publish_at` to publish it.
+- Lowers `lookahead_hours` from 120 to 48. As far as I know the YouTube API allows about 6 uploads a day per Google project (1,600 units each on a 10,000 default), and a 120-hour window would try about 10 at once.
+
+Checkpoints:
+- 24 Nov: share of views outside the home country (Studio > Analytics > Audience > Geography). Keep the English-first openings if 25% or more of views come from outside Japan (Tiny Japanese) or the target countries.
+- 1 Dec: median views per format, 10 Shorts each. Keep a format at 3x today's median (about 400 Japanese, 65 French) and above 50% viewed; cut one under 1x.
+
+Not done here: weekly listen-and-repeat compilation videos (needs a new script type); the existing queued Shorts keep their current length and titles; the held lessons are only held back from YouTube, not removed from the repo or the website courses.

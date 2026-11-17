@@ -1,0 +1,17 @@
+title: "I Don't Care" in French: From Polite to Rude
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: I don't care, in French, from polite to very rude!
+[story]
+Marinette: This one is polite.
+Adrien: Peu importe. | It doesn't matter.
+Marinette: This one is casual.
+Adrien: Ça m'est égal. | I don't mind.
+Marinette: This one is a bit rude.
+Adrien: Je m'en fiche. | I don't care.
+Marinette: And this one is very rude!
+Adrien: Je m'en fous ! | I couldn't care less!
+[ending]
+Marinette: Which level do you use? Comment 1, 2, 3 or 4!
