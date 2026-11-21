@@ -34,6 +34,13 @@ CHARS = {
                       accent=(228, 140, 152), long_hair=False, fr=True, trouser=(236, 228, 212), shoe=(214, 64, 70), x=150),
     "Adrien": dict(voice="fr-FR-HenriNeural", hair=(247, 208, 120), skin=(253, 227, 203), top=(44, 58, 104),
                    accent=(95, 158, 134), long_hair=False, fr=True, trouser=(196, 160, 112), shoe=(110, 70, 48), x=W - 150 - SPRITE_W),
+    # Supporting characters (extra=True): not on stage unless a script uses them ("Bernard enters right" / "Bernard: ..."), no thumbnail, never part of "both".
+    "Bernard": dict(voice="fr-FR-HenriNeural", pitch="-18Hz", hair=(176, 176, 184), skin=(240, 208, 184), top=(104, 92, 78), accent=(150, 130, 100),
+                    long_hair=False, fr=True, trouser=(70, 74, 92), shoe=(80, 60, 48), x=W // 2 - SPRITE_W // 2, extra=True),
+    "Pierre": dict(voice="fr-FR-HenriNeural", pitch="-8Hz", hair=(70, 50, 40), skin=(240, 206, 176), top=(244, 244, 246), accent=(200, 150, 90),
+                   long_hair=False, fr=True, trouser=(60, 64, 80), shoe=(60, 50, 44), x=W // 2 - SPRITE_W // 2, extra=True),
+    "Camille": dict(voice="fr-FR-DeniseNeural", pitch="+10Hz", hair=(130, 76, 50), skin=(253, 222, 198), top=(156, 196, 170), accent=(110, 160, 130),
+                    long_hair=False, fr=True, trouser=(60, 70, 100), shoe=(180, 70, 80), x=W // 2 - SPRITE_W // 2, extra=True),
 }
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # shared modules live in the repo root
 import characters as CH
@@ -420,6 +427,14 @@ def parse_script(path):
                     die(f"line {n}: {e}")
                 pending_dirs.append((m[1].lower(), val, False))
                 continue
+            m = re.match(r"^@camera\s+(.+)$", s, re.I)
+            if m:
+                try:
+                    cam = A.parse_camera(m[1])
+                except ValueError as e:
+                    die(f"line {n}: {e}")
+                pending_dirs.append(("camera", cam, False))
+                continue
             m = re.match(r"^([>&])\s*(.+)$", s)
             if m:
                 try:
@@ -537,7 +552,7 @@ def synth(text, who, out_wav, rate, dummy=False):
     for attempt in range(1, 6):
         try:
             import edge_tts
-            asyncio.run(edge_tts.Communicate(text, voice, rate=rate).save(mp3))
+            asyncio.run(edge_tts.Communicate(text, voice, rate=rate, pitch=(CHARS[who].get("pitch", "+0Hz") if jp else "+0Hz")).save(mp3))
             ok = True
             break
         except Exception as e:
@@ -746,6 +761,7 @@ class Renderer:
 
     # ---- stage (story / title / outro)
     def stage(self, seg, i, tt, who, mouth):
+        self._who = who
         name = seg.get("scene")
         var = seg.get("variant", 0)
         bg, fg = self.scene(name, var)
@@ -754,6 +770,7 @@ class Renderer:
             fr = Image.blend(self.scene(seg["prev_scene"])[0], fr, min(1, (tt - seg["start"]) / 0.5))
         A.draw_characters(self, fr, seg, i, tt, who, mouth)
         fr.paste(fg, (0, FLOOR_Y - 40), fg)
+        fr = A.apply_camera(self, fr, seg, tt)          # zoom / pan / close-ups; the subtitle card below stays un-zoomed
         if seg["kind"] == "story":
             ln = seg["line"]
             cd = self.cached(("story", id(ln)), lambda: story_card(ln))
@@ -855,6 +872,8 @@ def thumbnail(R, path):
     seg = R.B["segs"][0]
     bg, fg = R.scene(seg["scene"]); fr = bg.copy()
     for nm, c in CHARS.items():
+        if c.get("extra"):
+            continue
         s = sprite(nm, 2 if nm == "Marinette" else 1, False); fr.paste(s, (c["x"], CHAR_Y + 70), s)
     fr.paste(fg, (0, FLOOR_Y - 40), fg)
     d = ImageDraw.Draw(fr, "RGBA"); ep = f"Ep.{R.meta['episode']}" if R.meta.get("episode") else "TINY FRENCH"
