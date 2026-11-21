@@ -1,0 +1,57 @@
+title: Perdue dans Paris
+scene: town
+
+[story]
+@scene town
+> Marinette enters left
+> Marinette looks worried
+Marinette: Oh là là... Je suis perdue ! | Oh dear... I'm lost!
+> Bernard enters right
+Marinette: Excusez-moi, monsieur. Où est la gare, s'il vous plaît ? | Excuse me, sir. Where is the station, please?
+> Bernard points right
+Bernard: La gare ? C'est facile ! Allez tout droit. | The station? It's easy! Go straight.
+Bernard: Ensuite, tournez à gauche, à la boulangerie. | Then turn left at the bakery.
+> Marinette nods
+Marinette: Tout droit, puis à gauche. D'accord. | Straight, then left. Okay.
+Bernard: Et la gare est à droite, près de la poste. | And the station is on the right, near the post office.
+> Marinette bows
+Marinette: Merci beaucoup, monsieur ! | Thank you very much, sir!
+> Bernard exits right
+> Adrien enters right
+> Adrien looks worried
+Adrien: Marinette ! Je te cherche partout ! | Marinette! I've been looking for you everywhere!
+Marinette: Je suis perdue ! Mais un monsieur m'a aidée. | I'm lost! But a gentleman helped me.
+> Adrien looks embarrassed
+Adrien: Moi aussi, je suis perdu... | I'm lost too...
+> Marinette laughs
+Marinette: Alors, allons-y ensemble ! Tout droit, puis à gauche ! | Then let's go together! Straight, then left!
+> Adrien cheers
+Adrien: Tu es mon GPS préféré ! | You're my favorite GPS!
+
+[vocab]
+vocab: perdu(e) | lost | pehr-DOO
+example: Je suis perdue. | I'm lost.
+vocab: la gare | the train station | lah GAR
+example: Où est la gare ? | Where is the station?
+vocab: tout droit | straight ahead | too DRWAH
+example: Allez tout droit. | Go straight ahead.
+vocab: à gauche | to the left | ah GOHSH
+example: Tournez à gauche. | Turn left.
+vocab: à droite | to the right | ah DRWAHT
+example: La gare est à droite. | The station is on the right.
+
+[grammar]
+grammar: Où est + noun ? | Use this to ask where something is
+example: Où est la gare ? | Where is the station?
+example: Où est la poste ? | Where is the post office?
+grammar: Tournez / Allez + direction | Use these to give directions
+example: Tournez à gauche. | Turn left.
+example: Allez tout droit. | Go straight ahead.
+
+[quiz]
+quiz: What does "à droite" mean? | to the left | to the right | straight ahead | B | "À droite" means to the right.
+quiz: How do you ask "Where is the station?" | Où est la gare ? | Qui est la gare ? | Quand est la gare ? | A | "Où" means where.
+quiz: What does "tout droit" mean? | straight ahead | far away | very right | A | "Tout droit" means straight ahead.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

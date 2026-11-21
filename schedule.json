@@ -207,6 +207,48 @@
       "file": "20261128-cheers-in-french.txt",
       "publish_at": "2026-11-28T16:00:00Z",
       "title": "How to Say “Cheers!” in French (Santé!) and More"
+    },
+    {
+      "kind": "story",
+      "file": "20261129-un-pique-nique-au-parc.txt",
+      "publish_at": "2026-11-29T15:00:00Z",
+      "title": "Un Pique-nique au Parc"
+    },
+    {
+      "kind": "story",
+      "file": "20261130-a-la-boulangerie.txt",
+      "publish_at": "2026-11-30T14:00:00Z",
+      "title": "À la Boulangerie"
+    },
+    {
+      "kind": "story",
+      "file": "20261201-le-nouveau-voisin.txt",
+      "publish_at": "2026-12-01T14:00:00Z",
+      "title": "Le Nouveau Voisin"
+    },
+    {
+      "kind": "story",
+      "file": "20261202-un-cafe-sil-vous-plait.txt",
+      "publish_at": "2026-12-02T12:00:00Z",
+      "title": "Un Café, S'il Vous Plaît"
+    },
+    {
+      "kind": "story",
+      "file": "20261203-le-train-de-neuf-heures.txt",
+      "publish_at": "2026-12-03T12:00:00Z",
+      "title": "Le Train de Neuf Heures"
+    },
+    {
+      "kind": "story",
+      "file": "20261204-perdue-dans-paris.txt",
+      "publish_at": "2026-12-04T17:00:00Z",
+      "title": "Perdue dans Paris"
+    },
+    {
+      "kind": "story",
+      "file": "20261205-la-premiere-neige.txt",
+      "publish_at": "2026-12-05T20:00:00Z",
+      "title": "La Première Neige"
     }
   ],
   "held_items": [

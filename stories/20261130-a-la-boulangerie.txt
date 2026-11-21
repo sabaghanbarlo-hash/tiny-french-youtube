@@ -1,0 +1,61 @@
+title: À la Boulangerie
+scene: store
+
+[story]
+@scene store
+> Marinette enters left
+& Adrien enters right
+> Adrien looks worried
+Adrien: Marinette, j'ai faim ! Je veux du pain ! | Marinette, I'm hungry! I want some bread!
+> Marinette looks surprised
+Marinette: Chut ! On ne dit pas « je veux ». | Shh! We don't say "I want."
+> Adrien looks confused
+Adrien: Ah bon ? Et alors, qu'est-ce qu'on dit ? | Really? So what do we say?
+> Marinette crosses arms
+Marinette: On dit : « Je voudrais ». C'est plus poli. | We say "I would like." It's more polite.
+> Camille enters right
+Camille: Bonjour ! Je vous écoute. | Hello! I'm listening.
+> Adrien clasps hands
+Adrien: Bonjour, madame. Je voudrais un croissant et une baguette, s'il vous plaît. | Hello, ma'am. I would like a croissant and a baguette, please.
+> Camille looks happy
+Camille: Très bien ! Voilà. Ça fait trois euros cinquante. | Very good! Here you are. That's three euros fifty.
+> Adrien shows
+Adrien: Voici cinq euros. | Here's five euros.
+> Camille shows
+Camille: Et voilà votre monnaie. Bonne journée ! | And here's your change. Have a nice day!
+> Adrien bows
+Adrien: Merci, madame. Bonne journée ! | Thank you, ma'am. Have a nice day!
+> Marinette cheers
+Marinette: Bravo, Adrien ! Ton français est super ! | Well done, Adrien! Your French is great!
+> Adrien looks smirking
+Adrien: Tu vois ? Je voudrais... un autre croissant ! | You see? I would like... another croissant!
+> Marinette laughs
+Marinette: Tu es incorrigible ! | You're hopeless!
+
+[vocab]
+vocab: un croissant | a croissant | uhn krwah-SAHN
+example: Je voudrais un croissant. | I would like a croissant.
+vocab: une baguette | a baguette | oon ba-GET
+example: Une baguette, s'il vous plaît. | A baguette, please.
+vocab: la monnaie | the change | lah moh-NAY
+example: Voici votre monnaie. | Here's your change.
+vocab: poli | polite | poh-LEE
+example: C'est plus poli. | It's more polite.
+vocab: bonne journée | have a nice day | bun zhoor-NAY
+example: Au revoir et bonne journée ! | Goodbye and have a nice day!
+
+[grammar]
+grammar: Je voudrais + noun | Use this instead of "je veux" to ask politely
+example: Je voudrais un café. | I would like a coffee.
+example: Je voudrais une baguette. | I would like a baguette.
+grammar: Ça fait + price | Use this to say the total price
+example: Ça fait trois euros. | That's three euros.
+example: Ça fait dix euros. | That's ten euros.
+
+[quiz]
+quiz: Which is more polite? | Je veux du pain | Je voudrais du pain | Donne du pain | B | "Je voudrais" is the polite way to ask.
+quiz: What does "la monnaie" mean? | the change | the bread | the bill | A | "La monnaie" is the change you get back.
+quiz: How do you say "That's three euros"? | Ça fait trois euros | Je voudrais trois euros | Il y a trois euros | A | "Ça fait" gives the total.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

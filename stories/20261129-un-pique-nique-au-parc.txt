@@ -1,0 +1,70 @@
+title: Un Pique-nique au Parc
+scene: park
+
+[story]
+@time day
+> Marinette enters left
+& Adrien enters right
+> Marinette looks happy
+Marinette: Il fait beau aujourd'hui ! | The weather is nice today!
+Adrien: Oui ! C'est parfait pour un pique-nique. | Yes! It's perfect for a picnic.
+> Marinette holds a bag
+Marinette: J'ai du pain et du fromage. | I have bread and cheese.
+> Adrien looks worried
+Adrien: Moi, j'ai seulement de l'eau... | Me, I only have water...
+> Marinette laughs
+Marinette: Tu n'as rien préparé ? | You didn't prepare anything?
+> Adrien shrugs
+Adrien: Désolé ! J'ai oublié. | Sorry! I forgot.
+> Marinette thinks
+Marinette: Pas de problème ! Il y a un marchand de fruits là-bas. | No problem! There's a fruit seller over there.
+> Marinette points right
+@scene stall
+> Pierre enters right
+Pierre: Bonjour ! Qu'est-ce que vous voulez ? | Hello! What do you want?
+Adrien: Je voudrais des oranges, s'il vous plaît. | I would like some oranges, please.
+> Pierre shows
+Pierre: Voilà ! Ça fait deux euros. | Here you go! That's two euros.
+> Adrien looks happy
+Adrien: Merci, monsieur ! Bonne journée ! | Thank you, sir! Have a nice day!
+> Pierre exits right
+@scene park
+@weather rain
+> Marinette looks surprised
+Marinette: Oh non ! Il pleut ! | Oh no! It's raining!
+> Adrien opens the umbrella
+> Adrien looks excited
+Adrien: J'ai un parapluie ! Viens ! | I have an umbrella! Come!
+> Marinette walks to next to Adrien
+> Marinette looks happy
+Marinette: Un pique-nique sous la pluie, c'est original ! | A picnic in the rain, that's original!
+> Adrien laughs
+Adrien: Avec du pain, du fromage et des oranges ! | With bread, cheese and oranges!
+
+[vocab]
+vocab: le pique-nique | the picnic | luh peek-NEEK
+example: On fait un pique-nique. | We're having a picnic.
+vocab: le pain | the bread | luh PAN
+example: J'ai du pain. | I have some bread.
+vocab: le fromage | the cheese | luh froh-MAHZH
+example: J'aime le fromage. | I like cheese.
+vocab: une orange | an orange | oon oh-RAHNZH
+example: Je voudrais une orange. | I would like an orange.
+vocab: il pleut | it's raining | eel PLUH
+example: Aujourd'hui, il pleut. | Today it's raining.
+
+[grammar]
+grammar: Il fait + adjective | Use this to talk about the weather
+example: Il fait beau. | The weather is nice.
+example: Il fait froid. | It's cold.
+grammar: Il y a + noun | Use this to say "there is" or "there are"
+example: Il y a un parc. | There is a park.
+example: Il y a des oranges. | There are some oranges.
+
+[quiz]
+quiz: What does "Il fait beau" mean? | It's raining | The weather is nice | It's cold | B | "Il fait beau" is a nice-weather phrase.
+quiz: How do you say "There is a park"? | Il y a un parc | Il fait un parc | Il pleut un parc | A | "Il y a" means "there is".
+quiz: What does "il pleut" mean? | it's snowing | it's raining | it's sunny | B | "Il pleut" means it's raining.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

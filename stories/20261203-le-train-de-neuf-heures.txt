@@ -1,0 +1,63 @@
+title: Le Train de Neuf Heures
+scene: station
+
+[story]
+@time morning
+@scene station
+> Marinette enters left
+> Marinette looks worried
+Marinette: Oh non ! Il est neuf heures cinq ! | Oh no! It's five past nine!
+> Adrien enters right
+> Adrien looks embarrassed
+Adrien: Désolé, je suis en retard ! | Sorry, I'm late!
+Marinette: Le train part à neuf heures dix ! | The train leaves at ten past nine!
+> Adrien looks surprised
+Adrien: Vite ! Où est le quai ? | Quick! Where is the platform?
+> Marinette points right
+Marinette: Le quai numéro trois ! Viens ! | Platform three! Come on!
+> both run to 60
+> Adrien looks worried
+Adrien: Tu as les billets ? | Do you have the tickets?
+> Marinette holds a ticket
+Marinette: Oui, voilà ! | Yes, here they are!
+@scene train
+> Marinette looks happy
+Marinette: Ouf ! Nous avons le train ! | Phew! We made the train!
+> Adrien looks surprised
+Adrien: Mais... il est neuf heures douze ! | But... it's twelve past nine!
+> Marinette laughs
+Marinette: Le train a deux minutes de retard ! | The train is two minutes late!
+> Adrien cheers
+Adrien: Pour une fois ! | For once!
+> Marinette shrugs
+Marinette: Ce n'est pas toi qui es en retard, c'est lui ! | It's not you who's late, it's the train!
+> Adrien laughs
+Adrien: Alors, je suis à l'heure ! | So, I'm on time!
+
+[vocab]
+vocab: le train | the train | luh TRAN
+example: Le train part à neuf heures. | The train leaves at nine.
+vocab: le quai | the platform | luh KAY
+example: Le quai numéro trois. | Platform number three.
+vocab: le billet | the ticket | luh bee-YAY
+example: J'ai les billets. | I have the tickets.
+vocab: en retard | late | ahn ruh-TAR
+example: Je suis en retard. | I'm late.
+vocab: vite | quickly | VEET
+example: Vite, le train part ! | Quick, the train is leaving!
+
+[grammar]
+grammar: Il est + time | Use this to tell the time
+example: Il est neuf heures. | It's nine o'clock.
+example: Il est neuf heures cinq. | It's five past nine.
+grammar: Le train part à + time | Use this to say when something leaves
+example: Le train part à neuf heures dix. | The train leaves at ten past nine.
+example: Le bus part à midi. | The bus leaves at noon.
+
+[quiz]
+quiz: What does "en retard" mean? | on time | late | early | B | "En retard" means late.
+quiz: How do you say "It's nine o'clock"? | Il est neuf heures | Il fait neuf heures | Il y a neuf heures | A | "Il est" is used for the time.
+quiz: What does "vite" mean? | slowly | quickly | tomorrow | B | "Vite" means quickly.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

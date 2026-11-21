@@ -1,0 +1,62 @@
+title: Un Café, S'il Vous Plaît
+scene: cafe
+
+[story]
+@scene cafe
+> Marinette enters left
+& Adrien enters right
+> Adrien looks curious
+Adrien: Marinette, regarde le menu ! Qu'est-ce que tu prends ? | Marinette, look at the menu! What are you having?
+> Marinette looks confused
+Marinette: Je ne sais pas... Qu'est-ce que c'est, un café crème ? | I don't know... What is a café crème?
+> Camille enters right
+Camille: Bonjour ! Qu'est-ce que vous désirez ? | Hello! What would you like?
+Adrien: Pour moi, un thé au citron, s'il vous plaît. | For me, a lemon tea, please.
+Camille: Très bien. Et pour mademoiselle ? | Very good. And for the young lady?
+> Marinette looks shy
+Marinette: Euh... qu'est-ce que c'est, un café crème ? | Um... what is a café crème?
+Camille: C'est un café avec du lait chaud. | It's a coffee with hot milk.
+> Marinette looks happy
+Marinette: Alors, je prends un café crème. | Then I'll have a café crème.
+Camille: Et avec ça ? | Anything else?
+Adrien: Deux croissants, s'il vous plaît. | Two croissants, please.
+> Camille shows
+Camille: Voilà ! Bon appétit ! | Here you go! Enjoy!
+> Marinette drinks
+> Marinette looks excited
+Marinette: Mmm, c'est délicieux ! | Mmm, it's delicious!
+> Adrien laughs
+Adrien: Tu as une moustache de lait ! | You have a milk mustache!
+> Marinette covers her mouth
+> Marinette looks embarrassed
+Marinette: Oh non ! | Oh no!
+Adrien: L'addition, s'il vous plaît ! | The check, please!
+Camille: Tout de suite ! | Right away!
+
+[vocab]
+vocab: un café crème | a coffee with hot milk | uhn ka-FAY krem
+example: Je prends un café crème. | I'll have a café crème.
+vocab: un thé au citron | a lemon tea | uhn TAY oh see-TRON
+example: Un thé au citron, s'il vous plaît. | A lemon tea, please.
+vocab: Et avec ça ? | Anything else? | ay a-vek SA
+example: Un croissant. Et avec ça ? | A croissant. Anything else?
+vocab: l'addition | the check / the bill | la-dee-SYON
+example: L'addition, s'il vous plaît. | The check, please.
+vocab: tout de suite | right away | too duh SWEET
+example: Je viens tout de suite ! | I'm coming right away!
+
+[grammar]
+grammar: Je prends + noun | Use this to order what you'll have
+example: Je prends un café. | I'll have a coffee.
+example: Je prends un thé. | I'll have a tea.
+grammar: Pour moi, + noun | Use this to order for yourself in a group
+example: Pour moi, un thé, s'il vous plaît. | For me, a tea, please.
+example: Pour moi, un croissant. | For me, a croissant.
+
+[quiz]
+quiz: What does "l'addition" mean? | the menu | the check | the table | B | "L'addition" is the bill at a restaurant.
+quiz: How do you order a coffee for yourself? | Je prends un café | Je suis un café | Il y a un café | A | "Je prends" means "I'll have".
+quiz: What does "Et avec ça ?" mean? | And with that? (anything else?) | Where is it? | How much is it? | A | The waiter asks if you want anything else.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,56 @@
+title: Le Nouveau Voisin
+scene: apartment
+
+[story]
+@scene apartment
+> Marinette enters left
+& Adrien enters right
+> Marinette holds a cake
+> Marinette looks excited
+Marinette: Regarde ! Nous avons un nouveau voisin ! | Look! We have a new neighbor!
+Adrien: Vraiment ? Allons dire bonjour ! | Really? Let's go say hello!
+> Bernard enters left
+& Bernard holds a box
+Bernard: Bonjour ! Je m'appelle Bernard. Je suis votre nouveau voisin. | Hello! My name is Bernard. I'm your new neighbor.
+> Marinette bows
+Marinette: Enchantée, Bernard ! Moi, c'est Marinette. | Nice to meet you, Bernard! I'm Marinette.
+Adrien: Et moi, c'est Adrien. Vous êtes d'où ? | And I'm Adrien. Where are you from?
+Bernard: Je suis de Lyon. Et vous ? | I'm from Lyon. And you?
+Marinette: Nous habitons à Paris depuis toujours ! | We've always lived in Paris!
+> Marinette shows
+Marinette: Nous vous avons apporté un gâteau. | We brought you a cake.
+> Bernard looks surprised
+Bernard: Oh, quelle bonne surprise ! Merci beaucoup ! | Oh, what a nice surprise! Thank you so much!
+Adrien: Voulez-vous un café ? | Would you like a coffee?
+> Bernard looks happy
+Bernard: Avec plaisir ! | With pleasure!
+> Marinette cheers
+Marinette: Bienvenue dans le quartier, Bernard ! | Welcome to the neighborhood, Bernard!
+
+[vocab]
+vocab: le voisin | the neighbor | luh vwah-ZAN
+example: Mon voisin s'appelle Bernard. | My neighbor's name is Bernard.
+vocab: enchanté(e) | nice to meet you | ahn-shahn-TAY
+example: Enchantée, Madame ! | Nice to meet you, ma'am!
+vocab: je suis de | I'm from | zhuh swee duh
+example: Je suis de Lyon. | I'm from Lyon.
+vocab: j'habite à | I live in | zhah-BEET ah
+example: J'habite à Paris. | I live in Paris.
+vocab: avec plaisir | with pleasure | a-vek play-ZEER
+example: Un café ? Avec plaisir ! | A coffee? With pleasure!
+
+[grammar]
+grammar: Je m'appelle / Moi, c'est | Use these to say your name
+example: Je m'appelle Marinette. | My name is Marinette.
+example: Moi, c'est Adrien. | I'm Adrien.
+grammar: Je suis de / J'habite à + city | Use these to say where you're from and where you live
+example: Je suis de Lyon. | I'm from Lyon.
+example: J'habite à Paris. | I live in Paris.
+
+[quiz]
+quiz: What does "enchanté" mean? | goodbye | nice to meet you | thank you | B | "Enchanté" is what you say when you meet someone.
+quiz: How do you say "I'm from Lyon"? | Je suis de Lyon | J'habite de Lyon | Je m'appelle Lyon | A | "Je suis de" says where you're from.
+quiz: What does "avec plaisir" mean? | with pleasure | with sugar | with milk | A | "Avec plaisir" is a polite "gladly".
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,63 @@
+title: La Première Neige
+scene: park
+
+[story]
+@weather snow
+@time day
+> Marinette enters left
+& Adrien enters right
+> Marinette looks excited
+Marinette: Regarde ! Il neige ! | Look! It's snowing!
+> Adrien looks happy
+Adrien: C'est magnifique ! Mais... j'ai froid ! | It's beautiful! But... I'm cold!
+> Marinette looks worried
+Marinette: Moi aussi, j'ai froid. J'ai oublié mes gants ! | Me too, I'm cold. I forgot my gloves!
+> Adrien shows
+Adrien: Tiens, voici mon écharpe. | Here, take my scarf.
+> Marinette looks shy
+Marinette: Merci, c'est gentil ! | Thanks, that's kind!
+> Adrien looks smirking
+Adrien: Et maintenant, un chocolat chaud ? | And now, a hot chocolate?
+> Marinette cheers
+Marinette: Oui, bonne idée ! | Yes, good idea!
+@scene cafe
+> Camille enters right
+Camille: Bonjour ! Il fait froid dehors, n'est-ce pas ? | Hello! It's cold outside, isn't it?
+Adrien: Oui ! Deux chocolats chauds, s'il vous plaît. | Yes! Two hot chocolates, please.
+> Camille shows
+Camille: Voilà ! Attention, c'est très chaud ! | Here you go! Careful, it's very hot!
+> Marinette drinks
+> Marinette looks happy
+Marinette: Mmm... maintenant, j'ai chaud ! | Mmm... now I'm warm!
+> Adrien laughs
+Adrien: Santé ! | Cheers!
+> Marinette laughs
+Marinette: Santé ! | Cheers!
+
+[vocab]
+vocab: la neige | the snow | lah NEZH
+example: J'aime la neige. | I like snow.
+vocab: froid | cold | FRWAH
+example: Il fait froid. | It's cold.
+vocab: chaud | hot / warm | SHOH
+example: Le chocolat est chaud. | The chocolate is hot.
+vocab: les gants | the gloves | lay GAHN
+example: J'ai oublié mes gants. | I forgot my gloves.
+vocab: le chocolat chaud | hot chocolate | luh shoh-koh-LAH SHOH
+example: Je voudrais un chocolat chaud. | I would like a hot chocolate.
+
+[grammar]
+grammar: J'ai froid / J'ai chaud | Use this to say how you feel (French uses "to have")
+example: J'ai froid. | I'm cold.
+example: J'ai chaud. | I'm hot.
+grammar: Il neige / Il pleut | Use these to talk about the weather
+example: Il neige aujourd'hui. | It's snowing today.
+example: Il pleut aujourd'hui. | It's raining today.
+
+[quiz]
+quiz: How do you say "I'm cold"? | Je suis froid | J'ai froid | Il fait froid moi | B | In French we say "J'ai froid" (I have cold).
+quiz: What does "il neige" mean? | it's snowing | it's raining | it's windy | A | "Il neige" means it's snowing.
+quiz: What does "les gants" mean? | the hats | the gloves | the shoes | B | "Les gants" are gloves.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
