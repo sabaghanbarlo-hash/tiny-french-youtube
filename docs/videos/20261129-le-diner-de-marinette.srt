@@ -1,0 +1,119 @@
+1
+00:00:14,696 --> 00:00:19,060
+Ce soir, je prépare le dîner pour Adrien !
+Tonight, I'm cooking dinner for Adrien!
+
+2
+00:00:19,860 --> 00:00:25,064
+Allô, Maman ? Comment on fait une soupe ?
+Hello, Mom? How do you make a soup?
+
+3
+00:00:25,864 --> 00:00:30,540
+Il faut des carottes, des pommes de terre et des oignons...
+I need carrots, potatoes and onions...
+
+4
+00:00:31,940 --> 00:00:34,600
+Je vais au marché !
+I'm going to the market!
+
+5
+00:00:43,321 --> 00:00:49,869
+Bonjour, monsieur ! Je voudrais des carottes, s'il vous plaît.
+Hello, sir! I would like some carrots, please.
+
+6
+00:00:51,269 --> 00:00:56,281
+Bien sûr, mademoiselle ! Combien ?
+Of course, miss! How many?
+
+7
+00:00:56,381 --> 00:01:02,185
+Un kilo, s'il vous plaît. Et des pommes de terre aussi.
+One kilo, please. And potatoes too.
+
+8
+00:01:02,985 --> 00:01:09,605
+Voilà ! Ça fait six euros. Vous cuisinez pour qui ?
+Here you go! That's six euros. Who are you cooking for?
+
+9
+00:01:11,005 --> 00:01:16,185
+Pour mon ami Adrien. C'est une surprise !
+For my friend Adrien. It's a surprise!
+
+10
+00:01:17,685 --> 00:01:22,457
+Il a de la chance ! Bon courage !
+He's lucky! Good luck!
+
+11
+00:01:27,710 --> 00:01:31,810
+Oh non ! Ça sent mauvais !
+Oh no! It smells bad!
+
+12
+00:01:35,594 --> 00:01:42,214
+Salut, Marinette ! Hmm... ça sent bizarre.
+Hi, Marinette! Hmm... it smells strange.
+
+13
+00:01:42,814 --> 00:01:45,882
+Je suis nulle en cuisine...
+I'm terrible at cooking...
+
+14
+00:01:46,682 --> 00:01:50,902
+Mais non ! Allons au restaurant !
+Of course not! Let's go to a restaurant!
+
+15
+00:01:52,802 --> 00:01:55,174
+Vraiment ?
+Really?
+
+16
+00:01:56,574 --> 00:02:00,794
+Oui ! J'adore les sushis.
+Yes! I love sushi.
+
+17
+00:02:13,399 --> 00:02:18,171
+Bonsoir ! Une table pour deux ?
+Good evening! A table for two?
+
+18
+00:02:18,271 --> 00:02:21,339
+Oui, s'il vous plaît.
+Yes, please.
+
+19
+00:02:22,739 --> 00:02:27,127
+Je voudrais des sushis au saumon, s'il vous plaît.
+I would like salmon sushi, please.
+
+20
+00:02:27,227 --> 00:02:31,375
+Très bien ! Et pour monsieur ?
+Very good! And for the gentleman?
+
+21
+00:02:31,475 --> 00:02:35,311
+Des sushis aux crevettes, merci.
+Shrimp sushi, thank you.
+
+22
+00:02:36,111 --> 00:02:40,235
+Voilà ! Bon appétit !
+Here you go! Enjoy your meal!
+
+23
+00:02:41,635 --> 00:02:47,535
+Merci ! La prochaine fois, c'est moi qui cuisine !
+Thank you! Next time, I'm the one cooking!
+
+24
+00:02:48,935 --> 00:02:53,083
+D'accord... avec ta maman au téléphone !
+Okay... with your mom on the phone!
