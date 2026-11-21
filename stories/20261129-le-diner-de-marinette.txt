@@ -1,0 +1,94 @@
+title: Le Dîner de Marinette
+scene: apartment
+
+[story]
+@scene apartment
+> Marinette enters left
+Marinette: Ce soir, je prépare le dîner pour Adrien ! | Tonight, I'm cooking dinner for Adrien!
+> Marinette phones for 8
+Marinette: Allô, Maman ? Comment on fait une soupe ? | Hello, Mom? How do you make a soup?
+> Marinette thinks
+Marinette: Il faut des carottes, des pommes de terre et des oignons... | I need carrots, potatoes and onions...
+> Marinette looks excited
+Marinette: Je vais au marché ! | I'm going to the market!
+> Marinette exits left
+@scene stall
+> Pierre enters right
+> Marinette enters left
+Marinette: Bonjour, monsieur ! Je voudrais des carottes, s'il vous plaît. | Hello, sir! I would like some carrots, please.
+> Pierre looks smirking
+Pierre: Bien sûr, mademoiselle ! Combien ? | Of course, miss! How many?
+Marinette: Un kilo, s'il vous plaît. Et des pommes de terre aussi. | One kilo, please. And potatoes too.
+> Pierre shows
+Pierre: Voilà ! Ça fait six euros. Vous cuisinez pour qui ? | Here you go! That's six euros. Who are you cooking for?
+> Marinette looks shy
+Marinette: Pour mon ami Adrien. C'est une surprise ! | For my friend Adrien. It's a surprise!
+> Pierre cheers
+Pierre: Il a de la chance ! Bon courage ! | He's lucky! Good luck!
+> Pierre exits right
+@scene apartment
+> Marinette looks worried
+Marinette: Oh non ! Ça sent mauvais ! | Oh no! It smells bad!
+> Adrien enters right
+> Adrien looks curious
+Adrien: Salut, Marinette ! Hmm... ça sent bizarre. | Hi, Marinette! Hmm... it smells strange.
+> Marinette faces away
+Marinette: Je suis nulle en cuisine... | I'm terrible at cooking...
+> Adrien shrugs
+Adrien: Mais non ! Allons au restaurant ! | Of course not! Let's go to a restaurant!
+> Marinette turns around
+> Marinette looks surprised
+Marinette: Vraiment ? | Really?
+> Adrien looks happy
+Adrien: Oui ! J'adore les sushis. | Yes! I love sushi.
+> Adrien exits right
+> Marinette exits left
+@scene sushi
+> Camille enters right
+> Marinette enters left
+& Adrien enters right
+> Camille bows
+Camille: Bonsoir ! Une table pour deux ? | Good evening! A table for two?
+Adrien: Oui, s'il vous plaît. | Yes, please.
+> Marinette looks happy
+Marinette: Je voudrais des sushis au saumon, s'il vous plaît. | I would like salmon sushi, please.
+Camille: Très bien ! Et pour monsieur ? | Very good! And for the gentleman?
+Adrien: Des sushis aux crevettes, merci. | Shrimp sushi, thank you.
+> Camille shows
+Camille: Voilà ! Bon appétit ! | Here you go! Enjoy your meal!
+> Marinette looks smirking
+Marinette: Merci ! La prochaine fois, c'est moi qui cuisine ! | Thank you! Next time, I'm the one cooking!
+> Adrien laughs
+Adrien: D'accord... avec ta maman au téléphone ! | Okay... with your mom on the phone!
+> Marinette laughs
+
+[vocab]
+vocab: une carotte | a carrot | oon ka-ROT
+example: Je voudrais une carotte. | I would like a carrot.
+vocab: une pomme de terre | a potato | oon pom duh TAIR
+example: Il faut des pommes de terre. | I need some potatoes.
+vocab: le marché | the market | luh mar-SHAY
+example: Je vais au marché. | I'm going to the market.
+vocab: cuisiner | to cook | kwee-zee-NAY
+example: J'aime cuisiner. | I like cooking.
+vocab: je voudrais | I would like | zhuh voo-DRAY
+example: Je voudrais un café. | I would like a coffee.
+vocab: ça sent mauvais | it smells bad | sa sahn moh-VAY
+example: Ça sent mauvais ici ! | It smells bad in here!
+
+[grammar]
+grammar: Je voudrais + noun | Use this to ask politely for something
+example: Je voudrais des carottes. | I would like some carrots.
+example: Je voudrais un thé. | I would like a tea.
+grammar: Il faut + noun | Use this to say what you need
+example: Il faut des oignons. | I need onions.
+example: Il faut du pain. | We need bread.
+
+[quiz]
+quiz: What does "le marché" mean? | The market | The kitchen | The restaurant | A | "Le marché" is where you buy fruit and vegetables.
+quiz: How do you ask politely for carrots? | Je voudrais des carottes | Je suis des carottes | Il pleut des carottes | A | "Je voudrais" means "I would like".
+quiz: What does "il faut des oignons" mean? | I need onions | I hate onions | I sell onions | A | "Il faut" means "you need / one needs".
+quiz: What does "cuisiner" mean? | To cook | To eat | To buy | A | "Cuisiner" is the verb "to cook".
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
