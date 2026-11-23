@@ -1,0 +1,59 @@
+1
+00:00:15,804 --> 00:00:19,352
+Aïe... j'ai mal à la tête.
+Ouch... I have a headache.
+
+2
+00:00:20,752 --> 00:00:23,364
+Tu as de la fièvre ?
+Do you have a fever?
+
+3
+00:00:23,464 --> 00:00:28,644
+Je ne sais pas. J'ai aussi mal à la gorge.
+I don't know. I also have a sore throat.
+
+4
+00:00:29,444 --> 00:00:33,400
+Allons à la pharmacie, c'est juste là.
+Let's go to the pharmacy, it's right there.
+
+5
+00:00:37,353 --> 00:00:41,885
+Bonjour ! Je peux vous aider ?
+Hello! Can I help you?
+
+6
+00:00:43,485 --> 00:00:49,697
+Bonjour, madame. J'ai mal à la tête et à la gorge.
+Hello, ma'am. I have a headache and a sore throat.
+
+7
+00:00:50,497 --> 00:00:56,613
+Je vois. Prenez ce médicament, deux fois par jour.
+I see. Take this medicine twice a day.
+
+8
+00:00:57,413 --> 00:01:01,537
+Et il faut se reposer, boire beaucoup d'eau.
+And you need to rest and drink a lot of water.
+
+9
+00:01:02,537 --> 00:01:06,085
+D'accord, merci beaucoup.
+Okay, thank you very much.
+
+10
+00:01:07,485 --> 00:01:10,553
+Je t'accompagne à la maison.
+I'll take you home.
+
+11
+00:01:11,953 --> 00:01:15,285
+Tu es gentil, Adrien.
+You're kind, Adrien.
+
+12
+00:01:16,685 --> 00:01:20,689
+Bon rétablissement, mademoiselle !
+Get well soon, miss!
