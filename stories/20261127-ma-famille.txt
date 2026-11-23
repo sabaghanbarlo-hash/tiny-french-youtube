@@ -1,0 +1,56 @@
+title: Ma Famille
+scene: apartment
+
+[story]
+@scene apartment
+> Marinette enters left
+& Adrien enters right
+> Bernard enters left
+Bernard: Bonjour, Marinette ! Qu'est-ce que tu regardes ? | Hello, Marinette! What are you looking at?
+> Marinette shows
+Marinette: Ma famille ! Regardez, c'est une photo. | My family! Look, it's a photo.
+> Bernard looks curious
+Bernard: Qui est-ce ? | Who is that?
+Marinette: Voici ma mère et mon père. | Here are my mother and my father.
+> Adrien points right
+Adrien: Et la petite fille, c'est qui ? | And the little girl, who is she?
+> Marinette looks happy
+Marinette: C'est ma sœur. Elle s'appelle Sophie. | That's my sister. Her name is Sophie.
+Bernard: Quel âge a-t-elle ? | How old is she?
+Marinette: Elle a dix ans. | She is ten years old.
+> Adrien looks surprised
+Adrien: Et ton frère ? Tu as un frère ? | And your brother? Do you have a brother?
+> Marinette laughs
+Marinette: Non ! Mais j'ai un chat qui s'appelle Mochi. | No! But I have a cat called Mochi.
+> Bernard looks smirking
+Bernard: Alors, le chat fait aussi partie de la famille ! | So the cat is part of the family too!
+> Marinette cheers
+Marinette: Bien sûr ! | Of course!
+
+[vocab]
+vocab: la famille | the family | lah fa-MEEY
+example: J'adore ma famille. | I love my family.
+vocab: la mère | the mother | lah MAIR
+example: Ma mère s'appelle Anne. | My mother's name is Anne.
+vocab: le père | the father | luh PAIR
+example: Mon père travaille. | My father works.
+vocab: la sœur | the sister | lah SUR
+example: Ma sœur a dix ans. | My sister is ten years old.
+vocab: le frère | the brother | luh FRAIR
+example: Je n'ai pas de frère. | I don't have a brother.
+
+[grammar]
+grammar: mon / ma / mes | Use these for "my" (mon = masculine, ma = feminine, mes = plural)
+example: mon père, ma mère, mes parents | my father, my mother, my parents
+example: ma sœur, mon frère | my sister, my brother
+grammar: Elle s'appelle ... / Elle a ... ans | Use these for someone's name and age
+example: Elle s'appelle Sophie. | Her name is Sophie.
+example: Elle a dix ans. | She is ten years old.
+
+[quiz]
+quiz: Which is feminine "my"? | mon | ma | mes | B | "Ma" goes with feminine nouns like "mère".
+quiz: What does "la sœur" mean? | the sister | the brother | the mother | A | "La sœur" is the sister.
+quiz: How do you say "She is ten years old"? | Elle a dix ans | Elle est dix ans | Elle fait dix ans | A | In French you "have" years: avoir.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

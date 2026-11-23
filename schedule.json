@@ -167,6 +167,12 @@
       "title": "Adrien Said \"Je Suis Faim\" and the Waiter Laughed. Why?"
     },
     {
+      "kind": "story",
+      "file": "20261123-au-marche-de-noel.txt",
+      "publish_at": "2026-11-23T19:00:00Z",
+      "title": "Au Marché de Noël"
+    },
+    {
       "kind": "short",
       "file": "20261123-bonsoir-or-bonne-nuit.txt",
       "publish_at": "2026-11-23T23:00:00Z",
@@ -179,10 +185,22 @@
       "title": "Checking In at a Paris Hotel: French Dialogue for Beginners"
     },
     {
+      "kind": "story",
+      "file": "20261124-a-la-pharmacie.txt",
+      "publish_at": "2026-11-24T19:00:00Z",
+      "title": "À la Pharmacie"
+    },
+    {
       "kind": "short",
       "file": "20261125-actuellement-does-not-mean-actually.txt",
       "publish_at": "2026-11-25T15:00:00Z",
       "title": "\"Actuellement\" Does NOT Mean \"Actually\" in French"
+    },
+    {
+      "kind": "story",
+      "file": "20261125-une-journee-avec-adrien.txt",
+      "publish_at": "2026-11-25T19:00:00Z",
+      "title": "Une Journée avec Adrien"
     },
     {
       "kind": "short",
@@ -191,10 +209,22 @@
       "title": "Tu or Vous? The Easy Rule for Saying “You” in French"
     },
     {
+      "kind": "story",
+      "file": "20261126-des-vetements-pour-lhiver.txt",
+      "publish_at": "2026-11-26T12:00:00Z",
+      "title": "Des Vêtements pour l'Hiver"
+    },
+    {
       "kind": "short",
       "file": "20261126-do-you-speak-english.txt",
       "publish_at": "2026-11-26T23:00:00Z",
       "title": "How to Ask “Do You Speak English?” in French (Politely!)"
+    },
+    {
+      "kind": "story",
+      "file": "20261127-ma-famille.txt",
+      "publish_at": "2026-11-27T17:00:00Z",
+      "title": "Ma Famille"
     },
     {
       "kind": "short",
@@ -207,6 +237,12 @@
       "file": "20261128-cheers-in-french.txt",
       "publish_at": "2026-11-28T16:00:00Z",
       "title": "How to Say “Cheers!” in French (Santé!) and More"
+    },
+    {
+      "kind": "story",
+      "file": "20261128-des-crepes-pour-tout-le-monde.txt",
+      "publish_at": "2026-11-28T20:00:00Z",
+      "title": "Des Crêpes pour Tout le Monde"
     },
     {
       "kind": "story",

@@ -1,0 +1,59 @@
+title: Des Vêtements pour l'Hiver
+scene: store
+
+[story]
+@scene store
+> Marinette enters left
+& Adrien enters right
+> Adrien looks worried
+Adrien: Marinette, j'ai froid. Il me faut un pull ! | Marinette, I'm cold. I need a sweater!
+> Marinette points right
+Marinette: Allons dans ce magasin. | Let's go into this shop.
+> Camille enters right
+Camille: Bonjour ! Vous cherchez quelque chose ? | Hello! Are you looking for something?
+> Adrien bows
+Adrien: Oui, je cherche un pull chaud, s'il vous plaît. | Yes, I'm looking for a warm sweater, please.
+> Camille thinks
+Camille: Quelle taille faites-vous ? | What size are you?
+Adrien: Je fais du M. | I'm a medium.
+> Camille shows
+Camille: Voici un pull bleu. Il est très doux. | Here is a blue sweater. It's very soft.
+> Adrien looks happy
+Adrien: Je peux l'essayer ? | Can I try it on?
+Camille: Bien sûr ! La cabine est là-bas. | Of course! The fitting room is over there.
+> Adrien looks confused
+Adrien: Hmm... il est trop petit. | Hmm... it's too small.
+> Camille nods
+Camille: Voici une taille au-dessus. | Here's a size up.
+> Adrien cheers
+Adrien: Il est parfait ! Je le prends. | It's perfect! I'll take it.
+> Marinette laughs
+Marinette: Tu es très beau ! | You look great!
+
+[vocab]
+vocab: un pull | a sweater | uhn PUL
+example: Je cherche un pull. | I'm looking for a sweater.
+vocab: la taille | the size | lah TAY
+example: Quelle taille faites-vous ? | What size are you?
+vocab: essayer | to try on | ay-say-YAY
+example: Je peux essayer ? | Can I try it on?
+vocab: trop petit | too small | troh puh-TEE
+example: Il est trop petit. | It's too small.
+vocab: parfait | perfect | par-FAY
+example: C'est parfait ! | It's perfect!
+
+[grammar]
+grammar: Je cherche + noun | Use this to say what you're looking for
+example: Je cherche un pull. | I'm looking for a sweater.
+example: Je cherche une écharpe. | I'm looking for a scarf.
+grammar: Je peux + infinitive ? | Use this to ask permission
+example: Je peux essayer ? | Can I try it on?
+example: Je peux entrer ? | Can I come in?
+
+[quiz]
+quiz: What does "essayer" mean? | to try on | to buy | to pay | A | "Essayer" means to try (on).
+quiz: How do you say "I'm looking for a sweater"? | Je cherche un pull | Je mange un pull | Je suis un pull | A | "Je cherche" means I'm looking for.
+quiz: What does "trop petit" mean? | too small | too big | very nice | A | "Trop" means too (much).
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

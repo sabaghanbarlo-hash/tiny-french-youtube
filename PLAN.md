@@ -131,3 +131,17 @@ One new French story every day for a week, on top of the plan above. Scripts are
 
 **Cast:** Marinette/Adrien or Mika/Alex plus Bernard (older neighbour), Pierre (shopkeeper), Camille (clerk). Check any new script before it is scheduled: Actions > "Check stories (no video)" (pattern e.g. `2026*.txt`).
 
+## Extra stories before the story week (Nov 23 - 28) - added Nov 23, 2026
+Six more stories, one a day, so every day until the Nov 29 story week has one. Same method as above, but because your Shorts already fill most of these days the story is placed in the gap that is at least 3 hours from every Shorts slot (usually 17:00-20:00 UTC).
+
+| Date (UTC) | UTC | ET | Tehran | Title |
+|---|---|---|---|---|
+| Mon Nov 23 | 19:00 | 14:00 | 22:30 | Au Marché de Noël |
+| Tue Nov 24 | 19:00 | 14:00 | 22:30 | À la Pharmacie |
+| Wed Nov 25 | 19:00 | 14:00 | 22:30 | Une Journée avec Adrien |
+| Thu Nov 26 | 12:00 | 07:00 | 15:30 | Des Vêtements pour l'Hiver |
+| Fri Nov 27 | 17:00 | 12:00 | 20:30 | Ma Famille |
+| Sat Nov 28 | 20:00 | 15:00 | 23:30 | Des Crêpes pour Tout le Monde |
+
+Thursday Nov 26 is US Thanksgiving, so US viewing may be lower that day.
+

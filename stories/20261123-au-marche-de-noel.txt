@@ -1,0 +1,60 @@
+title: Au Marché de Noël
+scene: stall
+
+[story]
+@time sunset
+@scene stall
+> Marinette enters left
+& Adrien enters right
+> Marinette looks excited
+Marinette: Regarde ! Le marché de Noël ! | Look! The Christmas market! 
+> Adrien looks happy
+Adrien: Quelles belles décorations ! | What beautiful decorations!
+> Pierre enters right
+Pierre: Bonjour ! Venez voir, venez voir ! | Hello! Come and see, come and see!
+> Marinette points right
+Marinette: C'est combien, cette étoile ? | How much is this star?
+> Pierre shows
+Pierre: Elle coûte cinq euros. | It costs five euros.
+> Adrien looks surprised
+Adrien: C'est un peu cher ! | That's a bit expensive!
+> Marinette looks shy
+Marinette: Mais elle est si jolie ! Je la prends. | But it's so pretty! I'll take it.
+> Pierre cheers
+Pierre: Merci, mademoiselle ! Voulez-vous une boisson chaude ? | Thank you, miss! Would you like a hot drink?
+Marinette: Pour moi, un chocolat chaud. | For me, a hot chocolate.
+Adrien: Et pour moi, un vin chaud, s'il vous plaît. | And for me, a mulled wine, please.
+> Pierre shows
+Pierre: Voilà ! Joyeux Noël ! | Here you go! Merry Christmas!
+> Marinette cheers
+Marinette: Joyeux Noël ! | Merry Christmas!
+> Adrien laughs
+Adrien: Joyeux Noël à tous ! | Merry Christmas, everyone!
+
+[vocab]
+vocab: le marché de Noël | the Christmas market | luh mar-SHAY duh no-EL
+example: On va au marché de Noël. | We're going to the Christmas market.
+vocab: la décoration | the decoration | lah day-ko-ra-SYON
+example: J'aime cette décoration. | I like this decoration.
+vocab: cher / chère | expensive | SHAIR
+example: C'est trop cher ! | It's too expensive!
+vocab: joli(e) | pretty | zho-LEE
+example: Elle est très jolie. | She/It is very pretty.
+vocab: Joyeux Noël | Merry Christmas | zhwa-YUH no-EL
+example: Joyeux Noël à tous ! | Merry Christmas, everyone!
+
+[grammar]
+grammar: C'est combien ? / Ça coûte + price | Use these to ask and say prices
+example: C'est combien ? | How much is it?
+example: Ça coûte cinq euros. | It costs five euros.
+grammar: C'est + adjective | Use this to give your opinion
+example: C'est cher. | It's expensive.
+example: C'est joli. | It's pretty.
+
+[quiz]
+quiz: What does "C'est combien ?" mean? | How much is it? | Where is it? | Who is it? | A | "Combien" asks about price or quantity.
+quiz: What does "cher" mean? | cheap | expensive | pretty | B | "Cher" means expensive.
+quiz: How do you say "Merry Christmas"? | Joyeux Noël | Bonne nuit | Bon appétit | A | "Joyeux Noël" is Merry Christmas.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

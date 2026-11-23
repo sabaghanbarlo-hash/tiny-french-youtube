@@ -1,0 +1,58 @@
+title: Une Journée avec Adrien
+scene: apartment
+
+[story]
+@time morning
+@scene apartment
+> Marinette enters left
+& Adrien enters right
+> Marinette holds a book
+Marinette: Adrien, je fais un exposé sur ta journée. | Adrien, I'm doing a presentation about your day.
+> Adrien looks surprised
+Adrien: Sur ma journée ? D'accord ! | About my day? Okay!
+> Marinette looks curious
+Marinette: À quelle heure tu te réveilles ? | What time do you wake up?
+Adrien: Je me réveille à sept heures. | I wake up at seven o'clock.
+Marinette: Et ensuite ? | And then?
+> Adrien thinks
+Adrien: Je prends le petit-déjeuner à sept heures et demie. | I have breakfast at seven thirty.
+> Marinette looks excited
+Marinette: Qu'est-ce que tu manges ? | What do you eat?
+Adrien: Je mange un croissant et je bois un café. | I eat a croissant and I drink a coffee.
+> Marinette nods
+Marinette: Et à neuf heures ? | And at nine o'clock?
+Adrien: Je travaille à la bibliothèque. | I work at the library.
+> Marinette looks smirking
+Marinette: Tu travailles beaucoup ! Et le soir ? | You work a lot! And in the evening?
+> Adrien laughs
+Adrien: Le soir, je regarde un film... et je dors ! | In the evening, I watch a movie... and I sleep!
+> Marinette laughs
+Marinette: Parfait, j'ai tout noté ! | Perfect, I wrote it all down!
+
+[vocab]
+vocab: se réveiller | to wake up | suh ray-vay-YAY
+example: Je me réveille tôt. | I wake up early.
+vocab: le petit-déjeuner | breakfast | luh puh-tee day-zhuh-NAY
+example: Je prends le petit-déjeuner. | I have breakfast.
+vocab: travailler | to work | tra-vah-YAY
+example: Je travaille à neuf heures. | I work at nine o'clock.
+vocab: le soir | in the evening | luh SWAR
+example: Le soir, je lis. | In the evening, I read.
+vocab: dormir | to sleep | dor-MEER
+example: Je dors huit heures. | I sleep eight hours.
+
+[grammar]
+grammar: Je + verb (-er verbs) | Use the "je" form to say what you do
+example: Je mange un croissant. | I eat a croissant.
+example: Je travaille à la bibliothèque. | I work at the library.
+grammar: À quelle heure ... ? | Use this to ask what time something happens
+example: À quelle heure tu te réveilles ? | What time do you wake up?
+example: À quelle heure tu manges ? | What time do you eat?
+
+[quiz]
+quiz: What does "se réveiller" mean? | to wake up | to sleep | to eat | A | "Se réveiller" means to wake up.
+quiz: How do you ask "What time do you eat?" | À quelle heure tu manges ? | Où tu manges ? | Qui tu manges ? | A | "À quelle heure" asks about time.
+quiz: What does "je travaille" mean? | I work | I walk | I wait | A | "Travailler" means to work.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

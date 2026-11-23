@@ -1,0 +1,58 @@
+title: À la Pharmacie
+scene: store
+
+[story]
+@scene store
+> Marinette enters left
+& Adrien enters right
+> Marinette looks sad
+Marinette: Aïe... j'ai mal à la tête. | Ouch... I have a headache.
+> Adrien looks worried
+Adrien: Tu as de la fièvre ? | Do you have a fever?
+Marinette: Je ne sais pas. J'ai aussi mal à la gorge. | I don't know. I also have a sore throat.
+> Adrien points right
+Adrien: Allons à la pharmacie, c'est juste là. | Let's go to the pharmacy, it's right there.
+> Camille enters right
+Camille: Bonjour ! Je peux vous aider ? | Hello! Can I help you?
+> Marinette bows
+Marinette: Bonjour, madame. J'ai mal à la tête et à la gorge. | Hello, ma'am. I have a headache and a sore throat.
+> Camille thinks
+Camille: Je vois. Prenez ce médicament, deux fois par jour. | I see. Take this medicine twice a day.
+> Camille shows
+Camille: Et il faut se reposer, boire beaucoup d'eau. | And you need to rest and drink a lot of water.
+> Marinette nods
+Marinette: D'accord, merci beaucoup. | Okay, thank you very much.
+> Adrien looks happy
+Adrien: Je t'accompagne à la maison. | I'll take you home.
+> Marinette looks shy
+Marinette: Tu es gentil, Adrien. | You're kind, Adrien.
+> Camille looks smirking
+Camille: Bon rétablissement, mademoiselle ! | Get well soon, miss!
+
+[vocab]
+vocab: la pharmacie | the pharmacy | lah far-ma-SEE
+example: La pharmacie est là. | The pharmacy is there.
+vocab: le médicament | the medicine | luh may-dee-ka-MAHN
+example: Je prends un médicament. | I'm taking some medicine.
+vocab: la tête | the head | lah TET
+example: J'ai mal à la tête. | I have a headache.
+vocab: la gorge | the throat | lah GORZH
+example: J'ai mal à la gorge. | I have a sore throat.
+vocab: se reposer | to rest | suh ruh-poh-ZAY
+example: Il faut se reposer. | You need to rest.
+
+[grammar]
+grammar: J'ai mal à + body part | Use this to say something hurts
+example: J'ai mal à la tête. | I have a headache.
+example: J'ai mal au ventre. | I have a stomachache.
+grammar: Il faut + infinitive | Use this to say what you must do
+example: Il faut se reposer. | You need to rest.
+example: Il faut boire de l'eau. | You need to drink water.
+
+[quiz]
+quiz: What does "J'ai mal à la tête" mean? | I have a headache | I have a cold | I am tired | A | "Avoir mal à" means to hurt.
+quiz: What does "se reposer" mean? | to rest | to run | to work | A | "Se reposer" means to rest.
+quiz: How do you say "You need to rest"? | Il faut se reposer | Il fait se reposer | Il y a se reposer | A | "Il faut + infinitive" means must.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

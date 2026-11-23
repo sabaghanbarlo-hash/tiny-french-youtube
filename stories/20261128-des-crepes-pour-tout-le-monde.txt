@@ -1,0 +1,61 @@
+title: Des Crêpes pour Tout le Monde
+scene: stall
+
+[story]
+@scene stall
+> Marinette enters left
+& Adrien enters right
+> Marinette looks excited
+Marinette: Mmm, ça sent bon ! Des crêpes ! | Mmm, it smells good! Crêpes!
+> Pierre enters right
+Pierre: Bonjour ! Une crêpe au sucre ? | Hello! A sugar crêpe?
+> Adrien thinks
+Adrien: Qu'est-ce que vous avez ? | What do you have?
+> Pierre shows
+Pierre: Au sucre, au chocolat, au fromage... | Sugar, chocolate, cheese...
+> Marinette looks happy
+Marinette: Une crêpe au chocolat, s'il vous plaît. | A chocolate crêpe, please.
+Pierre: Avec ou sans banane ? | With or without banana?
+Marinette: Avec banane ! | With banana!
+> Adrien looks smirking
+Adrien: Moi, je voudrais une crêpe au fromage. | Me, I would like a cheese crêpe.
+> Marinette looks surprised
+Marinette: Au fromage ? Une crêpe salée ? | Cheese? A savory crêpe?
+> Adrien shrugs
+Adrien: Sucré ou salé, j'aime tout ! | Sweet or savory, I like everything!
+> Pierre cheers
+Pierre: Voilà, deux crêpes toutes chaudes ! | Here you go, two piping hot crêpes!
+> Marinette bows
+Marinette: Merci beaucoup ! | Thank you very much!
+> Adrien looks happy
+Adrien: Mmm, délicieux ! Ça fait six euros ? | Mmm, delicious! That's six euros?
+> Pierre laughs
+Pierre: Exactement ! Bon appétit ! | Exactly! Enjoy!
+
+[vocab]
+vocab: la crêpe | the crêpe | lah KREP
+example: Je mange une crêpe. | I'm eating a crêpe.
+vocab: sucré(e) | sweet | sew-KRAY
+example: Cette crêpe est sucrée. | This crêpe is sweet.
+vocab: salé(e) | savory / salty | sa-LAY
+example: Une crêpe salée. | A savory crêpe.
+vocab: avec | with | a-VEK
+example: Avec du sucre. | With sugar.
+vocab: sans | without | SAHN
+example: Sans banane. | Without banana.
+
+[grammar]
+grammar: au + masculine noun | Use "au" (à + le) for flavors with masculine nouns
+example: une crêpe au chocolat | a chocolate crêpe
+example: une crêpe au fromage | a cheese crêpe
+grammar: avec / sans + noun | Use these for "with" and "without"
+example: avec banane | with banana
+example: sans sucre | without sugar
+
+[quiz]
+quiz: What does "sans" mean? | with | without | after | B | "Sans" means without.
+quiz: How do you say "a chocolate crêpe"? | une crêpe au chocolat | une crêpe du chocolat | une crêpe à chocolat | A | "Au" is used with masculine flavors.
+quiz: What does "salé" mean? | sweet | savory | hot | B | "Salé" means salty or savory.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
