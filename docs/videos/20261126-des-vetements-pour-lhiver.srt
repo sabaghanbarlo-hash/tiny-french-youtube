@@ -1,0 +1,64 @@
+1
+00:00:16,164 --> 00:00:21,656
+Marinette, j'ai froid. Il me faut un pull !
+Marinette, I'm cold. I need a sweater!
+
+2
+00:00:22,456 --> 00:00:25,452
+Allons dans ce magasin.
+Let's go into this shop.
+
+3
+00:00:29,405 --> 00:00:34,465
+Bonjour ! Vous cherchez quelque chose ?
+Hello! Are you looking for something?
+
+4
+00:00:36,065 --> 00:00:40,645
+Oui, je cherche un pull chaud, s'il vous plaît.
+Yes, I'm looking for a warm sweater, please.
+
+5
+00:00:41,445 --> 00:00:44,105
+Quelle taille faites-vous ?
+What size are you?
+
+6
+00:00:44,205 --> 00:00:46,817
+Je fais du M.
+I'm a medium.
+
+7
+00:00:47,617 --> 00:00:52,269
+Voici un pull bleu. Il est très doux.
+Here is a blue sweater. It's very soft.
+
+8
+00:00:53,669 --> 00:00:56,257
+Je peux l'essayer ?
+Can I try it on?
+
+9
+00:00:56,357 --> 00:01:00,937
+Bien sûr ! La cabine est là-bas.
+Of course! The fitting room is over there.
+
+10
+00:01:02,337 --> 00:01:06,389
+Hmm... il est trop petit.
+Hmm... it's too small.
+
+11
+00:01:07,389 --> 00:01:10,553
+Voici une taille au-dessus.
+Here's a size up.
+
+12
+00:01:12,053 --> 00:01:16,225
+Il est parfait ! Je le prends.
+It's perfect! I'll take it.
+
+13
+00:01:17,625 --> 00:01:20,069
+Tu es très beau !
+You look great!

@@ -1,0 +1,64 @@
+1
+00:00:15,788 --> 00:00:20,416
+Adrien, je fais un exposé sur ta journée.
+Adrien, I'm doing a presentation about your day.
+
+2
+00:00:21,816 --> 00:00:26,132
+Sur ma journée ? D'accord !
+About my day? Okay!
+
+3
+00:00:27,532 --> 00:00:30,672
+À quelle heure tu te réveilles ?
+What time do you wake up?
+
+4
+00:00:30,772 --> 00:00:33,864
+Je me réveille à sept heures.
+I wake up at seven o'clock.
+
+5
+00:00:33,964 --> 00:00:36,480
+Et ensuite ?
+And then?
+
+6
+00:00:37,280 --> 00:00:41,284
+Je prends le petit-déjeuner à sept heures et demie.
+I have breakfast at seven thirty.
+
+7
+00:00:42,684 --> 00:00:45,392
+Qu'est-ce que tu manges ?
+What do you eat?
+
+8
+00:00:45,492 --> 00:00:49,280
+Je mange un croissant et je bois un café.
+I eat a croissant and I drink a coffee.
+
+9
+00:00:50,280 --> 00:00:52,916
+Et à neuf heures ?
+And at nine o'clock?
+
+10
+00:00:53,016 --> 00:00:56,444
+Je travaille à la bibliothèque.
+I work at the library.
+
+11
+00:00:57,844 --> 00:01:02,616
+Tu travailles beaucoup ! Et le soir ?
+You work a lot! And in the evening?
+
+12
+00:01:04,016 --> 00:01:08,596
+Le soir, je regarde un film... et je dors !
+In the evening, I watch a movie... and I sleep!
+
+13
+00:01:09,996 --> 00:01:13,376
+Parfait, j'ai tout noté !
+Perfect, I wrote it all down!
