@@ -1,0 +1,37 @@
+title: Action Test 1
+scene: store
+
+[story]
+@scene store
+> Marinette enters left
+& Adrien enters right
+Adrien: Je vais essayer ce pull ! | I'm going to try on this sweater!
+> Adrien changes into a red sweater
+Adrien: Il te plaît ? | Do you like it?
+> Marinette puts on a green coat
+Marinette: Moi, je prends ce manteau vert ! | Me, I'll take this green coat!
+> wait 2.5
+@scene kitchen
+> Marinette changes into a yellow dress
+Marinette: Allons cuisiner ! | Let's cook!
+> Marinette chops carrots for 5
+Marinette: D'abord, je coupe les carottes. | First, I cut the carrots.
+> wait 4
+> Adrien stirs the soup for 5
+Adrien: Moi, je remue la soupe. | Me, I stir the soup.
+> wait 4
+> Marinette fries an egg for 5
+Marinette: Et je fais cuire un œuf. | And I'm cooking an egg.
+> wait 5
+@scene apartment
+> Adrien eats curry
+Adrien: Bon appétit ! | Enjoy your meal!
+> Marinette eats a croissant
+> wait 8
+> Marinette holds a mug
+> Marinette drinks
+Marinette: Il est bon, ce thé ! | This tea is good!
+> wait 4
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
