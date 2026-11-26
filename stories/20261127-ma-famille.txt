@@ -7,6 +7,7 @@ scene: apartment
 & Adrien enters right
 > Bernard enters left
 Bernard: Bonjour, Marinette ! Qu'est-ce que tu regardes ? | Hello, Marinette! What are you looking at?
+> Marinette holds a phone
 > Marinette shows
 Marinette: Ma famille ! Regardez, c'est une photo. | My family! Look, it's a photo.
 > Bernard looks curious

@@ -26,6 +26,7 @@ Adrien: Je voudrais des oranges, s'il vous plaît. | I would like some oranges, 
 > Pierre shows
 Pierre: Voilà ! Ça fait deux euros. | Here you go! That's two euros.
 > Adrien looks happy
+> Adrien holds an orange
 Adrien: Merci, monsieur ! Bonne journée ! | Thank you, sir! Have a nice day!
 > Pierre exits right
 @scene park
@@ -39,6 +40,7 @@ Adrien: J'ai un parapluie ! Viens ! | I have an umbrella! Come!
 > Marinette looks happy
 Marinette: Un pique-nique sous la pluie, c'est original ! | A picnic in the rain, that's original!
 > Adrien laughs
+> Marinette eats a sandwich
 Adrien: Avec du pain, du fromage et des oranges ! | With bread, cheese and oranges!
 
 [vocab]

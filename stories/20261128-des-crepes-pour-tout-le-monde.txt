@@ -25,12 +25,14 @@ Marinette: Au fromage ? Une crêpe salée ? | Cheese? A savory crêpe?
 Adrien: Sucré ou salé, j'aime tout ! | Sweet or savory, I like everything!
 > Pierre cheers
 Pierre: Voilà, deux crêpes toutes chaudes ! | Here you go, two piping hot crêpes!
-> Marinette bows
+> Marinette eats a crepe
+> Adrien eats a crepe
 Marinette: Merci beaucoup ! | Thank you very much!
 > Adrien looks happy
 Adrien: Mmm, délicieux ! Ça fait six euros ? | Mmm, delicious! That's six euros?
 > Pierre laughs
 Pierre: Exactement ! Bon appétit ! | Exactly! Enjoy!
+> wait 4
 
 [vocab]
 vocab: la crêpe | the crêpe | lah KREP

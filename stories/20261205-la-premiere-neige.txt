@@ -14,6 +14,7 @@ Adrien: C'est magnifique ! Mais... j'ai froid ! | It's beautiful! But... I'm col
 Marinette: Moi aussi, j'ai froid. J'ai oublié mes gants ! | Me too, I'm cold. I forgot my gloves!
 > Adrien shows
 Adrien: Tiens, voici mon écharpe. | Here, take my scarf.
+> Marinette puts on a red scarf
 > Marinette looks shy
 Marinette: Merci, c'est gentil ! | Thanks, that's kind!
 > Adrien looks smirking
@@ -26,7 +27,10 @@ Camille: Bonjour ! Il fait froid dehors, n'est-ce pas ? | Hello! It's cold outsi
 Adrien: Oui ! Deux chocolats chauds, s'il vous plaît. | Yes! Two hot chocolates, please.
 > Camille shows
 Camille: Voilà ! Attention, c'est très chaud ! | Here you go! Careful, it's very hot!
+> Marinette holds a mug
+> Adrien holds a mug
 > Marinette drinks
+> Adrien drinks
 > Marinette looks happy
 Marinette: Mmm... maintenant, j'ai chaud ! | Mmm... now I'm warm!
 > Adrien laughs

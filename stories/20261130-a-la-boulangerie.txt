@@ -23,10 +23,12 @@ Camille: Très bien ! Voilà. Ça fait trois euros cinquante. | Very good! Here 
 Adrien: Voici cinq euros. | Here's five euros.
 > Camille shows
 Camille: Et voilà votre monnaie. Bonne journée ! | And here's your change. Have a nice day!
+> Adrien holds a baguette
 > Adrien bows
 Adrien: Merci, madame. Bonne journée ! | Thank you, ma'am. Have a nice day!
 > Marinette cheers
 Marinette: Bravo, Adrien ! Ton français est super ! | Well done, Adrien! Your French is great!
+> Adrien eats a croissant
 > Adrien looks smirking
 Adrien: Tu vois ? Je voudrais... un autre croissant ! | You see? I would like... another croissant!
 > Marinette laughs

@@ -22,6 +22,8 @@ Marinette: Nous vous avons apporté un gâteau. | We brought you a cake.
 > Bernard looks surprised
 Bernard: Oh, quelle bonne surprise ! Merci beaucoup ! | Oh, what a nice surprise! Thank you so much!
 Adrien: Voulez-vous un café ? | Would you like a coffee?
+> Bernard holds a mug
+> Bernard drinks
 > Bernard looks happy
 Bernard: Avec plaisir ! | With pleasure!
 > Marinette cheers

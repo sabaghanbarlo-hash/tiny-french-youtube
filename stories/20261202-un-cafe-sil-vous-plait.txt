@@ -22,7 +22,10 @@ Camille: Et avec ça ? | Anything else?
 Adrien: Deux croissants, s'il vous plaît. | Two croissants, please.
 > Camille shows
 Camille: Voilà ! Bon appétit ! | Here you go! Enjoy!
+> Marinette holds a mug
+> Adrien holds a mug
 > Marinette drinks
+> Adrien drinks
 > Marinette looks excited
 Marinette: Mmm, c'est délicieux ! | Mmm, it's delicious!
 > Adrien laughs
