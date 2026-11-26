@@ -1,0 +1,59 @@
+1
+00:00:18,021 --> 00:00:23,561
+Bonjour, Marinette ! Qu'est-ce que tu regardes ?
+Hello, Marinette! What are you looking at?
+
+2
+00:00:25,261 --> 00:00:30,657
+Ma famille ! Regardez, c'est une photo.
+My family! Look, it's a photo.
+
+3
+00:00:32,057 --> 00:00:34,429
+Qui est-ce ?
+Who is that?
+
+4
+00:00:34,529 --> 00:00:37,837
+Voici ma mère et mon père.
+Here are my mother and my father.
+
+5
+00:00:38,637 --> 00:00:41,993
+Et la petite fille, c'est qui ?
+And the little girl, who is she?
+
+6
+00:00:43,393 --> 00:00:48,237
+C'est ma sœur. Elle s'appelle Sophie.
+That's my sister. Her name is Sophie.
+
+7
+00:00:48,337 --> 00:00:50,853
+Quel âge a-t-elle ?
+How old is she?
+
+8
+00:00:50,953 --> 00:00:53,397
+Elle a dix ans.
+She is ten years old.
+
+9
+00:00:54,797 --> 00:00:59,161
+Et ton frère ? Tu as un frère ?
+And your brother? Do you have a brother?
+
+10
+00:01:00,561 --> 00:01:05,549
+Non ! Mais j'ai un chat qui s'appelle Mochi.
+No! But I have a cat called Mochi.
+
+11
+00:01:06,949 --> 00:01:11,481
+Alors, le chat fait aussi partie de la famille !
+So the cat is part of the family too!
+
+12
+00:01:12,981 --> 00:01:15,377
+Bien sûr !
+Of course!
