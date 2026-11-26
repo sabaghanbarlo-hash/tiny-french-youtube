@@ -7,6 +7,8 @@ scene: stall
 & Adrien enters right
 > Marinette eats an egg roll
 > Adrien eats an orange
-> wait 6
+Marinette: C'est délicieux ! | It's delicious!
+> wait 5
 > Marinette eats a baguette
+Adrien: Cette orange est sucrée ! | This orange is sweet!
 > wait 5
