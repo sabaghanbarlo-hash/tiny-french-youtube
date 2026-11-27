@@ -1,0 +1,69 @@
+1
+00:00:16,572 --> 00:00:21,656
+Mmm, ça sent bon ! Des crêpes !
+Mmm, it smells good! Crêpes!
+
+2
+00:00:25,609 --> 00:00:30,069
+Bonjour ! Une crêpe au sucre ?
+Hello! A sugar crêpe?
+
+3
+00:00:30,869 --> 00:00:33,457
+Qu'est-ce que vous avez ?
+What do you have?
+
+4
+00:00:34,257 --> 00:00:38,333
+Au sucre, au chocolat, au fromage...
+Sugar, chocolate, cheese...
+
+5
+00:00:39,733 --> 00:00:43,617
+Une crêpe au chocolat, s'il vous plaît.
+A chocolate crêpe, please.
+
+6
+00:00:43,717 --> 00:00:46,569
+Avec ou sans banane ?
+With or without banana?
+
+7
+00:00:46,669 --> 00:00:49,329
+Avec banane !
+With banana!
+
+8
+00:00:50,729 --> 00:00:54,829
+Moi, je voudrais une crêpe au fromage.
+Me, I would like a cheese crêpe.
+
+9
+00:00:56,229 --> 00:01:00,929
+Au fromage ? Une crêpe salée ?
+Cheese? A savory crêpe?
+
+10
+00:01:01,729 --> 00:01:05,301
+Sucré ou salé, j'aime tout !
+Sweet or savory, I like everything!
+
+11
+00:01:06,801 --> 00:01:10,349
+Voilà, deux crêpes toutes chaudes !
+Here you go, two piping hot crêpes!
+
+12
+00:01:12,049 --> 00:01:14,709
+Merci beaucoup !
+Thank you very much!
+
+13
+00:01:16,109 --> 00:01:21,313
+Mmm, délicieux ! Ça fait six euros ?
+Mmm, delicious! That's six euros?
+
+14
+00:01:22,713 --> 00:01:27,101
+Exactement ! Bon appétit !
+Exactly! Enjoy!
