@@ -1,0 +1,11 @@
+title: French Rain Is “Ropes”, Not Cats and Dogs!
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: How do the French say it's pouring?
+[story]
+Adrien: Regarde ! Il pleut des cordes ! | Look! It's raining ropes!
+Marinette: Oh là là, vite, un parapluie ! | Oh dear, quick, an umbrella!
+[ending]
+Adrien: What's your favorite idiom? Comment below!

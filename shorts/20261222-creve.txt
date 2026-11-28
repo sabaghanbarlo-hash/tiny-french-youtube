@@ -1,0 +1,12 @@
+title: Super Tired? Say “Je suis crevé” in French
+scene: home
+cast: marinette, adrien
+
+[hook]
+Adrien: Tired is good. Exhausted is better!
+[story]
+Marinette: Tu es fatigué ? | Are you tired?
+Adrien: Oui, je suis crevé ! | Yes, I'm exhausted!
+Marinette: Va dormir ! | Go to sleep!
+[ending]
+Adrien: Use it with friends only! Comment tired!

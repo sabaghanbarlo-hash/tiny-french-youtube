@@ -1,0 +1,12 @@
+title: How Long Can You Say “Bonne année” in France?
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: In France you can say it all January!
+[story]
+Adrien: Bonne année, madame ! | Happy New Year, madam!
+Marinette: Il est déjà le vingt janvier ! | It's already January 20th!
+Adrien: Oui, mais c'est permis jusqu'à fin janvier ! | Yes, but it's allowed until the end of January!
+[ending]
+Marinette: Did you know this? Comment yes or no!

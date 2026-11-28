@@ -1,0 +1,12 @@
+title: What Time Does It Open? Ask in French
+scene: store
+cast: marinette, adrien
+
+[hook]
+Marinette: Early at a shop? Ask when it opens!
+[story]
+Adrien: Pardon, ça ouvre à quelle heure ? | Excuse me, what time does it open?
+Marinette: À neuf heures. | At nine o'clock.
+Adrien: Merci ! | Thanks!
+[ending]
+Adrien: Say it out loud once, then comment done!

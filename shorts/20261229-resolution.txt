@@ -1,0 +1,12 @@
+title: What's Your Resolution? Ask in French
+scene: home
+cast: marinette, adrien
+
+[hook]
+Adrien: New year, new goals! Ask like this!
+[story]
+Marinette: Quelle est ta résolution cette année ? | What's your resolution this year?
+Adrien: Je vais parler français tous les jours ! | I will speak French every day!
+Marinette: Bravo ! | Well done!
+[ending]
+Adrien: Comment your resolution!

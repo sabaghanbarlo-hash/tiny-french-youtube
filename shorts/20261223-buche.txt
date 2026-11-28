@@ -1,0 +1,12 @@
+title: Bûche de Noël: The French Christmas Cake
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: France eats a cake shaped like a log!
+[story]
+Marinette: On mange la bûche de Noël ? | Are we eating the Yule log cake?
+Adrien: Oui ! J'adore le chocolat ! | Yes! I love chocolate!
+Marinette: Moi aussi ! Bon appétit ! | Me too! Enjoy your meal!
+[ending]
+Adrien: Would you try it? Comment yes or no!

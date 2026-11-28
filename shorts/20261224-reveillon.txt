@@ -1,0 +1,12 @@
+title: Christmas Eve in France: Say “Bon réveillon !”
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: December 24 in France has a special name for the big dinner!
+[story]
+Adrien: Bon réveillon, Marinette ! | Have a great Christmas Eve dinner, Marinette!
+Marinette: Merci ! Toi aussi ! | Thanks! You too!
+Adrien: Joyeux Noël demain ! | Merry Christmas tomorrow!
+[ending]
+Marinette: Say it tonight! Comment merry Christmas!

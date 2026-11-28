@@ -1,0 +1,12 @@
+title: Adrien Said “Je suis rhume”! What's the Fix?
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: Got a cold? Don't say it like this!
+[story]
+Adrien: Je suis rhume. | I am cold. (wrong)
+Marinette: Non ! On dit : j'ai un rhume. | No! We say: I have a cold.
+Adrien: J'ai un rhume ! | I have a cold!
+[ending]
+Marinette: Comment yes if you got it!

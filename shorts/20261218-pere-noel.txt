@@ -1,0 +1,12 @@
+title: Write to Santa in French: “Cher Père Noël…”
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: Dear Santa, in French!
+[story]
+Adrien: Cher Père Noël, je voudrais un vélo ! | Dear Santa, I would like a bike!
+Marinette: Et moi, un chaton ! | And me, a kitten!
+Adrien: Merci, Père Noël ! | Thank you, Santa!
+[ending]
+Marinette: What do you want? Comment below!

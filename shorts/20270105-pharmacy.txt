@@ -1,0 +1,12 @@
+title: Where Is the Pharmacy? Ask in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: Need medicine? Ask like this!
+[story]
+Adrien: Pardon, où est la pharmacie ? | Excuse me, where is the pharmacy?
+Marinette: Là-bas, à droite. | Over there, on the right.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Save this one! Comment saved!

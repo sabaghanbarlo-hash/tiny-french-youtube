@@ -1,0 +1,12 @@
+title: In France, “Un café” Means This!
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Order a coffee in France and you get a surprise!
+[story]
+Adrien: Un café, s'il vous plaît. | A coffee, please.
+Marinette: Voilà, un petit expresso ! | Here, a small espresso!
+Adrien: Oh, il est tout petit ! | Oh, it's so tiny!
+[ending]
+Marinette: Want a bigger one? Ask for a long coffee!

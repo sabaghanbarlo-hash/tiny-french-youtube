@@ -1,0 +1,12 @@
+title: Happy New Year in French: Bonne année !
+scene: snow
+cast: marinette, adrien
+
+[hook]
+Marinette: It's New Year's Day! Say it in French!
+[story]
+Marinette: Bonne année, Adrien ! | Happy New Year, Adrien!
+Adrien: Bonne année, Marinette ! Bonne santé ! | Happy New Year, Marinette! Good health!
+Marinette: Merci, à toi aussi ! | Thank you, you too!
+[ending]
+Adrien: Say it to someone today! Comment a firework emoji!

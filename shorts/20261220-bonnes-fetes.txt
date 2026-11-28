@@ -1,0 +1,12 @@
+title: Don't Just Say “Joyeux Noël”! Say This Too
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: Before Christmas, the French say this too!
+[story]
+Adrien: Au revoir ! Joyeux Noël ! | Goodbye! Merry Christmas!
+Marinette: Bonnes fêtes à toute la famille ! | Happy holidays to the whole family!
+Adrien: Merci ! Pareillement ! | Thanks! Same to you!
+[ending]
+Marinette: Say it to a friend! Comment happy holidays!

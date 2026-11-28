@@ -1,0 +1,12 @@
+title: Adrien said “Je suis plein” at dinner. Oops!
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Never say this after a big meal in French!
+[story]
+Adrien: Je suis plein ! | I am full! (wrong)
+Marinette: Oh là là ! On dit : j'ai bien mangé. | Oh dear! We say: I ate well.
+Adrien: Ah ! J'ai bien mangé, merci ! | Ah! I ate well, thank you!
+[ending]
+Adrien: Have you said this before? Comment yes or no!

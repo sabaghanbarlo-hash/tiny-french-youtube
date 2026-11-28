@@ -1,0 +1,12 @@
+title: What Are You Doing Tonight? Ask in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Make plans for tonight!
+[story]
+Marinette: Qu'est-ce que tu fais ce soir ? | What are you doing tonight?
+Adrien: Je dîne avec ma famille. | I'm having dinner with my family.
+Marinette: Quelle bonne idée ! | What a good idea!
+[ending]
+Adrien: What are you doing? Comment below!

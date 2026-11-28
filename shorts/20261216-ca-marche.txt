@@ -1,0 +1,12 @@
+title: Stop Saying “Oui”! Say “Ça marche” in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Say this to sound more natural!
+[story]
+Marinette: On se retrouve à six heures ? | Shall we meet at six?
+Adrien: Ça marche ! | Sounds good!
+Marinette: Parfait ! À tout à l'heure ! | Perfect! See you later!
+[ending]
+Adrien: Say it today! Comment sounds good!

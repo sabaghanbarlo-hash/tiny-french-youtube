@@ -1,0 +1,12 @@
+title: Polite vs Rude: Say “What?” in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Didn't hear? Don't say this!
+[story]
+Adrien: Quoi ?! | What?!
+Marinette: Oh là là ! Ce n'est pas poli ! | Oh dear! That's not polite!
+Adrien: Pardon ? Vous pouvez répéter ? | Pardon? Can you repeat that?
+[ending]
+Marinette: Comment polite if you use the second one!

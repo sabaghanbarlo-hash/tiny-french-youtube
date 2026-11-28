@@ -1,0 +1,12 @@
+title: Leaving a Party in French? Say This
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: Say this to leave politely!
+[story]
+Adrien: Je pars. | I'm leaving.
+Marinette: C'est un peu sec ! | That's a bit blunt!
+Adrien: Je dois y aller. À bientôt ! | I have to go. See you soon!
+[ending]
+Marinette: Which one is better? Comment 1 or 2!

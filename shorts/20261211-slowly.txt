@@ -1,0 +1,12 @@
+title: Too Fast? Ask People to Speak Slowly in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: French sounds fast? Say this!
+[story]
+Adrien: Plus lentement, s'il vous plaît. | More slowly, please.
+Marinette: Bien sûr ! Je parle plus lentement. | Of course! I'll speak more slowly.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Adrien: Comment yes if you need this one!

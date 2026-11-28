@@ -1,0 +1,12 @@
+title: Free Water in France? Ask for This!
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Want free water in a French restaurant? Ask like this!
+[story]
+Adrien: Une carafe d'eau, s'il vous plaît. | A carafe of water, please.
+Marinette: Voilà, c'est gratuit ! | Here you go, it's free!
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Adrien: Did you know it's free? Comment yes or no!

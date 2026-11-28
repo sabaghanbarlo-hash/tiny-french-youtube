@@ -1,0 +1,12 @@
+title: Opening a Gift in French: “Qu'est-ce que c'est ?”
+scene: home
+cast: marinette, adrien
+
+[hook]
+Adrien: Open the gift and ask what it is!
+[story]
+Marinette: Ouvre ton cadeau ! | Open your gift!
+Adrien: Qu'est-ce que c'est ? | What is it?
+Marinette: C'est une surprise ! | It's a surprise!
+[ending]
+Marinette: What gift did you get? Comment below!

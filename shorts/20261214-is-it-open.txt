@@ -1,0 +1,12 @@
+title: Is It Open? Ask in French
+scene: store
+cast: marinette, adrien
+
+[hook]
+Adrien: Not sure if a shop is open? Ask like this!
+[story]
+Adrien: Bonjour, c'est ouvert ? | Hello, are you open?
+Marinette: Oui, jusqu'à dix-neuf heures. | Yes, until 7 p.m.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Say it out loud once, then comment done!

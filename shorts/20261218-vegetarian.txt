@@ -1,0 +1,12 @@
+title: Vegetarian in France? Say This
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Need a meat-free meal? Ask like this!
+[story]
+Adrien: Je suis végétarien. Il y a de la viande ici ? | I'm vegetarian. Is there meat in this?
+Marinette: Non, c'est un plat sans viande. | No, it's a dish without meat.
+Adrien: Parfait, merci ! | Perfect, thanks!
+[ending]
+Marinette: Say it once, then comment done!

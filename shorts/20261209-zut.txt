@@ -1,0 +1,12 @@
+title: Adrien Dropped His Croissant! Say “Zut !”
+scene: bakery
+cast: marinette, adrien
+
+[hook]
+Marinette: Dropped something? Say this very French word!
+[story]
+Adrien: Zut ! Mon croissant ! | Darn! My croissant!
+Marinette: Pas de panique ! On en prend un autre. | Don't panic! We'll take another one.
+Adrien: Merci ! Zut, zut, zut ! | Thanks! Darn, darn, darn!
+[ending]
+Marinette: Say it when you're annoyed! Comment darn!

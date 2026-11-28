@@ -1,0 +1,12 @@
+title: What's Your Favorite Dish? Ask in French
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Make conversation at the table!
+[story]
+Marinette: Quel est ton plat préféré ? | What's your favorite dish?
+Adrien: Mon plat préféré, c'est le poulet rôti ! | My favorite dish is roast chicken!
+Marinette: Moi, c'est la ratatouille ! | Mine is ratatouille!
+[ending]
+Adrien: What's yours? Comment below!

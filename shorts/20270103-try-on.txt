@@ -1,0 +1,12 @@
+title: Try It On in France: “Je peux essayer ?”
+scene: store
+cast: marinette, adrien
+
+[hook]
+Adrien: Shopping in France? Ask to try it on!
+[story]
+Adrien: Je peux essayer cette veste ? | Can I try on this jacket?
+Marinette: Bien sûr ! La cabine est là. | Of course! The fitting room is there.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Say it once out loud, then comment done!

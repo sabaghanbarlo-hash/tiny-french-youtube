@@ -1,0 +1,12 @@
+title: Where Is the Metro? Ask in French
+scene: station
+cast: marinette, adrien
+
+[hook]
+Adrien: Lost in Paris? Ask for the metro like this!
+[story]
+Adrien: Pardon, où est le métro ? | Excuse me, where is the metro?
+Marinette: Tout droit, puis à gauche. | Straight ahead, then left.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Say it out loud once, then comment done!

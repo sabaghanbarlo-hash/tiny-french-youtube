@@ -1,0 +1,12 @@
+title: New Year's Eve in France: La Saint-Sylvestre
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: New Year's Eve in France has a special name!
+[story]
+Marinette: Ce soir, c'est la Saint-Sylvestre ! | Tonight is New Year's Eve!
+Adrien: On fait la fête ! | We're having a party!
+Marinette: Et à minuit, on dit : bonne année ! | And at midnight, we say: Happy New Year!
+[ending]
+Adrien: Happy New Year's Eve! Comment a firework emoji!

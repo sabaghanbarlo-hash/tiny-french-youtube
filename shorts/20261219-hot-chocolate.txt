@@ -1,0 +1,12 @@
+title: Christmas Market in France? Order This!
+scene: store
+cast: marinette, adrien
+
+[hook]
+Marinette: Cold at a French Christmas market? Order this!
+[story]
+Adrien: Un chocolat chaud, s'il vous plaît. | A hot chocolate, please.
+Marinette: Voilà ! Attention, c'est chaud ! | Here you go! Careful, it's hot!
+Adrien: Mmm, c'est délicieux ! | Mmm, it's delicious!
+[ending]
+Adrien: What would you order? Comment below!

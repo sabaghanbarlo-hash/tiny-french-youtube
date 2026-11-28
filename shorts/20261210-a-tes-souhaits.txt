@@ -1,0 +1,12 @@
+title: Someone Sneezes in France? Say This!
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: There's a polite thing to say in French!
+[story]
+Adrien: Atchoum ! | Achoo!
+Marinette: À tes souhaits ! | Bless you!
+Adrien: Merci ! | Thanks!
+[ending]
+Marinette: Say it to a friend today! Comment bless you!

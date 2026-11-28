@@ -1,0 +1,12 @@
+title: Lost in Paris? Say This in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: Can't find your way? Ask for help!
+[story]
+Adrien: Je suis perdu. Pouvez-vous m'aider ? | I'm lost. Can you help me?
+Marinette: Bien sûr ! Où allez-vous ? | Of course! Where are you going?
+Adrien: À la tour Eiffel, s'il vous plaît. | To the Eiffel Tower, please.
+[ending]
+Marinette: Say it out loud once, then comment done!

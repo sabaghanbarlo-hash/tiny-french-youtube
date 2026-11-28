@@ -1,0 +1,12 @@
+title: How Was Your Christmas? Ask in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Adrien: Back to normal after Christmas? Ask this!
+[story]
+Marinette: Tu as passé un bon Noël ? | Did you have a good Christmas?
+Adrien: Oui, très bon ! Et toi ? | Yes, very good! And you?
+Marinette: Moi aussi, merci ! | Me too, thanks!
+[ending]
+Adrien: How was yours? Comment below!

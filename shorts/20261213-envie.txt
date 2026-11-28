@@ -1,0 +1,12 @@
+title: Say What You Feel Like Eating in French
+scene: bakery
+cast: marinette, adrien
+
+[hook]
+Marinette: Don't say I want! Say this instead!
+[story]
+Marinette: Tu as faim ? | Are you hungry?
+Adrien: Oui, j'ai envie d'une crêpe ! | Yes, I feel like having a crêpe!
+Marinette: Moi aussi ! | Me too!
+[ending]
+Adrien: What do you feel like? Comment below!

@@ -1,0 +1,12 @@
+title: Say “C'est pas grave” When Someone Says Sorry
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: No worries! Say it like a French person.
+[story]
+Adrien: Pardon, j'ai cassé ta tasse ! | Sorry, I broke your cup!
+Marinette: C'est pas grave ! | No big deal!
+Adrien: Merci, tu es gentille ! | Thanks, you're kind!
+[ending]
+Marinette: Say it today! Comment no worries!
