@@ -285,6 +285,316 @@
       "file": "20261205-la-premiere-neige.txt",
       "publish_at": "2026-12-05T20:00:00Z",
       "title": "La Première Neige"
+    },
+    {
+      "kind": "short",
+      "file": "20261206-carafe.txt",
+      "publish_at": "2026-12-06T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261206-je-suis-plein.txt",
+      "publish_at": "2026-12-06T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261207-un-cafe.txt",
+      "publish_at": "2026-12-07T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261207-je-taime.txt",
+      "publish_at": "2026-12-07T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261208-metro.txt",
+      "publish_at": "2026-12-08T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261208-bof.txt",
+      "publish_at": "2026-12-08T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261209-lost.txt",
+      "publish_at": "2026-12-09T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261209-zut.txt",
+      "publish_at": "2026-12-09T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261210-repeat.txt",
+      "publish_at": "2026-12-10T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261210-a-tes-souhaits.txt",
+      "publish_at": "2026-12-10T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261211-slowly.txt",
+      "publish_at": "2026-12-11T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261211-salt.txt",
+      "publish_at": "2026-12-11T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261212-time.txt",
+      "publish_at": "2026-12-12T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261212-agree.txt",
+      "publish_at": "2026-12-12T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261213-envie.txt",
+      "publish_at": "2026-12-13T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261213-je-suis-fini.txt",
+      "publish_at": "2026-12-13T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261214-is-it-open.txt",
+      "publish_at": "2026-12-14T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261214-ropes.txt",
+      "publish_at": "2026-12-14T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261215-metro-ticket.txt",
+      "publish_at": "2026-12-15T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261215-la-bise.txt",
+      "publish_at": "2026-12-15T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261216-not-sure.txt",
+      "publish_at": "2026-12-16T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261216-ca-marche.txt",
+      "publish_at": "2026-12-16T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261217-headache.txt",
+      "publish_at": "2026-12-17T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261217-awesome.txt",
+      "publish_at": "2026-12-17T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261218-vegetarian.txt",
+      "publish_at": "2026-12-18T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261218-pere-noel.txt",
+      "publish_at": "2026-12-18T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261219-rendez-vous.txt",
+      "publish_at": "2026-12-19T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261219-hot-chocolate.txt",
+      "publish_at": "2026-12-19T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261220-snow.txt",
+      "publish_at": "2026-12-20T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261220-bonnes-fetes.txt",
+      "publish_at": "2026-12-20T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261221-opens.txt",
+      "publish_at": "2026-12-21T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261221-quoi.txt",
+      "publish_at": "2026-12-21T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261222-gift.txt",
+      "publish_at": "2026-12-22T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261222-creve.txt",
+      "publish_at": "2026-12-22T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261223-buche.txt",
+      "publish_at": "2026-12-23T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261223-bon-courage.txt",
+      "publish_at": "2026-12-23T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261224-reveillon.txt",
+      "publish_at": "2026-12-24T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261224-open-gift.txt",
+      "publish_at": "2026-12-24T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261225-joyeux-noel.txt",
+      "publish_at": "2026-12-25T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261225-pas-grave.txt",
+      "publish_at": "2026-12-25T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261226-good-christmas.txt",
+      "publish_at": "2026-12-26T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261226-rhume.txt",
+      "publish_at": "2026-12-26T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261227-free.txt",
+      "publish_at": "2026-12-27T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261227-je-dois-y-aller.txt",
+      "publish_at": "2026-12-27T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261228-favorite-dish.txt",
+      "publish_at": "2026-12-28T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261228-new-year-3.txt",
+      "publish_at": "2026-12-28T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261229-resolution.txt",
+      "publish_at": "2026-12-29T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261229-bonne-route.txt",
+      "publish_at": "2026-12-29T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261230-tonight.txt",
+      "publish_at": "2026-12-30T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261230-ca-mest-egal.txt",
+      "publish_at": "2026-12-30T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261231-saint-sylvestre.txt",
+      "publish_at": "2026-12-31T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20261231-countdown.txt",
+      "publish_at": "2026-12-31T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270101-bonne-annee.txt",
+      "publish_at": "2027-01-01T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270101-janvier.txt",
+      "publish_at": "2027-01-01T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270102-galette.txt",
+      "publish_at": "2027-01-02T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270102-en-vacances.txt",
+      "publish_at": "2027-01-02T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270103-try-on.txt",
+      "publish_at": "2027-01-03T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270103-ca-va.txt",
+      "publish_at": "2027-01-03T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270104-book-table.txt",
+      "publish_at": "2027-01-04T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270104-baguette-gender.txt",
+      "publish_at": "2027-01-04T23:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270105-pharmacy.txt",
+      "publish_at": "2027-01-05T15:00:00Z"
+    },
+    {
+      "kind": "short",
+      "file": "20270105-age.txt",
+      "publish_at": "2027-01-05T23:00:00Z"
     }
   ],
   "held_items": [
