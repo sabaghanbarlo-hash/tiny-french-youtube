@@ -1,0 +1,12 @@
+title: What Does “Bof” Mean? The Most French Word!
+scene: bakery
+cast: marinette, adrien
+
+[hook]
+Marinette: A French word that means meh!
+[story]
+Adrien: Ce croissant est bon ? | Is this croissant good?
+Marinette: Bof... | Meh...
+Adrien: Alors, je prends une baguette ! | Then I'll take a baguette!
+[ending]
+Adrien: Use it when something is just okay! Comment meh!

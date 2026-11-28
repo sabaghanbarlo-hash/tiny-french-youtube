@@ -1,0 +1,13 @@
+title: 3 Ways to Say “I Agree” in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Adrien: Don't just say yes! Here are three ways to agree!
+[story]
+Adrien: Le gâteau est délicieux ! | The cake is delicious!
+Marinette: Oui, d'accord ! | Yes, I agree!
+Marinette: Exactement ! | Exactly!
+Marinette: Tout à fait ! | Absolutely!
+[ending]
+Adrien: Which one will you use? Comment 1, 2 or 3!

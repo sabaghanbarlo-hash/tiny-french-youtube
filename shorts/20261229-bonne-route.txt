@@ -1,0 +1,12 @@
+title: Traveling by Car? Say “Bonne route !”
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: Friend leaving on a road trip? Say this!
+[story]
+Adrien: Nous partons en vacances ! | We're leaving on holiday!
+Marinette: Bonne route ! | Safe travels!
+Adrien: Merci ! À bientôt ! | Thanks! See you soon!
+[ending]
+Marinette: Say it to a friend! Comment safe travels!

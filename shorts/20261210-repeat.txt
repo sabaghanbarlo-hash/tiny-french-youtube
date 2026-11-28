@@ -1,0 +1,12 @@
+title: Can You Repeat That? Ask in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Adrien: Didn't catch it? Don't panic, say this!
+[story]
+Adrien: Pardon, vous pouvez répéter, s'il vous plaît ? | Sorry, can you repeat that, please?
+Marinette: Bien sûr ! Un café, c'est trois euros. | Of course! A coffee is three euros.
+Adrien: Merci ! | Thanks!
+[ending]
+Marinette: Say it once out loud, then comment done!

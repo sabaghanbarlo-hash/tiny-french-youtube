@@ -1,0 +1,12 @@
+title: 3 Ways to Say “Happy New Year” in French
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: It's almost New Year! Learn three greetings!
+[story]
+Adrien: Bonne année ! | Happy New Year!
+Marinette: Meilleurs vœux ! | Best wishes!
+Adrien: Bonne année, bonne santé ! | Happy New Year and good health!
+[ending]
+Marinette: Which one will you send? Comment 1, 2 or 3!

@@ -1,0 +1,12 @@
+title: Adrien Said “Je suis 25 ans”. Oops!
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Saying your age in French? Don't do this!
+[story]
+Adrien: Je suis vingt-cinq ans. | I am twenty-five years. (wrong)
+Marinette: Non ! En français, on a un âge. | No! In French, you have an age.
+Adrien: J'ai vingt-cinq ans ! | I'm twenty-five!
+[ending]
+Marinette: How old are you? Comment I'm twenty!

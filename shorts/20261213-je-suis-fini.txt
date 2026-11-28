@@ -1,0 +1,12 @@
+title: Adrien said “Je suis fini”. Marinette laughed!
+scene: classroom
+cast: marinette, adrien
+
+[hook]
+Marinette: Finished your work? Don't say this!
+[story]
+Adrien: Je suis fini ! | I'm finished! (wrong)
+Marinette: Haha ! Tu veux dire : j'ai fini ! | Haha! You mean: I'm done!
+Adrien: Oui ! J'ai fini mon travail ! | Yes! I finished my work!
+[ending]
+Marinette: Comment yes if you got it!

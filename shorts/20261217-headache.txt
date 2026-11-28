@@ -1,0 +1,12 @@
+title: Not Feeling Well in France? Say This
+scene: hospital
+cast: marinette, adrien
+
+[hook]
+Marinette: At the pharmacy, describe how you feel!
+[story]
+Adrien: J'ai mal à la tête. | I have a headache.
+Marinette: Prenez ça et reposez-vous. | Take this and rest.
+Adrien: Merci beaucoup ! | Thank you very much!
+[ending]
+Marinette: Save this one! Comment saved!

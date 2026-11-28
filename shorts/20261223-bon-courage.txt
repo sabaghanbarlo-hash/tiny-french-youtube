@@ -1,0 +1,12 @@
+title: Friend Is Busy? Say “Bon courage !” in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Marinette: Someone has a hard day? Say this!
+[story]
+Adrien: J'ai beaucoup de travail aujourd'hui... | I have a lot of work today...
+Marinette: Bon courage ! | Hang in there!
+Adrien: Merci, tu es gentille ! | Thanks, you're kind!
+[ending]
+Marinette: Say it to a friend today! Comment good luck!

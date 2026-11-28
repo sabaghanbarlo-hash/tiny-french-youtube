@@ -1,0 +1,13 @@
+title: 3 Ways to Say “Awesome” in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: Stop saying very good! Say this instead!
+[story]
+Marinette: On va au cinéma ce soir ! | We're going to the cinema tonight!
+Adrien: Génial ! | Awesome!
+Adrien: Super ! | Great!
+Adrien: Top ! | Top!
+[ending]
+Marinette: Pick one and comment it!

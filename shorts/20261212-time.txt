@@ -1,0 +1,12 @@
+title: What Time Is It? Ask in French
+scene: station
+cast: marinette, adrien
+
+[hook]
+Adrien: Need the time? Ask like this!
+[story]
+Adrien: Pardon, quelle heure est-il ? | Excuse me, what time is it?
+Marinette: Il est trois heures. | It's three o'clock.
+Adrien: Merci ! | Thanks!
+[ending]
+Marinette: Say it out loud once, then comment done!

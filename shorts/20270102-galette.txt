@@ -1,0 +1,12 @@
+title: Who Gets the Crown? La Galette des Rois
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: In January, France eats the king cake!
+[story]
+Adrien: J'ai la fève ! | I got the charm!
+Marinette: Tu es le roi ! | You are the king!
+Adrien: Vive le roi ! | Long live the king!
+[ending]
+Marinette: Would you try it? Comment yes or no!

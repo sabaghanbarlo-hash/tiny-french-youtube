@@ -1,0 +1,12 @@
+title: Merry Christmas in French: Joyeux Noël !
+scene: snow
+cast: marinette, adrien
+
+[hook]
+Marinette: Merry Christmas! Say it in French!
+[story]
+Adrien: Joyeux Noël, Marinette ! | Merry Christmas, Marinette!
+Marinette: Joyeux Noël, Adrien ! Voici ton cadeau. | Merry Christmas, Adrien! Here is your gift.
+Adrien: Oh, merci ! | Oh, thank you!
+[ending]
+Marinette: Comment a Christmas tree if you love Christmas!

@@ -1,0 +1,12 @@
+title: Adrien Went in for “La Bise”. Was It Okay?
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: In France, friends greet with cheek kisses!
+[story]
+Marinette: Salut Adrien ! On se fait la bise ? | Hi Adrien! Shall we do the cheek kiss?
+Adrien: Oui ! Une bise, deux bises ! | Yes! One kiss, two kisses!
+Marinette: Voilà, c'est la tradition ! | There, that's the tradition!
+[ending]
+Adrien: Would you try it? Comment yes or no!

@@ -1,0 +1,12 @@
+title: Count Down to Midnight in French!
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: Ten, nine, eight... count down in French!
+[story]
+Adrien: Dix, neuf, huit, sept ! | Ten, nine, eight, seven!
+Marinette: Six, cinq, quatre, trois, deux, un ! | Six, five, four, three, two, one!
+Marinette and Adrien: Bonne année ! | Happy New Year!
+[ending]
+Adrien: Happy New Year! Comment a firework emoji!

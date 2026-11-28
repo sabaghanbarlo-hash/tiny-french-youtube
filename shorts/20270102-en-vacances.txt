@@ -1,0 +1,12 @@
+title: Never Say “Je suis vacances” in French!
+scene: park
+cast: marinette, adrien
+
+[hook]
+Marinette: On holiday? Don't say it like this!
+[story]
+Adrien: Je suis vacances ! | I'm holiday! (wrong)
+Marinette: On dit : je suis en vacances ! | We say: I'm on holiday!
+Adrien: Je suis en vacances ! | I'm on holiday!
+[ending]
+Adrien: Comment yes if you got it!

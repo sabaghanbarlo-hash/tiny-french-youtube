@@ -1,0 +1,12 @@
+title: It's “Une Baguette”, Not “Un Baguette”!
+scene: bakery
+cast: marinette, adrien
+
+[hook]
+Marinette: Is the word for bread stick masculine or feminine?
+[story]
+Adrien: Je voudrais un baguette, s'il vous plaît. | I would like a baguette, please. (wrong)
+Marinette: Non ! Une baguette. C'est féminin ! | No! Une baguette. It's feminine!
+Adrien: Une baguette, s'il vous plaît ! | A baguette, please!
+[ending]
+Adrien: Comment feminine if you knew it!

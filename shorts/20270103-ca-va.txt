@@ -1,0 +1,13 @@
+title: “Ça va ?” Don't Answer Like This in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Marinette: Someone asks how you are. Don't just say yes!
+[story]
+Marinette: Ça va ? | How are you?
+Adrien: Oui. | Yes.
+Marinette: Haha ! Réponds : ça va bien, et toi ? | Haha! Answer: I'm fine, and you?
+Adrien: Ça va bien, et toi ? | I'm fine, and you?
+[ending]
+Marinette: Comment I'm fine if you got it!

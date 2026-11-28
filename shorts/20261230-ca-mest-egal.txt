@@ -1,0 +1,12 @@
+title: Don't Care? Say “Ça m'est égal” in French
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Adrien: Can't choose? Say you don't mind!
+[story]
+Marinette: Pizza ou crêpes ? | Pizza or crêpes?
+Adrien: Ça m'est égal ! | I don't mind!
+Marinette: Alors, crêpes ! | Then crêpes!
+[ending]
+Marinette: Say it when you can't choose! Comment I don't mind!

@@ -1,0 +1,12 @@
+title: Book a Table in French: Say This
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Adrien: Want to eat out? Reserve like this!
+[story]
+Adrien: Bonjour, je voudrais réserver une table pour deux. | Hello, I'd like to book a table for two.
+Marinette: Pour quelle heure ? | For what time?
+Adrien: Pour vingt heures, s'il vous plaît. | For eight p.m., please.
+[ending]
+Marinette: Say it out loud once, then comment done!

@@ -1,0 +1,12 @@
+title: First Snow in Paris! Say This in French
+scene: snow
+cast: marinette, adrien
+
+[hook]
+Adrien: It's snowing! Say it in French!
+[story]
+Marinette: Regarde ! Il neige ! | Look! It's snowing!
+Adrien: Oh, c'est magnifique ! | Oh, it's beautiful!
+Marinette: Mais il fait très froid ! | But it's very cold!
+[ending]
+Adrien: Is it snowing where you are? Comment yes or no!

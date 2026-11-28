@@ -1,0 +1,12 @@
+title: Are You Free Tomorrow? Ask in French
+scene: cafe
+cast: marinette, adrien
+
+[hook]
+Adrien: Want to make plans? Ask like this!
+[story]
+Adrien: Tu es libre demain ? | Are you free tomorrow?
+Marinette: Oui, je suis libre l'après-midi. | Yes, I'm free in the afternoon.
+Adrien: Super ! À demain ! | Great! See you tomorrow!
+[ending]
+Marinette: Say it once out loud, then comment done!

@@ -1,0 +1,13 @@
+title: Polite vs Rude: Ask for the Salt in French
+scene: restaurant
+cast: marinette, adrien
+
+[hook]
+Marinette: Which one sounds rude? Listen carefully!
+[story]
+Adrien: Donne-moi le sel ! | Give me the salt!
+Marinette: Oh là là, c'est impoli ! | Oh dear, that's impolite!
+Adrien: Pardon ! Pouvez-vous me passer le sel, s'il vous plaît ? | Sorry! Could you pass me the salt, please?
+Marinette: Voilà, c'est parfait ! | There, that's perfect!
+[ending]
+Adrien: Comment polite if you'd say the second one!

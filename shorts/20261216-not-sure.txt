@@ -1,0 +1,12 @@
+title: Not Sure? Say This in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: Don't know the answer? Say it politely!
+[story]
+Marinette: Le musée est ouvert aujourd'hui ? | Is the museum open today?
+Adrien: Je ne suis pas sûr. | I'm not sure.
+Marinette: On va vérifier ! | We'll check!
+[ending]
+Adrien: Say it out loud, then comment done!

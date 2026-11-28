@@ -145,3 +145,43 @@ Six more stories, one a day, so every day until the Nov 29 story week has one. S
 
 Thursday Nov 26 is US Thanksgiving, so US viewing may be lower that day.
 
+## December plan (28 Nov 2026): one more month of Shorts, built from the Nov data
+
+Scripts for **6 Dec - 5 Jan** are in `shorts/` (62 Shorts, two a day at 15:00 UTC and 23:00 UTC) and listed in `schedule.json`. The scheduler renders and uploads each one as private with a publish time about 48 hours ahead.
+
+### What the YouTube data shows (channel analytics + per-video stats)
+Channel: 29 subscribers, about 4.6k views. 51 Shorts since 3 Nov (median 28 views, mean 88) and 17 long videos (median 7 views, 177 in total).
+
+| What | Result |
+|---|---|
+| Where views come from | Shorts feed 89%, YouTube search 7.8%. Shorts are 97% of views, long videos about 2%. |
+| Who watches | In the top 12 countries (1,549 views): France 730, US 240, Uzbekistan 128, Morocco 104, Algeria 70. About 65% of those views are from French-speaking countries (France, Morocco, Algeria, Cote d'Ivoire, Senegal, DR Congo), who mostly already speak French. Uzbekistan watched only 15% of each Short. |
+| Top 5 Shorts | "Polite vs Rude: I Want" 1,122 (40x median, but 25% viewed); "3 Ways to Say Excuse Me" 744 (22% viewed); "It's freezing in Paris! Say this" 416 (48% viewed); "The Baker Said Ah Non!" 324 (71% viewed); "Stop Saying Just Merci" 285. |
+| Hook shape | Story-style character hooks ("The Baker said Ah non! What did Adrien forget?") hold viewers best (71%). "N ways to say" median 285. Generic "Say X, not Y" mistakes: median 34. "How to say X": median 29. Counting/vocab: 26. |
+| Length | Under 26 seconds: 57-59% viewed, median 31 views. Over 62 seconds: 28% viewed. The two big hits are 69-second Shorts with low retention, so the topic carried them, not the format. |
+| Long videos | 17 videos, median 7 views. |
+
+**Working:** polite-vs-rude and "ways to say" topics; Adrien making a mistake with a question hook; short scripts with a clear payoff.
+**Not working:** plain "How to say X", counting and vocabulary Shorts, "Say X not Y" grammar corrections, long videos for now.
+
+**Caveats:** one Short is 25% of all Shorts views. The country list covers only the top 12 countries, so the French-speaking share is for those, not for every view. The audience problem is the big open question: if many viewers already speak French, retention and subscriber conversion stay low. Titles in English (already in place) and learner-specific hooks ("in French for beginners") are the fix to test.
+
+### The December mix (62 Shorts)
+- survival phrase ("Ask like this"): 33
+- seasonal / culture: 16
+- mistake / "doesn't mean" hook: 7
+- character hook ("Alex did X..."): 6
+
+Rules used: English hook first; 20-30 seconds; one situation; a comment question at the end; no same phrase twice in a week; short titles. French Shorts lean on situations a learner meets (restaurant, shop, transport, holidays) instead of grammar rules. About a quarter of the month is Christmas and New Year culture (a guess about search interest, not measured).
+
+### Calendar
+Every day: Short A at 15:00 UTC (10:00 ET), Short B at 23:00 UTC (18:00 ET). First: Sun 6 Dec; last: Tue 5 Jan. Exact titles are the `title:` line of each file in `shorts/`.
+
+### Checkpoints (ship it, or change it?)
+- **6 Dec:** the Nov 23 - Dec 5 story week is over. If stories averaged under 30 views, move the rest to `held_items` and keep at most one story a week.
+- **13 Dec:** median views of the first 14 December Shorts against the Nov median of 28. Keep a hook type at 2x (56) and 50% viewed; cut one under 1x.
+- **3 Jan:** compare hook types over 40+ Shorts; double the best.
+- Studio > Analytics > Audience > Geography: aim for at least 25% of views from the US/UK/Canada/Australia learner markets, not only French-speaking countries.
+
+### Native-speaker check
+The French is AI-written and not native-verified. Worth a look first: the "je suis plein" script, the "je suis crevé" slang line, the "ça m'est égal" line and the "Meilleurs voeux" New Year line.

@@ -1,0 +1,12 @@
+title: I Have an Appointment: Say It in French
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: Meeting someone? Say this!
+[story]
+Adrien: Bonjour, j'ai rendez-vous avec madame Martin. | Hello, I have an appointment with Mrs. Martin.
+Marinette: Oui, asseyez-vous, s'il vous plaît. | Yes, please have a seat.
+Adrien: Merci ! | Thanks!
+[ending]
+Marinette: Say it out loud once, then comment done!

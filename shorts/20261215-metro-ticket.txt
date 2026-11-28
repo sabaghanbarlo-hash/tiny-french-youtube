@@ -1,0 +1,12 @@
+title: Buy a Metro Ticket in French
+scene: station
+cast: marinette, adrien
+
+[hook]
+Marinette: Need a ticket in the metro? Say this!
+[story]
+Adrien: Un ticket de métro, s'il vous plaît. | A metro ticket, please.
+Marinette: Voilà votre ticket. | Here is your ticket.
+Adrien: Merci ! | Thanks!
+[ending]
+Adrien: Say it once out loud, then comment done!

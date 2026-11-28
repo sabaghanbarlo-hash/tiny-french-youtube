@@ -1,0 +1,13 @@
+title: Never Say “Je t'aime” to a Friend in French!
+scene: street
+cast: marinette, adrien
+
+[hook]
+Adrien: Careful! This sentence is very strong in French.
+[story]
+Marinette: Tu es mon ami. Je t'aime ! | You are my friend. I love you!
+Adrien: Heu... "Je t'aime", c'est très fort ! | Um... "I love you" is very strong!
+Adrien: Pour un ami, on dit : je t'aime bien. | For a friend, we say: I like you.
+Marinette: Ah ! Je t'aime bien, Adrien ! | Ah! I like you, Adrien!
+[ending]
+Marinette: Comment yes if you got it!

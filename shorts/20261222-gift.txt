@@ -1,0 +1,12 @@
+title: Give a Gift in French: “C'est pour toi !”
+scene: home
+cast: marinette, adrien
+
+[hook]
+Marinette: Giving a gift? Say this!
+[story]
+Marinette: Tiens, c'est pour toi ! | Here, it's for you!
+Adrien: Oh, merci ! Il ne fallait pas ! | Oh, thanks! You shouldn't have!
+Marinette: Mais si, avec plaisir ! | Of course, with pleasure!
+[ending]
+Adrien: Say the polite reply! Comment you're welcome!
