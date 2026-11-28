@@ -1,0 +1,74 @@
+1
+00:00:15,948 --> 00:00:18,872
+Il fait beau aujourd'hui !
+The weather is nice today!
+
+2
+00:00:18,972 --> 00:00:23,696
+Oui ! C'est parfait pour un pique-nique.
+Yes! It's perfect for a picnic.
+
+3
+00:00:24,696 --> 00:00:27,932
+J'ai du pain et du fromage.
+I have bread and cheese.
+
+4
+00:00:29,332 --> 00:00:32,688
+Moi, j'ai seulement de l'eau...
+Me, I only have water...
+
+5
+00:00:34,088 --> 00:00:37,060
+Tu n'as rien préparé ?
+You didn't prepare anything?
+
+6
+00:00:37,860 --> 00:00:42,032
+Désolé ! J'ai oublié.
+Sorry! I forgot.
+
+7
+00:00:42,832 --> 00:00:48,204
+Pas de problème ! Il y a un marchand de fruits là-bas.
+No problem! There's a fruit seller over there.
+
+8
+00:00:52,857 --> 00:00:57,173
+Bonjour ! Qu'est-ce que vous voulez ?
+Hello! What do you want?
+
+9
+00:00:57,273 --> 00:01:01,349
+Je voudrais des oranges, s'il vous plaît.
+I would like some oranges, please.
+
+10
+00:01:02,149 --> 00:01:06,465
+Voilà ! Ça fait deux euros.
+Here you go! That's two euros.
+
+11
+00:01:08,765 --> 00:01:13,609
+Merci, monsieur ! Bonne journée !
+Thank you, sir! Have a nice day!
+
+12
+00:01:18,861 --> 00:01:22,697
+Oh non ! Il pleut !
+Oh no! It's raining!
+
+13
+00:01:24,997 --> 00:01:29,121
+J'ai un parapluie ! Viens !
+I have an umbrella! Come!
+
+14
+00:01:32,458 --> 00:01:36,942
+Un pique-nique sous la pluie, c'est original !
+A picnic in the rain, that's original!
+
+15
+00:01:39,142 --> 00:01:43,242
+Avec du pain, du fromage et des oranges !
+With bread, cheese and oranges!
